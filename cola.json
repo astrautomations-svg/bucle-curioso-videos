@@ -9,6 +9,14 @@
   },
   {
     "fecha": "2026-10-21",
+    "hora": "14:00",
+    "video": "videos/frio-altura.mp4",
+    "historia": "historias/frio-altura.mp4",
+    "caption": "¿Por qué en lo alto de una montaña hace más frío, si estás más cerca del Sol? La cima del Chimborazo, en Ecuador, es el punto de la Tierra más alejado de su centro… y está cubierta de glaciares.\n\nEl Sol calienta el suelo, no el aire, y el aire que sube se expande y se enfría: unos 6,5 °C menos por cada kilómetro. ¿Cuál es el sitio más frío en el que has estado?",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-10-21",
     "video": "videos/reloj-nuclear.mp4",
     "caption": "¿Qué es un reloj nuclear? Uno que no cuenta las vibraciones de los electrones, sino las del núcleo del átomo. Viena y Pekín acaban de encender los dos primeros.\n\nUsan torio atrapado en un cristal y un láser. Aún no superan a los mejores relojes atómicos, pero apuntan a GPS más precisos. ¿Lo sabías?",
     "hora": "19:00",
