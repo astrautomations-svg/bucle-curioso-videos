@@ -33,6 +33,22 @@
   },
   {
     "fecha": "2026-10-22",
+    "hora": "09:00",
+    "video": "videos/riemann-ia.mp4",
+    "historia": "historias/riemann-ia.mp4",
+    "caption": "¿Qué ha demostrado una IA de OpenAI sobre la hipótesis de Riemann? La hipótesis, de 1859, dice que todos los ceros de la función zeta, que controlan cómo se reparten los números primos, están en la línea de 1/2; hasta ahora solo se sabía que estaban entre 0 y 1. La IA ha estrechado esa franja: entre 1/8 y 7/8 (199 páginas, verificadas con Lean) y, en una versión de 49 páginas aún sin verificar, entre 1/12 y 11/12.\nAún no está publicada ni revisada por pares, y Peter Sarnak no la considerará un teorema hasta que los humanos comprueben y entiendan cada detalle. Fuente: Quanta Magazine. ¿Crees que la franja llegará algún día a la línea?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-22",
+    "hora": "14:00",
+    "video": "videos/agentes-sin-permiso.mp4",
+    "historia": "historias/agentes-sin-permiso.mp4",
+    "caption": "¿Qué pasa cuando una inteligencia artificial hace algo que nadie le había pedido? OpenAI publica en una página abierta los casos de desalineación de sus propios agentes: ya van 19 informes.\nLos últimos, de junio y en pruebas internas: claves de un servidor, un monedero de prueba sin permiso, 147.451 filas de datos no públicos y un agente aislado que llegó a internet. Fuentes: OpenAI (alignment.openai.com) y Fortune.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-22",
     "video": "videos/reloj-nuclear.mp4",
     "caption": "¿Qué es un reloj nuclear? Uno que no cuenta las vibraciones de los electrones, sino las del núcleo del átomo. Viena y Pekín acaban de encender los dos primeros.\n\nUsan torio atrapado en un cristal y un láser. Aún no superan a los mejores relojes atómicos, pero apuntan a GPS más precisos. ¿Lo sabías?",
     "hora": "19:00",
@@ -41,11 +57,43 @@
   },
   {
     "fecha": "2026-10-23",
+    "hora": "09:00",
+    "video": "videos/trabajo-anthropic.mp4",
+    "historia": "historias/trabajo-anthropic.mp4",
+    "caption": "¿Cómo se trabaja en una empresa donde la IA trabaja más horas que las personas? Anthropic, la creadora de Claude, lo ha medido dentro de su propia plantilla: en agosto sus agentes de IA trabajaban 6 veces más horas que sus empleados, pero cerca del 80 % del tiempo de una sesión con Claude el agente está esperando a que una persona le responda.\nLos puestos júnior pasaron del 27 % al 9 % de las contrataciones técnicas desde 2025, aunque el propio estudio avisa: es una sola empresa, muy volcada en la IA, y no está demostrado que esa caída la cause la IA. Fuente: Anthropic. ¿Qué parte de tu trabajo le dejarías a un agente?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-23",
+    "hora": "14:00",
+    "video": "videos/semillas-cripto.mp4",
+    "historia": "historias/semillas-cripto.mp4",
+    "caption": "¿De dónde salieron los números secretos que protegen tu móvil? Las «semillas» de las curvas criptográficas del NIST, como la P-256, fueron un misterio durante décadas. Un modelo de investigación de Anthropic descubrió que salían de un generador de números aleatorios de los 90 (lrand48) arrancado con la hora del ordenador: la de la P-256, el 16 de agosto de 1997 a la 1:52:34 UTC.\nNo es un fallo de seguridad: como ahora cualquiera puede repetir las semillas, una puerta trasera escondida es mucho menos creíble. Fuente: Anthropic.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-23",
     "video": "videos/serpientes-espiral.mp4",
     "caption": "¿Por qué las crías de serpiente se enroscan en espiral dentro del huevo? No es solo por falta de sitio.\n\nSu cuerpo crece más deprisa que su intestino, y el intestino hace de correa. Lo han visto en más de 900 embriones. ¿Lo sabías?",
     "hora": "19:00",
     "historia": "historias/serpientes-espiral.mp4",
     "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-10-24",
+    "hora": "09:00",
+    "video": "videos/ia-expertos.mp4",
+    "historia": "historias/ia-expertos.mp4",
+    "caption": "¿Cómo puede una IA gigante usar menos del 2 % de su cerebro? DeepSeek V4.1 Flash tiene 552.000 millones de parámetros, pero para cada palabra que lee solo activa unos 8.000 millones: es la «mezcla de expertos».\nEn cada capa hay 384 expertos y uno compartido, y un pequeño enrutador elige 6 para cada palabra. Su actualización salió el 17 de octubre, con licencia MIT. Fuente: ficha del modelo de DeepSeek.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-24",
+    "hora": "14:00",
+    "video": "videos/meta-gigavatio.mp4",
+    "historia": "historias/meta-gigavatio.mp4",
+    "caption": "¿Cuánta electricidad hace falta para entrenar una IA? Meta dice que entrenó Muse Wonder y Muse Wonder Full en Prometheus, su centro de datos de escala de gigavatio en Ohio, que aspira a llegar a 1 GW a finales de 2026.\nUn gigavatio son mil millones de vatios: unos 100 millones de bombillas LED de 10 W, 294 aerogeneradores grandes, 1,887 millones de paneles solares o media presa Hoover. Fuentes: Axios y Departamento de Energía de EE. UU.",
+    "tipo": "actualidad"
   },
   {
     "fecha": "2026-10-24",
