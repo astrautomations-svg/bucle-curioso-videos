@@ -73,11 +73,11 @@
   },
   {
     "fecha": "2026-10-23",
-    "video": "videos/reloj-nuclear.mp4",
-    "caption": "¿Qué es un reloj nuclear? Uno que no cuenta las vibraciones de los electrones, sino las del núcleo del átomo. Viena y Pekín acaban de encender los dos primeros.\n\nUsan torio atrapado en un cristal y un láser. Aún no superan a los mejores relojes atómicos, pero apuntan a GPS más precisos. ¿Lo sabías?",
     "hora": "19:00",
-    "historia": "historias/reloj-nuclear.mp4",
-    "tipo": "reserva"
+    "video": "videos/pistola-gasolina.mp4",
+    "historia": "historias/pistola-gasolina.mp4",
+    "caption": "¿Cómo sabe la pistola de la gasolinera que el depósito está lleno? Sin cables ni sensores: el efecto Venturi crea una succión unida a un agujerito en la punta, y cuando la gasolina lo tapa, una membrana suelta el gatillo.\nPor eso salta antes con la espuma. Y seguir echando tras el primer clac no compensa: la gasolina puede quedarse en la manguera o derramarse, y los vapores, que llevan benceno, se recogen peor. Fuentes: Hagerty, Santa Barbara County APCD.",
+    "tipo": "viral"
   },
   {
     "fecha": "2026-10-24",
@@ -97,6 +97,30 @@
   },
   {
     "fecha": "2026-10-24",
+    "hora": "19:00",
+    "video": "videos/lavavajillas.mp4",
+    "historia": "historias/lavavajillas.mp4",
+    "caption": "¿Cómo limpia un lavavajillas con menos agua que tú fregando? No se llena: reutiliza unos pocos litros que una bomba lanza una y otra vez contra los platos, calentados por una resistencia y con enzimas que deshacen la grasa.\nUn lavavajillas eficiente gasta entre 11 y 15 litros por lavado; fregando a mano con el grifo abierto se pueden ir hasta 100 litros, y calentar esa agua cuesta unas siete veces más energía. Fuente: Penn State (EGEE 102) / ENERGY STAR.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-10-25",
+    "hora": "19:00",
+    "video": "videos/cero-coma-nueve.mp4",
+    "historia": "historias/cero-coma-nueve.mp4",
+    "caption": "¿0,999… (con nueves infinitos) es casi 1? No: es exactamente 1. Si fueran números distintos, entre ellos cabría otro, su media, y no hay ninguno. Y con x = 0,999…, 10x − x = 9, así que x = 1.\nCon un número limitado de nueves sí es menor que 1: la clave es que no se acaban nunca. Lo mismo pasa con 0,4999…, que es exactamente 0,5. ¿Conoces a alguien que te lo discutiría?",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-10-26",
+    "video": "videos/reloj-nuclear.mp4",
+    "caption": "¿Qué es un reloj nuclear? Uno que no cuenta las vibraciones de los electrones, sino las del núcleo del átomo. Viena y Pekín acaban de encender los dos primeros.\n\nUsan torio atrapado en un cristal y un láser. Aún no superan a los mejores relojes atómicos, pero apuntan a GPS más precisos. ¿Lo sabías?",
+    "hora": "19:00",
+    "historia": "historias/reloj-nuclear.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-10-27",
     "video": "videos/serpientes-espiral.mp4",
     "caption": "¿Por qué las crías de serpiente se enroscan en espiral dentro del huevo? No es solo por falta de sitio.\n\nSu cuerpo crece más deprisa que su intestino, y el intestino hace de correa. Lo han visto en más de 900 embriones. ¿Lo sabías?",
     "hora": "19:00",
@@ -104,7 +128,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-25",
+    "fecha": "2026-10-28",
     "video": "videos/planeta-bebe.mp4",
     "caption": "¿Cómo de joven puede ser un planeta? Elias 2-24 b tiene menos de un millón de años: si la Tierra tuviera un año, él habría nacido hace menos de dos horas.\n\nTan grande como Júpiter, y formado mucho antes de lo que se creía posible. ¿Qué te gustaría que descubrieran después?",
     "hora": "19:00",
@@ -112,7 +136,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-26",
+    "fecha": "2026-10-29",
     "video": "videos/cerebro-anestesia.mp4",
     "caption": "¿Qué hace tu cerebro cuando estás anestesiado? Sigue escuchando: el hipocampo distinguía palabras, aprendía sonidos y hasta anticipaba la palabra siguiente.\n\nNo significa que los pacientes entendieran nada de forma consciente. ¿Te lo esperabas?",
     "hora": "19:00",
@@ -120,7 +144,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-27",
+    "fecha": "2026-10-30",
     "video": "videos/baraja.mp4",
     "caption": "¿Cuántas veces se ha repetido en la historia el orden de una baraja bien mezclada? Seguramente ni una sola.\n\nHay 52 × 51 × 50 × … órdenes posibles: un número de 68 cifras. Cada vez que barajas bien, creas algo único. ¿Lo sabías?",
     "hora": "19:00",
@@ -128,7 +152,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-28",
+    "fecha": "2026-10-31",
     "video": "videos/venus-luna.mp4",
     "caption": "¿Por qué Venus no tiene luna? Puede que la tuviera… y que acabara estrellándose contra ella.\n\nVenus gira tan despacio que frenaría a cualquier luna en vez de alejarla. ¿Qué otro misterio del sistema solar te intriga?",
     "hora": "19:00",
@@ -136,7 +160,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-29",
+    "fecha": "2026-11-01",
     "video": "videos/ia-co2.mp4",
     "caption": "¿Cuántos caminos hay para convertir CO2 en combustible? Los químicos tenían un mapa de 152 reacciones; una IA lo ha ampliado a 9.389.\n\nCon el mapa completo, las predicciones encajan con los experimentos. No es una fábrica todavía, pero sí una guía para mejores catalizadores. ¿Qué problema le darías tú a una IA?",
     "hora": "19:00",
@@ -144,7 +168,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-30",
+    "fecha": "2026-11-02",
     "video": "videos/adn-ocho-letras.mp4",
     "caption": "Toda la vida que conocemos se escribe con cuatro letras: A, T, C y G. Pero ya existe un ADN con ocho.\n\nSe llama hachimoji, y ahora han visto que la máquina de una bacteria sabe leer las letras nuevas. ¿Lo sabías?",
     "hora": "19:00",
@@ -152,7 +176,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-31",
+    "fecha": "2026-11-03",
     "video": "videos/dias-largos.mp4",
     "caption": "¿Por qué los días son cada vez más largos? El deshielo lleva agua hacia el ecuador y la Tierra gira más despacio, como una patinadora que abre los brazos.\n\nCasi 1,5 milisegundos más por siglo: un ritmo que no se veía en 3,6 millones de años. ¿Qué harías con tu milisegundo extra?",
     "hora": "19:00",
@@ -160,7 +184,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-01",
+    "fecha": "2026-11-04",
     "video": "videos/saturno-decagono.mp4",
     "caption": "En el polo sur de Saturno ha aparecido una figura de diez lados, dibujada por el viento.\n\nSu pareja del norte es un hexágono que lleva ahí más de 40 años. Y el estudio lo dirige un científico de la Universidad del País Vasco. ¿Lo sabías?",
     "hora": "19:00",
@@ -168,7 +192,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-02",
+    "fecha": "2026-11-05",
     "video": "videos/fosil-brujula.mp4",
     "caption": "¿Desde cuándo los animales llevan una brújula dentro? Por lo menos desde hace 97 millones de años: unos fósiles microscópicos que son imanes lo demuestran.\n\nPor dentro tienen un torbellino magnético capaz de notar la latitud y ayudar con la longitud. ¿Quién crees que los fabricó?",
     "hora": "19:00",
@@ -176,7 +200,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-03",
+    "fecha": "2026-11-06",
     "video": "videos/ia-consciente.mp4",
     "caption": "Si un robot y una persona hacen exactamente lo mismo, ¿cuál te parece más consciente? Casi 1.100 personas respondieron.\n\nLa máquina que más reaccionaba salía menos consciente que la persona que menos. No juzgamos lo que hace, sino lo que creemos que es. ¿Y tú?",
     "hora": "19:00",
@@ -184,7 +208,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-04",
+    "fecha": "2026-11-07",
     "video": "videos/centro-tierra.mp4",
     "caption": "¿Dónde está el centro de la Tierra? Depende del mes: la nieve, las lluvias y los océanos lo mueven unos milímetros a lo largo del año.\n\nLa NASA lo ha medido con más precisión que nunca, y el vaivén resulta ser la mitad de lo que se creía. ¿Conocías esta rareza?",
     "hora": "19:00",
@@ -192,7 +216,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-05",
+    "fecha": "2026-11-08",
     "video": "videos/cuevas-luna.mp4",
     "caption": "La primera casa en la Luna podría estar dentro de una cueva, y la NASA va a mirar dentro de una.\n\nFuera se pasa de 127 °C a −173 °C; en la sombra de esos agujeros hace unos 17 °C, como en primavera. ¿Vivirías ahí?",
     "hora": "19:00",
