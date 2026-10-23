@@ -112,7 +112,55 @@
     "tipo": "viral"
   },
   {
-    "fecha": "2026-10-26",
+    "hora": "19:00",
+    "video": "videos/aviones-curva.mp4",
+    "historia": "historias/aviones-curva.mp4",
+    "caption": "¿Por qué los aviones no vuelan en línea recta? En el mapa plano la ruta de Madrid a Los Ángeles se ve curva, pero en la Tierra, que es una esfera, ese arco (un círculo máximo) es el camino más corto: unos 9.400 km frente a los 10.200 de la «recta» del mapa.\nDe Madrid a Nueva York, unos 170 km menos. Y las rutas reales también se ajustan a las corrientes en chorro. Fuentes: GIS Geography; cálculo propio de distancias (círculo máximo y rumbo constante, radio 6.371 km).",
+    "tipo": "viral",
+    "fecha": "2026-10-26"
+  },
+  {
+    "hora": "19:00",
+    "video": "videos/punto-muerto.mp4",
+    "historia": "historias/punto-muerto.mp4",
+    "caption": "¿Bajar un puerto en punto muerto ahorra gasolina? Justo al revés: con una marcha metida y sin acelerar, la centralita corta la inyección y el consumo es cero; en punto muerto, el motor sigue gastando al ralentí.\nAdemás pierdes el freno motor y los frenos se calientan. El mito viene de los coches de carburador. Fuentes: Motorpasión, Carwow.",
+    "tipo": "viral",
+    "fecha": "2026-10-27"
+  },
+  {
+    "hora": "19:00",
+    "video": "videos/motor-coche.mp4",
+    "historia": "historias/motor-coche.mp4",
+    "caption": "¿Qué pasa dentro del motor de tu coche cada vez que aceleras? Cada pistón repite cuatro tiempos: admisión, compresión, explosión y escape, y solo la explosión empuja.\nLas bielas convierten ese sube y baja en el giro del cigüeñal, que llega a las ruedas por la caja de cambios. A 3.000 revoluciones por minuto, cada cilindro tiene 25 explosiones por segundo.",
+    "tipo": "viral",
+    "fecha": "2026-10-28"
+  },
+  {
+    "fecha": "2026-10-29",
+    "video": "videos/baraja.mp4",
+    "caption": "¿Cuántas veces se ha repetido en la historia el orden de una baraja bien mezclada? Seguramente ni una sola.\n\nHay 52 × 51 × 50 × … órdenes posibles: un número de 68 cifras. Cada vez que barajas bien, creas algo único. ¿Lo sabías?",
+    "hora": "19:00",
+    "historia": "historias/baraja.mp4",
+    "tipo": "viral"
+  },
+  {
+    "hora": "19:00",
+    "video": "videos/cubo-rubik.mp4",
+    "historia": "historias/cubo-rubik.mp4",
+    "caption": "¿Cuántas posiciones tiene un cubo de Rubik? 43.252.003.274.489.856.000: más de 43 trillones. Probando una por segundo, tardarías unas cien veces la edad del universo.\nPor dentro, una cruz con los seis centros atornillados y 20 piezas que giran a su alrededor. Aun así, cualquier posición se resuelve en 20 movimientos o menos: el «número de Dios», demostrado en 2010. Fuente: cube20.org.",
+    "tipo": "viral",
+    "fecha": "2026-10-30"
+  },
+  {
+    "hora": "19:00",
+    "video": "videos/camion-palomas.mp4",
+    "historia": "historias/camion-palomas.mp4",
+    "caption": "Si las palomas de un camión cerrado echan a volar, ¿pesa menos el camión? No: para sostenerse empujan aire hacia abajo, y ese aire acaba empujando el suelo del camión.\nSolo al despegar cambia un poco lo que marca la báscula; con una jaula de rejilla, sí pesaría menos. Fuentes: MythBusters (2007), investigadores de Stanford.",
+    "tipo": "viral",
+    "fecha": "2026-10-31"
+  },
+  {
+    "fecha": "2026-11-01",
     "video": "videos/reloj-nuclear.mp4",
     "caption": "¿Qué es un reloj nuclear? Uno que no cuenta las vibraciones de los electrones, sino las del núcleo del átomo. Viena y Pekín acaban de encender los dos primeros.\n\nUsan torio atrapado en un cristal y un láser. Aún no superan a los mejores relojes atómicos, pero apuntan a GPS más precisos. ¿Lo sabías?",
     "hora": "19:00",
@@ -120,7 +168,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-27",
+    "fecha": "2026-11-02",
     "video": "videos/serpientes-espiral.mp4",
     "caption": "¿Por qué las crías de serpiente se enroscan en espiral dentro del huevo? No es solo por falta de sitio.\n\nSu cuerpo crece más deprisa que su intestino, y el intestino hace de correa. Lo han visto en más de 900 embriones. ¿Lo sabías?",
     "hora": "19:00",
@@ -128,7 +176,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-28",
+    "fecha": "2026-11-03",
     "video": "videos/planeta-bebe.mp4",
     "caption": "¿Cómo de joven puede ser un planeta? Elias 2-24 b tiene menos de un millón de años: si la Tierra tuviera un año, él habría nacido hace menos de dos horas.\n\nTan grande como Júpiter, y formado mucho antes de lo que se creía posible. ¿Qué te gustaría que descubrieran después?",
     "hora": "19:00",
@@ -136,7 +184,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-29",
+    "fecha": "2026-11-04",
     "video": "videos/cerebro-anestesia.mp4",
     "caption": "¿Qué hace tu cerebro cuando estás anestesiado? Sigue escuchando: el hipocampo distinguía palabras, aprendía sonidos y hasta anticipaba la palabra siguiente.\n\nNo significa que los pacientes entendieran nada de forma consciente. ¿Te lo esperabas?",
     "hora": "19:00",
@@ -144,15 +192,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-10-30",
-    "video": "videos/baraja.mp4",
-    "caption": "¿Cuántas veces se ha repetido en la historia el orden de una baraja bien mezclada? Seguramente ni una sola.\n\nHay 52 × 51 × 50 × … órdenes posibles: un número de 68 cifras. Cada vez que barajas bien, creas algo único. ¿Lo sabías?",
-    "hora": "19:00",
-    "historia": "historias/baraja.mp4",
-    "tipo": "reserva"
-  },
-  {
-    "fecha": "2026-10-31",
+    "fecha": "2026-11-05",
     "video": "videos/venus-luna.mp4",
     "caption": "¿Por qué Venus no tiene luna? Puede que la tuviera… y que acabara estrellándose contra ella.\n\nVenus gira tan despacio que frenaría a cualquier luna en vez de alejarla. ¿Qué otro misterio del sistema solar te intriga?",
     "hora": "19:00",
@@ -160,7 +200,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-01",
+    "fecha": "2026-11-06",
     "video": "videos/ia-co2.mp4",
     "caption": "¿Cuántos caminos hay para convertir CO2 en combustible? Los químicos tenían un mapa de 152 reacciones; una IA lo ha ampliado a 9.389.\n\nCon el mapa completo, las predicciones encajan con los experimentos. No es una fábrica todavía, pero sí una guía para mejores catalizadores. ¿Qué problema le darías tú a una IA?",
     "hora": "19:00",
@@ -168,7 +208,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-02",
+    "fecha": "2026-11-07",
     "video": "videos/adn-ocho-letras.mp4",
     "caption": "Toda la vida que conocemos se escribe con cuatro letras: A, T, C y G. Pero ya existe un ADN con ocho.\n\nSe llama hachimoji, y ahora han visto que la máquina de una bacteria sabe leer las letras nuevas. ¿Lo sabías?",
     "hora": "19:00",
@@ -176,7 +216,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-03",
+    "fecha": "2026-11-08",
     "video": "videos/dias-largos.mp4",
     "caption": "¿Por qué los días son cada vez más largos? El deshielo lleva agua hacia el ecuador y la Tierra gira más despacio, como una patinadora que abre los brazos.\n\nCasi 1,5 milisegundos más por siglo: un ritmo que no se veía en 3,6 millones de años. ¿Qué harías con tu milisegundo extra?",
     "hora": "19:00",
@@ -184,7 +224,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-04",
+    "fecha": "2026-11-09",
     "video": "videos/saturno-decagono.mp4",
     "caption": "En el polo sur de Saturno ha aparecido una figura de diez lados, dibujada por el viento.\n\nSu pareja del norte es un hexágono que lleva ahí más de 40 años. Y el estudio lo dirige un científico de la Universidad del País Vasco. ¿Lo sabías?",
     "hora": "19:00",
@@ -192,7 +232,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-05",
+    "fecha": "2026-11-10",
     "video": "videos/fosil-brujula.mp4",
     "caption": "¿Desde cuándo los animales llevan una brújula dentro? Por lo menos desde hace 97 millones de años: unos fósiles microscópicos que son imanes lo demuestran.\n\nPor dentro tienen un torbellino magnético capaz de notar la latitud y ayudar con la longitud. ¿Quién crees que los fabricó?",
     "hora": "19:00",
@@ -200,7 +240,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-06",
+    "fecha": "2026-11-11",
     "video": "videos/ia-consciente.mp4",
     "caption": "Si un robot y una persona hacen exactamente lo mismo, ¿cuál te parece más consciente? Casi 1.100 personas respondieron.\n\nLa máquina que más reaccionaba salía menos consciente que la persona que menos. No juzgamos lo que hace, sino lo que creemos que es. ¿Y tú?",
     "hora": "19:00",
@@ -208,7 +248,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-07",
+    "fecha": "2026-11-12",
     "video": "videos/centro-tierra.mp4",
     "caption": "¿Dónde está el centro de la Tierra? Depende del mes: la nieve, las lluvias y los océanos lo mueven unos milímetros a lo largo del año.\n\nLa NASA lo ha medido con más precisión que nunca, y el vaivén resulta ser la mitad de lo que se creía. ¿Conocías esta rareza?",
     "hora": "19:00",
@@ -216,7 +256,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-08",
+    "fecha": "2026-11-13",
     "video": "videos/cuevas-luna.mp4",
     "caption": "La primera casa en la Luna podría estar dentro de una cueva, y la NASA va a mirar dentro de una.\n\nFuera se pasa de 127 °C a −173 °C; en la sombra de esos agujeros hace unos 17 °C, como en primavera. ¿Vivirías ahí?",
     "hora": "19:00",
