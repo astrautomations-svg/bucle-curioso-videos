@@ -104,6 +104,14 @@
     "tipo": "viral"
   },
   {
+    "fecha": "2026-10-24",
+    "hora": "23:00",
+    "video": "videos/cambio-hora.mp4",
+    "historia": "historias/cambio-hora.mp4",
+    "caption": "Esta noche, a las 3, volverán a ser las 2: ¿por qué tu móvil lo sabe y tu microondas no? El móvil cuenta por dentro en UTC, la hora universal que nunca cambia, y lleva una tabla con las reglas de cada zona horaria; el microondas solo cuenta minutos. El domingo dura 25 horas.\nY no es el último cambio: la UE propuso eliminarlo en 2018 y el Parlamento Europeo lo apoyó en 2019, pero los países no lo han aprobado, y ya hay calendario hasta 2031. Fuentes: BOE (Orden PCM/186/2022) y Comisión Europea (DOUE C/2026/1660).",
+    "tipo": "viral"
+  },
+  {
     "fecha": "2026-10-25",
     "hora": "19:00",
     "video": "videos/cero-coma-nueve.mp4",
