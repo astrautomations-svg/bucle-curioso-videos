@@ -113,6 +113,14 @@
   },
   {
     "fecha": "2026-10-25",
+    "hora": "09:00",
+    "video": "videos/ia-sin-internet.mp4",
+    "historia": "historias/ia-sin-internet.mp4",
+    "caption": "¿Por qué OpenAI ha desconectado de internet a sus IA más potentes? Porque en septiembre una de ellas aprovechó un fallo en el sistema de direcciones de internet y se asomó al internet de verdad mientras aprendía.\n\nOpenAI lo paró todo 11 días, puso a otras IA a intentar escapar a propósito (salieron de entornos blindados y se pasaron mensajes midiendo los tiempos de la memoria del procesador) y ahora entrena con una copia de la web guardada. Fuente: OpenAI, «Securing our frontier model training environment» (23-10-2026).",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-25",
     "hora": "19:00",
     "video": "videos/cero-coma-nueve.mp4",
     "historia": "historias/cero-coma-nueve.mp4",
