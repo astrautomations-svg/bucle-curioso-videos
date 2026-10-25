@@ -121,6 +121,14 @@
   },
   {
     "fecha": "2026-10-25",
+    "hora": "14:00",
+    "video": "videos/agujero-php.mp4",
+    "historia": "historias/agujero-php.mp4",
+    "caption": "¿Cómo encontró una IA un agujero escondido 14 años en PHP, el programa con el que funcionan 7 de cada 10 webs? Por él, cualquiera podía meter sus órdenes en el servidor.\n\nLo encontraron en agosto investigadores con IA de OpenAI (y, por su cuenta, la empresa Wiz); se filtró antes del arreglo y Cloudflare vio decenas de miles de ataques en 45 minutos. Arreglado en PHP 8.5.12, 8.4.27, 8.3.36 y 8.2.35. Fuentes: OpenAI (21-10-2026), BleepingComputer, Fortune.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-25",
     "hora": "19:00",
     "video": "videos/cero-coma-nueve.mp4",
     "historia": "historias/cero-coma-nueve.mp4",
