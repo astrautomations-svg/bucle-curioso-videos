@@ -160,12 +160,28 @@
     "fecha": "2026-10-26"
   },
   {
+    "fecha": "2026-10-27",
+    "hora": "14:00",
+    "video": "videos/ruleta.mp4",
+    "historia": "historias/ruleta.mp4",
+    "caption": "En 1913, en Montecarlo, salió negro 26 veces seguidas. ¿Tú habrías apostado al rojo?\nLa ruleta no tiene memoria: el rojo siempre tiene un 48,6 %, y el cero hace que, a la larga, gane el casino. Fuentes: Wikipedia (falacia del jugador) y cálculo propio. Este vídeo no anima al juego.",
+    "tipo": "viral"
+  },
+  {
     "hora": "19:00",
     "video": "videos/punto-muerto.mp4",
     "historia": "historias/punto-muerto.mp4",
     "caption": "¿Bajar un puerto en punto muerto ahorra gasolina? Justo al revés: con una marcha metida y sin acelerar, la centralita corta la inyección y el consumo es cero; en punto muerto, el motor sigue gastando al ralentí.\nAdemás pierdes el freno motor y los frenos se calientan. El mito viene de los coches de carburador. Fuentes: Motorpasión, Carwow.",
     "tipo": "viral",
     "fecha": "2026-10-27"
+  },
+  {
+    "fecha": "2026-10-28",
+    "hora": "14:00",
+    "video": "videos/centimo-doble.mp4",
+    "historia": "historias/centimo-doble.mp4",
+    "caption": "¿Un millón de euros ahora o un céntimo que se duplica cada día durante 30 días? El céntimo acaba en 5.368.709,12 €.\nAsí funciona el crecimiento exponencial: cada día suma tanto como todos los anteriores juntos, y la mitad llega el último día. Cálculo propio.",
+    "tipo": "viral"
   },
   {
     "hora": "19:00",
