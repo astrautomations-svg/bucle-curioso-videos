@@ -64,4 +64,5 @@ S=[
  f(20,C('Mensajes.',380,x='l',rot=-3),C('Citas.',500,x='l',rot=2),C('Seguimientos.',620,x='l',rot=-1),A('Lo que se repite\nse puede sistematizar.',1420)),
  f(21,G('¿Te digo qué sacaría\nde tus manos primero?',420),CTA('SISTEMA'))]),
 ]
+import os; os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a,tema=b,frames=c) for a,b,c in S],open('secuencias.json','w'),ensure_ascii=False,indent=1)
