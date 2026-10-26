@@ -3,7 +3,7 @@ iconos y logos de apps, tarjetas de chat, títulos condensados), con la marca de
 
 uso: python3 historias.py spec.json carpeta_salida
 spec = {"root": "...", "seed": "2026-10-27", "frames": [frame, ...]}
-frame = {"img": "banco/18.jpg", "foco": 0.5, "focox": 0.5, "garabato": true, "cara": [x0, y0, x1, y1], "bloques": [bloque, ...]}
+frame = {"img": "banco/18.jpg", "foco": 0.5, "focox": 0.5, "garabato": true | false | "zigzag|conector|flecha|rodear|muelle" (si no, el motor elige y varía), "cara": [x0, y0, x1, y1], "bloques": [bloque, ...]}
   "cara": caja de la cara (px sobre 1080x1920): la línea no pasa por ahí.
 Las flechas ➡➡ de «sigue» se ponen solas en todas menos la última.
 
@@ -117,21 +117,125 @@ def _trazo(rnd):
     Qs = np.c_[np.convolve(np.pad(Q[:, 0], 12, mode='edge'), k, 'valid'), np.convolve(np.pad(Q[:, 1], 12, mode='edge'), k, 'valid')]
     return Qs
 
-def garabato(base, rnd, evitar=None):
-    """trazo estilo «neón» de Instagram: curvas amplias y suaves, bucles redondos, sin pasar por la cara"""
-    for _ in range(60):
-        Q = _trazo(rnd)
-        if not evitar: break
-        x0, y0, x1, y1 = evitar
-        if not np.any((Q[:, 0] > x0 - 40) & (Q[:, 0] < x1 + 40) & (Q[:, 1] > y0 - 40) & (Q[:, 1] < y1 + 40)): break
+def _suave(full, sigma=5.0):
+    Q = _remuestrear(catmull(full, 40), 3.0)
+    r = int(sigma * 2.5); k = np.exp(-0.5 * (np.arange(-r, r + 1) / sigma) ** 2); k /= k.sum()
+    return np.c_[np.convolve(np.pad(Q[:, 0], r, mode='edge'), k, 'valid'), np.convolve(np.pad(Q[:, 1], r, mode='edge'), k, 'valid')]
+
+def _con_bucles(pts, rnd, n_bucles, rmin=50, rmax=85, seguidos=1):
+    segs = [i for i in range(len(pts) - 1) if np.hypot(pts[i + 1][0] - pts[i][0], pts[i + 1][1] - pts[i][1]) > 260]
+    rnd.shuffle(segs); con = set(segs[:n_bucles]); full = []
+    for i in range(len(pts) - 1):
+        full.append(pts[i])
+        if i in con:
+            a = np.array(pts[i], float); b = np.array(pts[i + 1], float); sg = rnd.choice([-1, 1])
+            for j in range(seguidos):   # varios bucles seguidos = muelle
+                fa = 0.5 + (j - (seguidos - 1) / 2) * 0.22
+                c = a + (b - a) * fa; d = (b - a) / np.linalg.norm(b - a) * 40
+                full += _bucle(tuple(c - d), tuple(c + d), rnd.uniform(rmin, rmax) * (0.8 if seguidos > 1 else 1), sg)
+    full.append(pts[-1]); return full
+
+def _borde(rnd, y=None, lado=None):
+    lado = lado or rnd.choice([-1, 1]); y = y if y is not None else rnd.uniform(150, 1750)
+    return (W / 2 + lado * (W / 2 + 140), y)
+
+def _rects_utiles():
+    return [r for r in _RECTS if r[3] - r[1] > 30]
+
+def _estilo_zigzag(rnd):
+    y = rnd.uniform(140, 330); lado = rnd.choice([-1, 1]); pts = [_borde(rnd, y, lado)]
+    for i in range(rnd.choice([2, 3])):
+        lado = -lado; y += rnd.uniform(380, 560)
+        pts.append((W / 2 + lado * rnd.uniform(200, 420), min(y, 1650)))
+    pts.append(_borde(rnd, min(y + rnd.uniform(250, 420), 1860), -lado))
+    return _suave(_con_bucles(pts, rnd, rnd.choice([0, 1, 1, 2]))), False
+
+def _estilo_conector(rnd):
+    """une los bloques en orden pasando por su costado, como un flujo"""
+    R = _rects_utiles()
+    if len(R) < 2: return _estilo_zigzag(rnd)
+    lado = rnd.choice([-1, 1]); pts = [_borde(rnd, max(120, R[0][1] - rnd.uniform(60, 200)), lado)]
+    for r in R:
+        cy = (r[1] + r[3]) / 2
+        x = (r[0] - rnd.uniform(30, 70)) if lado < 0 else (r[2] + rnd.uniform(30, 70))
+        if x < 40 or x > W - 40: x = (r[0] + r[2]) / 2 + rnd.uniform(-120, 120); cy = r[3] + rnd.uniform(40, 80)
+        pts.append((x, cy)); lado = -lado if rnd.random() < 0.7 else lado
+    flecha = rnd.random() < 0.5
+    if not flecha: pts.append(_borde(rnd, min(pts[-1][1] + rnd.uniform(200, 400), 1880)))
+    return _suave(_con_bucles(pts, rnd, rnd.choice([0, 1, 1])), 4.0), flecha
+
+def _estilo_flecha(rnd):
+    """una curva grande que sale de un bloque y apunta a otro (o al CTA), con punta"""
+    R = _rects_utiles()
+    if len(R) < 2:
+        a = (rnd.uniform(150, 400), rnd.uniform(500, 800)); b = (rnd.uniform(650, 930), rnd.uniform(1100, 1450))
+    else:
+        i = rnd.randrange(len(R) - 1); r1, r2 = R[i], R[i + 1]
+        a = ((r1[0] + r1[2]) / 2 + rnd.uniform(-150, 150), r1[3] + 30); b = ((r2[0] + r2[2]) / 2 + rnd.uniform(-150, 150), r2[1] - 40)
+        if b[1] - a[1] < 120: a = (r1[0] - 30 if r1[0] > 200 else r1[2] + 30, (r1[1] + r1[3]) / 2); b = (b[0], r2[3] + 60)
+    m = ((a[0] + b[0]) / 2 + rnd.choice([-1, 1]) * rnd.uniform(180, 320), (a[1] + b[1]) / 2)
+    pts = [a, m, b]
+    if rnd.random() < 0.6: pts = _con_bucles(pts, rnd, 1, 40, 60)
+    return _suave(pts, 3.0), True
+
+def _estilo_rodear(rnd):
+    """entra por un lado, rodea un bloque (título o número) y sale por el otro"""
+    R = _rects_utiles()
+    if not R: return _estilo_zigzag(rnd)
+    r = rnd.choice(R[:2]); cx, cy = (r[0] + r[2]) / 2, (r[1] + r[3]) / 2
+    ax, ay = (r[2] - r[0]) / 2 + rnd.uniform(40, 80), (r[3] - r[1]) / 2 + rnd.uniform(40, 70)
+    lado = rnd.choice([-1, 1]); a0 = math.pi if lado < 0 else 0
+    pts = [_borde(rnd, cy + rnd.uniform(-250, 250), lado)]
+    for t in np.linspace(0, 2.25 * math.pi, 10):
+        ang = a0 + lado * t
+        pts.append((cx + ax * math.cos(ang) * min(1.0, W / 2 / max(ax, 1)), cy + ay * math.sin(ang)))
+    pts.append(_borde(rnd, min(cy + rnd.uniform(300, 700), 1860), -lado))
+    return _suave(pts, 4.0), False
+
+def _estilo_muelle(rnd):
+    """cruza en horizontal por un hueco libre haciendo dos o tres bucles seguidos"""
+    R = _rects_utiles(); libres = [y for y in range(320, 1500, 20) if all(not (r[1] - 110 < y < r[3] + 110) for r in R)]
+    y = rnd.choice(libres) if libres else rnd.uniform(400, 1400)
+    a = _borde(rnd, y + rnd.uniform(-120, 120), -1); b = _borde(rnd, y + rnd.uniform(-120, 120), 1)
+    if rnd.random() < 0.5: a, b = b, a
+    mid = ((a[0] + b[0]) / 2, y + rnd.uniform(-60, 60))
+    pts = _con_bucles([a, mid, b], rnd, 1, 45, 65, seguidos=rnd.choice([2, 3]))
+    return _suave(pts, 3.5), False
+
+ESTILOS = {'zigzag': _estilo_zigzag, 'conector': _estilo_conector, 'flecha': _estilo_flecha, 'rodear': _estilo_rodear, 'muelle': _estilo_muelle}
+
+def _pinta(base, Q, punta=False):
     S = 2; line = [(float(x) * S, float(y) * S) for x, y in Q]
+    extra = []
+    if punta and len(Q) > 8:
+        e = Q[-1]; t = Q[-1] - Q[-8]; t = t / (np.linalg.norm(t) + 1e-9); n = np.array([-t[1], t[0]])
+        for sg in (-1, 1):
+            p = e - 46 * t + sg * 30 * n; extra.append([(float(e[0]) * S, float(e[1]) * S), (float(p[0]) * S, float(p[1]) * S)])
     def capa(color, ancho, blur):
-        im = Image.new('RGBA', (W * S, H * S), (0, 0, 0, 0)); ImageDraw.Draw(im).line(line, fill=color, width=ancho * S, joint='curve')
+        im = Image.new('RGBA', (W * S, H * S), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+        d.line(line, fill=color, width=ancho * S, joint='curve')
+        for seg in extra: d.line(seg, fill=color, width=ancho * S)
+        for pt in (line[0], line[-1]) + tuple(s[1] for s in extra):
+            rr = ancho * S / 2; d.ellipse((pt[0] - rr, pt[1] - rr, pt[0] + rr, pt[1] + rr), fill=color)
         im = im.resize((W, H), Image.LANCZOS)
         return im.filter(ImageFilter.GaussianBlur(blur)) if blur else im
     g = capa((35, 115, 255, 255), 26, 13); m = capa((140, 200, 255, 255), 10, 2.5); c = capa((255, 255, 255, 255), 5, 0)
     for _ in range(3): base.alpha_composite(g)
     base.alpha_composite(m); base.alpha_composite(c)
+
+def garabato(base, rnd, evitar=None, estilo=None):
+    """trazo estilo «neón» de Instagram. Varios estilos para que no se repita: zigzag, conector entre
+    bloques, flecha curva, rodear un bloque o muelle de bucles. Nunca pasa por la cara (evitar)."""
+    estilo = estilo or 'zigzag'
+    for _ in range(80):
+        Q, punta = ESTILOS[estilo](rnd)
+        ok = True
+        if evitar:
+            x0, y0, x1, y1 = evitar
+            ok = not np.any((Q[:, 0] > x0 - 40) & (Q[:, 0] < x1 + 40) & (Q[:, 1] > y0 - 40) & (Q[:, 1] < y1 + 40))
+        if ok: break
+        if _ > 40: estilo = 'zigzag'
+    _pinta(base, Q, punta)
 
 # ---------- piezas ----------
 def _wrap(text, font, maxw):
@@ -224,6 +328,8 @@ def flechas():
     return im
 
 # ---------- colocación ----------
+_RECTS = []
+
 def place(base, lay, b, halo=True):
     rot = b.get('rot', 0)
     if halo and b.get('brillo', False): lay, pad = glow(lay, r=b.get('halo', 18), k=1.3)
@@ -232,6 +338,7 @@ def place(base, lay, b, halo=True):
     al = b.get('x', 'c'); y = int(b['y']) - pad
     x = {'c': (W - lay.width) // 2, 'l': 40 - pad, 'r': W - 40 - lay.width + pad}[al] + int(b.get('dx', 0))
     base.alpha_composite(lay, (x, y))
+    _RECTS.append((x + pad, y + pad, x + lay.width - pad, y + lay.height - pad))
     return y + pad, y + lay.height - pad
 
 def bloque(base, b):
@@ -276,19 +383,32 @@ def bloque(base, b):
         return place(base, lay, {'y': y})
     raise ValueError(t)
 
-def frame(fr, root, rnd, ultima):
+def frame(fr, root, rnd, ultima, estilo=None):
     im = autocrop(ImageOps.exif_transpose(Image.open(os.path.join(root, fr['img']))).convert('RGB'))
     bg = grade(cover(im, fr.get('foco', 0.5), fr.get('focox', 0.5)), fr.get('oscuro', 0.70)).convert('RGBA')
-    if fr.get('garabato', True): garabato(bg, rnd, fr.get('cara'))
+    capa = Image.new('RGBA', (W, H), (0, 0, 0, 0)); _RECTS.clear()
     prev = None
     for b in fr['bloques']:
         b = dict(b)
         if prev and prev[0] - 10 <= b['y'] < prev[1] + 14:
             b['y'] = prev[1] + 18
-        prev = bloque(bg, b)
+        prev = bloque(capa, b)
+    g = fr.get('garabato', True)
+    if g:
+        garabato(bg, rnd, fr.get('cara'), g if isinstance(g, str) else estilo)
+    bg.alpha_composite(capa)
     if not ultima:
         fl = flechas(); bg.alpha_composite(fl, ((W - fl.width) // 2, 1590))
     return bg.convert('RGB')
+
+def estilos_secuencia(n, rnd):
+    """reparte estilos de trazo sin repetir seguidos; alguna historia sin trazo"""
+    pool = ['zigzag', 'conector', 'flecha', 'rodear', 'muelle']; out = []; prev = None
+    for i in range(n):
+        if i > 0 and i < n - 1 and rnd.random() < 0.18 and None not in out: out.append(None); prev = None; continue
+        op = [e for e in pool if e != prev and out.count(e) < 2]
+        e = rnd.choice(op); out.append(e); prev = e
+    return out
 
 if __name__ == '__main__':
     spec = json.load(open(sys.argv[1])); out = sys.argv[2]; os.makedirs(out, exist_ok=True)
@@ -296,7 +416,8 @@ if __name__ == '__main__':
         if f.endswith('.jpg'): os.remove(os.path.join(out, f))
     root = spec.get('root', os.path.dirname(os.path.abspath(sys.argv[1])))
     rnd = random.Random(int(hashlib.md5(str(spec.get('seed', out)).encode()).hexdigest()[:8], 16))
-    n = len(spec['frames'])
+    n = len(spec['frames']); est = estilos_secuencia(n, rnd)
     for i, fr in enumerate(spec['frames'], 1):
-        frame(fr, root, rnd, i == n).save(f'{out}/{i:02d}.jpg', quality=93)
+        if est[i - 1] is None and 'garabato' not in fr: fr = dict(fr, garabato=False)
+        frame(fr, root, rnd, i == n, est[i - 1]).save(f'{out}/{i:02d}.jpg', quality=93)
     print(out, n)
