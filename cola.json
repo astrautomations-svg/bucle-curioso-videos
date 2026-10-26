@@ -144,6 +144,14 @@
     "tipo": "actualidad"
   },
   {
+    "fecha": "2026-10-26",
+    "video": "videos/robots-bailan.mp4",
+    "caption": "¿Cómo bailan 110 robots a la vez sin chocarse? En China lo acaban de hacer, y es récord Guinness.\n\nCada uno sabe dónde está al centímetro gracias a pulsos de radio que viajan a la velocidad de la luz. ¿Te atreverías a bailar con ellos?",
+    "hora": "14:00",
+    "historia": "historias/robots-bailan.mp4",
+    "tipo": "actualidad"
+  },
+  {
     "hora": "19:00",
     "video": "videos/aviones-curva.mp4",
     "historia": "historias/aviones-curva.mp4",
