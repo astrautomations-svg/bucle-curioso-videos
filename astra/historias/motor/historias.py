@@ -393,7 +393,7 @@ def frame(fr, root, rnd, ultima, estilo=None):
         if prev and prev[0] - 10 <= b['y'] < prev[1] + 14:
             b['y'] = prev[1] + 18
         prev = bloque(capa, b)
-    g = fr.get('garabato', True)
+    g = fr.get('garabato', False)   # Astra: sin hilos azules por defecto
     if g:
         garabato(bg, rnd, fr.get('cara'), g if isinstance(g, str) else estilo)
     bg.alpha_composite(capa)
@@ -418,6 +418,5 @@ if __name__ == '__main__':
     rnd = random.Random(int(hashlib.md5(str(spec.get('seed', out)).encode()).hexdigest()[:8], 16))
     n = len(spec['frames']); est = estilos_secuencia(n, rnd)
     for i, fr in enumerate(spec['frames'], 1):
-        if est[i - 1] is None and 'garabato' not in fr: fr = dict(fr, garabato=False)
         frame(fr, root, rnd, i == n, est[i - 1]).save(f'{out}/{i:02d}.jpg', quality=93)
     print(out, n)
