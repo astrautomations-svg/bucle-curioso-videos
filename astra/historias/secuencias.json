@@ -5,29 +5,94 @@
   "frames": [
    {
     "img": "banco/18.jpg",
-    "kicker": "SI TIENES UN NEGOCIO",
-    "text": "¿Cuántas horas a la semana pierdes **contestando lo mismo?**",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "SI TIENES UN NEGOCIO",
+      "y": 270
+     },
+     {
+      "tipo": "grande",
+      "texto": "¿Cuántas horas pierdes\na la semana…",
+      "y": 360
+     },
+     {
+      "tipo": "azul",
+      "texto": "contestando lo mismo?",
+      "y": 1420,
+      "rot": -2
+     }
+    ],
     "foco": 0.45
    },
    {
     "img": "banco/03.jpg",
-    "text": "Horarios, precios, citas, cambios…\nSiempre **las mismas preguntas.**",
-    "sub": "Y cada respuesta te quita tiempo."
-   },
-   {
-    "img": "banco/20.jpg",
-    "text": "Lo que monto yo: un sistema que **contesta, agenda y hace seguimiento** solo.",
-    "sub": "Con tu tono. Las 24 horas."
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "¿Qué horario tenéis?",
+      "y": 400,
+      "x": "l",
+      "rot": -3
+     },
+     {
+      "tipo": "caja",
+      "texto": "¿Cuánto cuesta?",
+      "y": 560,
+      "x": "r",
+      "rot": 2
+     },
+     {
+      "tipo": "caja",
+      "texto": "¿Me cambias la cita?",
+      "y": 1300,
+      "x": "l",
+      "rot": 1
+     },
+     {
+      "tipo": "grande",
+      "texto": "Siempre lo mismo.",
+      "y": 1490
+     }
+    ]
    },
    {
     "img": "banco/17.jpg",
-    "text": "Tú a lo tuyo.\nTu negocio **sigue respondiendo.**"
+    "bloques": [
+     {
+      "tipo": "negra",
+      "texto": "Mientras tú conduces…",
+      "y": 330
+     },
+     {
+      "tipo": "azul",
+      "texto": "tu negocio sigue contestando",
+      "y": 1420,
+      "rot": -1
+     },
+     {
+      "tipo": "nota",
+      "texto": "Con tu tono. Las 24 horas.",
+      "y": 1540
+     }
+    ]
    },
    {
-    "img": "banco/04.jpg",
-    "text": "Te digo qué automatizaría **primero** en tu negocio.",
-    "cta": "SISTEMA",
-    "foco": 0.4
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "¿Te digo qué\nautomatizaría primero\nen tu negocio?",
+      "y": 1040,
+      "size": 70
+     },
+     {
+      "tipo": "cta",
+      "texto": "SISTEMA",
+      "y": 1440
+     }
+    ],
+    "foco": 0.3
    }
   ]
  },
@@ -36,28 +101,57 @@
   "tema": "clientes que no vuelven",
   "frames": [
    {
-    "img": "banco/09.jpg",
-    "kicker": "PIÉNSALO UN SEGUNDO",
-    "text": "¿Cuántos clientes vinieron una vez **y no volvieron?**"
+    "img": "banco/30.jpg",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "¿Cuántos clientes\nvinieron una vez…",
+      "y": 400
+     },
+     {
+      "tipo": "azul",
+      "texto": "y no volvieron?",
+      "y": 560,
+      "rot": -2
+     }
+    ]
    },
    {
-    "img": "banco/03.jpg",
-    "text": "No es que no les gustara.\nEs que **nadie les volvió a escribir.**"
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "negra",
+      "texto": "No es que no les gustara.",
+      "y": 360
+     },
+     {
+      "tipo": "caja",
+      "texto": "Es que nadie les\nvolvió a escribir.",
+      "y": 1290,
+      "rot": 1
+     },
+     {
+      "tipo": "nota",
+      "texto": "Un sistema lo hace por ti:\nen el momento justo y con tu tono.",
+      "y": 1530
+     }
+    ]
    },
    {
-    "img": "banco/20.jpg",
-    "text": "Un sistema detecta quién lleva tiempo sin venir y le escribe **en el momento justo.**",
-    "sub": "Personal. Con tu tono."
-   },
-   {
-    "img": "banco/05.jpg",
-    "text": "Sin que tengas que **acordarte de nadie.**"
-   },
-   {
-    "img": "banco/39.jpg",
-    "text": "Te enseño cómo funcionaría **en tu negocio.**",
-    "cta": "VOLVER",
-    "foco": 0.3
+    "img": "banco/38.jpg",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "Te enseño cómo\nfuncionaría en\ntu negocio",
+      "y": 430
+     },
+     {
+      "tipo": "cta",
+      "texto": "VOLVER",
+      "y": 1430
+     }
+    ],
+    "foco": 0.4
    }
   ]
  },
@@ -66,27 +160,103 @@
   "tema": "llamadas perdidas",
   "frames": [
    {
-    "img": "banco/17.jpg",
-    "kicker": "DUEÑOS DE NEGOCIO",
-    "text": "Estás atendiendo.\nSuena el teléfono.\n**No puedes cogerlo.**"
+    "img": "banco/27.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "DUEÑOS DE NEGOCIO",
+      "y": 270
+     },
+     {
+      "tipo": "grande",
+      "texto": "Estás atendiendo.",
+      "y": 360
+     },
+     {
+      "tipo": "caja",
+      "texto": "Suena el teléfono.",
+      "y": 1330,
+      "rot": -2
+     },
+     {
+      "tipo": "azul",
+      "texto": "No puedes cogerlo.",
+      "y": 1460,
+      "rot": 1
+     }
+    ],
+    "foco": 0.35
    },
    {
     "img": "banco/13.jpg",
-    "text": "Ese cliente no deja mensaje.\n**Llama al siguiente.**",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "Ese cliente\nno deja mensaje.",
+      "y": 420
+     },
+     {
+      "tipo": "negra",
+      "texto": "Llama al siguiente.",
+      "y": 1420
+     }
+    ],
     "foco": 0.6
    },
    {
-    "img": "banco/20.jpg",
-    "text": "Un agente de voz **coge la llamada,** resuelve la duda y **agenda la cita.**"
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "Un agente de voz\ncoge la llamada,",
+      "y": 400,
+      "x": "l",
+      "rot": -2
+     },
+     {
+      "tipo": "azul",
+      "texto": "resuelve la duda",
+      "y": 1320,
+      "x": "r",
+      "rot": 2
+     },
+     {
+      "tipo": "caja",
+      "texto": "y agenda la cita.",
+      "y": 1440,
+      "x": "r"
+     }
+    ]
    },
    {
     "img": "banco/16.jpg",
-    "text": "Tú sigues con lo tuyo.\n**Ninguna llamada se pierde.**"
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "Tú sigues con lo tuyo.",
+      "y": 420
+     },
+     {
+      "tipo": "nota",
+      "texto": "Ninguna llamada se pierde.",
+      "y": 1500
+     }
+    ]
    },
    {
     "img": "banco/02.jpg",
-    "text": "Te cuento cómo quedaría **en tu negocio.**",
-    "cta": "LLAMADAS"
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "¿Lo vemos en\ntu negocio?",
+      "y": 420
+     },
+     {
+      "tipo": "cta",
+      "texto": "LLAMADAS",
+      "y": 1430
+     }
+    ]
    }
   ]
  },
@@ -95,30 +265,73 @@
   "tema": "detrás de cámaras",
   "frames": [
    {
-    "img": "banco/27.jpg",
-    "kicker": "DETRÁS DE CÁMARAS",
-    "text": "Así es una noche **montando un sistema.**",
-    "foco": 0.35
-   },
-   {
-    "img": "banco/03.jpg",
-    "text": "Primero entiendo **cómo trabaja el negocio.**",
-    "sub": "Qué preguntan los clientes. Qué se repite."
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "DETRÁS DE CÁMARAS",
+      "y": 270
+     },
+     {
+      "tipo": "grande",
+      "texto": "Así se ve una noche\nmontando un sistema",
+      "y": 360
+     }
+    ]
    },
    {
     "img": "banco/07.jpg",
-    "text": "Después lo construyo para que **funcione solo.**",
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "1. Entiendo cómo\ntrabaja el negocio",
+      "y": 380,
+      "x": "l",
+      "rot": -2
+     },
+     {
+      "tipo": "nota",
+      "texto": "Qué preguntan tus clientes.\nQué se repite.",
+      "y": 540,
+      "x": "l"
+     }
+    ],
     "foco": 0.55
    },
    {
     "img": "banco/18.jpg",
-    "text": "Y lo pruebo hasta que **no falla.**",
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "2. Lo construyo para\nque funcione solo",
+      "y": 380,
+      "x": "l",
+      "rot": -1
+     },
+     {
+      "tipo": "azul",
+      "texto": "3. Lo pruebo hasta\nque no falla",
+      "y": 1430,
+      "x": "r",
+      "rot": 1
+     }
+    ],
     "foco": 0.45
    },
    {
     "img": "banco/04.jpg",
-    "text": "¿Quieres uno así **para tu negocio?**",
-    "cta": "SISTEMA",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "¿Quieres uno así\npara tu negocio?",
+      "y": 400
+     },
+     {
+      "tipo": "cta",
+      "texto": "SISTEMA",
+      "y": 1430
+     }
+    ],
     "foco": 0.4
    }
   ]
@@ -129,27 +342,68 @@
   "frames": [
    {
     "img": "banco/08.jpg",
-    "kicker": "MITO",
-    "text": "«Si automatizo, **pierdo el trato personal.»**"
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "MITO",
+      "y": 270
+     },
+     {
+      "tipo": "grande",
+      "texto": "«Si automatizo,\npierdo el trato\npersonal»",
+      "y": 360
+     }
+    ]
    },
    {
-    "img": "banco/09.jpg",
-    "text": "Al revés.\nEl trato se pierde cuando **contestas tarde y con prisa.**"
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "negra",
+      "texto": "Al revés.",
+      "y": 330
+     },
+     {
+      "tipo": "caja",
+      "texto": "El trato se pierde\ncuando contestas\ntarde y con prisa.",
+      "y": 1360,
+      "rot": -1
+     }
+    ]
    },
    {
-    "img": "banco/03.jpg",
-    "text": "El sistema se queda con **lo repetitivo.**",
-    "sub": "Horarios, citas, recordatorios."
-   },
-   {
-    "img": "banco/10.jpg",
-    "text": "Tú te quedas con **lo que importa:** tus clientes.",
-    "foco": 0.4
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "El sistema: lo repetitivo.",
+      "y": 400,
+      "x": "l",
+      "rot": -2
+     },
+     {
+      "tipo": "azul",
+      "texto": "Tú: tus clientes.",
+      "y": 1400,
+      "x": "r",
+      "rot": 2
+     }
+    ]
    },
    {
     "img": "banco/38.jpg",
-    "text": "Te digo qué parte de tu negocio **se puede automatizar.**",
-    "cta": "TRATO",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "Te digo qué parte\nde tu negocio se\npuede automatizar",
+      "y": 430
+     },
+     {
+      "tipo": "cta",
+      "texto": "TRATO",
+      "y": 1430
+     }
+    ],
     "foco": 0.4
    }
   ]
@@ -160,28 +414,56 @@
   "frames": [
    {
     "img": "banco/13.jpg",
-    "kicker": "HAZ ESTA CUENTA",
-    "text": "¿Cuánto tiempo al día se te va en **WhatsApp y llamadas?**",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "HAZ ESTA CUENTA",
+      "y": 270
+     },
+     {
+      "tipo": "grande",
+      "texto": "1 hora al día\nen WhatsApp\ny llamadas",
+      "y": 360
+     }
+    ],
     "foco": 0.6
    },
    {
     "img": "banco/03.jpg",
-    "text": "Pongamos **1 hora al día.**",
-    "sub": "Son unas 22 horas al mes en días laborables."
-   },
-   {
-    "img": "banco/25.jpg",
-    "text": "Casi **tres jornadas enteras** cada mes contestando lo mismo."
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "× 22 días laborables",
+      "y": 420,
+      "rot": -2
+     },
+     {
+      "tipo": "azul",
+      "texto": "= 22 horas al mes",
+      "y": 560,
+      "rot": 1
+     },
+     {
+      "tipo": "nota",
+      "texto": "Casi tres jornadas enteras\ncontestando lo mismo.",
+      "y": 1480
+     }
+    ]
    },
    {
     "img": "banco/14.jpg",
-    "text": "Ese tiempo **se puede recuperar.**"
-   },
-   {
-    "img": "banco/04.jpg",
-    "text": "Te ayudo a calcular **lo que pierdes tú.**",
-    "cta": "HORAS",
-    "foco": 0.4
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "Ese tiempo se\npuede recuperar.",
+      "y": 420
+     },
+     {
+      "tipo": "cta",
+      "texto": "HORAS",
+      "y": 1430
+     }
+    ]
    }
   ]
  },
@@ -190,27 +472,65 @@
   "tema": "citas que no se presentan",
   "frames": [
    {
-    "img": "banco/02.jpg",
-    "kicker": "SI TRABAJAS CON CITAS",
-    "text": "El cliente reserva.\n**Y no aparece.**"
+    "img": "banco/29.jpg",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "El cliente reserva.",
+      "y": 420
+     },
+     {
+      "tipo": "azul",
+      "texto": "Y no aparece.",
+      "y": 560,
+      "rot": -2
+     }
+    ]
    },
    {
-    "img": "banco/05.jpg",
-    "text": "Ese hueco **ya no lo llenas.**"
+    "img": "banco/26.jpg",
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "Ese hueco\nya no lo llenas.",
+      "y": 1450,
+      "rot": 1
+     }
+    ]
    },
    {
     "img": "banco/20.jpg",
-    "text": "El sistema **le recuerda la cita** y, si no puede venir, **la cambia** solo."
+    "bloques": [
+     {
+      "tipo": "negra",
+      "texto": "El sistema le recuerda la cita…",
+      "y": 380,
+      "x": "l"
+     },
+     {
+      "tipo": "caja",
+      "texto": "y si no puede venir,\nla cambia solo.",
+      "y": 1400,
+      "x": "r",
+      "rot": 1
+     }
+    ]
    },
    {
     "img": "banco/18.jpg",
-    "text": "Menos huecos vacíos.\n**Cero llamadas para confirmar.**",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "Te enseño cómo\nfunciona con\ntu agenda",
+      "y": 430
+     },
+     {
+      "tipo": "cta",
+      "texto": "CITAS",
+      "y": 1430
+     }
+    ],
     "foco": 0.45
-   },
-   {
-    "img": "banco/03.jpg",
-    "text": "Te enseño cómo funciona **con tu agenda.**",
-    "cta": "CITAS"
    }
   ]
  },
@@ -219,56 +539,150 @@
   "tema": "clientes que escriben de noche",
   "frames": [
    {
-    "img": "banco/15.jpg",
-    "kicker": "23:47",
-    "text": "Un cliente te escribe.\n**Tú estás durmiendo.**"
+    "img": "banco/33.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "23:47",
+      "y": 270
+     },
+     {
+      "tipo": "grande",
+      "texto": "Un cliente te escribe.",
+      "y": 1300,
+      "size": 76
+     },
+     {
+      "tipo": "negra",
+      "texto": "Tú estás durmiendo.",
+      "y": 1470
+     }
+    ]
    },
    {
     "img": "banco/25.jpg",
-    "text": "Por la mañana contestas.\nÉl **ya reservó en otro sitio.**"
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "Por la mañana contestas.",
+      "y": 400,
+      "x": "l",
+      "rot": -2
+     },
+     {
+      "tipo": "azul",
+      "texto": "Ya reservó en otro sitio.",
+      "y": 1420,
+      "x": "r",
+      "rot": 1
+     }
+    ]
    },
    {
     "img": "banco/03.jpg",
-    "text": "Con un sistema, **le contestan al momento.**",
-    "sub": "Le resuelve la duda y le deja la cita hecha."
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "Con un sistema,\nle contestan\nal momento.",
+      "y": 450
+     },
+     {
+      "tipo": "nota",
+      "texto": "Le resuelve la duda y le deja la cita hecha.",
+      "y": 1500
+     }
+    ]
    },
    {
     "img": "banco/16.jpg",
-    "text": "Tú te levantas con **la agenda más llena.**"
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "Y tú te levantas con\nla agenda más llena.",
+      "y": 420
+     }
+    ]
    },
    {
-    "img": "banco/18.jpg",
-    "text": "Te cuento cómo montarlo **en tu negocio.**",
-    "cta": "NOCHE",
-    "foco": 0.45
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "¿Lo montamos\nen tu negocio?",
+      "y": 1180
+     },
+     {
+      "tipo": "cta",
+      "texto": "NOCHE",
+      "y": 1440
+     }
+    ],
+    "foco": 0.3
    }
   ]
  },
  {
   "fecha": "2026-11-04",
-  "tema": "rodearse de gente que construye",
+  "tema": "lo que he aprendido",
   "frames": [
    {
     "img": "banco/01.jpg",
-    "kicker": "LO QUE HE APRENDIDO",
-    "text": "Los negocios que crecen **no hacen más horas.**"
-   },
-   {
-    "img": "banco/19.jpg",
-    "text": "Miden.\nY **automatizan lo que se repite.**"
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "LO QUE HE APRENDIDO",
+      "y": 270
+     },
+     {
+      "tipo": "grande",
+      "texto": "Los negocios que crecen\nno hacen más horas.",
+      "y": 1380
+     }
+    ]
    },
    {
     "img": "banco/09.jpg",
-    "text": "Rodéate de gente que **construye sistemas,** no de gente que apaga fuegos."
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "Se rodean de gente que\nconstruye sistemas,",
+      "y": 400,
+      "x": "l",
+      "rot": -1
+     },
+     {
+      "tipo": "azul",
+      "texto": "no de gente que\napaga fuegos.",
+      "y": 1440,
+      "x": "r",
+      "rot": 2
+     }
+    ]
    },
    {
-    "img": "banco/37.jpg",
-    "text": "El tiempo que recuperas es **para crecer.**"
+    "img": "banco/12.jpg",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "El tiempo que\nrecuperas es\npara crecer.",
+      "y": 430
+     }
+    ]
    },
    {
     "img": "banco/04.jpg",
-    "text": "Te digo por dónde **empezaría yo** en tu negocio.",
-    "cta": "SISTEMA",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "Te digo por dónde\nempezaría yo",
+      "y": 420
+     },
+     {
+      "tipo": "cta",
+      "texto": "SISTEMA",
+      "y": 1430
+     }
+    ],
     "foco": 0.4
    }
   ]
@@ -279,27 +693,59 @@
   "frames": [
    {
     "img": "banco/10.jpg",
-    "kicker": "PREGUNTA",
-    "text": "¿Cuántos clientes contentos **nunca te dejan una reseña?**",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "PREGUNTA",
+      "y": 270
+     },
+     {
+      "tipo": "grande",
+      "texto": "¿Cuántos clientes\ncontentos nunca te\ndejan una reseña?",
+      "y": 360
+     }
+    ],
     "foco": 0.4
    },
    {
-    "img": "banco/08.jpg",
-    "text": "No es que no quieran.\nEs que **nadie se lo pide.**"
+    "img": "banco/31.jpg",
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "No es que no quieran.",
+      "y": 380,
+      "x": "l",
+      "rot": -2
+     },
+     {
+      "tipo": "azul",
+      "texto": "Es que nadie se lo pide.",
+      "y": 1440,
+      "x": "r",
+      "rot": 1
+     },
+     {
+      "tipo": "nota",
+      "texto": "El sistema escribe tras la visita\ny pide la reseña en el momento justo.",
+      "y": 1570
+     }
+    ]
    },
    {
-    "img": "banco/20.jpg",
-    "text": "El sistema escribe después de la visita y **pide la reseña en el momento justo.**"
-   },
-   {
-    "img": "banco/34.jpg",
-    "text": "Más reseñas.\n**Más clientes nuevos que te eligen.**"
-   },
-   {
-    "img": "banco/18.jpg",
-    "text": "Te enseño cómo lo haría **en tu negocio.**",
-    "cta": "RESEÑAS",
-    "foco": 0.45
+    "img": "banco/27.jpg",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "Te enseño cómo lo\nharía en tu negocio",
+      "y": 430
+     },
+     {
+      "tipo": "cta",
+      "texto": "RESEÑAS",
+      "y": 1430
+     }
+    ],
+    "foco": 0.35
    }
   ]
  },
@@ -308,30 +754,91 @@
   "tema": "el dueño es el cuello de botella",
   "frames": [
    {
-    "img": "banco/21.jpg",
-    "kicker": "SÉ SINCERO",
-    "text": "Si te vas una semana,\n¿tu negocio **sigue funcionando?**",
-    "foco": 0.4
+    "img": "banco/35.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "SÉ SINCERO",
+      "y": 270
+     },
+     {
+      "tipo": "grande",
+      "texto": "Si te vas una semana…",
+      "y": 360
+     }
+    ]
+   },
+   {
+    "img": "banco/28.jpg",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "¿tu negocio sigue\nfuncionando?",
+      "y": 1000
+     }
+    ]
    },
    {
     "img": "banco/17.jpg",
-    "text": "Si la respuesta es no,\n**el cuello de botella eres tú.**"
+    "bloques": [
+     {
+      "tipo": "negra",
+      "texto": "Si la respuesta es no,",
+      "y": 330
+     },
+     {
+      "tipo": "azul",
+      "texto": "el cuello de botella\neres tú.",
+      "y": 1440,
+      "rot": -1
+     }
+    ]
    },
    {
-    "img": "banco/03.jpg",
-    "text": "Lo que se repite **se puede sistematizar.**",
-    "sub": "Mensajes, citas, seguimientos, avisos."
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "caja",
+      "texto": "Mensajes.",
+      "y": 380,
+      "x": "l",
+      "rot": -3
+     },
+     {
+      "tipo": "caja",
+      "texto": "Citas.",
+      "y": 500,
+      "x": "l",
+      "rot": 2
+     },
+     {
+      "tipo": "caja",
+      "texto": "Seguimientos.",
+      "y": 620,
+      "x": "l",
+      "rot": -1
+     },
+     {
+      "tipo": "azul",
+      "texto": "Lo que se repite\nse puede sistematizar.",
+      "y": 1420
+     }
+    ]
    },
    {
-    "img": "banco/35.jpg",
-    "text": "Y tú vuelves a **dirigir tu negocio.**",
-    "foco": 0.3
-   },
-   {
-    "img": "banco/04.jpg",
-    "text": "Te digo qué sacaría **de tus manos** primero.",
-    "cta": "SISTEMA",
-    "foco": 0.4
+    "img": "banco/21.jpg",
+    "bloques": [
+     {
+      "tipo": "grande",
+      "texto": "¿Te digo qué sacaría\nde tus manos primero?",
+      "y": 420
+     },
+     {
+      "tipo": "cta",
+      "texto": "SISTEMA",
+      "y": 1430
+     }
+    ]
    }
   ]
  }
