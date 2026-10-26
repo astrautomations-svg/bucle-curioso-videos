@@ -134,7 +134,7 @@ def garabato(base, rnd, evitar=None):
     base.alpha_composite(m); base.alpha_composite(c)
 
 # ---------- piezas ----------
-def wrap(text, font, maxw):
+def _wrap(text, font, maxw):
     out = []
     for raw in text.split('\n'):
         line = ''
@@ -144,6 +144,17 @@ def wrap(text, font, maxw):
             else: line = t
         out.append(line)
     return out
+
+def wrap(text, font, maxw):
+    """corta en líneas equilibradas: nunca una palabra suelta colgando en la última línea"""
+    base = _wrap(text, font, maxw); n = len(base)
+    if n == 1: return base
+    lo, hi = 50, maxw
+    while hi - lo > 4:
+        mid = (lo + hi) / 2
+        if len(_wrap(text, font, mid)) <= n: hi = mid
+        else: lo = mid
+    return _wrap(text, font, hi)
 
 def pill_icon(n, s=96):
     im = Image.new('RGBA', (int(s * 1.7), s), (0, 0, 0, 0)); d = ImageDraw.Draw(im)

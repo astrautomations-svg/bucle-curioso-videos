@@ -7,21 +7,53 @@
     "img": "banco/18.jpg",
     "bloques": [
      {
-      "tipo": "etiqueta",
-      "texto": "SI TIENES UN NEGOCIO",
-      "y": 270
-     },
-     {
-      "tipo": "grande",
-      "texto": "¿Cuántas horas pierdes\na la semana…",
-      "y": 360
-     },
-     {
-      "tipo": "azul",
-      "texto": "contestando lo mismo?",
-      "y": 1420,
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
       "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Qué horario tenéis?",
+      "y": 470,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Cuánto cuesta?",
+      "y": 610,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "euro-banknote"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Me cambias la cita?",
+      "y": 750,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, contestando a mano",
+      "y": 1360,
+      "color": "rojo",
+      "rot": 1,
+      "icono": "cross-mark"
      }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
     ],
     "foco": 0.45
    },
@@ -29,51 +61,83 @@
     "img": "banco/03.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "¿Qué horario tenéis?",
-      "y": 400,
-      "x": "l",
-      "rot": -3
+      "tipo": "titulo",
+      "texto": "EL COSTE REAL:",
+      "y": 260,
+      "rot": -1
      },
      {
-      "tipo": "caja",
-      "texto": "¿Cuánto cuesta?",
-      "y": 560,
-      "x": "r",
-      "rot": 2
+      "tipo": "texto",
+      "texto": "Si se te va 1 hora al día\nen WhatsApp y llamadas…",
+      "y": 470
      },
      {
-      "tipo": "caja",
-      "texto": "¿Me cambias la cita?",
-      "y": 1300,
-      "x": "l",
-      "rot": 1
+      "tipo": "numero",
+      "texto": "22 HORAS",
+      "y": 700,
+      "sub": "al mes contestando lo mismo"
      },
      {
-      "tipo": "grande",
-      "texto": "Siempre lo mismo.",
-      "y": 1490
+      "tipo": "linea",
+      "texto": "Casi 3 jornadas enteras",
+      "y": 1330,
+      "color": "naranja",
+      "rot": -2,
+      "icono": "hourglass-done"
      }
     ]
    },
    {
-    "img": "banco/17.jpg",
+    "img": "banco/20.jpg",
     "bloques": [
      {
-      "tipo": "negra",
-      "texto": "Mientras tú conduces…",
-      "y": 330
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
      },
      {
-      "tipo": "azul",
-      "texto": "tu negocio sigue contestando",
-      "y": 1420,
-      "rot": -1
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿tenéis hueco el jueves?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, el jueves a las 17:00 está libre. ¿Te lo reservo?"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
      },
      {
-      "tipo": "nota",
-      "texto": "Con tu tono. Las 24 horas.",
-      "y": 1540
+      "tipo": "linea",
+      "texto": "Contesta al momento",
+      "y": 1000,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Agenda la cita",
+      "y": 1150,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Hace el seguimiento",
+      "y": 1300,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "logo-whatsapp"
      }
     ]
    },
@@ -81,16 +145,23 @@
     "img": "banco/39.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "¿Te digo qué\nautomatizaría primero\nen tu negocio?",
-      "y": 1040,
-      "size": 70
+      "tipo": "titulo",
+      "texto": "TODO ESTO 24/7",
+      "y": 1060,
+      "rot": -2
      },
      {
       "tipo": "cta",
       "texto": "SISTEMA",
-      "y": 1440
+      "y": 1220,
+      "antes": "¿Tu negocio pierde clientes\npor no contestar a tiempo?"
      }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
     ],
     "foco": 0.3
    }
@@ -104,15 +175,29 @@
     "img": "banco/30.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "¿Cuántos clientes\nvinieron una vez…",
-      "y": 400
+      "tipo": "titulo",
+      "texto": "¿CUÁNTOS NO HAN VUELTO?",
+      "y": 260,
+      "rot": -2
      },
      {
-      "tipo": "azul",
-      "texto": "y no volvieron?",
-      "y": 560,
-      "rot": -2
+      "tipo": "linea",
+      "texto": "Vinieron una vez",
+      "y": 520,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "bust-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y nadie les volvió a escribir",
+      "y": 680,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
      }
     ]
    },
@@ -120,20 +205,44 @@
     "img": "banco/25.jpg",
     "bloques": [
      {
-      "tipo": "negra",
-      "texto": "No es que no les gustara.",
-      "y": 360
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -1
      },
      {
-      "tipo": "caja",
-      "texto": "Es que nadie les\nvolvió a escribir.",
-      "y": 1290,
-      "rot": 1
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Laura, ¡cuánto tiempo! ¿Te guardo hueco esta semana?"
+       ],
+       [
+        "in",
+        "¡Sí! El jueves por la tarde"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
      },
      {
-      "tipo": "nota",
-      "texto": "Un sistema lo hace por ti:\nen el momento justo y con tu tono.",
-      "y": 1530
+      "tipo": "linea",
+      "texto": "Detecta quién lleva tiempo sin venir",
+      "y": 1050,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "eyes"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y le escribe en el momento justo",
+      "y": 1200,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 1,
+      "icono": "logo-whatsapp"
      }
     ]
    },
@@ -141,14 +250,16 @@
     "img": "banco/38.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "Te enseño cómo\nfuncionaría en\ntu negocio",
-      "y": 430
+      "tipo": "titulo",
+      "texto": "SIN ACORDARTE DE NADIE",
+      "y": 300,
+      "rot": -2
      },
      {
       "tipo": "cta",
       "texto": "VOLVER",
-      "y": 1430
+      "y": 1150,
+      "antes": "¿Quieres verlo en tu negocio?"
      }
     ],
     "foco": 0.4
@@ -163,27 +274,44 @@
     "img": "banco/27.jpg",
     "bloques": [
      {
-      "tipo": "etiqueta",
-      "texto": "DUEÑOS DE NEGOCIO",
-      "y": 270
-     },
-     {
-      "tipo": "grande",
-      "texto": "Estás atendiendo.",
-      "y": 360
-     },
-     {
-      "tipo": "caja",
-      "texto": "Suena el teléfono.",
-      "y": 1330,
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
       "rot": -2
      },
      {
-      "tipo": "azul",
-      "texto": "No puedes cogerlo.",
-      "y": 1460,
-      "rot": 1
+      "tipo": "linea",
+      "texto": "Estás atendiendo",
+      "y": 470,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "busts-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Suena el teléfono",
+      "y": 620,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "telephone-receiver"
+     },
+     {
+      "tipo": "linea",
+      "texto": "No puedes cogerlo",
+      "y": 1330,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
      }
+    ],
+    "cara": [
+     200,
+     850,
+     560,
+     1250
     ],
     "foco": 0.35
    },
@@ -191,14 +319,23 @@
     "img": "banco/13.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "Ese cliente\nno deja mensaje.",
-      "y": 420
+      "tipo": "titulo",
+      "texto": "EL COSTE REAL:",
+      "y": 260,
+      "rot": -1
      },
      {
-      "tipo": "negra",
-      "texto": "Llama al siguiente.",
-      "y": 1420
+      "tipo": "texto",
+      "texto": "Ese cliente no deja mensaje.",
+      "y": 480
+     },
+     {
+      "tipo": "linea",
+      "texto": "Llama al siguiente de Google",
+      "y": 1300,
+      "color": "naranja",
+      "rot": 2,
+      "icono": "logo-google"
      }
     ],
     "foco": 0.6
@@ -207,24 +344,38 @@
     "img": "banco/03.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "Un agente de voz\ncoge la llamada,",
-      "y": 400,
-      "x": "l",
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
       "rot": -2
      },
      {
-      "tipo": "azul",
-      "texto": "resuelve la duda",
-      "y": 1320,
-      "x": "r",
-      "rot": 2
+      "tipo": "linea",
+      "texto": "Un agente de voz coge la llamada",
+      "y": 480,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "telephone-receiver"
      },
      {
-      "tipo": "caja",
-      "texto": "y agenda la cita.",
-      "y": 1440,
-      "x": "r"
+      "tipo": "linea",
+      "texto": "Resuelve la duda",
+      "y": 640,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "check-mark-button"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y agenda la cita",
+      "y": 1300,
+      "color": "amarillo",
+      "x": "l",
+      "rot": -1,
+      "icono": "logo-googlecalendar"
      }
     ]
    },
@@ -232,14 +383,10 @@
     "img": "banco/16.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "Tú sigues con lo tuyo.",
-      "y": 420
-     },
-     {
-      "tipo": "nota",
-      "texto": "Ninguna llamada se pierde.",
-      "y": 1500
+      "tipo": "numero",
+      "texto": "24/7",
+      "y": 560,
+      "sub": "aunque tú no estés"
      }
     ]
    },
@@ -247,14 +394,10 @@
     "img": "banco/02.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "¿Lo vemos en\ntu negocio?",
-      "y": 420
-     },
-     {
       "tipo": "cta",
       "texto": "LLAMADAS",
-      "y": 1430
+      "y": 1150,
+      "antes": "¿Cuántas llamadas pierdes\na la semana?"
      }
     ]
    }
@@ -268,14 +411,24 @@
     "img": "banco/20.jpg",
     "bloques": [
      {
-      "tipo": "etiqueta",
+      "tipo": "titulo",
       "texto": "DETRÁS DE CÁMARAS",
-      "y": 270
+      "y": 260,
+      "rot": -2
      },
      {
-      "tipo": "grande",
+      "tipo": "texto",
       "texto": "Así se ve una noche\nmontando un sistema",
-      "y": 360
+      "y": 480
+     },
+     {
+      "tipo": "iconos",
+      "iconos": [
+       "logo-whatsapp",
+       "logo-n8n",
+       "logo-googlecalendar"
+      ],
+      "y": 1300
      }
     ]
    },
@@ -283,17 +436,19 @@
     "img": "banco/07.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "1. Entiendo cómo\ntrabaja el negocio",
-      "y": 380,
+      "tipo": "linea",
+      "texto": "1. Entiendo cómo trabaja el negocio",
+      "y": 420,
+      "color": "blanco",
       "x": "l",
-      "rot": -2
+      "rot": -2,
+      "icono": "magnifying-glass-tilted-left"
      },
      {
-      "tipo": "nota",
+      "tipo": "texto",
       "texto": "Qué preguntan tus clientes.\nQué se repite.",
-      "y": 540,
-      "x": "l"
+      "y": 600,
+      "size": 42
      }
     ],
     "foco": 0.55
@@ -302,19 +457,30 @@
     "img": "banco/18.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "2. Lo construyo para\nque funcione solo",
+      "tipo": "linea",
+      "texto": "2. Lo construyo para que funcione solo",
       "y": 380,
+      "color": "azul",
       "x": "l",
-      "rot": -1
+      "rot": -1,
+      "icono": "gear"
      },
      {
-      "tipo": "azul",
-      "texto": "3. Lo pruebo hasta\nque no falla",
-      "y": 1430,
+      "tipo": "linea",
+      "texto": "3. Lo pruebo hasta que no falla",
+      "y": 1300,
+      "color": "verde",
       "x": "r",
-      "rot": 1
+      "lado": "i",
+      "rot": 1,
+      "icono": "check-mark-button"
      }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
     ],
     "foco": 0.45
    },
@@ -322,14 +488,16 @@
     "img": "banco/04.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "¿Quieres uno así\npara tu negocio?",
-      "y": 400
+      "tipo": "titulo",
+      "texto": "¿UNO ASÍ PARA TI?",
+      "y": 300,
+      "rot": -2
      },
      {
       "tipo": "cta",
       "texto": "SISTEMA",
-      "y": 1430
+      "y": 1150,
+      "antes": "Te digo por dónde empezaría"
      }
     ],
     "foco": 0.4
@@ -344,14 +512,17 @@
     "img": "banco/08.jpg",
     "bloques": [
      {
-      "tipo": "etiqueta",
-      "texto": "MITO",
-      "y": 270
+      "tipo": "titulo",
+      "texto": "MITO:",
+      "y": 280,
+      "rot": -2
      },
      {
-      "tipo": "grande",
-      "texto": "«Si automatizo,\npierdo el trato\npersonal»",
-      "y": 360
+      "tipo": "linea",
+      "texto": "«Si automatizo, pierdo el trato personal»",
+      "y": 480,
+      "color": "blanco",
+      "size": 58
      }
     ]
    },
@@ -359,34 +530,56 @@
     "img": "banco/17.jpg",
     "bloques": [
      {
-      "tipo": "negra",
-      "texto": "Al revés.",
-      "y": 330
+      "tipo": "linea",
+      "texto": "Al revés",
+      "y": 300,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "thinking-face"
      },
      {
-      "tipo": "caja",
-      "texto": "El trato se pierde\ncuando contestas\ntarde y con prisa.",
-      "y": 1360,
-      "rot": -1
+      "tipo": "linea",
+      "texto": "El trato se pierde cuando contestas tarde y con prisa",
+      "y": 1250,
+      "color": "rojo",
+      "rot": 1
      }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
     ]
    },
    {
     "img": "banco/25.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "El sistema: lo repetitivo.",
-      "y": 400,
-      "x": "l",
-      "rot": -2
+      "tipo": "titulo",
+      "texto": "EL REPARTO:",
+      "y": 260,
+      "rot": -1
      },
      {
-      "tipo": "azul",
-      "texto": "Tú: tus clientes.",
-      "y": 1400,
+      "tipo": "linea",
+      "texto": "El sistema: lo repetitivo",
+      "y": 480,
+      "color": "celeste",
+      "x": "l",
+      "rot": -2,
+      "icono": "robot"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tú: tus clientes",
+      "y": 640,
+      "color": "verde",
       "x": "r",
-      "rot": 2
+      "lado": "i",
+      "rot": 2,
+      "icono": "handshake"
      }
     ]
    },
@@ -394,14 +587,10 @@
     "img": "banco/38.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "Te digo qué parte\nde tu negocio se\npuede automatizar",
-      "y": 430
-     },
-     {
       "tipo": "cta",
       "texto": "TRATO",
-      "y": 1430
+      "y": 1050,
+      "antes": "¿Qué parte de tu negocio\nse puede automatizar?"
      }
     ],
     "foco": 0.4
@@ -416,14 +605,29 @@
     "img": "banco/13.jpg",
     "bloques": [
      {
-      "tipo": "etiqueta",
-      "texto": "HAZ ESTA CUENTA",
-      "y": 270
+      "tipo": "titulo",
+      "texto": "HAZ ESTA CUENTA:",
+      "y": 260,
+      "rot": -2
      },
      {
-      "tipo": "grande",
-      "texto": "1 hora al día\nen WhatsApp\ny llamadas",
-      "y": 360
+      "tipo": "linea",
+      "texto": "1 hora al día en WhatsApp y llamadas",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -1,
+      "icono": "stopwatch"
+     },
+     {
+      "tipo": "linea",
+      "texto": "× 22 días laborables × 12 meses",
+      "y": 640,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "calendar"
      }
     ],
     "foco": 0.6
@@ -432,21 +636,18 @@
     "img": "banco/03.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "× 22 días laborables",
-      "y": 420,
-      "rot": -2
+      "tipo": "numero",
+      "texto": "264 HORAS",
+      "y": 480,
+      "sub": "al año, contestando lo mismo"
      },
      {
-      "tipo": "azul",
-      "texto": "= 22 horas al mes",
-      "y": 560,
-      "rot": 1
-     },
-     {
-      "tipo": "nota",
-      "texto": "Casi tres jornadas enteras\ncontestando lo mismo.",
-      "y": 1480
+      "tipo": "linea",
+      "texto": "Son 33 jornadas de 8 horas",
+      "y": 1300,
+      "color": "naranja",
+      "rot": -2,
+      "icono": "hourglass-done"
      }
     ]
    },
@@ -454,14 +655,16 @@
     "img": "banco/14.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "Ese tiempo se\npuede recuperar.",
-      "y": 420
+      "tipo": "titulo",
+      "texto": "ESE TIEMPO SE RECUPERA",
+      "y": 300,
+      "rot": -2
      },
      {
       "tipo": "cta",
       "texto": "HORAS",
-      "y": 1430
+      "y": 1100,
+      "antes": "¿Te ayudo a calcular el tuyo?"
      }
     ]
    }
@@ -475,15 +678,29 @@
     "img": "banco/29.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "El cliente reserva.",
-      "y": 420
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -2
      },
      {
-      "tipo": "azul",
-      "texto": "Y no aparece.",
-      "y": 560,
-      "rot": -2
+      "tipo": "linea",
+      "texto": "El cliente reserva",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y no aparece",
+      "y": 640,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
      }
     ]
    },
@@ -491,10 +708,12 @@
     "img": "banco/26.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "Ese hueco\nya no lo llenas.",
-      "y": 1450,
-      "rot": 1
+      "tipo": "linea",
+      "texto": "Ese hueco ya no lo llenas",
+      "y": 1350,
+      "color": "naranja",
+      "rot": -1,
+      "icono": "hourglass-done"
      }
     ]
    },
@@ -502,17 +721,37 @@
     "img": "banco/20.jpg",
     "bloques": [
      {
-      "tipo": "negra",
-      "texto": "El sistema le recuerda la cita…",
-      "y": 380,
-      "x": "l"
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -1
      },
      {
-      "tipo": "caja",
-      "texto": "y si no puede venir,\nla cambia solo.",
-      "y": 1400,
-      "x": "r",
-      "rot": 1
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Marta, te recuerdo tu cita de mañana a las 10:00. ¿Te viene bien?"
+       ],
+       [
+        "in",
+        "Uf, mejor el viernes"
+       ],
+       [
+        "out",
+        "Hecho, te la cambio al viernes a las 10:00"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Recuerda y cambia citas solo",
+      "y": 1300,
+      "color": "verde",
+      "rot": -2,
+      "icono": "logo-whatsapp"
      }
     ]
    },
@@ -520,15 +759,22 @@
     "img": "banco/18.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "Te enseño cómo\nfunciona con\ntu agenda",
-      "y": 430
+      "tipo": "titulo",
+      "texto": "MENOS HUECOS VACÍOS",
+      "y": 300,
+      "rot": -2
      },
      {
       "tipo": "cta",
       "texto": "CITAS",
-      "y": 1430
+      "y": 1250
      }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
     ],
     "foco": 0.45
    }
@@ -542,20 +788,27 @@
     "img": "banco/33.jpg",
     "bloques": [
      {
-      "tipo": "etiqueta",
+      "tipo": "linea",
       "texto": "23:47",
-      "y": 270
+      "y": 300,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "crescent-moon"
      },
      {
-      "tipo": "grande",
-      "texto": "Un cliente te escribe.",
-      "y": 1300,
-      "size": 76
+      "tipo": "titulo",
+      "texto": "UN CLIENTE TE ESCRIBE",
+      "y": 1020,
+      "rot": -1
      },
      {
-      "tipo": "negra",
-      "texto": "Tú estás durmiendo.",
-      "y": 1470
+      "tipo": "linea",
+      "texto": "Tú estás durmiendo",
+      "y": 1280,
+      "color": "rojo",
+      "rot": 2,
+      "icono": "sleeping-face"
      }
     ]
    },
@@ -563,18 +816,23 @@
     "img": "banco/25.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "Por la mañana contestas.",
+      "tipo": "linea",
+      "texto": "Contestas por la mañana",
       "y": 400,
+      "color": "amarillo",
       "x": "l",
-      "rot": -2
+      "rot": -2,
+      "icono": "sun"
      },
      {
-      "tipo": "azul",
-      "texto": "Ya reservó en otro sitio.",
-      "y": 1420,
+      "tipo": "linea",
+      "texto": "Ya reservó en otro sitio",
+      "y": 1300,
+      "color": "rojo",
       "x": "r",
-      "rot": 1
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
      }
     ]
    },
@@ -582,24 +840,37 @@
     "img": "banco/03.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "Con un sistema,\nle contestan\nal momento.",
-      "y": 450
+      "tipo": "titulo",
+      "texto": "CON UN SISTEMA:",
+      "y": 260,
+      "rot": -2
      },
      {
-      "tipo": "nota",
-      "texto": "Le resuelve la duda y le deja la cita hecha.",
-      "y": 1500
-     }
-    ]
-   },
-   {
-    "img": "banco/16.jpg",
-    "bloques": [
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿mañana tenéis algo libre?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, mañana a las 11:00. ¿Te lo reservo?"
+       ],
+       [
+        "in",
+        "Perfecto"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
      {
-      "tipo": "grande",
-      "texto": "Y tú te levantas con\nla agenda más llena.",
-      "y": 420
+      "tipo": "linea",
+      "texto": "Cita hecha mientras duermes",
+      "y": 1300,
+      "color": "verde",
+      "rot": -1,
+      "icono": "check-mark-button"
      }
     ]
    },
@@ -607,15 +878,17 @@
     "img": "banco/39.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "¿Lo montamos\nen tu negocio?",
-      "y": 1180
-     },
-     {
       "tipo": "cta",
       "texto": "NOCHE",
-      "y": 1440
+      "y": 1150,
+      "antes": "¿Lo montamos en tu negocio?"
      }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
     ],
     "foco": 0.3
    }
@@ -629,14 +902,39 @@
     "img": "banco/01.jpg",
     "bloques": [
      {
-      "tipo": "etiqueta",
-      "texto": "LO QUE HE APRENDIDO",
-      "y": 270
+      "tipo": "titulo",
+      "texto": "LO QUE HE APRENDIDO:",
+      "y": 280,
+      "rot": -2
      },
      {
-      "tipo": "grande",
+      "tipo": "texto",
       "texto": "Los negocios que crecen\nno hacen más horas.",
-      "y": 1380
+      "y": 1250
+     }
+    ]
+   },
+   {
+    "img": "banco/19.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "Miden",
+      "y": 420,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "bar-chart"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y automatizan lo que se repite",
+      "y": 580,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "repeat-button"
      }
     ]
    },
@@ -644,28 +942,23 @@
     "img": "banco/09.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "Se rodean de gente que\nconstruye sistemas,",
-      "y": 400,
+      "tipo": "linea",
+      "texto": "Se rodean de gente que construye sistemas",
+      "y": 360,
+      "color": "blanco",
       "x": "l",
-      "rot": -1
+      "rot": -1,
+      "icono": "rocket"
      },
      {
-      "tipo": "azul",
-      "texto": "no de gente que\napaga fuegos.",
-      "y": 1440,
+      "tipo": "linea",
+      "texto": "No de gente que apaga fuegos",
+      "y": 1300,
+      "color": "rojo",
       "x": "r",
-      "rot": 2
-     }
-    ]
-   },
-   {
-    "img": "banco/12.jpg",
-    "bloques": [
-     {
-      "tipo": "grande",
-      "texto": "El tiempo que\nrecuperas es\npara crecer.",
-      "y": 430
+      "lado": "i",
+      "rot": 2,
+      "icono": "fire"
      }
     ]
    },
@@ -673,14 +966,16 @@
     "img": "banco/04.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "Te digo por dónde\nempezaría yo",
-      "y": 420
+      "tipo": "titulo",
+      "texto": "EL TIEMPO ES PARA CRECER",
+      "y": 300,
+      "rot": -2
      },
      {
       "tipo": "cta",
       "texto": "SISTEMA",
-      "y": 1430
+      "y": 1050,
+      "antes": "¿Te digo por dónde empezaría yo?"
      }
     ],
     "foco": 0.4
@@ -695,14 +990,18 @@
     "img": "banco/10.jpg",
     "bloques": [
      {
-      "tipo": "etiqueta",
-      "texto": "PREGUNTA",
-      "y": 270
+      "tipo": "titulo",
+      "texto": "PREGUNTA:",
+      "y": 260,
+      "rot": -2
      },
      {
-      "tipo": "grande",
-      "texto": "¿Cuántos clientes\ncontentos nunca te\ndejan una reseña?",
-      "y": 360
+      "tipo": "linea",
+      "texto": "¿Cuántos clientes contentos nunca te dejan reseña?",
+      "y": 450,
+      "color": "blanco",
+      "rot": -1,
+      "icono": "glowing-star"
      }
     ],
     "foco": 0.4
@@ -711,23 +1010,29 @@
     "img": "banco/31.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "No es que no quieran.",
-      "y": 380,
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Les escribe después de la visita",
+      "y": 480,
+      "color": "amarillo",
       "x": "l",
-      "rot": -2
+      "rot": -2,
+      "icono": "logo-whatsapp"
      },
      {
-      "tipo": "azul",
-      "texto": "Es que nadie se lo pide.",
-      "y": 1440,
+      "tipo": "linea",
+      "texto": "Y pide la reseña en el momento justo",
+      "y": 640,
+      "color": "verde",
       "x": "r",
-      "rot": 1
-     },
-     {
-      "tipo": "nota",
-      "texto": "El sistema escribe tras la visita\ny pide la reseña en el momento justo.",
-      "y": 1570
+      "lado": "i",
+      "rot": 2,
+      "icono": "star-struck"
      }
     ]
    },
@@ -735,15 +1040,17 @@
     "img": "banco/27.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "Te enseño cómo lo\nharía en tu negocio",
-      "y": 430
-     },
-     {
       "tipo": "cta",
       "texto": "RESEÑAS",
-      "y": 1430
+      "y": 320,
+      "antes": "¿Quieres más reseñas\nsin pedirlas tú?"
      }
+    ],
+    "cara": [
+     200,
+     850,
+     560,
+     1250
     ],
     "foco": 0.35
    }
@@ -757,14 +1064,15 @@
     "img": "banco/35.jpg",
     "bloques": [
      {
-      "tipo": "etiqueta",
-      "texto": "SÉ SINCERO",
-      "y": 270
+      "tipo": "titulo",
+      "texto": "SÉ SINCERO:",
+      "y": 280,
+      "rot": -2
      },
      {
-      "tipo": "grande",
+      "tipo": "texto",
       "texto": "Si te vas una semana…",
-      "y": 360
+      "y": 470
      }
     ]
    },
@@ -772,9 +1080,12 @@
     "img": "banco/28.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "¿tu negocio sigue\nfuncionando?",
-      "y": 1000
+      "tipo": "linea",
+      "texto": "¿Tu negocio sigue funcionando?",
+      "y": 900,
+      "color": "blanco",
+      "rot": -1,
+      "icono": "thinking-face"
      }
     ]
    },
@@ -782,46 +1093,79 @@
     "img": "banco/17.jpg",
     "bloques": [
      {
-      "tipo": "negra",
-      "texto": "Si la respuesta es no,",
-      "y": 330
+      "tipo": "linea",
+      "texto": "Si la respuesta es no",
+      "y": 300,
+      "color": "rojo",
+      "x": "l",
+      "rot": -2,
+      "icono": "warning"
      },
      {
-      "tipo": "azul",
-      "texto": "el cuello de botella\neres tú.",
-      "y": 1440,
+      "tipo": "titulo",
+      "texto": "EL CUELLO DE BOTELLA ERES TÚ",
+      "y": 1100,
       "rot": -1
      }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
     ]
    },
    {
     "img": "banco/20.jpg",
     "bloques": [
      {
-      "tipo": "caja",
-      "texto": "Mensajes.",
-      "y": 380,
-      "x": "l",
-      "rot": -3
+      "tipo": "titulo",
+      "texto": "LO QUE SE REPITE:",
+      "y": 260,
+      "rot": -2
      },
      {
-      "tipo": "caja",
-      "texto": "Citas.",
-      "y": 500,
+      "tipo": "linea",
+      "texto": "Mensajes",
+      "y": 480,
+      "color": "blanco",
       "x": "l",
-      "rot": 2
+      "rot": -2,
+      "icono": "logo-whatsapp"
      },
      {
-      "tipo": "caja",
-      "texto": "Seguimientos.",
+      "tipo": "linea",
+      "texto": "Citas",
       "y": 620,
-      "x": "l",
-      "rot": -1
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
      },
      {
-      "tipo": "azul",
-      "texto": "Lo que se repite\nse puede sistematizar.",
-      "y": 1420
+      "tipo": "linea",
+      "texto": "Seguimientos",
+      "y": 760,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "repeat-button"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Avisos",
+      "y": 900,
+      "color": "celeste",
+      "x": "r",
+      "lado": "i",
+      "rot": 1,
+      "icono": "bell"
+     },
+     {
+      "tipo": "texto",
+      "texto": "se puede sistematizar",
+      "y": 1300
      }
     ]
    },
@@ -829,14 +1173,16 @@
     "img": "banco/21.jpg",
     "bloques": [
      {
-      "tipo": "grande",
-      "texto": "¿Te digo qué sacaría\nde tus manos primero?",
-      "y": 420
+      "tipo": "titulo",
+      "texto": "Y TÚ VUELVES A DIRIGIR",
+      "y": 300,
+      "rot": -2
      },
      {
       "tipo": "cta",
       "texto": "SISTEMA",
-      "y": 1430
+      "y": 1200,
+      "antes": "¿Te digo qué sacaría\nde tus manos primero?"
      }
     ]
    }
