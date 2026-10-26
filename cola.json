@@ -136,6 +136,14 @@
     "tipo": "viral"
   },
   {
+    "fecha": "2026-10-26",
+    "hora": "09:00",
+    "video": "videos/fabrica-catorce-dias.mp4",
+    "historia": "historias/fabrica-catorce-dias.mp4",
+    "caption": "¿Cómo se monta una fábrica de inteligencia artificial en solo 14 días? Nvidia la mete entera en un contenedor, como los de los barcos.\n\nOrdenadores, cables, electricidad y refrigeración llegan montados y probados: en el sitio, que ya tiene que estar preparado, solo hay que enchufarla. Antes eran unos seis meses; las primeras llegarán a principios de 2027. Fuente: NVIDIA, nota de prensa de DSX POD en GTC Berlín (21-10-2026).",
+    "tipo": "actualidad"
+  },
+  {
     "hora": "19:00",
     "video": "videos/aviones-curva.mp4",
     "historia": "historias/aviones-curva.mp4",
