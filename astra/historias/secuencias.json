@@ -1,0 +1,68 @@
+[
+{"fecha":"2026-10-27","tema":"preguntas repetidas","frames":[
+ {"img":"banco/18.jpg","kicker":"SI TIENES UN NEGOCIO","text":"¿Cuántas horas a la semana pierdes **contestando lo mismo?**","foco":0.45},
+ {"img":"banco/03.jpg","text":"Horarios, precios, citas, cambios…\nSiempre **las mismas preguntas.**","sub":"Y cada respuesta te quita tiempo."},
+ {"img":"banco/20.jpg","text":"Lo que monto yo: un sistema que **contesta, agenda y hace seguimiento** solo.","sub":"Con tu tono. Las 24 horas."},
+ {"img":"banco/17.jpg","text":"Tú a lo tuyo.\nTu negocio **sigue respondiendo.**"},
+ {"img":"banco/04.jpg","text":"Te digo qué automatizaría **primero** en tu negocio.","cta":"SISTEMA","foco":0.4}]},
+{"fecha":"2026-10-28","tema":"clientes que no vuelven","frames":[
+ {"img":"banco/09.jpg","kicker":"PIÉNSALO UN SEGUNDO","text":"¿Cuántos clientes vinieron una vez **y no volvieron?**"},
+ {"img":"banco/03.jpg","text":"No es que no les gustara.\nEs que **nadie les volvió a escribir.**"},
+ {"img":"banco/20.jpg","text":"Un sistema detecta quién lleva tiempo sin venir y le escribe **en el momento justo.**","sub":"Personal. Con tu tono."},
+ {"img":"banco/05.jpg","text":"Sin que tengas que **acordarte de nadie.**"},
+ {"img":"banco/18.jpg","text":"Te enseño cómo funcionaría **en tu negocio.**","cta":"VOLVER","foco":0.45}]},
+{"fecha":"2026-10-29","tema":"llamadas perdidas","frames":[
+ {"img":"banco/17.jpg","kicker":"DUEÑOS DE NEGOCIO","text":"Estás atendiendo.\nSuena el teléfono.\n**No puedes cogerlo.**"},
+ {"img":"banco/13.jpg","text":"Ese cliente no deja mensaje.\n**Llama al siguiente.**","foco":0.6},
+ {"img":"banco/20.jpg","text":"Un agente de voz **coge la llamada,** resuelve la duda y **agenda la cita.**"},
+ {"img":"banco/16.jpg","text":"Tú sigues con lo tuyo.\n**Ninguna llamada se pierde.**"},
+ {"img":"banco/02.jpg","text":"Te cuento cómo quedaría **en tu negocio.**","cta":"LLAMADAS"}]},
+{"fecha":"2026-10-30","tema":"detrás de cámaras","frames":[
+ {"img":"banco/20.jpg","kicker":"DETRÁS DE CÁMARAS","text":"Así es una noche **montando un sistema.**"},
+ {"img":"banco/03.jpg","text":"Primero entiendo **cómo trabaja el negocio.**","sub":"Qué preguntan los clientes. Qué se repite."},
+ {"img":"banco/07.jpg","text":"Después lo construyo para que **funcione solo.**","foco":0.55},
+ {"img":"banco/18.jpg","text":"Y lo pruebo hasta que **no falla.**","foco":0.45},
+ {"img":"banco/04.jpg","text":"¿Quieres uno así **para tu negocio?**","cta":"SISTEMA","foco":0.4}]},
+{"fecha":"2026-10-31","tema":"automatizar no es perder el trato","frames":[
+ {"img":"banco/08.jpg","kicker":"MITO","text":"«Si automatizo, **pierdo el trato personal.»**"},
+ {"img":"banco/09.jpg","text":"Al revés.\nEl trato se pierde cuando **contestas tarde y con prisa.**"},
+ {"img":"banco/03.jpg","text":"El sistema se queda con **lo repetitivo.**","sub":"Horarios, citas, recordatorios."},
+ {"img":"banco/10.jpg","text":"Tú te quedas con **lo que importa:** tus clientes.","foco":0.4},
+ {"img":"banco/18.jpg","text":"Te digo qué parte de tu negocio **se puede automatizar.**","cta":"TRATO","foco":0.45}]},
+{"fecha":"2026-11-01","tema":"haz la cuenta","frames":[
+ {"img":"banco/13.jpg","kicker":"HAZ ESTA CUENTA","text":"¿Cuánto tiempo al día se te va en **WhatsApp y llamadas?**","foco":0.6},
+ {"img":"banco/03.jpg","text":"Pongamos **1 hora al día.**","sub":"Son unas 22 horas al mes en días laborables."},
+ {"img":"banco/20.jpg","text":"Casi **tres jornadas enteras** cada mes contestando lo mismo."},
+ {"img":"banco/14.jpg","text":"Ese tiempo **se puede recuperar.**"},
+ {"img":"banco/04.jpg","text":"Te ayudo a calcular **lo que pierdes tú.**","cta":"HORAS","foco":0.4}]},
+{"fecha":"2026-11-02","tema":"citas que no se presentan","frames":[
+ {"img":"banco/02.jpg","kicker":"SI TRABAJAS CON CITAS","text":"El cliente reserva.\n**Y no aparece.**"},
+ {"img":"banco/05.jpg","text":"Ese hueco **ya no lo llenas.**"},
+ {"img":"banco/20.jpg","text":"El sistema **le recuerda la cita** y, si no puede venir, **la cambia** solo."},
+ {"img":"banco/18.jpg","text":"Menos huecos vacíos.\n**Cero llamadas para confirmar.**","foco":0.45},
+ {"img":"banco/03.jpg","text":"Te enseño cómo funciona **con tu agenda.**","cta":"CITAS"}]},
+{"fecha":"2026-11-03","tema":"clientes que escriben de noche","frames":[
+ {"img":"banco/15.jpg","kicker":"23:47","text":"Un cliente te escribe.\n**Tú estás durmiendo.**"},
+ {"img":"banco/20.jpg","text":"Por la mañana contestas.\nÉl **ya reservó en otro sitio.**"},
+ {"img":"banco/03.jpg","text":"Con un sistema, **le contestan al momento.**","sub":"Le resuelve la duda y le deja la cita hecha."},
+ {"img":"banco/16.jpg","text":"Tú te levantas con **la agenda más llena.**"},
+ {"img":"banco/18.jpg","text":"Te cuento cómo montarlo **en tu negocio.**","cta":"NOCHE","foco":0.45}]},
+{"fecha":"2026-11-04","tema":"rodearse de gente que construye","frames":[
+ {"img":"banco/01.jpg","kicker":"LO QUE HE APRENDIDO","text":"Los negocios que crecen **no hacen más horas.**"},
+ {"img":"banco/19.jpg","text":"Miden.\nY **automatizan lo que se repite.**"},
+ {"img":"banco/09.jpg","text":"Rodéate de gente que **construye sistemas,** no de gente que apaga fuegos."},
+ {"img":"banco/12.jpg","text":"El tiempo que recuperas es **para crecer.**"},
+ {"img":"banco/04.jpg","text":"Te digo por dónde **empezaría yo** en tu negocio.","cta":"SISTEMA","foco":0.4}]},
+{"fecha":"2026-11-05","tema":"reseñas","frames":[
+ {"img":"banco/10.jpg","kicker":"PREGUNTA","text":"¿Cuántos clientes contentos **nunca te dejan una reseña?**","foco":0.4},
+ {"img":"banco/08.jpg","text":"No es que no quieran.\nEs que **nadie se lo pide.**"},
+ {"img":"banco/20.jpg","text":"El sistema escribe después de la visita y **pide la reseña en el momento justo.**"},
+ {"img":"banco/14.jpg","text":"Más reseñas.\n**Más clientes nuevos que te eligen.**"},
+ {"img":"banco/18.jpg","text":"Te enseño cómo lo haría **en tu negocio.**","cta":"RESEÑAS","foco":0.45}]},
+{"fecha":"2026-11-06","tema":"el dueño es el cuello de botella","frames":[
+ {"img":"banco/11.jpg","kicker":"SÉ SINCERO","text":"Si te vas una semana,\n¿tu negocio **sigue funcionando?**"},
+ {"img":"banco/17.jpg","text":"Si la respuesta es no,\n**el cuello de botella eres tú.**"},
+ {"img":"banco/03.jpg","text":"Lo que se repite **se puede sistematizar.**","sub":"Mensajes, citas, seguimientos, avisos."},
+ {"img":"banco/16.jpg","text":"Y tú vuelves a **dirigir tu negocio.**"},
+ {"img":"banco/04.jpg","text":"Te digo qué sacaría **de tus manos** primero.","cta":"SISTEMA","foco":0.4}]}
+]

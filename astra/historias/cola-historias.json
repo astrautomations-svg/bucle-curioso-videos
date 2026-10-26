@@ -1,0 +1,145 @@
+[
+ {
+  "fecha": "2026-10-27",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "preguntas repetidas",
+  "frames": [
+   "astra/historias/2026-10-27/01.jpg",
+   "astra/historias/2026-10-27/02.jpg",
+   "astra/historias/2026-10-27/03.jpg",
+   "astra/historias/2026-10-27/04.jpg",
+   "astra/historias/2026-10-27/05.jpg"
+  ]
+ },
+ {
+  "fecha": "2026-10-28",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "clientes que no vuelven",
+  "frames": [
+   "astra/historias/2026-10-28/01.jpg",
+   "astra/historias/2026-10-28/02.jpg",
+   "astra/historias/2026-10-28/03.jpg",
+   "astra/historias/2026-10-28/04.jpg",
+   "astra/historias/2026-10-28/05.jpg"
+  ]
+ },
+ {
+  "fecha": "2026-10-29",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "llamadas perdidas",
+  "frames": [
+   "astra/historias/2026-10-29/01.jpg",
+   "astra/historias/2026-10-29/02.jpg",
+   "astra/historias/2026-10-29/03.jpg",
+   "astra/historias/2026-10-29/04.jpg",
+   "astra/historias/2026-10-29/05.jpg"
+  ]
+ },
+ {
+  "fecha": "2026-10-30",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "detrás de cámaras",
+  "frames": [
+   "astra/historias/2026-10-30/01.jpg",
+   "astra/historias/2026-10-30/02.jpg",
+   "astra/historias/2026-10-30/03.jpg",
+   "astra/historias/2026-10-30/04.jpg",
+   "astra/historias/2026-10-30/05.jpg"
+  ]
+ },
+ {
+  "fecha": "2026-10-31",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "automatizar no es perder el trato",
+  "frames": [
+   "astra/historias/2026-10-31/01.jpg",
+   "astra/historias/2026-10-31/02.jpg",
+   "astra/historias/2026-10-31/03.jpg",
+   "astra/historias/2026-10-31/04.jpg",
+   "astra/historias/2026-10-31/05.jpg"
+  ]
+ },
+ {
+  "fecha": "2026-11-01",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "haz la cuenta",
+  "frames": [
+   "astra/historias/2026-11-01/01.jpg",
+   "astra/historias/2026-11-01/02.jpg",
+   "astra/historias/2026-11-01/03.jpg",
+   "astra/historias/2026-11-01/04.jpg",
+   "astra/historias/2026-11-01/05.jpg"
+  ]
+ },
+ {
+  "fecha": "2026-11-02",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "citas que no se presentan",
+  "frames": [
+   "astra/historias/2026-11-02/01.jpg",
+   "astra/historias/2026-11-02/02.jpg",
+   "astra/historias/2026-11-02/03.jpg",
+   "astra/historias/2026-11-02/04.jpg",
+   "astra/historias/2026-11-02/05.jpg"
+  ]
+ },
+ {
+  "fecha": "2026-11-03",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "clientes que escriben de noche",
+  "frames": [
+   "astra/historias/2026-11-03/01.jpg",
+   "astra/historias/2026-11-03/02.jpg",
+   "astra/historias/2026-11-03/03.jpg",
+   "astra/historias/2026-11-03/04.jpg",
+   "astra/historias/2026-11-03/05.jpg"
+  ]
+ },
+ {
+  "fecha": "2026-11-04",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "rodearse de gente que construye",
+  "frames": [
+   "astra/historias/2026-11-04/01.jpg",
+   "astra/historias/2026-11-04/02.jpg",
+   "astra/historias/2026-11-04/03.jpg",
+   "astra/historias/2026-11-04/04.jpg",
+   "astra/historias/2026-11-04/05.jpg"
+  ]
+ },
+ {
+  "fecha": "2026-11-05",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "reseñas",
+  "frames": [
+   "astra/historias/2026-11-05/01.jpg",
+   "astra/historias/2026-11-05/02.jpg",
+   "astra/historias/2026-11-05/03.jpg",
+   "astra/historias/2026-11-05/04.jpg",
+   "astra/historias/2026-11-05/05.jpg"
+  ]
+ },
+ {
+  "fecha": "2026-11-06",
+  "hora": "13",
+  "estado": "aprobado",
+  "tema": "el dueño es el cuello de botella",
+  "frames": [
+   "astra/historias/2026-11-06/01.jpg",
+   "astra/historias/2026-11-06/02.jpg",
+   "astra/historias/2026-11-06/03.jpg",
+   "astra/historias/2026-11-06/04.jpg",
+   "astra/historias/2026-11-06/05.jpg"
+  ]
+ }
+]
