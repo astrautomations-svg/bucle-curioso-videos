@@ -318,5 +318,13 @@
     "hora": "19:00",
     "historia": "historias/cuevas-luna.mp4",
     "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-10-27",
+    "hora": "09:00",
+    "video": "videos/ia-en-espanol.mp4",
+    "historia": "historias/ia-en-espanol.mp4",
+    "caption": "¿Por qué hablarle a una IA en español cuesta más que en inglés? Porque no lee palabras: las corta en trozos (tokens), y se paga por trozo.\n\n«Dishwasher» es un solo token; «lavavajillas», cuatro. El mismo texto en español gasta entre un 10 y un 30 % más, y en un estudio con 200 idiomas hubo hasta 17 veces más. Fuentes: Coalition for Language Equity in AI Research (vía Rest of World, 26-10-2026) y cálculo propio con el tokenizador de GPT-4o.",
+    "tipo": "actualidad"
   }
 ]
