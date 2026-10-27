@@ -1,7 +1,7 @@
 [
  {
   "fecha": "2026-10-27",
-  "hora": "19:30",
+  "hora": "13:30",
   "estado": "aprobado",
   "video": "astra/asi-funciona-por-dentro.mp4",
   "portada": "astra/asi-funciona-por-dentro.jpg",
@@ -9,7 +9,7 @@
  },
  {
   "fecha": "2026-10-28",
-  "hora": "19:30",
+  "hora": "13:30",
   "estado": "aprobado",
   "video": "astra/tu-recepcionista.mp4",
   "portada": "astra/tu-recepcionista.jpg",
@@ -17,7 +17,7 @@
  },
  {
   "fecha": "2026-10-29",
-  "hora": "19:30",
+  "hora": "13:30",
   "estado": "aprobado",
   "video": "astra/el-cliente-que-no-vuelve.mp4",
   "portada": "astra/el-cliente-que-no-vuelve.jpg",
@@ -25,7 +25,7 @@
  },
  {
   "fecha": "2026-10-30",
-  "hora": "19:30",
+  "hora": "13:30",
   "estado": "aprobado",
   "video": "astra/reel-mientras-tu-duermes.mp4",
   "portada": "astra/portada-mientras-tu-duermes.jpg",

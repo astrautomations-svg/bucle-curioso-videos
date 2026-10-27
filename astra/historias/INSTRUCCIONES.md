@@ -1,11 +1,11 @@
 # Historias diarias de @astra.automations
 
-n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) publica cada día a las 13:00 (Madrid) la entrada de `cola-historias.json` con la fecha de hoy y `estado: "aprobado"`.
+n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) publica cada día a las 9:30 (Madrid) la entrada de `cola-historias.json` con la fecha de hoy y `estado: "aprobado"`.
 
 ## Cómo se genera una secuencia
 1. Añade la secuencia a `motor/secuencias_fuente.py` (lista `S`, formato v4: lee el docstring de `motor/historias.py` y copia el estilo de las secuencias que ya hay) y ejecútalo: escribe `secuencias.json`.
 2. Para cada fecha nueva: `python3 motor/historias.py spec.json AAAA-MM-DD` (spec = `{"root": "<esta carpeta>", "seed": "AAAA-MM-DD", "frames": [...]}`).
-3. Añade a `cola-historias.json`: `{"fecha", "hora": "13", "estado": "aprobado", "tema", "frames": ["astra/historias/AAAA-MM-DD/01.jpg", ...]}`.
+3. Añade a `cola-historias.json`: `{"fecha", "hora": "09:30", "estado": "aprobado", "tema", "frames": ["astra/historias/AAAA-MM-DD/01.jpg", ...]}`.
 4. Revisa las imágenes a ojo, haz commit y push a `main`.
 
 ## Reglas (de Astra)
