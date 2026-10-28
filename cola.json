@@ -161,6 +161,14 @@
   },
   {
     "fecha": "2026-10-27",
+    "hora": "09:00",
+    "video": "videos/ia-en-espanol.mp4",
+    "historia": "historias/ia-en-espanol.mp4",
+    "caption": "¿Por qué hablarle a una IA en español cuesta más que en inglés? Porque no lee palabras: las corta en trozos (tokens), y se paga por trozo.\n\n«Dishwasher» es un solo token; «lavavajillas», cuatro. El mismo texto en español gasta entre un 10 y un 30 % más, y en un estudio con 200 idiomas hubo hasta 17 veces más. Fuentes: Coalition for Language Equity in AI Research (vía Rest of World, 26-10-2026) y cálculo propio con el tokenizador de GPT-4o.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-27",
     "hora": "14:00",
     "video": "videos/ruleta.mp4",
     "historia": "historias/ruleta.mp4",
@@ -177,11 +185,27 @@
   },
   {
     "fecha": "2026-10-28",
+    "hora": "09:00",
+    "video": "videos/chips-diamante.mp4",
+    "historia": "historias/chips-diamante.mp4",
+    "caption": "¿Por qué los chips de IA van a llevar diamantes? Para no quemarse: el diamante lleva el calor unas cinco veces mejor que el cobre.\n\nUn chip de IA puede gastar unos 1.000 vatios, como un microondas, y fabricantes chinos ya venden láminas de diamante para enfriarlos. España invertirá 753 millones en una fábrica de diamante para chips en Trujillo. Fuentes: Reuters (26-10-2026), Coherent y Tom's Hardware.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-28",
     "hora": "14:00",
     "video": "videos/centimo-doble.mp4",
     "historia": "historias/centimo-doble.mp4",
     "caption": "¿Un millón de euros ahora o un céntimo que se duplica cada día durante 30 días? El céntimo acaba en 5.368.709,12 €.\nAsí funciona el crecimiento exponencial: cada día suma tanto como todos los anteriores juntos, y la mitad llega el último día. Cálculo propio.",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-10-28",
+    "hora": "17:45",
+    "video": "videos/accidente-urda.mp4",
+    "historia": "historias/pesame-urda.mp4",
+    "caption": "Accidente ferroviario cerca de Urda (Toledo): lo que se sabe a las 17:00 del 28 de octubre. Un AVE de Renfe alcanzó por detrás a un tren de Iryo detenido en la línea de alta velocidad Madrid-Sevilla. Cifras provisionales: al menos 68 fallecidos, según el Gobierno de Castilla-La Mancha, y cerca de 80 heridos, 15 de ellos graves, según el Ministerio de Sanidad. Adif lo ha descrito como un alcance.\nLa causa está en investigación (juzgado de Orgaz). Lo que se cuenta del fallo del sistema de control son declaraciones del Ministerio de Transportes, pendientes de confirmar. Teléfono de Renfe para familiares: 900 10 10 20. Nuestro más sentido pésame a las víctimas y a sus familias.",
+    "tipo": "actualidad"
   },
   {
     "hora": "19:00",
@@ -318,21 +342,5 @@
     "hora": "19:00",
     "historia": "historias/cuevas-luna.mp4",
     "tipo": "reserva"
-  },
-  {
-    "fecha": "2026-10-27",
-    "hora": "09:00",
-    "video": "videos/ia-en-espanol.mp4",
-    "historia": "historias/ia-en-espanol.mp4",
-    "caption": "¿Por qué hablarle a una IA en español cuesta más que en inglés? Porque no lee palabras: las corta en trozos (tokens), y se paga por trozo.\n\n«Dishwasher» es un solo token; «lavavajillas», cuatro. El mismo texto en español gasta entre un 10 y un 30 % más, y en un estudio con 200 idiomas hubo hasta 17 veces más. Fuentes: Coalition for Language Equity in AI Research (vía Rest of World, 26-10-2026) y cálculo propio con el tokenizador de GPT-4o.",
-    "tipo": "actualidad"
-  },
-  {
-    "fecha": "2026-10-28",
-    "hora": "09:00",
-    "video": "videos/chips-diamante.mp4",
-    "historia": "historias/chips-diamante.mp4",
-    "caption": "¿Por qué los chips de IA van a llevar diamantes? Para no quemarse: el diamante lleva el calor unas cinco veces mejor que el cobre.\n\nUn chip de IA puede gastar unos 1.000 vatios, como un microondas, y fabricantes chinos ya venden láminas de diamante para enfriarlos. España invertirá 753 millones en una fábrica de diamante para chips en Trujillo. Fuentes: Reuters (26-10-2026), Coherent y Tom's Hardware.",
-    "tipo": "actualidad"
   }
 ]
