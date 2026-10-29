@@ -38,7 +38,7 @@ S = [
  f(3, T('LA SOLUCIÓN:', 260, rot=-2), L('Un agente de voz coge la llamada', 480, 'azul', 'telephone-receiver', x='l', rot=-2),
    L('Resuelve la duda', 640, 'verde', 'check-mark-button', x='r', lado='i', rot=2), L('Y agenda la cita', 1300, 'amarillo', 'logo-googlecalendar', x='l', rot=-1)),
  f(16, NUM('24/7', 560, 'aunque tú no estés')),
- f(2, CTA('LLAMADAS', 1150, '¿Cuántas llamadas pierdes\na la semana?'))]),
+ fc(39, CTA('LLAMADAS', 1150, '¿Cuántas llamadas pierdes\na la semana?'), foco=0.3)]),
 ('2026-10-30', 'detrás de cámaras', [
  f(20, T('DETRÁS DE CÁMARAS', 260, rot=-2), X('Así se ve una noche\nmontando un sistema', 480), ICS(['logo-whatsapp', 'logo-n8n', 'logo-googlecalendar'], 1300)),
  f(7, L('1. Entiendo cómo trabaja el negocio', 420, 'blanco', 'magnifying-glass-tilted-left', x='l', rot=-2),

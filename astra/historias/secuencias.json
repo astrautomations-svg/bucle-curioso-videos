@@ -391,7 +391,7 @@
     ]
    },
    {
-    "img": "banco/02.jpg",
+    "img": "banco/39.jpg",
     "bloques": [
      {
       "tipo": "cta",
@@ -399,7 +399,14 @@
       "y": 1150,
       "antes": "¿Cuántas llamadas pierdes\na la semana?"
      }
-    ]
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
    }
   ]
  },
