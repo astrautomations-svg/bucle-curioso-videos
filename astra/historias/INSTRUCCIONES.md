@@ -20,7 +20,7 @@ n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada
 - La foto acompaña lo que dice esa historia.
 - No juntes fotos parecidas en la misma secuencia. Grupos de parecidas en `banco/`:
   - escritorio de noche: 03, 20, 25
-  - él con el portátil: 02, 18, 27, 38, 39
+  - él con el portátil: 02, 18, 27, 38, 39 (la 02 NO sirve en vertical: él sale en el borde y el recorte deja solo la mochila)
   - terraza: 04, 05, 07, 29
   - cenas y restaurante: 06, 08, 09, 10, 26, 30, 31
   - coches: 11, 21, 22, 23, 24
