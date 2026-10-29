@@ -1,34 +1,58 @@
 [
- {
-  "fecha": "2026-10-27",
-  "hora": "13:30",
-  "estado": "aprobado",
-  "video": "astra/asi-funciona-por-dentro.mp4",
-  "portada": "astra/asi-funciona-por-dentro.jpg",
-  "caption": "Esto es lo que pasa por dentro cuando un paciente escribe a una clínica con un sistema montado por nosotros 👇\n\n⚡ Entra por la API oficial de WhatsApp\n⏳ Espera a que termine de escribir y lo junta todo\n🎙️ Entiende notas de voz\n📅 Solo ofrece huecos reales de la agenda\n🚨 Si detecta una señal de riesgo, para y avisa al equipo\n\nNo es un chatbot. Es un sistema.\n\n💬 Comenta SISTEMA y te cuento cómo sería en tu negocio.\n\n#automatizacion #inteligenciaartificial #clinicas #psicologia #whatsappbusiness #n8n #pymes #emprendedores"
- },
- {
-  "fecha": "2026-10-28",
-  "hora": "13:30",
-  "estado": "aprobado",
-  "video": "astra/tu-recepcionista.mp4",
-  "portada": "astra/tu-recepcionista.jpg",
-  "caption": "Tu recepcionista no es el problema. El problema es que la tienes contestando WhatsApps todo el día 📱\n\nHorarios, citas, «¿tenéis hueco el jueves?»… Eso ya lo puede hacer un sistema, de forma automática y con tu tono.\n\nY tu recepcionista hace lo que de verdad necesita una persona: cuidar de tus pacientes.\n\nNo se trata de quitar a nadie. Se trata de que tu equipo deje de ser un contestador.\n\n💬 Comenta EQUIPO y te digo qué parte de tu recepción se puede automatizar.\n\n#automatizacion #recepcion #clinicas #whatsappbusiness #pymes #inteligenciaartificial #atencionalcliente"
- },
- {
-  "fecha": "2026-10-29",
-  "hora": "13:30",
-  "estado": "aprobado",
-  "video": "astra/el-cliente-que-no-vuelve.mp4",
-  "portada": "astra/el-cliente-que-no-vuelve.jpg",
-  "caption": "El cliente más caro de tu negocio es el que ya tenías… y no ha vuelto 💸\n\nConseguir uno nuevo cuesta anuncios, tiempo y boca a boca. Pero en tu agenda hay gente que ya confió en ti y simplemente nadie le volvió a escribir.\n\nUn sistema detecta quién lleva tiempo sin venir y le escribe un mensaje personal, con tu tono y en el momento justo. Sin que tengas que acordarte de nadie.\n\n💬 Comenta VOLVER y te cuento cómo funcionaría en tu negocio.\n\n#automatizacion #fidelizacion #pymes #clinicas #whatsappbusiness #inteligenciaartificial #emprendedores"
- },
- {
-  "fecha": "2026-10-30",
-  "hora": "13:30",
-  "estado": "aprobado",
-  "video": "astra/reel-mientras-tu-duermes.mp4",
-  "portada": "astra/portada-mientras-tu-duermes.jpg",
-  "caption": "Mientras tú duermes, tu competencia está cerrando citas 🌙\n\nNo es que trabajen más que tú.\nEs que tienen un sistema que contesta por ellos.\n\nAlguien escribe a las 23:00 → recibe respuesta al momento → elige hueco → por la mañana la cita ya está en la agenda.\n\nA ti ese mismo mensaje te llega… y lo ves a las 9, cuando ya ha reservado en otro sitio.\n\nLa diferencia no es tu servicio. Es la velocidad. ⚡\n\n👉 Comenta AGENDA y te enseño cómo funcionaría en tu negocio.\n\n#automatizacion #negocios #pymes #whatsappbusiness #citas #emprendedores #inteligenciaartificial"
- }
+  {
+    "fecha": "2026-10-27",
+    "hora": "13:30",
+    "estado": "aprobado",
+    "video": "astra/asi-funciona-por-dentro.mp4",
+    "portada": "astra/asi-funciona-por-dentro.jpg",
+    "caption": "Esto es lo que pasa por dentro cuando un paciente escribe a una clínica con un sistema montado por nosotros 👇\n\n⚡ Entra por la API oficial de WhatsApp\n⏳ Espera a que termine de escribir y lo junta todo\n🎙️ Entiende notas de voz\n📅 Solo ofrece huecos reales de la agenda\n🚨 Si detecta una señal de riesgo, para y avisa al equipo\n\nNo es un chatbot. Es un sistema.\n\n💬 Comenta SISTEMA y te cuento cómo sería en tu negocio.\n\n#automatizacion #inteligenciaartificial #clinicas #psicologia #whatsappbusiness #n8n #pymes #emprendedores"
+  },
+  {
+    "fecha": "2026-10-28",
+    "hora": "13:30",
+    "estado": "aprobado",
+    "video": "astra/tu-recepcionista.mp4",
+    "portada": "astra/tu-recepcionista.jpg",
+    "caption": "Tu recepcionista no es el problema. El problema es que la tienes contestando WhatsApps todo el día 📱\n\nHorarios, citas, «¿tenéis hueco el jueves?»… Eso ya lo puede hacer un sistema, de forma automática y con tu tono.\n\nY tu recepcionista hace lo que de verdad necesita una persona: cuidar de tus pacientes.\n\nNo se trata de quitar a nadie. Se trata de que tu equipo deje de ser un contestador.\n\n💬 Comenta EQUIPO y te digo qué parte de tu recepción se puede automatizar.\n\n#automatizacion #recepcion #clinicas #whatsappbusiness #pymes #inteligenciaartificial #atencionalcliente"
+  },
+  {
+    "fecha": "2026-10-29",
+    "hora": "13:30",
+    "estado": "aprobado",
+    "video": "astra/el-cliente-que-no-vuelve.mp4",
+    "portada": "astra/el-cliente-que-no-vuelve.jpg",
+    "caption": "El cliente más caro de tu negocio es el que ya tenías… y no ha vuelto 💸\n\nConseguir uno nuevo cuesta anuncios, tiempo y boca a boca. Pero en tu agenda hay gente que ya confió en ti y simplemente nadie le volvió a escribir.\n\nUn sistema detecta quién lleva tiempo sin venir y le escribe un mensaje personal, con tu tono y en el momento justo. Sin que tengas que acordarte de nadie.\n\n💬 Comenta VOLVER y te cuento cómo funcionaría en tu negocio.\n\n#automatizacion #fidelizacion #pymes #clinicas #whatsappbusiness #inteligenciaartificial #emprendedores"
+  },
+  {
+    "fecha": "2026-10-30",
+    "hora": "13:30",
+    "estado": "aprobado",
+    "video": "astra/reel-mientras-tu-duermes.mp4",
+    "portada": "astra/portada-mientras-tu-duermes.jpg",
+    "caption": "Mientras tú duermes, tu competencia está cerrando citas 🌙\n\nNo es que trabajen más que tú.\nEs que tienen un sistema que contesta por ellos.\n\nAlguien escribe a las 23:00 → recibe respuesta al momento → elige hueco → por la mañana la cita ya está en la agenda.\n\nA ti ese mismo mensaje te llega… y lo ves a las 9, cuando ya ha reservado en otro sitio.\n\nLa diferencia no es tu servicio. Es la velocidad. ⚡\n\n👉 Comenta AGENDA y te enseño cómo funcionaría en tu negocio.\n\n#automatizacion #negocios #pymes #whatsappbusiness #citas #emprendedores #inteligenciaartificial"
+  },
+  {
+    "fecha": "2026-10-31",
+    "hora": "13:30",
+    "estado": "aprobado",
+    "video": "astra/reel-si-te-prometen-todo.mp4",
+    "portada": "astra/portada-si-te-prometen-todo.jpg",
+    "caption": "Si una agencia te promete automatizarlo TODO en tu negocio, sal corriendo 🏃‍♂️\n\nNo todo se tiene que automatizar. Quien te diga lo contrario, te está vendiendo humo.\n\n✅ Lo que sí: lo repetitivo. Horarios, citas, recordatorios… lo que tu equipo hace 50 veces al día.\n❌ Lo que no: lo delicado y lo que necesita criterio. Una queja seria, un caso difícil, un cliente que necesita a una persona.\n\nUn buen sistema detecta eso y se lo pasa a tu equipo al instante.\n\nAutomatizar bien no es meterlo en todo. Es saber dónde sí y dónde no.\n\n👉 Comenta CRITERIO y te digo qué automatizaría yo en tu negocio (y qué no).\n\n#automatizacion #negocios #pymes #emprendedores #inteligenciaartificial #atencionalcliente"
+  },
+  {
+    "fecha": "2026-11-02",
+    "hora": "13:30",
+    "estado": "aprobado",
+    "video": "astra/reel-la-llamada-que-no-coges.mp4",
+    "portada": "astra/portada-la-llamada-que-no-coges.jpg",
+    "caption": "Cada llamada que no coges es un cliente llamando a tu competencia 📞\n\nEstás con un cliente, suena el teléfono y no puedes cogerlo. Normal.\nEl problema es que esa persona no va a esperar: va a llamar al siguiente de Google.\n\nHoy un agente de voz con IA puede coger esa llamada por ti:\n✅ Con tu nombre y tu forma de hablar\n✅ Da cita y resuelve dudas\n✅ Te envía un resumen\n✅ Y si es algo que tienes que ver tú, te pasa la llamada\n\nTú sigues atendiendo al que tienes delante y no pierdes al que te está llamando.\n\n👉 Comenta LLAMADA y te enseño cómo sonaría en tu negocio.\n\n#agentedevoz #inteligenciaartificial #negocios #pymes #automatizacion #atencionalcliente"
+  },
+  {
+    "fecha": "2026-11-03",
+    "hora": "13:30",
+    "estado": "aprobado",
+    "video": "astra/reel-haz-esta-cuenta.mp4",
+    "portada": "astra/portada-haz-esta-cuenta.jpg",
+    "caption": "Haz esta cuenta en tu negocio. Vas a flipar con lo que te sale 🤯\n\n30 WhatsApps al día × 2 minutos cada uno (buscar hueco + escribir) = 1 hora al día.\n1 hora × los días laborables del mes = 22 horas al mes.\n\nCasi 3 jornadas enteras al mes contestando lo mismo.\n\nAhora haz la cuenta con tus números y piensa qué harías tú con esas horas. Y sé honesto.\n\n👉 Comenta HORAS y te digo cuántas podrías ahorrarte en tu caso.\n\n#automatizacion #whatsappbusiness #negocios #pymes #productividad #emprendedores"
+  }
 ]
