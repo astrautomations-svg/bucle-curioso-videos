@@ -225,6 +225,14 @@
   },
   {
     "fecha": "2026-10-29",
+    "hora": "14:00",
+    "video": "videos/demostracion-larga.mp4",
+    "historia": "historias/demostracion-larga.mp4",
+    "caption": "¿Cómo se comprueba una demostración de 15.000 páginas, escrita por cien matemáticos durante cuarenta años? Unos agentes de IA la han traducido a código en 24 días.\n\n43 millones de líneas, cada paso revisado por un programa, y 34 diferencias encontradas con lo publicado. ¿Te fiarías más de la máquina o de las personas?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-29",
     "video": "videos/baraja.mp4",
     "caption": "¿Cuántas veces se ha repetido en la historia el orden de una baraja bien mezclada? Seguramente ni una sola.\n\nHay 52 × 51 × 50 × … órdenes posibles: un número de 68 cifras. Cada vez que barajas bien, creas algo único. ¿Lo sabías?",
     "hora": "19:00",
