@@ -1,6 +1,6 @@
 # Historias diarias de @astra.automations
 
-n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) publica cada día a las 9:30 (Madrid) la entrada de `cola-historias.json` con la fecha de hoy y `estado: "aprobado"`.
+n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada día las historias de la entrada de `cola-historias.json` con la fecha de hoy y `estado: "aprobado"` entre las 9:30 y las 21:30 (Madrid), una a una; la última (CTA) sale por la tarde-noche (horarios por número de historias en el nodo «Historias de hoy»).
 
 ## Cómo se genera una secuencia
 1. Añade la secuencia a `motor/secuencias_fuente.py` (lista `S`, formato v4: lee el docstring de `motor/historias.py` y copia el estilo de las secuencias que ya hay) y ejecútalo: escribe `secuencias.json`.
