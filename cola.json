@@ -240,6 +240,14 @@
     "tipo": "viral"
   },
   {
+    "fecha": "2026-10-30",
+    "hora": "09:00",
+    "video": "videos/mac-tactil.mp4",
+    "historia": "historias/mac-tactil.mp4",
+    "caption": "¿Por qué Apple nunca había puesto una pantalla táctil en un Mac? En 2010 Steve Jobs dijo que no funcionaba: con la pantalla de pie, el brazo se cansa («brazo de gorila») y la pantalla se balancea al tocarla.\n\nEl nuevo MacBook Pro (28-10-2026) lo intenta con el sensor dentro de la pantalla, una bisagra más firme y el teclado y el trackpad de siempre. Fuente: Apple Newsroom. ¿Tú tocarías la pantalla de tu portátil?",
+    "tipo": "actualidad"
+  },
+  {
     "hora": "19:00",
     "video": "videos/cubo-rubik.mp4",
     "historia": "historias/cubo-rubik.mp4",
