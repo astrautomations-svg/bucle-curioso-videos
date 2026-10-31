@@ -280,12 +280,12 @@
     "tipo": "actualidad"
   },
   {
+    "fecha": "2026-10-31",
     "hora": "19:00",
-    "video": "videos/camion-palomas.mp4",
-    "historia": "historias/camion-palomas.mp4",
-    "caption": "Si las palomas de un camión cerrado echan a volar, ¿pesa menos el camión? No: para sostenerse empujan aire hacia abajo, y ese aire acaba empujando el suelo del camión.\nSolo al despegar cambia un poco lo que marca la báscula; con una jaula de rejilla, sí pesaría menos. Fuentes: MythBusters (2007), investigadores de Stanford.",
-    "tipo": "viral",
-    "fecha": "2026-10-31"
+    "video": "videos/caida-tecnologicas.mp4",
+    "historia": "historias/caida-tecnologicas.mp4",
+    "caption": "¿Por qué se están hundiendo en bolsa las grandes tecnológicas? Alphabet perdió casi medio billón de dólares en un día (casi un 13 %, su peor día desde que salió a bolsa) e Intel cayó un 28,6 %.\n\nEl motivo de fondo: el enorme gasto en centros de datos para inteligencia artificial. El dinero sale ya y los inversores dudan de que los beneficios lleguen tan pronto como esperaban. Datos de Yahoo Finance e Infobae/Bloomberg (29 y 30 de octubre de 2026). Esto es información, no una recomendación de inversión.",
+    "tipo": "viral"
   },
   {
     "fecha": "2026-11-01",
@@ -390,5 +390,13 @@
     "hora": "19:00",
     "historia": "historias/cuevas-luna.mp4",
     "tipo": "reserva"
+  },
+  {
+    "hora": "19:00",
+    "video": "videos/camion-palomas.mp4",
+    "historia": "historias/camion-palomas.mp4",
+    "caption": "Si las palomas de un camión cerrado echan a volar, ¿pesa menos el camión? No: para sostenerse empujan aire hacia abajo, y ese aire acaba empujando el suelo del camión.\nSolo al despegar cambia un poco lo que marca la báscula; con una jaula de rejilla, sí pesaría menos. Fuentes: MythBusters (2007), investigadores de Stanford.",
+    "tipo": "viral",
+    "fecha": "2026-11-14"
   }
 ]
