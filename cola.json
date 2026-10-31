@@ -264,6 +264,14 @@
     "fecha": "2026-10-30"
   },
   {
+    "fecha": "2026-10-31",
+    "video": "videos/reddit-google.mp4",
+    "caption": "Reddit pierde más de un millón de visitas de Google a la semana, y Google lo sigue leyendo más que nunca.\n\nCon un resumen de IA arriba, los clics en los enlaces bajan casi a la mitad. ¿Tú todavía pinchas?",
+    "hora": "09:00",
+    "historia": "historias/reddit-google.mp4",
+    "tipo": "actualidad"
+  },
+  {
     "hora": "19:00",
     "video": "videos/camion-palomas.mp4",
     "historia": "historias/camion-palomas.mp4",
