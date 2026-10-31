@@ -272,6 +272,14 @@
     "tipo": "actualidad"
   },
   {
+    "fecha": "2026-10-31",
+    "video": "videos/satelite-google.mp4",
+    "caption": "Google ha puesto un ordenador de inteligencia artificial en órbita, y lo primero que ha hecho allí arriba es escribir un poema sobre la Tierra.\n\nLa razón de fondo es la energía: en la órbita adecuada el Sol casi nunca se pone y un panel rinde hasta ocho veces más. El gran problema, el calor. ¿Te mudarías tus datos al espacio?",
+    "hora": "14:00",
+    "historia": "historias/satelite-google.mp4",
+    "tipo": "actualidad"
+  },
+  {
     "hora": "19:00",
     "video": "videos/camion-palomas.mp4",
     "historia": "historias/camion-palomas.mp4",
