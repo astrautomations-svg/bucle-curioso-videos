@@ -129,5 +129,17 @@
       "astra/historias/2026-11-06/04.jpg",
       "astra/historias/2026-11-06/05.jpg"
     ]
+  },
+  {
+    "fecha": "2026-11-07",
+    "hora": "09:30",
+    "estado": "aprobado",
+    "tema": "prepárate para Black Friday y Navidad",
+    "frames": [
+      "astra/historias/2026-11-07/01.jpg",
+      "astra/historias/2026-11-07/02.jpg",
+      "astra/historias/2026-11-07/03.jpg",
+      "astra/historias/2026-11-07/04.jpg"
+    ]
   }
 ]

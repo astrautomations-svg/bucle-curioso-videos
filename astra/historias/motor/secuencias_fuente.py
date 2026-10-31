@@ -85,6 +85,15 @@ S = [
  f(20, T('LO QUE SE REPITE:', 260, rot=-2), L('Mensajes', 480, 'blanco', 'logo-whatsapp', x='l', rot=-2), L('Citas', 620, 'amarillo', 'logo-googlecalendar', x='r', lado='i', rot=2),
    L('Seguimientos', 760, 'verde', 'repeat-button', x='l', rot=-1), L('Avisos', 900, 'celeste', 'bell', x='r', lado='i', rot=1), X('se puede sistematizar', 1300)),
  f(21, T('Y TÚ VUELVES A DIRIGIR', 300, rot=-2), CTA('SISTEMA', 1200, '¿Te digo qué sacaría\nde tus manos primero?'))]),
+('2026-11-07', 'prepárate para Black Friday y Navidad', [
+ f(15, T('SE ACERCA:', 260, rot=-2), L('Black Friday', 480, 'naranja', 'shopping-cart', x='l', rot=-2),
+   L('Navidad', 630, 'rojo', 'glowing-star', x='r', lado='i', rot=2), X('¿Tu negocio está preparado?', 1250)),
+ f(25, T('LO QUE PASA:', 260, rot=-1), L('¿Seguís con la oferta?', 480, 'blanco', 'speech-balloon', x='l', rot=-2),
+   L('¿Hay hueco el sábado?', 620, 'amarillo', 'spiral-calendar', x='r', lado='i', rot=2), L('¿Hacéis bonos regalo?', 760, 'verde', 'party-popper', x='l', rot=-1),
+   L('Y tú, sin dar abasto', 1330, 'rojo', 'cross-mark', rot=1)),
+ f(13, T('CON UN SISTEMA:', 260, rot=-2), CHAT([['in', 'Hola, ¿seguís con la oferta de Black Friday?'], ['out', '¡Hola! Sí, hasta el domingo. ¿Te reservo hora?'], ['in', 'Sí, el sábado por la mañana']], 430),
+   L('Contesta al momento', 1150, 'azul', 'high-voltage', x='l', rot=-2), L('Y reserva por ti', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2), foco=0.6),
+ fc(18, T('MÓNTALO ANTES, NO EN DICIEMBRE', 300, rot=-2), CTA('NAVIDAD', 1250, '¿Lo dejamos listo\nantes del Black Friday?'), foco=0.45)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)

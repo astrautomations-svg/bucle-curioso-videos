@@ -1194,5 +1194,167 @@
     ]
    }
   ]
+ },
+ {
+  "fecha": "2026-11-07",
+  "tema": "prepárate para Black Friday y Navidad",
+  "frames": [
+   {
+    "img": "banco/15.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "SE ACERCA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Black Friday",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "shopping-cart"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Navidad",
+      "y": 630,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "glowing-star"
+     },
+     {
+      "tipo": "texto",
+      "texto": "¿Tu negocio está preparado?",
+      "y": 1250
+     }
+    ]
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LO QUE PASA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Seguís con la oferta?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Hay hueco el sábado?",
+      "y": 620,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Hacéis bonos regalo?",
+      "y": 760,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "party-popper"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, sin dar abasto",
+      "y": 1330,
+      "color": "rojo",
+      "rot": 1,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/13.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "CON UN SISTEMA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿seguís con la oferta de Black Friday?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, hasta el domingo. ¿Te reservo hora?"
+       ],
+       [
+        "in",
+        "Sí, el sábado por la mañana"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta al momento",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y reserva por ti",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ],
+    "foco": 0.6
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "MÓNTALO ANTES, NO EN DICIEMBRE",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "NAVIDAD",
+      "y": 1250,
+      "antes": "¿Lo dejamos listo\nantes del Black Friday?"
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   }
+  ]
  }
 ]
