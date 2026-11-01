@@ -297,6 +297,14 @@
   },
   {
     "fecha": "2026-11-01",
+    "hora": "14:00",
+    "video": "videos/robots-txt.mp4",
+    "historia": "historias/robots-txt.mp4",
+    "caption": "¿Cómo le dices a una inteligencia artificial que no aprenda de tu web? Hoy hay que apuntar en robots.txt a los robots de cada empresa, uno a uno.\n\nOpenAI, Google, Microsoft y Anthropic apoyan una sola línea para todos. Pero es un cartel, no una cerradura: cada robot decide si lo respeta. ¿Lo pondrías en la tuya?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-01",
     "video": "videos/reloj-nuclear.mp4",
     "caption": "¿Qué es un reloj nuclear? Uno que no cuenta las vibraciones de los electrones, sino las del núcleo del átomo. Viena y Pekín acaban de encender los dos primeros.\n\nUsan torio atrapado en un cristal y un láser. Aún no superan a los mejores relojes atómicos, pero apuntan a GPS más precisos. ¿Lo sabías?",
     "hora": "19:00",
