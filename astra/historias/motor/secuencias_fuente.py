@@ -94,6 +94,16 @@ S = [
  f(13, T('CON UN SISTEMA:', 260, rot=-2), CHAT([['in', 'Hola, ¿seguís con la oferta de Black Friday?'], ['out', '¡Hola! Sí, hasta el domingo. ¿Te reservo hora?'], ['in', 'Sí, el sábado por la mañana']], 430),
    L('Contesta al momento', 1150, 'azul', 'high-voltage', x='l', rot=-2), L('Y reserva por ti', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2), foco=0.6),
  fc(18, T('MÓNTALO ANTES, NO EN DICIEMBRE', 300, rot=-2), CTA('NAVIDAD', 1250, '¿Lo dejamos listo\nantes del Black Friday?'), foco=0.45)]),
+('2026-11-08', 'diciembre se llena: avisa primero a los tuyos', [
+ f(9, T('DICIEMBRE SE LLENA:', 260, rot=-2), L('Cenas de empresa', 480, 'blanco', 'busts-in-silhouette', x='l', rot=-2),
+   L('Regalos de última hora', 620, 'rojo', 'party-popper', x='r', lado='i', rot=2), L('Citas antes de las fiestas', 760, 'amarillo', 'spiral-calendar', x='l', rot=-1), foco=0.4),
+ f(5, T('EL ERROR:', 260, rot=-1), L('Esperar a que te escriban', 480, 'naranja', 'hourglass-done', x='l', rot=-2),
+   L('Tus clientes de siempre reservan en otro sitio', 1300, 'rojo', 'cross-mark', rot=1)),
+ f(12, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola Lucía, diciembre se está llenando. ¿Te guardo hueco antes de Navidad?'], ['in', '¡Sí! Mejor la semana del 15']], 430),
+   L('Avisa primero a los tuyos', 1150, 'verde', 'logo-whatsapp', x='l', rot=-2), L('Y les guarda el hueco', 1300, 'azul', 'logo-googlecalendar', x='r', lado='i', rot=2), foco=0.5),
+ f(32, T('SIN ESCRIBIR UNO A UNO', 300, rot=-2), L('Cada mensaje con su nombre', 500, 'blanco', 'speech-balloon', x='l', rot=-1),
+   L('Y tú, a lo tuyo', 1300, 'amarillo', 'smiling-face-with-sunglasses', x='r', lado='i', rot=2)),
+ fc(39, CTA('DICIEMBRE', 1150, '¿Avisamos a tus clientes\nantes que la competencia?'), foco=0.3)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)

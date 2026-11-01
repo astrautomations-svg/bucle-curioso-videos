@@ -1356,5 +1356,173 @@
     "foco": 0.45
    }
   ]
+ },
+ {
+  "fecha": "2026-11-08",
+  "tema": "diciembre se llena: avisa primero a los tuyos",
+  "frames": [
+   {
+    "img": "banco/09.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "DICIEMBRE SE LLENA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Cenas de empresa",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "busts-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Regalos de última hora",
+      "y": 620,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "party-popper"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Citas antes de las fiestas",
+      "y": 760,
+      "color": "amarillo",
+      "x": "l",
+      "rot": -1,
+      "icono": "spiral-calendar"
+     }
+    ],
+    "foco": 0.4
+   },
+   {
+    "img": "banco/05.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL ERROR:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Esperar a que te escriban",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "hourglass-done"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tus clientes de siempre reservan en otro sitio",
+      "y": 1300,
+      "color": "rojo",
+      "rot": 1,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/12.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Lucía, diciembre se está llenando. ¿Te guardo hueco antes de Navidad?"
+       ],
+       [
+        "in",
+        "¡Sí! Mejor la semana del 15"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Avisa primero a los tuyos",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y les guarda el hueco",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ],
+    "foco": 0.5
+   },
+   {
+    "img": "banco/32.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "SIN ESCRIBIR UNO A UNO",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Cada mensaje con su nombre",
+      "y": 500,
+      "color": "blanco",
+      "x": "l",
+      "rot": -1,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, a lo tuyo",
+      "y": 1300,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "smiling-face-with-sunglasses"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "DICIEMBRE",
+      "y": 1150,
+      "antes": "¿Avisamos a tus clientes\nantes que la competencia?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
  }
 ]
