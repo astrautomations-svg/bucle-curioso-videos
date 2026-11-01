@@ -289,6 +289,14 @@
   },
   {
     "fecha": "2026-11-01",
+    "hora": "09:00",
+    "video": "videos/ia-siete.mp4",
+    "historia": "historias/ia-siete.mp4",
+    "caption": "¿Por qué la IA casi siempre elige el 7 si le pides un número al azar del 1 al 10? Porque aprendió de nosotros.\n\nEn 1976, casi 3 de cada 10 personas eligieron 7: nos parece el más «al azar». La IA copia esa manía y la exagera. ¿Qué número te ha dado a ti?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-01",
     "video": "videos/reloj-nuclear.mp4",
     "caption": "¿Qué es un reloj nuclear? Uno que no cuenta las vibraciones de los electrones, sino las del núcleo del átomo. Viena y Pekín acaban de encender los dos primeros.\n\nUsan torio atrapado en un cristal y un láser. Aún no superan a los mejores relojes atómicos, pero apuntan a GPS más precisos. ¿Lo sabías?",
     "hora": "19:00",
