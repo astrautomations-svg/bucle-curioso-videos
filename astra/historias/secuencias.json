@@ -1524,5 +1524,135 @@
     "foco": 0.3
    }
   ]
+ },
+ {
+  "fecha": "2026-11-09",
+  "tema": "presupuestos que se quedan sin respuesta",
+  "frames": [
+   {
+    "img": "banco/07.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "TE PIDEN PRESUPUESTO:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Se lo mandas",
+      "y": 530,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "envelope"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y silencio",
+      "y": 680,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.55
+   },
+   {
+    "img": "banco/36.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL ERROR:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "No volver a escribir",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "hourglass-done"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Por no parecer pesado",
+      "y": 1300,
+      "color": "blanco",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "grimacing-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Javier, ¿pudiste ver el presupuesto? Si tienes alguna duda, te la resuelvo"
+       ],
+       [
+        "in",
+        "¡Sí! ¿Empezamos la semana que viene?"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Hace el seguimiento solo",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "En el momento justo",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "alarm-clock"
+     }
+    ]
+   },
+   {
+    "img": "banco/27.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "VENTAS",
+      "y": 320,
+      "antes": "¿Cuántos presupuestos tienes\nesperando respuesta?"
+     }
+    ],
+    "cara": [
+     200,
+     850,
+     560,
+     1250
+    ],
+    "foco": 0.35
+   }
+  ]
  }
 ]

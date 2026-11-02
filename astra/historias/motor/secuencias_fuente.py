@@ -104,6 +104,14 @@ S = [
  f(32, T('SIN ESCRIBIR UNO A UNO', 300, rot=-2), L('Cada mensaje con su nombre', 500, 'blanco', 'speech-balloon', x='l', rot=-1),
    L('Y tú, a lo tuyo', 1300, 'amarillo', 'smiling-face-with-sunglasses', x='r', lado='i', rot=2)),
  fc(39, CTA('DICIEMBRE', 1150, '¿Avisamos a tus clientes\nantes que la competencia?'), foco=0.3)]),
+('2026-11-09', 'presupuestos que se quedan sin respuesta', [
+ f(7, T('TE PIDEN PRESUPUESTO:', 260, rot=-2), L('Se lo mandas', 530, 'blanco', 'envelope', x='l', rot=-2),
+   L('Y silencio', 680, 'rojo', 'cross-mark', x='r', lado='i', rot=2), foco=0.55),
+ f(36, T('EL ERROR:', 260, rot=-1), L('No volver a escribir', 480, 'naranja', 'hourglass-done', x='l', rot=-2),
+   L('Por no parecer pesado', 1300, 'blanco', 'grimacing-face', x='r', lado='i', rot=2)),
+ f(20, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola Javier, ¿pudiste ver el presupuesto? Si tienes alguna duda, te la resuelvo'], ['in', '¡Sí! ¿Empezamos la semana que viene?']], 430),
+   L('Hace el seguimiento solo', 1150, 'verde', 'logo-whatsapp', x='l', rot=-2), L('En el momento justo', 1300, 'azul', 'alarm-clock', x='r', lado='i', rot=2)),
+ fc(27, CTA('VENTAS', 320, '¿Cuántos presupuestos tienes\nesperando respuesta?'), foco=0.35)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)
