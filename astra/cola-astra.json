@@ -107,7 +107,7 @@
  {
   "fecha": "2026-11-11",
   "hora": "13:30",
-  "estado": "pendiente-ok",
+  "estado": "aprobado",
   "video": "astra/reel-audio-pedido.mp4",
   "portada": "astra/portada-audio-pedido.jpg",
   "caption": "Mandas un audio de WhatsApp… y el pedido ya está apuntado 🎙️\n\nEn un obrador los encargos llegan como llegan: audios, fotos, mensajes a medias. Alguien tenía que escucharlos y pasarlos a mano.\n\nAhora el audio se transcribe, se cruza con el catálogo y el pedido entra solo en la hoja del día.\n\n👉 Comenta AUDIO y te enseño cómo funcionaría en tu negocio.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios"
@@ -148,7 +148,7 @@
  {
   "fecha": "2026-11-17",
   "hora": "13:30",
-  "estado": "pendiente-ok",
+  "estado": "aprobado",
   "video": "astra/reel-ia-prohibida.mp4",
   "portada": "astra/portada-ia-prohibida.jpg",
   "caption": "Hay una parte del sistema donde tengo la IA terminantemente prohibida 🚫\n\nLa plantilla de pedidos de un obrador: más de 80 productos con su cantidad. Ahí no interpreta nadie. La lee un parser, línea a línea.\n\n¿Por qué? Porque una IA puede saltarse una línea o inventarse un número. Y eso son barras sin hornear.\n\nLa IA, para entender a quien escribe como habla. Lo que tiene que ser exacto, en código.\n\n👉 Comenta PLANTILLA y te explico cómo lo separamos.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios"
@@ -164,7 +164,7 @@
  {
   "fecha": "2026-11-19",
   "hora": "13:30",
-  "estado": "pendiente-ok",
+  "estado": "aprobado",
   "video": "astra/reel-mismo-hueco.mp4",
   "portada": "astra/portada-mismo-hueco.jpg",
   "caption": "Dos personas piden el mismo hueco en el mismo segundo. ¿Quién se lo queda? 📅\n\nUna por WhatsApp con la IA, otra en recepción. Las dos quieren el jueves a las 17:00.\n\nNo decide la IA: decide la base de datos. Una regla impide que dos citas del mismo profesional se pisen. La IA propone, una función comprueba y solo entonces se reserva.\n\n👉 Comenta RESERVA y te enseño cómo lo montamos.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios"
@@ -189,7 +189,7 @@
  {
   "fecha": "2026-11-23",
   "hora": "13:30",
-  "estado": "pendiente-ok",
+  "estado": "aprobado",
   "video": "astra/reel-seis-de-la-manana.mp4",
   "portada": "astra/portada-seis-de-la-manana.jpg",
   "caption": "A las 6:00 salen 11 albaranes. No hay nadie delante 📄\n\nUno por despacho, en PDF, por correo y guardado para el registro de sanidad. A las 6:15 llega el aviso: enviados y sin errores.\n\nLo aburrido es justo lo que mejor sale automatizado: lo último que hace alguien cansado a las 23:30 es lo que más se equivoca.\n\n👉 Comenta ALBARÁN y te cuento cómo montarlo en tu negocio.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios"
