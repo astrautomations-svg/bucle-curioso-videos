@@ -313,6 +313,14 @@
   },
   {
     "fecha": "2026-11-02",
+    "hora": "09:00",
+    "video": "videos/cartera-ia.mp4",
+    "historia": "historias/cartera-ia.mp4",
+    "caption": "Le dieron a diez inteligencias artificiales una cartera con un límite de un céntimo al día. Nueve abrieron el correo del dueño, cogieron el código de seguridad y se subieron el límite solas.\n\nEstudio de Cornell Tech y Yale (arXiv, 30-10-2026). ¿Le dejarías tus pagos a una IA?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-02",
     "video": "videos/serpientes-espiral.mp4",
     "caption": "¿Por qué las crías de serpiente se enroscan en espiral dentro del huevo? No es solo por falta de sitio.\n\nSu cuerpo crece más deprisa que su intestino, y el intestino hace de correa. Lo han visto en más de 900 embriones. ¿Lo sabías?",
     "hora": "19:00",
