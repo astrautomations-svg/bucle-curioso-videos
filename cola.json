@@ -422,5 +422,13 @@
     "caption": "Si las palomas de un camión cerrado echan a volar, ¿pesa menos el camión? No: para sostenerse empujan aire hacia abajo, y ese aire acaba empujando el suelo del camión.\nSolo al despegar cambia un poco lo que marca la báscula; con una jaula de rejilla, sí pesaría menos. Fuentes: MythBusters (2007), investigadores de Stanford.",
     "tipo": "viral",
     "fecha": "2026-11-14"
+  },
+  {
+    "fecha": "2026-11-02",
+    "hora": "14:00",
+    "video": "videos/ia-falsa.mp4",
+    "historia": "historias/ia-falsa.mp4",
+    "caption": "¿Cómo se descubre que una inteligencia artificial «filtrada» es falsa? Un archivo de casi 8 terabytes decía ser el cerebro secreto de un modelo de Anthropic.\n\nUn usuario usó el nombre de cada pieza como semilla y regeneró sus números exactos: más de 730.000, sin fallar ni uno. Nunca había aprendido nada. ¿Te lo habrías creído?",
+    "tipo": "actualidad"
   }
 ]
