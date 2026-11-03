@@ -328,7 +328,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-03",
+    "fecha": "2026-11-15",
     "video": "videos/planeta-bebe.mp4",
     "caption": "¿Cómo de joven puede ser un planeta? Elias 2-24 b tiene menos de un millón de años: si la Tierra tuviera un año, él habría nacido hace menos de dos horas.\n\nTan grande como Júpiter, y formado mucho antes de lo que se creía posible. ¿Qué te gustaría que descubrieran después?",
     "hora": "19:00",
@@ -430,5 +430,29 @@
     "historia": "historias/ia-falsa.mp4",
     "caption": "¿Cómo se descubre que una inteligencia artificial «filtrada» es falsa? Un archivo de casi 8 terabytes decía ser el cerebro secreto de un modelo de Anthropic.\n\nUn usuario usó el nombre de cada pieza como semilla y regeneró sus números exactos: más de 730.000, sin fallar ni uno. Nunca había aprendido nada. ¿Te lo habrías creído?",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-03",
+    "hora": "09:00",
+    "video": "videos/cohete-baterias.mp4",
+    "historia": "historias/cohete-baterias.mp4",
+    "caption": "¿Por qué el cohete Electron lleva baterías, como tu móvil? Acaba de hacer su vuelo 99, y en pleno vuelo suelta las baterías gastadas.\nSus motores no usan otro motor de gas para mover las bombas del combustible: usan motores eléctricos del tamaño de una lata, con baterías de polímero de litio. ¿Lo sabías?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-03",
+    "hora": "14:00",
+    "video": "videos/ventanillas-redondas.mp4",
+    "historia": "historias/ventanillas-redondas.mp4",
+    "caption": "¿Por qué las ventanillas de los aviones son redondas? Por unos aviones de 1954 que se partieron en pleno vuelo.\nPara descubrirlo, metieron un Comet en un tanque de agua y lo inflaron hasta que se rajó por la esquina de una ventana. ¿Sabías para qué sirve el agujerito?",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-03",
+    "hora": "19:00",
+    "video": "videos/cerradura.mp4",
+    "historia": "historias/cerradura.mp4",
+    "caption": "¿Cómo sabe una cerradura que es tu llave? Dentro del bombín, cinco columnas de pines empujadas por muelles traban el cilindro hasta que cada diente de la llave las sube a su altura exacta.\nCon la llave buena, el hueco entre los pines queda justo en la línea de corte y el cilindro gira; basta un pin fuera de sitio para que no abra. Con diez alturas por pin, cinco pines dan hasta 100.000 llaves distintas. Fuentes: M. Blaze, «Rights Amplification in Master-Keyed Mechanical Locks» (2003); Lockwiki.",
+    "tipo": "viral"
   }
 ]
