@@ -166,5 +166,16 @@
       "astra/historias/2026-11-09/03.jpg",
       "astra/historias/2026-11-09/04.jpg"
     ]
+  },
+  {
+    "fecha": "2026-11-10",
+    "hora": "09:30",
+    "estado": "aprobado",
+    "tema": "gana el primero que contesta",
+    "frames": [
+      "astra/historias/2026-11-10/01.jpg",
+      "astra/historias/2026-11-10/02.jpg",
+      "astra/historias/2026-11-10/03.jpg"
+    ]
   }
 ]
