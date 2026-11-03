@@ -1654,5 +1654,121 @@
     "foco": 0.35
    }
   ]
+ },
+ {
+  "fecha": "2026-11-10",
+  "tema": "gana el primero que contesta",
+  "frames": [
+   {
+    "img": "banco/11.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "PASA CADA DÍA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Un cliente pide precio",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "A varios negocios a la vez",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "busts-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Gana el primero que contesta",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "stopwatch"
+     }
+    ]
+   },
+   {
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "CON UN SISTEMA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿cuánto cuesta? ¿Tenéis hueco esta semana?"
+       ],
+       [
+        "out",
+        "¡Hola! Ahora te paso los precios. Hay hueco el martes a las 18:00, ¿te lo guardo?"
+       ],
+       [
+        "in",
+        "Perfecto, resérvalo"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta en segundos",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y cierra la cita",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LLEGA TÚ PRIMERO",
+      "y": 280,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "PRIMERO",
+      "y": 1150,
+      "antes": "¿Cuánto tardas tú\nen contestar?"
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   }
+  ]
  }
 ]

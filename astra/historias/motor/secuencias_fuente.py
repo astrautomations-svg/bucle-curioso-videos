@@ -112,6 +112,13 @@ S = [
  f(20, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola Javier, ¿pudiste ver el presupuesto? Si tienes alguna duda, te la resuelvo'], ['in', '¡Sí! ¿Empezamos la semana que viene?']], 430),
    L('Hace el seguimiento solo', 1150, 'verde', 'logo-whatsapp', x='l', rot=-2), L('En el momento justo', 1300, 'azul', 'alarm-clock', x='r', lado='i', rot=2)),
  fc(27, CTA('VENTAS', 320, '¿Cuántos presupuestos tienes\nesperando respuesta?'), foco=0.35)]),
+('2026-11-10', 'gana el primero que contesta', [
+ f(11, T('PASA CADA DÍA:', 260, rot=-2), L('Un cliente pide precio', 480, 'blanco', 'speech-balloon', x='l', rot=-2),
+   L('A varios negocios a la vez', 630, 'amarillo', 'busts-in-silhouette', x='r', lado='i', rot=2),
+   L('Gana el primero que contesta', 1300, 'rojo', 'stopwatch', rot=-1)),
+ f(3, T('CON UN SISTEMA:', 260, rot=-2), CHAT([['in', 'Hola, ¿cuánto cuesta? ¿Tenéis hueco esta semana?'], ['out', '¡Hola! Ahora te paso los precios. Hay hueco el martes a las 18:00, ¿te lo guardo?'], ['in', 'Perfecto, resérvalo']], 430),
+   L('Contesta en segundos', 1150, 'azul', 'high-voltage', x='l', rot=-2), L('Y cierra la cita', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
+ fc(17, T('LLEGA TÚ PRIMERO', 280, rot=-2), CTA('PRIMERO', 1150, '¿Cuánto tardas tú\nen contestar?'))]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)
