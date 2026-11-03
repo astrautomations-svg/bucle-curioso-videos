@@ -29,4 +29,6 @@ n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada
   - ciudad de noche: 15, 33
   - escenario y charla: 01, 19
   - sueltas: 17 (conduciendo), 28 (paseo con perros), 32 (gimnasio)
+  - oficina y reunión: 41 (sala de reuniones, manos en el portátil; buena para «reunión con cliente», «implantación», «equipo»)
+  - pausa y café: 42 (chocolate con churros; buena para «mientras tanto el sistema trabaja», «tu tiempo libre»)
 - No repitas la misma foto dos días seguidos ni el mismo tema en la misma semana. Rota palabras del CTA (SISTEMA, VOLVER, LLAMADAS, CITAS, HORAS, NOCHE, RESEÑAS, TRATO…).
