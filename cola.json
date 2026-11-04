@@ -454,5 +454,13 @@
     "historia": "historias/cerradura.mp4",
     "caption": "¿Cómo sabe una cerradura que es tu llave? Dentro del bombín, cinco columnas de pines empujadas por muelles traban el cilindro hasta que cada diente de la llave las sube a su altura exacta.\nCon la llave buena, el hueco entre los pines queda justo en la línea de corte y el cilindro gira; basta un pin fuera de sitio para que no abra. Con diez alturas por pin, cinco pines dan hasta 100.000 llaves distintas. Fuentes: M. Blaze, «Rights Amplification in Master-Keyed Mechanical Locks» (2003); Lockwiki.",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-04",
+    "hora": "09:00",
+    "video": "videos/golpe-corazon.mp4",
+    "historia": "historias/golpe-corazon.mp4",
+    "caption": "¿Cómo puede un golpe en el pecho parar un corazón sano? Tras la muerte del futbolista del CD Tenerife Jesús de Miguel, los expertos apuntan como posible causa a la commotio cordis; aún no está confirmada y la determinarán los estudios forenses.\nSi el golpe cae justo en la subida de la onda T, una ventana de unos 40 milisegundos, puede desatar una fibrilación ventricular. Es rarísimo, pero con masaje cardíaco y desfibrilador en los 3 primeros minutos sobrevive entre un 40 y un 58 %; más tarde, en torno a un 5 %. Por eso importan los desfibriladores en campos y polideportivos. Fuentes: El Debate, Telemundo e Infobae (03-11-2026); Wikipedia «Commotio cordis» (Maron y Estes, NEJM 2010).",
+    "tipo": "actualidad"
   }
 ]
