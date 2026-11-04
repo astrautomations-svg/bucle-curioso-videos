@@ -470,5 +470,13 @@
     "historia": "historias/pie-mano.mp4",
     "caption": "Gira el pie derecho como las agujas del reloj y dibuja un seis con la mano derecha: ¿a que el pie se da la vuelta? En 1982, el equipo de Fausto Baldissera midió que la mano y el pie del mismo lado tienden a moverse en la misma dirección, y que ir a la contra exige mucha atención.\nCon la mano izquierda suele costar menos. ¿A quién se lo vas a enviar para que lo pruebe?",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-04",
+    "hora": "14:00",
+    "video": "videos/agua-chatgpt.mp4",
+    "historia": "historias/agua-chatgpt.mp4",
+    "caption": "¿Cuánta agua y luz gasta de verdad una pregunta a ChatGPT? Según OpenAI, unos 0,32 mililitros de agua (la quinceava parte de una cucharilla) y 0,34 vatios hora, lo que gasta una bombilla LED en un par de minutos.\nPero en julio de 2025 ChatGPT ya recibía unos 18.000 millones de mensajes a la semana: más de 800.000 litros de agua al día, casi cien piscinas olímpicas al año, y cada día la luz de más de 80.000 hogares españoles. Estimaciones independientes, que suman el agua de las centrales eléctricas, dan cifras más altas. Fuentes: Sam Altman, «The Gentle Singularity» (2025); Chatterji et al., NBER w34255 (2025); Li et al., «Making AI Less Thirsty» (2025); IDAE, SPAHOUSEC.",
+    "tipo": "viral"
   }
 ]
