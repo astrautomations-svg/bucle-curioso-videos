@@ -119,6 +119,14 @@ S = [
  f(3, T('CON UN SISTEMA:', 260, rot=-2), CHAT([['in', 'Hola, ¿cuánto cuesta? ¿Tenéis hueco esta semana?'], ['out', '¡Hola! Ahora te paso los precios. Hay hueco el martes a las 18:00, ¿te lo guardo?'], ['in', 'Perfecto, resérvalo']], 430),
    L('Contesta en segundos', 1150, 'azul', 'high-voltage', x='l', rot=-2), L('Y cierra la cita', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
  fc(17, T('LLEGA TÚ PRIMERO', 280, rot=-2), CTA('PRIMERO', 1150, '¿Cuánto tardas tú\nen contestar?'))]),
+('2026-11-11', 'encargos de Navidad que se pierden', [
+ f(10, T('EN DICIEMBRE TE LLEGAN:', 260, rot=-2), L('Encargos por WhatsApp', 480, 'blanco', 'logo-whatsapp', x='l', rot=-2),
+   L('Por teléfono', 630, 'amarillo', 'telephone-receiver', x='r', lado='i', rot=2), L('Y en una nota de papel', 780, 'verde', 'memo', x='l', rot=-1), foco=0.4),
+ f(25, T('EL PROBLEMA:', 260, rot=-1), L('Uno se queda sin apuntar', 480, 'rojo', 'cross-mark', x='l', rot=-2),
+   L('Y te enteras el mismo día', 1300, 'naranja', 'grimacing-face', rot=1)),
+ f(41, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, quiero hacer un encargo para el 23'], ['out', '¡Hola! Apuntado para el 23. ¿A qué hora pasas a recogerlo?'], ['in', 'Sobre las 12']], 430),
+   L('Apunta cada encargo', 1150, 'verde', 'clipboard', x='l', rot=-2), L('Y avisa el día antes', 1300, 'azul', 'bell', x='r', lado='i', rot=2)),
+ fc(18, T('NI UN ENCARGO PERDIDO', 300, rot=-2), CTA('ENCARGOS', 1250, '¿Cómo apuntas tú\nlos encargos de Navidad?'), foco=0.45)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)

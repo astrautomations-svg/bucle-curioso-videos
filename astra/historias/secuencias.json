@@ -1770,5 +1770,152 @@
     ]
    }
   ]
+ },
+ {
+  "fecha": "2026-11-11",
+  "tema": "encargos de Navidad que se pierden",
+  "frames": [
+   {
+    "img": "banco/10.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN DICIEMBRE TE LLEGAN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Encargos por WhatsApp",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Por teléfono",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "telephone-receiver"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y en una nota de papel",
+      "y": 780,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "memo"
+     }
+    ],
+    "foco": 0.4
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Uno se queda sin apuntar",
+      "y": 480,
+      "color": "rojo",
+      "x": "l",
+      "rot": -2,
+      "icono": "cross-mark"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y te enteras el mismo día",
+      "y": 1300,
+      "color": "naranja",
+      "rot": 1,
+      "icono": "grimacing-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/41.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, quiero hacer un encargo para el 23"
+       ],
+       [
+        "out",
+        "¡Hola! Apuntado para el 23. ¿A qué hora pasas a recogerlo?"
+       ],
+       [
+        "in",
+        "Sobre las 12"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Apunta cada encargo",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "clipboard"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y avisa el día antes",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "bell"
+     }
+    ]
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "NI UN ENCARGO PERDIDO",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "ENCARGOS",
+      "y": 1250,
+      "antes": "¿Cómo apuntas tú\nlos encargos de Navidad?"
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   }
+  ]
  }
 ]
