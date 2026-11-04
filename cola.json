@@ -336,7 +336,7 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-04",
+    "fecha": "2026-11-16",
     "video": "videos/cerebro-anestesia.mp4",
     "caption": "¿Qué hace tu cerebro cuando estás anestesiado? Sigue escuchando: el hipocampo distinguía palabras, aprendía sonidos y hasta anticipaba la palabra siguiente.\n\nNo significa que los pacientes entendieran nada de forma consciente. ¿Te lo esperabas?",
     "hora": "19:00",
@@ -462,5 +462,13 @@
     "historia": "historias/golpe-corazon.mp4",
     "caption": "¿Cómo puede un golpe en el pecho parar un corazón sano? Tras la muerte del futbolista del CD Tenerife Jesús de Miguel, los expertos apuntan como posible causa a la commotio cordis; aún no está confirmada y la determinarán los estudios forenses.\nSi el golpe cae justo en la subida de la onda T, una ventana de unos 40 milisegundos, puede desatar una fibrilación ventricular. Es rarísimo, pero con masaje cardíaco y desfibrilador en los 3 primeros minutos sobrevive entre un 40 y un 58 %; más tarde, en torno a un 5 %. Por eso importan los desfibriladores en campos y polideportivos. Fuentes: El Debate, Telemundo e Infobae (03-11-2026); Wikipedia «Commotio cordis» (Maron y Estes, NEJM 2010).",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-04",
+    "hora": "19:00",
+    "video": "videos/pie-mano.mp4",
+    "historia": "historias/pie-mano.mp4",
+    "caption": "Gira el pie derecho como las agujas del reloj y dibuja un seis con la mano derecha: ¿a que el pie se da la vuelta? En 1982, el equipo de Fausto Baldissera midió que la mano y el pie del mismo lado tienden a moverse en la misma dirección, y que ir a la contra exige mucha atención.\nCon la mano izquierda suele costar menos. ¿A quién se lo vas a enviar para que lo pruebe?",
+    "tipo": "viral"
   }
 ]
