@@ -1917,5 +1917,177 @@
     "foco": 0.45
    }
   ]
+ },
+ {
+  "fecha": "2026-11-12",
+  "tema": "horario de Navidad: las mismas preguntas",
+  "frames": [
+   {
+    "img": "banco/33.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN NAVIDAD TE PREGUNTAN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Abrís el 24?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Y el 31 por la tarde?",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "alarm-clock"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Qué horario tenéis?",
+      "y": 780,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "speech-balloon"
+     }
+    ]
+   },
+   {
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Siempre la misma pregunta",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "repeat-button"
+     },
+     {
+      "tipo": "linea",
+      "texto": "En plena temporada alta",
+      "y": 1300,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "fire"
+     }
+    ]
+   },
+   {
+    "img": "banco/29.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿abrís el día 24?"
+       ],
+       [
+        "out",
+        "¡Hola! El 24 abrimos por la mañana. ¿Te reservo hora?"
+       ],
+       [
+        "in",
+        "Sí, a primera hora"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta con tu horario",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y reserva la cita",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/42.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "MEJOR AÚN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Avisa antes de que pregunten",
+      "y": 480,
+      "color": "amarillo",
+      "x": "l",
+      "rot": -2,
+      "icono": "megaphone"
+     },
+     {
+      "tipo": "linea",
+      "texto": "A cada cliente, con su nombre",
+      "y": 630,
+      "color": "blanco",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "busts-in-silhouette"
+     }
+    ]
+   },
+   {
+    "img": "banco/27.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "FIESTAS",
+      "y": 320,
+      "antes": "¿Tienes ya listo tu\nhorario de Navidad?"
+     }
+    ],
+    "cara": [
+     200,
+     850,
+     560,
+     1250
+    ],
+    "foco": 0.35
+   }
+  ]
  }
 ]

@@ -127,6 +127,16 @@ S = [
  f(41, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, quiero hacer un encargo para el 23'], ['out', '¡Hola! Apuntado para el 23. ¿A qué hora pasas a recogerlo?'], ['in', 'Sobre las 12']], 430),
    L('Apunta cada encargo', 1150, 'verde', 'clipboard', x='l', rot=-2), L('Y avisa el día antes', 1300, 'azul', 'bell', x='r', lado='i', rot=2)),
  fc(18, T('NI UN ENCARGO PERDIDO', 300, rot=-2), CTA('ENCARGOS', 1250, '¿Cómo apuntas tú\nlos encargos de Navidad?'), foco=0.45)]),
+('2026-11-12', 'horario de Navidad: las mismas preguntas', [
+ f(33, T('EN NAVIDAD TE PREGUNTAN:', 260, rot=-2), L('¿Abrís el 24?', 480, 'blanco', 'spiral-calendar', x='l', rot=-2),
+   L('¿Y el 31 por la tarde?', 630, 'amarillo', 'alarm-clock', x='r', lado='i', rot=2), L('¿Qué horario tenéis?', 780, 'verde', 'speech-balloon', x='l', rot=-1)),
+ f(3, T('EL PROBLEMA:', 260, rot=-1), L('Siempre la misma pregunta', 480, 'naranja', 'repeat-button', x='l', rot=-2),
+   L('En plena temporada alta', 1300, 'rojo', 'fire', x='r', lado='i', rot=2)),
+ f(29, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, ¿abrís el día 24?'], ['out', '¡Hola! El 24 abrimos por la mañana. ¿Te reservo hora?'], ['in', 'Sí, a primera hora']], 430),
+   L('Contesta con tu horario', 1150, 'azul', 'logo-whatsapp', x='l', rot=-2), L('Y reserva la cita', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
+ f(42, T('MEJOR AÚN:', 260, rot=-2), L('Avisa antes de que pregunten', 480, 'amarillo', 'megaphone', x='l', rot=-2),
+   L('A cada cliente, con su nombre', 630, 'blanco', 'busts-in-silhouette', x='r', lado='i', rot=2)),
+ fc(27, CTA('FIESTAS', 320, '¿Tienes ya listo tu\nhorario de Navidad?'), foco=0.35)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)
