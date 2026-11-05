@@ -478,5 +478,13 @@
     "historia": "historias/agua-chatgpt.mp4",
     "caption": "¿Cuánta agua y luz gasta de verdad una pregunta a ChatGPT? Según OpenAI, unos 0,32 mililitros de agua (la quinceava parte de una cucharilla) y 0,34 vatios hora, lo que gasta una bombilla LED en un par de minutos.\nPero en julio de 2025 ChatGPT ya recibía unos 18.000 millones de mensajes a la semana: más de 800.000 litros de agua al día, casi cien piscinas olímpicas al año, y cada día la luz de más de 80.000 hogares españoles. Estimaciones independientes, que suman el agua de las centrales eléctricas, dan cifras más altas. Fuentes: Sam Altman, «The Gentle Singularity» (2025); Chatterji et al., NBER w34255 (2025); Li et al., «Making AI Less Thirsty» (2025); IDAE, SPAHOUSEC.",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-05",
+    "hora": "09:00",
+    "video": "videos/telescopio-cae.mp4",
+    "historia": "historias/telescopio-cae.mp4",
+    "caption": "¿Por qué se ha caído del espacio un telescopio de la NASA? Swift, que llevaba casi 22 años en órbita estudiando las explosiones más potentes del universo, volvió a entrar en la atmósfera el 4 de noviembre de 2026 y se quemó.\n\nEl Sol, muy activo estos años, calentó e hinchó la parte alta de la atmósfera: más aire, más freno, y Swift no tenía motor. La nave LINK de Katalyst que la NASA mandó para subirlo falló por un interruptor de sus ruedas de reacción. Fuentes: NASA Science (blog de Swift, 02-11-2026), Spaceflight Now (03-11-2026), Tech Times (04-11-2026).",
+    "tipo": "actualidad"
   }
 ]
