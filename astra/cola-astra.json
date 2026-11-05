@@ -238,7 +238,7 @@
   {
     "fecha": "2026-11-30",
     "hora": "11:30",
-    "estado": "pendiente-ok",
+    "estado": "aprobado",
     "video": "astra/reel-check-gris.mp4",
     "portada": "astra/portada-check-gris.jpg",
     "caption": "Lo que más nervioso pone a un cliente no es esperar la respuesta. Es el check gris ✔️\n\nMandas un mensaje a un negocio y nada: ni leído, ni escribiendo. Silencio.\n\nPor eso, en los sistemas que montamos, lo primero no es contestar: es marcar el mensaje como leído y poner «escribiendo…», con la API oficial de WhatsApp y antes de que la IA lo lea.\n\nY si el cliente escribe en tres mensajes («hola», «quería», «una cita para el jueves»), el asistente espera a que termine y contesta una sola vez.\n\nLeído al momento. Y eso en WhatsApp lo es todo.\n\n👉 Comenta LEÍDO y te cuento cómo lo hacemos.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios"
