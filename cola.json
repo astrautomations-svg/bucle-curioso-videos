@@ -486,5 +486,13 @@
     "historia": "historias/telescopio-cae.mp4",
     "caption": "¿Por qué se ha caído del espacio un telescopio de la NASA? Swift, que llevaba casi 22 años en órbita estudiando las explosiones más potentes del universo, volvió a entrar en la atmósfera el 4 de noviembre de 2026 y se quemó.\n\nEl Sol, muy activo estos años, calentó e hinchó la parte alta de la atmósfera: más aire, más freno, y Swift no tenía motor. La nave LINK de Katalyst que la NASA mandó para subirlo falló por un interruptor de sus ruedas de reacción. Fuentes: NASA Science (blog de Swift, 02-11-2026), Spaceflight Now (03-11-2026), Tech Times (04-11-2026).",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-05",
+    "hora": "14:00",
+    "video": "videos/panel-solar-espacio.mp4",
+    "historia": "historias/panel-solar-espacio.mp4",
+    "caption": "¿Cómo se despliega solo un panel solar en el espacio? Hoy dos astronautas instalan en la Estación Espacial Internacional el último de sus ocho paneles enrollables (iROSA).\n\nViaja enrollado y, al soltar el último cierre, se desenrolla solo en unos diez minutos, sin motor: lo empujan dos varillas de fibra de carbono aplastadas y enrolladas que quieren volver a estar rectas, como la cinta de un metro. Con los ocho, la estación pasa de unos 160 a unos 215 kilovatios. Fuentes: NASA (blog de la estación, 29-10-2026), Spaceflight Now (28-10-2026), Space.com (05-11-2026), Redwire.",
+    "tipo": "actualidad"
   }
 ]
