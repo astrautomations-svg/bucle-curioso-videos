@@ -518,5 +518,13 @@
     "historia": "historias/peso-nube.mp4",
     "caption": "¿Cuánto pesa una nube? Un cúmulo normal, de más o menos un kilómetro cúbico, lleva medio gramo de agua en cada metro cúbico: en total, unas 500 toneladas, lo que pesan cien elefantes.\nY aun así flota: esa agua son gotitas de unas pocas micras que caen muy despacio, el aire caliente que sube las sostiene y el aire que la rodea pesa mucho más que ella. Fuentes: USGS Water Science School («How much does a cloud weigh?») y EarthDate («Puffy clouds weigh in»); Live Science con el Servicio Meteorológico Nacional de EE. UU. y la Universidad Rutgers.",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-08",
+    "hora": "14:00",
+    "video": "videos/neumaticos-negros.mp4",
+    "historia": "historias/neumaticos-negros.mp4",
+    "caption": "¿Por qué los neumáticos son negros, si el caucho es blanco? El látex del árbol es lechoso y los primeros neumáticos, con óxido de cinc, eran blancos y se gastaban enseguida.\nEntre 1910 y 1920 se empezó a añadir negro de carbono, un hollín finísimo que refuerza el caucho por dentro: según Michelin, resiste el desgaste unas diez veces más. Además saca el calor de la banda y los cinturones y frena la luz ultravioleta que agrieta la goma. Fuentes: Bridgestone, ANSI, Birla Carbon, Curbside Classic y Jalopnik (con declaraciones de Michelin y Goodyear).",
+    "tipo": "viral"
   }
 ]
