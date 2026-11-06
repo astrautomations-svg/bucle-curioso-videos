@@ -2089,5 +2089,145 @@
     "foco": 0.35
    }
   ]
+ },
+ {
+  "fecha": "2026-11-13",
+  "tema": "cancelaciones de última hora: lista de espera",
+  "frames": [
+   {
+    "img": "banco/26.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN TEMPORADA ALTA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Te cancelan a última hora",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y el hueco se queda vacío",
+      "y": 630,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/15.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LO PEOR:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tenías clientes pidiendo hora",
+      "y": 480,
+      "color": "amarillo",
+      "x": "l",
+      "rot": -2,
+      "icono": "busts-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y no te acuerdas de avisarlos",
+      "y": 1300,
+      "color": "naranja",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "grimacing-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Sara, se ha liberado un hueco mañana a las 12:00. ¿Lo quieres?"
+       ],
+       [
+        "in",
+        "¡Sí, me lo quedo!"
+       ],
+       [
+        "out",
+        "Hecho, te lo reservo"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Avisa a tu lista de espera",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y llena el hueco solo",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "NI UN HUECO VACÍO",
+      "y": 1000,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "HUECOS",
+      "y": 1170,
+      "antes": "¿Cuántas cancelaciones\nte quedan sin llenar?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
  }
 ]

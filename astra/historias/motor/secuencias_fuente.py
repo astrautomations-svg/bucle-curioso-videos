@@ -137,6 +137,14 @@ S = [
  f(42, T('MEJOR AÚN:', 260, rot=-2), L('Avisa antes de que pregunten', 480, 'amarillo', 'megaphone', x='l', rot=-2),
    L('A cada cliente, con su nombre', 630, 'blanco', 'busts-in-silhouette', x='r', lado='i', rot=2)),
  fc(27, CTA('FIESTAS', 320, '¿Tienes ya listo tu\nhorario de Navidad?'), foco=0.35)]),
+('2026-11-13', 'cancelaciones de última hora: lista de espera', [
+ f(26, T('EN TEMPORADA ALTA:', 260, rot=-2), L('Te cancelan a última hora', 480, 'blanco', 'spiral-calendar', x='l', rot=-2),
+   L('Y el hueco se queda vacío', 630, 'rojo', 'cross-mark', x='r', lado='i', rot=2), foco=0.45),
+ f(15, T('LO PEOR:', 260, rot=-1), L('Tenías clientes pidiendo hora', 480, 'amarillo', 'busts-in-silhouette', x='l', rot=-2),
+   L('Y no te acuerdas de avisarlos', 1300, 'naranja', 'grimacing-face', x='r', lado='i', rot=2)),
+ f(20, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola Sara, se ha liberado un hueco mañana a las 12:00. ¿Lo quieres?'], ['in', '¡Sí, me lo quedo!'], ['out', 'Hecho, te lo reservo']], 430),
+   L('Avisa a tu lista de espera', 1150, 'verde', 'logo-whatsapp', x='l', rot=-2), L('Y llena el hueco solo', 1300, 'azul', 'logo-googlecalendar', x='r', lado='i', rot=2)),
+ fc(39, T('NI UN HUECO VACÍO', 1000, rot=-2), CTA('HUECOS', 1170, '¿Cuántas cancelaciones\nte quedan sin llenar?'), foco=0.3)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)

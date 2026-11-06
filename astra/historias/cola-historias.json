@@ -202,5 +202,17 @@
       "astra/historias/2026-11-12/04.jpg",
       "astra/historias/2026-11-12/05.jpg"
     ]
+  },
+  {
+    "fecha": "2026-11-13",
+    "hora": "13",
+    "estado": "aprobado",
+    "tema": "cancelaciones de última hora: lista de espera",
+    "frames": [
+      "astra/historias/2026-11-13/01.jpg",
+      "astra/historias/2026-11-13/02.jpg",
+      "astra/historias/2026-11-13/03.jpg",
+      "astra/historias/2026-11-13/04.jpg"
+    ]
   }
 ]
