@@ -526,5 +526,13 @@
     "historia": "historias/neumaticos-negros.mp4",
     "caption": "¿Por qué los neumáticos son negros, si el caucho es blanco? El látex del árbol es lechoso y los primeros neumáticos, con óxido de cinc, eran blancos y se gastaban enseguida.\nEntre 1910 y 1920 se empezó a añadir negro de carbono, un hollín finísimo que refuerza el caucho por dentro: según Michelin, resiste el desgaste unas diez veces más. Además saca el calor de la banda y los cinturones y frena la luz ultravioleta que agrieta la goma. Fuentes: Bridgestone, ANSI, Birla Carbon, Curbside Classic y Jalopnik (con declaraciones de Michelin y Goodyear).",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-06",
+    "hora": "14:00",
+    "video": "videos/papel-luna.mp4",
+    "historia": "historias/papel-luna.mp4",
+    "caption": "¿Qué pasa si doblas un folio 42 veces? Que llegarías a la Luna: cada doblez duplica el grosor, y una décima de milímetro multiplicada por dos 42 veces da unos 440.000 km, más que los 384.400 km que hay de media hasta la Luna.\nEn la práctica, a los siete u ocho dobleces el papel ya es demasiado grueso y corto; el récord son 12, de Britney Gallivan en 2002, con una tira de papel de 1.219 metros. Fuentes: Guinness World Records, Live Science, Wolfram MathWorld y la ficha lunar de la NASA.",
+    "tipo": "viral"
   }
 ]
