@@ -502,5 +502,13 @@
     "historia": "historias/ajedrez-atomos.mp4",
     "caption": "¿Cómo puede haber más partidas de ajedrez posibles que átomos en el universo? Las blancas empiezan con 20 jugadas, las negras responden con 20 y, tras una jugada de cada uno, ya hay 400 partidas; con dos, 197.281.\nEn 1950 Claude Shannon estimó unas 10^120 partidas (unas mil opciones por cada par de jugadas durante unas 40), frente a unos 10^80 átomos en el universo observable. Fuentes: C. E. Shannon, «Programming a Computer for Playing Chess», Philosophical Magazine (1950); Wikipedia «Shannon number» y «Observable universe».",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-07",
+    "hora": "19:00",
+    "video": "videos/engranaje-eterno.mp4",
+    "historia": "historias/engranaje-eterno.mp4",
+    "caption": "¿Por qué el último engranaje de esta máquina nunca se moverá? En «Machine with Concrete», de Arthur Ganson, un motor a 200 vueltas por minuto mueve doce pares de engranajes, y cada par hace girar al siguiente 50 veces más lento.\nEl último tardaría más de dos billones de años en dar una vuelta, así que puede estar metido en hormigón: lo que se pierde en velocidad se gana en par, pero esa fuerza solo aparece si el engranaje se mueve, y en toda una vida no avanzaría ni el ancho de un átomo. Fuentes: Arthur Ganson vía Make; Gizmodo; Kottke.",
+    "tipo": "viral"
   }
 ]
