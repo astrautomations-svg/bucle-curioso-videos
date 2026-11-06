@@ -360,10 +360,10 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-18",
+    "fecha": "2026-11-06",
     "video": "videos/adn-ocho-letras.mp4",
     "caption": "Toda la vida que conocemos se escribe con cuatro letras: A, T, C y G. Pero ya existe un ADN con ocho.\n\nSe llama hachimoji, y ahora han visto que la máquina de una bacteria sabe leer las letras nuevas. ¿Lo sabías?",
-    "hora": "19:00",
+    "hora": "14:00",
     "historia": "historias/adn-ocho-letras.mp4",
     "tipo": "reserva"
   },
@@ -528,12 +528,13 @@
     "tipo": "viral"
   },
   {
-    "fecha": "2026-11-06",
-    "hora": "14:00",
+    "fecha": "2099-01-01",
+    "hora": "00:00",
     "video": "videos/papel-luna.mp4",
     "historia": "historias/papel-luna.mp4",
     "caption": "¿Qué pasa si doblas un folio 42 veces? Que llegarías a la Luna: cada doblez duplica el grosor, y una décima de milímetro multiplicada por dos 42 veces da unos 440.000 km, más que los 384.400 km que hay de media hasta la Luna.\nEn la práctica, a los siete u ocho dobleces el papel ya es demasiado grueso y corto; el récord son 12, de Britney Gallivan en 2002, con una tira de papel de 1.219 metros. Fuentes: Guinness World Records, Live Science, Wolfram MathWorld y la ficha lunar de la NASA.",
-    "tipo": "viral"
+    "tipo": "viral",
+    "nota": "duplicado del 20-10, no publicar"
   },
   {
     "fecha": "2026-11-08",
