@@ -559,5 +559,13 @@
     "historia": "historias/agujero-tierra.mp4",
     "caption": "¿Qué pasaría si cavaras un agujero que atravesara la Tierra y saltaras dentro? Caerías cada vez más rápido hasta el centro, frenarías después y asomarías al otro lado del mundo unos 38 minutos más tarde.\nEl cálculo clásico, con una Tierra igual de densa por dentro, daba unos 42; Alexander Klotz lo rehízo en 2015 con la densidad real. Sin rozamiento irías y volverías sin parar; con aire acabarías quieto en el centro. Lo más hondo que hemos cavado, el pozo de Kola, llega a unos 12,2 km: un 0,2 % del camino. Fuentes: A. Klotz, American Journal of Physics 83, 231 (2015); Phys.org; Science News Explores; pozo superprofundo de Kola (SG-3).",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-07",
+    "hora": "09:00",
+    "video": "videos/asteroide-desviado.mp4",
+    "historia": "historias/asteroide-desviado.mp4",
+    "caption": "¿Cómo se desvía un asteroide que viene hacia la Tierra? Dándole un golpe: en 2022 la nave DART de la NASA chocó contra Dimorphos, una luna de unos 150 metros del asteroide Didymos, a más de 22.000 km/h, y le acortó la vuelta 33 minutos.\n\nLas rocas que salieron disparadas lo empujaron todavía más, como un cohete. Esta semana la sonda europea Hera ha mandado sus primeras imágenes de cerca de la pareja y en los próximos meses medirá el cráter y la masa de Dimorphos. Fuentes: ESA, NASA, Space.com (03-11 y 06-11-2026) y EarthSky (05-11-2026).",
+    "tipo": "actualidad"
   }
 ]
