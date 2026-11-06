@@ -510,5 +510,13 @@
     "historia": "historias/engranaje-eterno.mp4",
     "caption": "¿Por qué el último engranaje de esta máquina nunca se moverá? En «Machine with Concrete», de Arthur Ganson, un motor a 200 vueltas por minuto mueve doce pares de engranajes, y cada par hace girar al siguiente 50 veces más lento.\nEl último tardaría más de dos billones de años en dar una vuelta, así que puede estar metido en hormigón: lo que se pierde en velocidad se gana en par, pero esa fuerza solo aparece si el engranaje se mueve, y en toda una vida no avanzaría ni el ancho de un átomo. Fuentes: Arthur Ganson vía Make; Gizmodo; Kottke.",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-07",
+    "hora": "14:00",
+    "video": "videos/peso-nube.mp4",
+    "historia": "historias/peso-nube.mp4",
+    "caption": "¿Cuánto pesa una nube? Un cúmulo normal, de más o menos un kilómetro cúbico, lleva medio gramo de agua en cada metro cúbico: en total, unas 500 toneladas, lo que pesan cien elefantes.\nY aun así flota: esa agua son gotitas de unas pocas micras que caen muy despacio, el aire caliente que sube las sostiene y el aire que la rodea pesa mucho más que ella. Fuentes: USGS Water Science School («How much does a cloud weigh?») y EarthDate («Puffy clouds weigh in»); Live Science con el Servicio Meteorológico Nacional de EE. UU. y la Universidad Rutgers.",
+    "tipo": "viral"
   }
 ]
