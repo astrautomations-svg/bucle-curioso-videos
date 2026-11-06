@@ -360,10 +360,10 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-06",
+    "fecha": "2026-11-18",
     "video": "videos/adn-ocho-letras.mp4",
     "caption": "Toda la vida que conocemos se escribe con cuatro letras: A, T, C y G. Pero ya existe un ADN con ocho.\n\nSe llama hachimoji, y ahora han visto que la máquina de una bacteria sabe leer las letras nuevas. ¿Lo sabías?",
-    "hora": "14:00",
+    "hora": "19:00",
     "historia": "historias/adn-ocho-letras.mp4",
     "tipo": "reserva"
   },
@@ -551,5 +551,13 @@
     "historia": "historias/segunda-luna.mp4",
     "caption": "¿Cómo puede la Tierra tener ahora mismo una segunda luna? Se llama 2026 QQ8: una roca de más o menos un metro, como una lavadora, que da vueltas al Sol casi por el mismo camino que nosotros.\n\nPor eso se acerca muy despacio y, en abril, entró en la zona donde la gravedad de la Tierra manda más que la del Sol (unos 1,5 millones de km): quedó atrapada y nos da vueltas haciendo lazos. Krisztián Sárneczky la descubrió el 20 de agosto y se irá en diciembre. Fuentes: Minor Planet Center (MPEC 2026-U95, 29-10-2026), EarthSky, Space.com y The Daily Galaxy (05-11-2026).",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-06",
+    "hora": "14:00",
+    "video": "videos/agujero-tierra.mp4",
+    "historia": "historias/agujero-tierra.mp4",
+    "caption": "¿Qué pasaría si cavaras un agujero que atravesara la Tierra y saltaras dentro? Caerías cada vez más rápido hasta el centro, frenarías después y asomarías al otro lado del mundo unos 38 minutos más tarde.\nEl cálculo clásico, con una Tierra igual de densa por dentro, daba unos 42; Alexander Klotz lo rehízo en 2015 con la densidad real. Sin rozamiento irías y volverías sin parar; con aire acabarías quieto en el centro. Lo más hondo que hemos cavado, el pozo de Kola, llega a unos 12,2 km: un 0,2 % del camino. Fuentes: A. Klotz, American Journal of Physics 83, 231 (2015); Phys.org; Science News Explores; pozo superprofundo de Kola (SG-3).",
+    "tipo": "viral"
   }
 ]
