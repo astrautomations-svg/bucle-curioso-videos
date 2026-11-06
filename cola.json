@@ -542,5 +542,13 @@
     "historia": "historias/movimiento-perpetuo.mp4",
     "caption": "¿Por qué ninguna máquina puede moverse para siempre? La rueda de Bhaskara parece desequilibrada, pero sus pesos se compensan, y el rozamiento convierte su energía en calor.\nLa energía no se crea ni se destruye, y en cada vuelta una parte se escapa como calor. Por eso la oficina de patentes de EE. UU. puede pedir un modelo que funcione si es de movimiento perpetuo, y la del Reino Unido las considera sin aplicación industrial. Fuentes: Museo Galileo; MPEP § 608.03 (USPTO); Manual of Patent Practice 4.05 (UK IPO); NASA Glenn.",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-06",
+    "hora": "09:00",
+    "video": "videos/segunda-luna.mp4",
+    "historia": "historias/segunda-luna.mp4",
+    "caption": "¿Cómo puede la Tierra tener ahora mismo una segunda luna? Se llama 2026 QQ8: una roca de más o menos un metro, como una lavadora, que da vueltas al Sol casi por el mismo camino que nosotros.\n\nPor eso se acerca muy despacio y, en abril, entró en la zona donde la gravedad de la Tierra manda más que la del Sol (unos 1,5 millones de km): quedó atrapada y nos da vueltas haciendo lazos. Krisztián Sárneczky la descubrió el 20 de agosto y se irá en diciembre. Fuentes: Minor Planet Center (MPEC 2026-U95, 29-10-2026), EarthSky, Space.com y The Daily Galaxy (05-11-2026).",
+    "tipo": "actualidad"
   }
 ]
