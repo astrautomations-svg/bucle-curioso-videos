@@ -146,13 +146,12 @@
     "fecha": "2026-11-08",
     "hora": "09:30",
     "estado": "aprobado",
-    "tema": "diciembre se llena: avisa primero a los tuyos",
+    "tema": "Reclama.Legal: primera hoja de encargo firmada en automático",
     "frames": [
-      "astra/historias/2026-11-08/01.jpg",
-      "astra/historias/2026-11-08/02.jpg",
-      "astra/historias/2026-11-08/03.jpg",
-      "astra/historias/2026-11-08/04.jpg",
-      "astra/historias/2026-11-08/05.jpg"
+      "astra/historias/especiales/2026-11-08-reclama/01.jpg",
+      "astra/historias/especiales/2026-11-08-reclama/02.jpg",
+      "astra/historias/especiales/2026-11-08-reclama/03.jpg",
+      "astra/historias/especiales/2026-11-08-reclama/04.jpg"
     ]
   },
   {
@@ -213,6 +212,19 @@
       "astra/historias/2026-11-13/02.jpg",
       "astra/historias/2026-11-13/03.jpg",
       "astra/historias/2026-11-13/04.jpg"
+    ]
+  },
+  {
+    "fecha": "2026-11-14",
+    "hora": "09:30",
+    "estado": "aprobado",
+    "tema": "diciembre se llena: avisa primero a los tuyos",
+    "frames": [
+      "astra/historias/2026-11-08/01.jpg",
+      "astra/historias/2026-11-08/02.jpg",
+      "astra/historias/2026-11-08/03.jpg",
+      "astra/historias/2026-11-08/04.jpg",
+      "astra/historias/2026-11-08/05.jpg"
     ]
   }
 ]
