@@ -1,19 +1,21 @@
-## EXTRA · Primera hoja de encargo firmada sola (Reclama.Legal)
-CTA: FIRMA · Madera · Formato: caso real con la prueba en pantalla · Despacho · ~40 s · Grabar: domingo 8-11 o lunes 9-11 · Sale: en cuanto esté editado (muevo la cola un día)
+## EXTRA · Dos hojas de encargo firmadas solas en un día (Reclama.Legal)
+CTA: FIRMA · Madera · Formato: caso real con la prueba y el n8n por dentro · Despacho · ~45 s · Grabar: hoy o mañana · Sale: en cuanto esté editado (muevo la cola un día)
 
 | # | Tiempo | Plano | Lo que dices | Lo que se ve |
 | --- | --- | --- | --- | --- |
-| 1 | 0-3 s | CÁMARA | ⭐ «"Quiero llorar." Esto nos escribió un cliente esta mañana.» (Opción B: «Un despacho de abogados acaba de firmar un cliente nuevo… y nadie del despacho ha tocado nada.») | Captura del grupo, pixelada, encima de tu cabeza; zoom a «Quiero llorar» en un golpe de la música |
-| 2 | 3-7 s | VOZ | «Es un despacho de abogados. Y acaba de entrar su primera hoja de encargo firmada… sola.» | Zoom a la notificación «Hoja de encargo firmada»; logo de Reclama.Legal |
-| 3 | 7-12 s | VOZ | «El cliente escribió por WhatsApp el jueves. Le atendió Alex, el asistente de IA que les hemos creado.» | Flujo vertical: pasos 1 y 2. Clip del WhatsApp del panel de fondo |
-| 4 | 12-19 s | VOZ | «Alex le pidió la documentación, la IA la leyó y dejó preparado el estudio del caso para el abogado.» | Pasos 3 y 4. Clip del embudo de expedientes |
-| 5 | 19-24 s | VOZ | «La hoja de encargo se generó sola y el cliente la firmó desde el móvil. Sábado, once y cuarto.» | Paso 5. Reloj 11:15 |
-| 6 | 24-28 s | VOZ | «A las once y media, el abogado ya tenía el expediente completo en su correo.» | Paso 6. Reloj 11:30. Sello «FIRMADA» |
-| 7 | 28-33 s | CÁMARA | «En su panel, el contador del día marca uno de tres. Y Alex ya atiende solo a casi siete de cada diez personas.» | Tarjeta «Clientes de hoy 1/3» y tarjeta «Autonomía de Alex 67,3 %», arriba |
-| 8 | 33-36 s | CÁMARA | «Menos de dos semanas desde que arrancamos. Esto es solo el principio.» | Reclama.Legal × Astra Automations |
-| 9 | 36-41 s | CÁMARA | CTA: «Comenta FIRMA y te cuento cómo sería en tu negocio. Y síguenos para no perderte nada sobre inteligencia artificial.» | Pastilla FIRMA donde señales; tarjeta Seguir |
+| 1 | 0-3 s | CÁMARA | ⭐ «"Quiero llorar." Esto nos escribió un cliente esta mañana.» (Opción B: «Dos clientes firmados hoy en un despacho de abogados… y nadie del despacho ha tocado nada.») | Captura del grupo, pixelada, encima de tu cabeza; zoom a «Quiero llorar» en un golpe de la música |
+| 2 | 3-7 s | VOZ | «Es un despacho de abogados. Y acababa de entrar su primera hoja de encargo firmada… sola.» | Notificación «Hoja de encargo firmada» (n.º de expediente difuminado); logo de Reclama.Legal |
+| 3 | 7-10 s | VOZ | «Y a las cuatro y veinte de la tarde… otra.» | Segunda notificación de las 16:21 que cae encima (expediente difuminado). Texto: 2 EN UN DÍA |
+| 4 | 10-15 s | VOZ | «Así ha sido el camino. El cliente escribe por WhatsApp y le atiende Alex, el asistente de IA que les hemos creado.» | Flujo vertical: pasos 1 y 2. Clip del WhatsApp del panel de fondo |
+| 5 | 15-20 s | VOZ | «Alex le pide la documentación, la IA la lee y deja preparado el estudio del caso para el abogado.» | Pasos 3 y 4. Clip del embudo de expedientes |
+| 6 | 20-28 s | VOZ | «Por dentro, todo esto es un flujo de n8n de doscientos cuarenta y tres pasos: mensajes, documentos, estudios, avisos… cada uno con su regla.» | LIENZO REAL del flujo de Reclama: alejado entero y zoom a 3 zonas (WhatsApp con Alex → estudios → avisos al móvil). Contador 243 NODOS |
+| 7 | 28-33 s | VOZ | «Cuando el estudio está listo, la hoja de encargo sale sola a firmar. Y cuando el cliente firma desde el móvil, otro flujo lo detecta al momento.» | Lienzo del flujo de firma: nodo «firmada» encendiéndose; paso 5 del flujo vertical |
+| 8 | 33-36 s | VOZ | «Aviso al equipo y el expediente completo, en el correo del abogado.» | Paso 6. La notificación en el móvil; sello «FIRMADA» |
+| 9 | 36-40 s | CÁMARA | «En su panel, el contador del día ya va por dos de tres. Y Alex atiende solo a casi siete de cada diez personas.» | Tarjeta «Clientes de hoy 2/3» y tarjeta «Autonomía de Alex 67,3 %», arriba |
+| 10 | 40-43 s | CÁMARA | «Menos de dos semanas desde que arrancamos. Esto es solo el principio.» | Reclama.Legal × Astra Automations |
+| 11 | 43-48 s | CÁMARA | CTA: «Comenta FIRMA y te cuento cómo sería en tu negocio. Y síguenos para no perderte nada sobre inteligencia artificial.» | Pastilla FIRMA donde señales; tarjeta Seguir |
 
-Ojo: nada del cliente (nombre, expediente, teléfono, entidad, importes). No digas que Alex «asesora»: informa y recoge documentación; el caso lo lleva siempre un abogado.
+Además de hablar, graba: 15-20 s de pantalla del lienzo de n8n de Reclama (el flujo entero alejado, luego acercándote despacio a la parte de WhatsApp/Alex y a la de avisos) y 5-10 s del flujo «Firma de hojas y notificaciones push». Pásame también la captura de la tarjeta «Clientes de hoy» como esté al final del día (si llega la tercera, cambio el guion a 3 de 3). Ojo: nada del cliente (nombre, expediente, teléfono, entidad, importes) y no digas que Alex «asesora»: informa y recoge documentación; el caso lo lleva siempre un abogado.
 
 
 ## 1 · Los encargos de Navidad, sin libreta
