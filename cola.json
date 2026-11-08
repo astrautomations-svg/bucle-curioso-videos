@@ -567,5 +567,13 @@
     "historia": "historias/asteroide-desviado.mp4",
     "caption": "¿Cómo se desvía un asteroide que viene hacia la Tierra? Dándole un golpe: en 2022 la nave DART de la NASA chocó contra Dimorphos, una luna de unos 150 metros del asteroide Didymos, a más de 22.000 km/h, y le acortó la vuelta 33 minutos.\n\nLas rocas que salieron disparadas lo empujaron todavía más, como un cohete. Esta semana la sonda europea Hera ha mandado sus primeras imágenes de cerca de la pareja y en los próximos meses medirá el cráter y la masa de Dimorphos. Fuentes: ESA, NASA, Space.com (03-11 y 06-11-2026) y EarthSky (05-11-2026).",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-08",
+    "hora": "09:00",
+    "video": "videos/viajar-pasado.mp4",
+    "historia": "historias/viajar-pasado.mp4",
+    "caption": "¿Por qué no podemos viajar al pasado? La segunda ley de la termodinámica no lo prohíbe, pero explica por qué el tiempo tiene una dirección: la entropía de un sistema aislado tiende a aumentar, y por eso un vaso roto nunca se recompone ni la leche se separa del café.\nViajar al futuro sí es posible: por la relatividad, los astronautas de la Estación Espacial envejecen unas milésimas de segundo menos en seis meses y los relojes de los GPS se corrigen unos 38 microsegundos al día. Un viaje al pasado no se ha observado nunca, y Hawking propuso que la naturaleza lo impide (conjetura de protección de la cronología). Fuentes: NASA, Scientific American (Sean Carroll, Caltech) y Physical Review D.",
+    "tipo": "viral"
   }
 ]
