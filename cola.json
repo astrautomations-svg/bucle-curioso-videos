@@ -505,6 +505,14 @@
   },
   {
     "fecha": "2026-11-10",
+    "hora": "14:00",
+    "video": "videos/drivers-nvidia.mp4",
+    "historia": "historias/drivers-nvidia.mp4",
+    "caption": "¿Por qué una gráfica de mil euros no sirve casi para nada sin su driver? Porque el driver es el traductor entre el idioma del juego y el del chip, y en Linux el de Nvidia era cerrado: el abierto, nouveau, se hizo por ingeniería inversa y durante años no pudo ni subirle la velocidad a la gráfica.\n\nAhora Valve colabora con Nvidia y el driver ya está activado en el árbol principal de desarrollo de SteamOS: según Pierre-Loup Griffais, ingeniero de Valve, algunas generaciones ya se encienden, aunque todavía rinden menos y llevará tiempo. Aún no está en ninguna versión publicada. Fuentes: IGN y The Verge (vía Club386, GamingOnLinux, PCWorld, TweakTown y Profesional Review) y Wikipedia (nouveau).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-10",
     "video": "videos/fosil-brujula.mp4",
     "caption": "¿Desde cuándo los animales llevan una brújula dentro? Por lo menos desde hace 97 millones de años: unos fósiles microscópicos que son imanes lo demuestran.\n\nPor dentro tienen un torbellino magnético capaz de notar la latitud y ayudar con la longitud. ¿Quién crees que los fabricó?",
     "hora": "19:00",
