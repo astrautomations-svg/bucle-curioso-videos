@@ -321,6 +321,14 @@
   },
   {
     "fecha": "2026-11-02",
+    "hora": "14:00",
+    "video": "videos/ia-falsa.mp4",
+    "historia": "historias/ia-falsa.mp4",
+    "caption": "¿Cómo se descubre que una inteligencia artificial «filtrada» es falsa? Un archivo de casi 8 terabytes decía ser el cerebro secreto de un modelo de Anthropic.\n\nUn usuario usó el nombre de cada pieza como semilla y regeneró sus números exactos: más de 730.000, sin fallar ni uno. Nunca había aprendido nada. ¿Te lo habrías creído?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-02",
     "video": "videos/serpientes-espiral.mp4",
     "caption": "¿Por qué las crías de serpiente se enroscan en espiral dentro del huevo? No es solo por falta de sitio.\n\nSu cuerpo crece más deprisa que su intestino, y el intestino hace de correa. Lo han visto en más de 900 embriones. ¿Lo sabías?",
     "hora": "19:00",
@@ -328,20 +336,68 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-15",
-    "video": "videos/planeta-bebe.mp4",
-    "caption": "¿Cómo de joven puede ser un planeta? Elias 2-24 b tiene menos de un millón de años: si la Tierra tuviera un año, él habría nacido hace menos de dos horas.\n\nTan grande como Júpiter, y formado mucho antes de lo que se creía posible. ¿Qué te gustaría que descubrieran después?",
-    "hora": "19:00",
-    "historia": "historias/planeta-bebe.mp4",
-    "tipo": "reserva"
+    "fecha": "2026-11-03",
+    "hora": "09:00",
+    "video": "videos/cohete-baterias.mp4",
+    "historia": "historias/cohete-baterias.mp4",
+    "caption": "¿Por qué el cohete Electron lleva baterías, como tu móvil? Acaba de hacer su vuelo 99, y en pleno vuelo suelta las baterías gastadas.\nSus motores no usan otro motor de gas para mover las bombas del combustible: usan motores eléctricos del tamaño de una lata, con baterías de polímero de litio. ¿Lo sabías?",
+    "tipo": "actualidad"
   },
   {
-    "fecha": "2026-11-16",
-    "video": "videos/cerebro-anestesia.mp4",
-    "caption": "¿Qué hace tu cerebro cuando estás anestesiado? Sigue escuchando: el hipocampo distinguía palabras, aprendía sonidos y hasta anticipaba la palabra siguiente.\n\nNo significa que los pacientes entendieran nada de forma consciente. ¿Te lo esperabas?",
+    "fecha": "2026-11-03",
+    "hora": "14:00",
+    "video": "videos/ventanillas-redondas.mp4",
+    "historia": "historias/ventanillas-redondas.mp4",
+    "caption": "¿Por qué las ventanillas de los aviones son redondas? Por unos aviones de 1954 que se partieron en pleno vuelo.\nPara descubrirlo, metieron un Comet en un tanque de agua y lo inflaron hasta que se rajó por la esquina de una ventana. ¿Sabías para qué sirve el agujerito?",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-03",
     "hora": "19:00",
-    "historia": "historias/cerebro-anestesia.mp4",
-    "tipo": "reserva"
+    "video": "videos/cerradura.mp4",
+    "historia": "historias/cerradura.mp4",
+    "caption": "¿Cómo sabe una cerradura que es tu llave? Dentro del bombín, cinco columnas de pines empujadas por muelles traban el cilindro hasta que cada diente de la llave las sube a su altura exacta.\nCon la llave buena, el hueco entre los pines queda justo en la línea de corte y el cilindro gira; basta un pin fuera de sitio para que no abra. Con diez alturas por pin, cinco pines dan hasta 100.000 llaves distintas. Fuentes: M. Blaze, «Rights Amplification in Master-Keyed Mechanical Locks» (2003); Lockwiki.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-04",
+    "hora": "09:00",
+    "video": "videos/golpe-corazon.mp4",
+    "historia": "historias/golpe-corazon.mp4",
+    "caption": "¿Cómo puede un golpe en el pecho parar un corazón sano? Tras la muerte del futbolista del CD Tenerife Jesús de Miguel, los expertos apuntan como posible causa a la commotio cordis; aún no está confirmada y la determinarán los estudios forenses.\nSi el golpe cae justo en la subida de la onda T, una ventana de unos 40 milisegundos, puede desatar una fibrilación ventricular. Es rarísimo, pero con masaje cardíaco y desfibrilador en los 3 primeros minutos sobrevive entre un 40 y un 58 %; más tarde, en torno a un 5 %. Por eso importan los desfibriladores en campos y polideportivos. Fuentes: El Debate, Telemundo e Infobae (03-11-2026); Wikipedia «Commotio cordis» (Maron y Estes, NEJM 2010).",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-04",
+    "hora": "14:00",
+    "video": "videos/agua-chatgpt.mp4",
+    "historia": "historias/agua-chatgpt.mp4",
+    "caption": "¿Cuánta agua y luz gasta de verdad una pregunta a ChatGPT? Según OpenAI, unos 0,32 mililitros de agua (la quinceava parte de una cucharilla) y 0,34 vatios hora, lo que gasta una bombilla LED en un par de minutos.\nPero en julio de 2025 ChatGPT ya recibía unos 18.000 millones de mensajes a la semana: más de 800.000 litros de agua al día, casi cien piscinas olímpicas al año, y cada día la luz de más de 80.000 hogares españoles. Estimaciones independientes, que suman el agua de las centrales eléctricas, dan cifras más altas. Fuentes: Sam Altman, «The Gentle Singularity» (2025); Chatterji et al., NBER w34255 (2025); Li et al., «Making AI Less Thirsty» (2025); IDAE, SPAHOUSEC.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-04",
+    "hora": "19:00",
+    "video": "videos/pie-mano.mp4",
+    "historia": "historias/pie-mano.mp4",
+    "caption": "Gira el pie derecho como las agujas del reloj y dibuja un seis con la mano derecha: ¿a que el pie se da la vuelta? En 1982, el equipo de Fausto Baldissera midió que la mano y el pie del mismo lado tienden a moverse en la misma dirección, y que ir a la contra exige mucha atención.\nCon la mano izquierda suele costar menos. ¿A quién se lo vas a enviar para que lo pruebe?",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-05",
+    "hora": "09:00",
+    "video": "videos/telescopio-cae.mp4",
+    "historia": "historias/telescopio-cae.mp4",
+    "caption": "¿Por qué se ha caído del espacio un telescopio de la NASA? Swift, que llevaba casi 22 años en órbita estudiando las explosiones más potentes del universo, volvió a entrar en la atmósfera el 4 de noviembre de 2026 y se quemó.\n\nEl Sol, muy activo estos años, calentó e hinchó la parte alta de la atmósfera: más aire, más freno, y Swift no tenía motor. La nave LINK de Katalyst que la NASA mandó para subirlo falló por un interruptor de sus ruedas de reacción. Fuentes: NASA Science (blog de Swift, 02-11-2026), Spaceflight Now (03-11-2026), Tech Times (04-11-2026).",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-05",
+    "hora": "14:00",
+    "video": "videos/panel-solar-espacio.mp4",
+    "historia": "historias/panel-solar-espacio.mp4",
+    "caption": "¿Cómo se despliega solo un panel solar en el espacio? Hoy dos astronautas instalan en la Estación Espacial Internacional el último de sus ocho paneles enrollables (iROSA).\n\nViaja enrollado y, al soltar el último cierre, se desenrolla solo en unos diez minutos, sin motor: lo empujan dos varillas de fibra de carbono aplastadas y enrolladas que quieren volver a estar rectas, como la cinta de un metro. Con los ocho, la estación pasa de unos 160 a unos 215 kilovatios. Fuentes: NASA (blog de la estación, 29-10-2026), Spaceflight Now (28-10-2026), Space.com (05-11-2026), Redwire.",
+    "tipo": "actualidad"
   },
   {
     "fecha": "2026-11-05",
@@ -352,28 +408,92 @@
     "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-17",
-    "video": "videos/ia-co2.mp4",
-    "caption": "¿Cuántos caminos hay para convertir CO2 en combustible? Los químicos tenían un mapa de 152 reacciones; una IA lo ha ampliado a 9.389.\n\nCon el mapa completo, las predicciones encajan con los experimentos. No es una fábrica todavía, pero sí una guía para mejores catalizadores. ¿Qué problema le darías tú a una IA?",
-    "hora": "19:00",
-    "historia": "historias/ia-co2.mp4",
-    "tipo": "reserva"
+    "fecha": "2026-11-06",
+    "hora": "09:00",
+    "video": "videos/segunda-luna.mp4",
+    "historia": "historias/segunda-luna.mp4",
+    "caption": "¿Cómo puede la Tierra tener ahora mismo una segunda luna? Se llama 2026 QQ8: una roca de más o menos un metro, como una lavadora, que da vueltas al Sol casi por el mismo camino que nosotros.\n\nPor eso se acerca muy despacio y, en abril, entró en la zona donde la gravedad de la Tierra manda más que la del Sol (unos 1,5 millones de km): quedó atrapada y nos da vueltas haciendo lazos. Krisztián Sárneczky la descubrió el 20 de agosto y se irá en diciembre. Fuentes: Minor Planet Center (MPEC 2026-U95, 29-10-2026), EarthSky, Space.com y The Daily Galaxy (05-11-2026).",
+    "tipo": "actualidad"
   },
   {
-    "fecha": "2026-11-18",
-    "video": "videos/adn-ocho-letras.mp4",
-    "caption": "Toda la vida que conocemos se escribe con cuatro letras: A, T, C y G. Pero ya existe un ADN con ocho.\n\nSe llama hachimoji, y ahora han visto que la máquina de una bacteria sabe leer las letras nuevas. ¿Lo sabías?",
-    "hora": "19:00",
-    "historia": "historias/adn-ocho-letras.mp4",
-    "tipo": "reserva"
+    "fecha": "2026-11-06",
+    "hora": "14:00",
+    "video": "videos/agujero-tierra.mp4",
+    "historia": "historias/agujero-tierra.mp4",
+    "caption": "¿Qué pasaría si cavaras un agujero que atravesara la Tierra y saltaras dentro? Caerías cada vez más rápido hasta el centro, frenarías después y asomarías al otro lado del mundo unos 38 minutos más tarde.\nEl cálculo clásico, con una Tierra igual de densa por dentro, daba unos 42; Alexander Klotz lo rehízo en 2015 con la densidad real. Sin rozamiento irías y volverías sin parar; con aire acabarías quieto en el centro. Lo más hondo que hemos cavado, el pozo de Kola, llega a unos 12,2 km: un 0,2 % del camino. Fuentes: A. Klotz, American Journal of Physics 83, 231 (2015); Phys.org; Science News Explores; pozo superprofundo de Kola (SG-3).",
+    "tipo": "viral"
   },
   {
-    "fecha": "2026-11-19",
-    "video": "videos/dias-largos.mp4",
-    "caption": "¿Por qué los días son cada vez más largos? El deshielo lleva agua hacia el ecuador y la Tierra gira más despacio, como una patinadora que abre los brazos.\n\nCasi 1,5 milisegundos más por siglo: un ritmo que no se veía en 3,6 millones de años. ¿Qué harías con tu milisegundo extra?",
+    "fecha": "2026-11-06",
     "hora": "19:00",
-    "historia": "historias/dias-largos.mp4",
-    "tipo": "reserva"
+    "video": "videos/ajedrez-atomos.mp4",
+    "historia": "historias/ajedrez-atomos.mp4",
+    "caption": "¿Cómo puede haber más partidas de ajedrez posibles que átomos en el universo? Las blancas empiezan con 20 jugadas, las negras responden con 20 y, tras una jugada de cada uno, ya hay 400 partidas; con dos, 197.281.\nEn 1950 Claude Shannon estimó unas 10^120 partidas (unas mil opciones por cada par de jugadas durante unas 40), frente a unos 10^80 átomos en el universo observable. Fuentes: C. E. Shannon, «Programming a Computer for Playing Chess», Philosophical Magazine (1950); Wikipedia «Shannon number» y «Observable universe».",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-07",
+    "hora": "09:00",
+    "video": "videos/asteroide-desviado.mp4",
+    "historia": "historias/asteroide-desviado.mp4",
+    "caption": "¿Cómo se desvía un asteroide que viene hacia la Tierra? Dándole un golpe: en 2022 la nave DART de la NASA chocó contra Dimorphos, una luna de unos 150 metros del asteroide Didymos, a más de 22.000 km/h, y le acortó la vuelta 33 minutos.\n\nLas rocas que salieron disparadas lo empujaron todavía más, como un cohete. Esta semana la sonda europea Hera ha mandado sus primeras imágenes de cerca de la pareja y en los próximos meses medirá el cráter y la masa de Dimorphos. Fuentes: ESA, NASA, Space.com (03-11 y 06-11-2026) y EarthSky (05-11-2026).",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-07",
+    "hora": "14:00",
+    "video": "videos/peso-nube.mp4",
+    "historia": "historias/peso-nube.mp4",
+    "caption": "¿Cuánto pesa una nube? Un cúmulo normal, de más o menos un kilómetro cúbico, lleva medio gramo de agua en cada metro cúbico: en total, unas 500 toneladas, lo que pesan cien elefantes.\nY aun así flota: esa agua son gotitas de unas pocas micras que caen muy despacio, el aire caliente que sube las sostiene y el aire que la rodea pesa mucho más que ella. Fuentes: USGS Water Science School («How much does a cloud weigh?») y EarthDate («Puffy clouds weigh in»); Live Science con el Servicio Meteorológico Nacional de EE. UU. y la Universidad Rutgers.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-07",
+    "hora": "19:00",
+    "video": "videos/engranaje-eterno.mp4",
+    "historia": "historias/engranaje-eterno.mp4",
+    "caption": "¿Por qué el último engranaje de esta máquina nunca se moverá? En «Machine with Concrete», de Arthur Ganson, un motor a 200 vueltas por minuto mueve doce pares de engranajes, y cada par hace girar al siguiente 50 veces más lento.\nEl último tardaría más de dos billones de años en dar una vuelta, así que puede estar metido en hormigón: lo que se pierde en velocidad se gana en par, pero esa fuerza solo aparece si el engranaje se mueve, y en toda una vida no avanzaría ni el ancho de un átomo. Fuentes: Arthur Ganson vía Make; Gizmodo; Kottke.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-08",
+    "hora": "09:00",
+    "video": "videos/viajar-pasado.mp4",
+    "historia": "historias/viajar-pasado.mp4",
+    "caption": "¿Por qué no podemos viajar al pasado? La segunda ley de la termodinámica no lo prohíbe, pero explica por qué el tiempo tiene una dirección: la entropía de un sistema aislado tiende a aumentar, y por eso un vaso roto nunca se recompone ni la leche se separa del café.\nViajar al futuro sí es posible: por la relatividad, los astronautas de la Estación Espacial envejecen unas milésimas de segundo menos en seis meses y los relojes de los GPS se corrigen unos 38 microsegundos al día. Un viaje al pasado no se ha observado nunca, y Hawking propuso que la naturaleza lo impide (conjetura de protección de la cronología). Fuentes: NASA, Scientific American (Sean Carroll, Caltech) y Physical Review D.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-08",
+    "hora": "14:00",
+    "video": "videos/neumaticos-negros.mp4",
+    "historia": "historias/neumaticos-negros.mp4",
+    "caption": "¿Por qué los neumáticos son negros, si el caucho es blanco? El látex del árbol es lechoso y los primeros neumáticos, con óxido de cinc, eran blancos y se gastaban enseguida.\nEntre 1910 y 1920 se empezó a añadir negro de carbono, un hollín finísimo que refuerza el caucho por dentro: según Michelin, resiste el desgaste unas diez veces más. Además saca el calor de la banda y los cinturones y frena la luz ultravioleta que agrieta la goma. Fuentes: Bridgestone, ANSI, Birla Carbon, Curbside Classic y Jalopnik (con declaraciones de Michelin y Goodyear).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-08",
+    "hora": "19:00",
+    "video": "videos/movimiento-perpetuo.mp4",
+    "historia": "historias/movimiento-perpetuo.mp4",
+    "caption": "¿Por qué ninguna máquina puede moverse para siempre? La rueda de Bhaskara parece desequilibrada, pero sus pesos se compensan, y el rozamiento convierte su energía en calor.\nLa energía no se crea ni se destruye, y en cada vuelta una parte se escapa como calor. Por eso la oficina de patentes de EE. UU. puede pedir un modelo que funcione si es de movimiento perpetuo, y la del Reino Unido las considera sin aplicación industrial. Fuentes: Museo Galileo; MPEP § 608.03 (USPTO); Manual of Patent Practice 4.05 (UK IPO); NASA Glenn.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-09",
+    "hora": "09:00",
+    "video": "videos/token-fortnite.mp4",
+    "historia": "historias/token-fortnite.mp4",
+    "caption": "Es más fácil que te toque el Gordo de Navidad con un décimo (1 entre 100.000) que sacar la skin dorada de un cofre de Fortnite (1 entre 1.562.500).\nEpic ha publicado las probabilidades de los cofres de «Treasure Hunters»: el token de la tienda pirata sale en 1 de cada 137.500 y, como cada cofre es un sorteo independiente, abriendo 137.500 solo hay un 63 % de conseguirlo. Que te caiga un rayo en toda la vida en EE. UU. (1 entre 15.300) es unas 9 veces más probable. Las recompensas raras y al azar enganchan más que las fijas (refuerzo de razón variable, la mecánica de las tragaperras), y las horas del tesoro de los sábados juntan a los jugadores en las mismas franjas. Fuentes: Vice y Dexerto (07-11-2026), Softonic (08-11-2026), Loterías y Apuestas del Estado, National Weather Service, Drummond y Sauer (Nature Human Behaviour, 2018).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-09",
+    "hora": "14:00",
+    "video": "videos/coche-nuclear.mp4",
+    "historia": "historias/coche-nuclear.mp4",
+    "caption": "¿Cómo puede un coche funcionar en la Luna con energía nuclear? La NASA acaba de presentar Promise, un róver de seis ruedas que irá al polo sur de la Luna, donde la noche dura unos 14 días a unos −170 °C y hay cráteres a los que nunca llega el Sol: ahí las placas solares no sirven.\n\nPor eso lleva un generador nuclear: el plutonio-238 se calienta solo al desintegrarse, y cientos de parejas de dos metales distintos, con un lado caliente y otro frío, convierten ese calor en electricidad, sin motor ni piezas que se muevan. El de Curiosity, en Marte, da unos 110 vatios al empezar y lleva funcionando desde 2012. Fuentes: NASA JPL (07-11-2026), Nicky Fox vía APA (08-11-2026), ficha del MMRTG de la NASA.",
+    "tipo": "actualidad"
   },
   {
     "fecha": "2026-11-09",
@@ -424,108 +544,44 @@
     "fecha": "2026-11-14"
   },
   {
-    "fecha": "2026-11-02",
-    "hora": "14:00",
-    "video": "videos/ia-falsa.mp4",
-    "historia": "historias/ia-falsa.mp4",
-    "caption": "¿Cómo se descubre que una inteligencia artificial «filtrada» es falsa? Un archivo de casi 8 terabytes decía ser el cerebro secreto de un modelo de Anthropic.\n\nUn usuario usó el nombre de cada pieza como semilla y regeneró sus números exactos: más de 730.000, sin fallar ni uno. Nunca había aprendido nada. ¿Te lo habrías creído?",
-    "tipo": "actualidad"
-  },
-  {
-    "fecha": "2026-11-03",
-    "hora": "09:00",
-    "video": "videos/cohete-baterias.mp4",
-    "historia": "historias/cohete-baterias.mp4",
-    "caption": "¿Por qué el cohete Electron lleva baterías, como tu móvil? Acaba de hacer su vuelo 99, y en pleno vuelo suelta las baterías gastadas.\nSus motores no usan otro motor de gas para mover las bombas del combustible: usan motores eléctricos del tamaño de una lata, con baterías de polímero de litio. ¿Lo sabías?",
-    "tipo": "actualidad"
-  },
-  {
-    "fecha": "2026-11-03",
-    "hora": "14:00",
-    "video": "videos/ventanillas-redondas.mp4",
-    "historia": "historias/ventanillas-redondas.mp4",
-    "caption": "¿Por qué las ventanillas de los aviones son redondas? Por unos aviones de 1954 que se partieron en pleno vuelo.\nPara descubrirlo, metieron un Comet en un tanque de agua y lo inflaron hasta que se rajó por la esquina de una ventana. ¿Sabías para qué sirve el agujerito?",
-    "tipo": "viral"
-  },
-  {
-    "fecha": "2026-11-03",
+    "fecha": "2026-11-15",
+    "video": "videos/planeta-bebe.mp4",
+    "caption": "¿Cómo de joven puede ser un planeta? Elias 2-24 b tiene menos de un millón de años: si la Tierra tuviera un año, él habría nacido hace menos de dos horas.\n\nTan grande como Júpiter, y formado mucho antes de lo que se creía posible. ¿Qué te gustaría que descubrieran después?",
     "hora": "19:00",
-    "video": "videos/cerradura.mp4",
-    "historia": "historias/cerradura.mp4",
-    "caption": "¿Cómo sabe una cerradura que es tu llave? Dentro del bombín, cinco columnas de pines empujadas por muelles traban el cilindro hasta que cada diente de la llave las sube a su altura exacta.\nCon la llave buena, el hueco entre los pines queda justo en la línea de corte y el cilindro gira; basta un pin fuera de sitio para que no abra. Con diez alturas por pin, cinco pines dan hasta 100.000 llaves distintas. Fuentes: M. Blaze, «Rights Amplification in Master-Keyed Mechanical Locks» (2003); Lockwiki.",
-    "tipo": "viral"
+    "historia": "historias/planeta-bebe.mp4",
+    "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-04",
-    "hora": "09:00",
-    "video": "videos/golpe-corazon.mp4",
-    "historia": "historias/golpe-corazon.mp4",
-    "caption": "¿Cómo puede un golpe en el pecho parar un corazón sano? Tras la muerte del futbolista del CD Tenerife Jesús de Miguel, los expertos apuntan como posible causa a la commotio cordis; aún no está confirmada y la determinarán los estudios forenses.\nSi el golpe cae justo en la subida de la onda T, una ventana de unos 40 milisegundos, puede desatar una fibrilación ventricular. Es rarísimo, pero con masaje cardíaco y desfibrilador en los 3 primeros minutos sobrevive entre un 40 y un 58 %; más tarde, en torno a un 5 %. Por eso importan los desfibriladores en campos y polideportivos. Fuentes: El Debate, Telemundo e Infobae (03-11-2026); Wikipedia «Commotio cordis» (Maron y Estes, NEJM 2010).",
-    "tipo": "actualidad"
-  },
-  {
-    "fecha": "2026-11-04",
+    "fecha": "2026-11-16",
+    "video": "videos/cerebro-anestesia.mp4",
+    "caption": "¿Qué hace tu cerebro cuando estás anestesiado? Sigue escuchando: el hipocampo distinguía palabras, aprendía sonidos y hasta anticipaba la palabra siguiente.\n\nNo significa que los pacientes entendieran nada de forma consciente. ¿Te lo esperabas?",
     "hora": "19:00",
-    "video": "videos/pie-mano.mp4",
-    "historia": "historias/pie-mano.mp4",
-    "caption": "Gira el pie derecho como las agujas del reloj y dibuja un seis con la mano derecha: ¿a que el pie se da la vuelta? En 1982, el equipo de Fausto Baldissera midió que la mano y el pie del mismo lado tienden a moverse en la misma dirección, y que ir a la contra exige mucha atención.\nCon la mano izquierda suele costar menos. ¿A quién se lo vas a enviar para que lo pruebe?",
-    "tipo": "viral"
+    "historia": "historias/cerebro-anestesia.mp4",
+    "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-04",
-    "hora": "14:00",
-    "video": "videos/agua-chatgpt.mp4",
-    "historia": "historias/agua-chatgpt.mp4",
-    "caption": "¿Cuánta agua y luz gasta de verdad una pregunta a ChatGPT? Según OpenAI, unos 0,32 mililitros de agua (la quinceava parte de una cucharilla) y 0,34 vatios hora, lo que gasta una bombilla LED en un par de minutos.\nPero en julio de 2025 ChatGPT ya recibía unos 18.000 millones de mensajes a la semana: más de 800.000 litros de agua al día, casi cien piscinas olímpicas al año, y cada día la luz de más de 80.000 hogares españoles. Estimaciones independientes, que suman el agua de las centrales eléctricas, dan cifras más altas. Fuentes: Sam Altman, «The Gentle Singularity» (2025); Chatterji et al., NBER w34255 (2025); Li et al., «Making AI Less Thirsty» (2025); IDAE, SPAHOUSEC.",
-    "tipo": "viral"
-  },
-  {
-    "fecha": "2026-11-05",
-    "hora": "09:00",
-    "video": "videos/telescopio-cae.mp4",
-    "historia": "historias/telescopio-cae.mp4",
-    "caption": "¿Por qué se ha caído del espacio un telescopio de la NASA? Swift, que llevaba casi 22 años en órbita estudiando las explosiones más potentes del universo, volvió a entrar en la atmósfera el 4 de noviembre de 2026 y se quemó.\n\nEl Sol, muy activo estos años, calentó e hinchó la parte alta de la atmósfera: más aire, más freno, y Swift no tenía motor. La nave LINK de Katalyst que la NASA mandó para subirlo falló por un interruptor de sus ruedas de reacción. Fuentes: NASA Science (blog de Swift, 02-11-2026), Spaceflight Now (03-11-2026), Tech Times (04-11-2026).",
-    "tipo": "actualidad"
-  },
-  {
-    "fecha": "2026-11-05",
-    "hora": "14:00",
-    "video": "videos/panel-solar-espacio.mp4",
-    "historia": "historias/panel-solar-espacio.mp4",
-    "caption": "¿Cómo se despliega solo un panel solar en el espacio? Hoy dos astronautas instalan en la Estación Espacial Internacional el último de sus ocho paneles enrollables (iROSA).\n\nViaja enrollado y, al soltar el último cierre, se desenrolla solo en unos diez minutos, sin motor: lo empujan dos varillas de fibra de carbono aplastadas y enrolladas que quieren volver a estar rectas, como la cinta de un metro. Con los ocho, la estación pasa de unos 160 a unos 215 kilovatios. Fuentes: NASA (blog de la estación, 29-10-2026), Spaceflight Now (28-10-2026), Space.com (05-11-2026), Redwire.",
-    "tipo": "actualidad"
-  },
-  {
-    "fecha": "2026-11-06",
+    "fecha": "2026-11-17",
+    "video": "videos/ia-co2.mp4",
+    "caption": "¿Cuántos caminos hay para convertir CO2 en combustible? Los químicos tenían un mapa de 152 reacciones; una IA lo ha ampliado a 9.389.\n\nCon el mapa completo, las predicciones encajan con los experimentos. No es una fábrica todavía, pero sí una guía para mejores catalizadores. ¿Qué problema le darías tú a una IA?",
     "hora": "19:00",
-    "video": "videos/ajedrez-atomos.mp4",
-    "historia": "historias/ajedrez-atomos.mp4",
-    "caption": "¿Cómo puede haber más partidas de ajedrez posibles que átomos en el universo? Las blancas empiezan con 20 jugadas, las negras responden con 20 y, tras una jugada de cada uno, ya hay 400 partidas; con dos, 197.281.\nEn 1950 Claude Shannon estimó unas 10^120 partidas (unas mil opciones por cada par de jugadas durante unas 40), frente a unos 10^80 átomos en el universo observable. Fuentes: C. E. Shannon, «Programming a Computer for Playing Chess», Philosophical Magazine (1950); Wikipedia «Shannon number» y «Observable universe».",
-    "tipo": "viral"
+    "historia": "historias/ia-co2.mp4",
+    "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-07",
+    "fecha": "2026-11-18",
+    "video": "videos/adn-ocho-letras.mp4",
+    "caption": "Toda la vida que conocemos se escribe con cuatro letras: A, T, C y G. Pero ya existe un ADN con ocho.\n\nSe llama hachimoji, y ahora han visto que la máquina de una bacteria sabe leer las letras nuevas. ¿Lo sabías?",
     "hora": "19:00",
-    "video": "videos/engranaje-eterno.mp4",
-    "historia": "historias/engranaje-eterno.mp4",
-    "caption": "¿Por qué el último engranaje de esta máquina nunca se moverá? En «Machine with Concrete», de Arthur Ganson, un motor a 200 vueltas por minuto mueve doce pares de engranajes, y cada par hace girar al siguiente 50 veces más lento.\nEl último tardaría más de dos billones de años en dar una vuelta, así que puede estar metido en hormigón: lo que se pierde en velocidad se gana en par, pero esa fuerza solo aparece si el engranaje se mueve, y en toda una vida no avanzaría ni el ancho de un átomo. Fuentes: Arthur Ganson vía Make; Gizmodo; Kottke.",
-    "tipo": "viral"
+    "historia": "historias/adn-ocho-letras.mp4",
+    "tipo": "reserva"
   },
   {
-    "fecha": "2026-11-07",
-    "hora": "14:00",
-    "video": "videos/peso-nube.mp4",
-    "historia": "historias/peso-nube.mp4",
-    "caption": "¿Cuánto pesa una nube? Un cúmulo normal, de más o menos un kilómetro cúbico, lleva medio gramo de agua en cada metro cúbico: en total, unas 500 toneladas, lo que pesan cien elefantes.\nY aun así flota: esa agua son gotitas de unas pocas micras que caen muy despacio, el aire caliente que sube las sostiene y el aire que la rodea pesa mucho más que ella. Fuentes: USGS Water Science School («How much does a cloud weigh?») y EarthDate («Puffy clouds weigh in»); Live Science con el Servicio Meteorológico Nacional de EE. UU. y la Universidad Rutgers.",
-    "tipo": "viral"
-  },
-  {
-    "fecha": "2026-11-08",
-    "hora": "14:00",
-    "video": "videos/neumaticos-negros.mp4",
-    "historia": "historias/neumaticos-negros.mp4",
-    "caption": "¿Por qué los neumáticos son negros, si el caucho es blanco? El látex del árbol es lechoso y los primeros neumáticos, con óxido de cinc, eran blancos y se gastaban enseguida.\nEntre 1910 y 1920 se empezó a añadir negro de carbono, un hollín finísimo que refuerza el caucho por dentro: según Michelin, resiste el desgaste unas diez veces más. Además saca el calor de la banda y los cinturones y frena la luz ultravioleta que agrieta la goma. Fuentes: Bridgestone, ANSI, Birla Carbon, Curbside Classic y Jalopnik (con declaraciones de Michelin y Goodyear).",
-    "tipo": "viral"
+    "fecha": "2026-11-19",
+    "video": "videos/dias-largos.mp4",
+    "caption": "¿Por qué los días son cada vez más largos? El deshielo lleva agua hacia el ecuador y la Tierra gira más despacio, como una patinadora que abre los brazos.\n\nCasi 1,5 milisegundos más por siglo: un ritmo que no se veía en 3,6 millones de años. ¿Qué harías con tu milisegundo extra?",
+    "hora": "19:00",
+    "historia": "historias/dias-largos.mp4",
+    "tipo": "reserva"
   },
   {
     "fecha": "2099-01-01",
@@ -535,53 +591,5 @@
     "caption": "¿Qué pasa si doblas un folio 42 veces? Que llegarías a la Luna: cada doblez duplica el grosor, y una décima de milímetro multiplicada por dos 42 veces da unos 440.000 km, más que los 384.400 km que hay de media hasta la Luna.\nEn la práctica, a los siete u ocho dobleces el papel ya es demasiado grueso y corto; el récord son 12, de Britney Gallivan en 2002, con una tira de papel de 1.219 metros. Fuentes: Guinness World Records, Live Science, Wolfram MathWorld y la ficha lunar de la NASA.",
     "tipo": "viral",
     "nota": "duplicado del 20-10, no publicar"
-  },
-  {
-    "fecha": "2026-11-08",
-    "hora": "19:00",
-    "video": "videos/movimiento-perpetuo.mp4",
-    "historia": "historias/movimiento-perpetuo.mp4",
-    "caption": "¿Por qué ninguna máquina puede moverse para siempre? La rueda de Bhaskara parece desequilibrada, pero sus pesos se compensan, y el rozamiento convierte su energía en calor.\nLa energía no se crea ni se destruye, y en cada vuelta una parte se escapa como calor. Por eso la oficina de patentes de EE. UU. puede pedir un modelo que funcione si es de movimiento perpetuo, y la del Reino Unido las considera sin aplicación industrial. Fuentes: Museo Galileo; MPEP § 608.03 (USPTO); Manual of Patent Practice 4.05 (UK IPO); NASA Glenn.",
-    "tipo": "viral"
-  },
-  {
-    "fecha": "2026-11-06",
-    "hora": "09:00",
-    "video": "videos/segunda-luna.mp4",
-    "historia": "historias/segunda-luna.mp4",
-    "caption": "¿Cómo puede la Tierra tener ahora mismo una segunda luna? Se llama 2026 QQ8: una roca de más o menos un metro, como una lavadora, que da vueltas al Sol casi por el mismo camino que nosotros.\n\nPor eso se acerca muy despacio y, en abril, entró en la zona donde la gravedad de la Tierra manda más que la del Sol (unos 1,5 millones de km): quedó atrapada y nos da vueltas haciendo lazos. Krisztián Sárneczky la descubrió el 20 de agosto y se irá en diciembre. Fuentes: Minor Planet Center (MPEC 2026-U95, 29-10-2026), EarthSky, Space.com y The Daily Galaxy (05-11-2026).",
-    "tipo": "actualidad"
-  },
-  {
-    "fecha": "2026-11-06",
-    "hora": "14:00",
-    "video": "videos/agujero-tierra.mp4",
-    "historia": "historias/agujero-tierra.mp4",
-    "caption": "¿Qué pasaría si cavaras un agujero que atravesara la Tierra y saltaras dentro? Caerías cada vez más rápido hasta el centro, frenarías después y asomarías al otro lado del mundo unos 38 minutos más tarde.\nEl cálculo clásico, con una Tierra igual de densa por dentro, daba unos 42; Alexander Klotz lo rehízo en 2015 con la densidad real. Sin rozamiento irías y volverías sin parar; con aire acabarías quieto en el centro. Lo más hondo que hemos cavado, el pozo de Kola, llega a unos 12,2 km: un 0,2 % del camino. Fuentes: A. Klotz, American Journal of Physics 83, 231 (2015); Phys.org; Science News Explores; pozo superprofundo de Kola (SG-3).",
-    "tipo": "viral"
-  },
-  {
-    "fecha": "2026-11-07",
-    "hora": "09:00",
-    "video": "videos/asteroide-desviado.mp4",
-    "historia": "historias/asteroide-desviado.mp4",
-    "caption": "¿Cómo se desvía un asteroide que viene hacia la Tierra? Dándole un golpe: en 2022 la nave DART de la NASA chocó contra Dimorphos, una luna de unos 150 metros del asteroide Didymos, a más de 22.000 km/h, y le acortó la vuelta 33 minutos.\n\nLas rocas que salieron disparadas lo empujaron todavía más, como un cohete. Esta semana la sonda europea Hera ha mandado sus primeras imágenes de cerca de la pareja y en los próximos meses medirá el cráter y la masa de Dimorphos. Fuentes: ESA, NASA, Space.com (03-11 y 06-11-2026) y EarthSky (05-11-2026).",
-    "tipo": "actualidad"
-  },
-  {
-    "fecha": "2026-11-08",
-    "hora": "09:00",
-    "video": "videos/viajar-pasado.mp4",
-    "historia": "historias/viajar-pasado.mp4",
-    "caption": "¿Por qué no podemos viajar al pasado? La segunda ley de la termodinámica no lo prohíbe, pero explica por qué el tiempo tiene una dirección: la entropía de un sistema aislado tiende a aumentar, y por eso un vaso roto nunca se recompone ni la leche se separa del café.\nViajar al futuro sí es posible: por la relatividad, los astronautas de la Estación Espacial envejecen unas milésimas de segundo menos en seis meses y los relojes de los GPS se corrigen unos 38 microsegundos al día. Un viaje al pasado no se ha observado nunca, y Hawking propuso que la naturaleza lo impide (conjetura de protección de la cronología). Fuentes: NASA, Scientific American (Sean Carroll, Caltech) y Physical Review D.",
-    "tipo": "viral"
-  },
-  {
-    "fecha": "2026-11-09",
-    "hora": "09:00",
-    "video": "videos/coche-nuclear.mp4",
-    "historia": "historias/coche-nuclear.mp4",
-    "caption": "¿Cómo puede un coche funcionar en la Luna con energía nuclear? La NASA acaba de presentar Promise, un róver de seis ruedas que irá al polo sur de la Luna, donde la noche dura unos 14 días a unos −170 °C y hay cráteres a los que nunca llega el Sol: ahí las placas solares no sirven.\n\nPor eso lleva un generador nuclear: el plutonio-238 se calienta solo al desintegrarse, y cientos de parejas de dos metales distintos, con un lado caliente y otro frío, convierten ese calor en electricidad, sin motor ni piezas que se muevan. El de Curiosity, en Marte, da unos 110 vatios al empezar y lleva funcionando desde 2012. Fuentes: NASA JPL (07-11-2026), Nicky Fox vía APA (08-11-2026), ficha del MMRTG de la NASA.",
-    "tipo": "actualidad"
   }
 ]
