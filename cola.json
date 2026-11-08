@@ -575,5 +575,13 @@
     "historia": "historias/viajar-pasado.mp4",
     "caption": "¿Por qué no podemos viajar al pasado? La segunda ley de la termodinámica no lo prohíbe, pero explica por qué el tiempo tiene una dirección: la entropía de un sistema aislado tiende a aumentar, y por eso un vaso roto nunca se recompone ni la leche se separa del café.\nViajar al futuro sí es posible: por la relatividad, los astronautas de la Estación Espacial envejecen unas milésimas de segundo menos en seis meses y los relojes de los GPS se corrigen unos 38 microsegundos al día. Un viaje al pasado no se ha observado nunca, y Hawking propuso que la naturaleza lo impide (conjetura de protección de la cronología). Fuentes: NASA, Scientific American (Sean Carroll, Caltech) y Physical Review D.",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-09",
+    "hora": "09:00",
+    "video": "videos/coche-nuclear.mp4",
+    "historia": "historias/coche-nuclear.mp4",
+    "caption": "¿Cómo puede un coche funcionar en la Luna con energía nuclear? La NASA acaba de presentar Promise, un róver de seis ruedas que irá al polo sur de la Luna, donde la noche dura unos 14 días a unos −170 °C y hay cráteres a los que nunca llega el Sol: ahí las placas solares no sirven.\n\nPor eso lleva un generador nuclear: el plutonio-238 se calienta solo al desintegrarse, y cientos de parejas de dos metales distintos, con un lado caliente y otro frío, convierten ese calor en electricidad, sin motor ni piezas que se muevan. El de Curiosity, en Marte, da unos 110 vatios al empezar y lleva funcionando desde 2012. Fuentes: NASA JPL (07-11-2026), Nicky Fox vía APA (08-11-2026), ficha del MMRTG de la NASA.",
+    "tipo": "actualidad"
   }
 ]
