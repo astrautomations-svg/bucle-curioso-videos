@@ -226,5 +226,16 @@
       "astra/historias/2026-11-08/04.jpg",
       "astra/historias/2026-11-08/05.jpg"
     ]
+  },
+  {
+    "fecha": "2026-11-15",
+    "hora": "13",
+    "estado": "aprobado",
+    "tema": "bonos regalo de Navidad sin estar pendiente",
+    "frames": [
+      "astra/historias/2026-11-15/01.jpg",
+      "astra/historias/2026-11-15/02.jpg",
+      "astra/historias/2026-11-15/03.jpg"
+    ]
   }
 ]

@@ -145,6 +145,13 @@ S = [
  f(20, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola Sara, se ha liberado un hueco mañana a las 12:00. ¿Lo quieres?'], ['in', '¡Sí, me lo quedo!'], ['out', 'Hecho, te lo reservo']], 430),
    L('Avisa a tu lista de espera', 1150, 'verde', 'logo-whatsapp', x='l', rot=-2), L('Y llena el hueco solo', 1300, 'azul', 'logo-googlecalendar', x='r', lado='i', rot=2)),
  fc(39, T('NI UN HUECO VACÍO', 1000, rot=-2), CTA('HUECOS', 1170, '¿Cuántas cancelaciones\nte quedan sin llenar?'), foco=0.3)]),
+('2026-11-15', 'bonos regalo de Navidad sin estar pendiente', [
+ f(8, T('EN NAVIDAD TE PIDEN:', 260, rot=-2), L('¿Hacéis bonos regalo?', 480, 'blanco', 'party-popper', x='l', rot=-2),
+   L('¿Me lo mandáis hoy?', 630, 'amarillo', 'speech-balloon', x='r', lado='i', rot=2),
+   L('Y tú, con las manos ocupadas', 1300, 'rojo', 'cross-mark', rot=-1), foco=0.45),
+ f(25, T('LA SOLUCIÓN:', 260, rot=-1), CHAT([['in', 'Hola, ¿hacéis bonos regalo? Es para mi madre'], ['out', '¡Hola! Sí. ¿Para qué servicio lo quieres?'], ['in', 'El de siempre, gracias']], 430),
+   L('Contesta al momento', 1150, 'azul', 'high-voltage', x='l', rot=-2), L('Y apunta cada pedido', 1300, 'verde', 'clipboard', x='r', lado='i', rot=2)),
+ fc(18, T('VENDE AUNQUE NO MIRES EL MÓVIL', 300, rot=-2), CTA('REGALO', 1250, '¿Cuántos bonos se te\nescapan en diciembre?'), foco=0.45)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)

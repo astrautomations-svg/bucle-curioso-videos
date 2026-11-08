@@ -2229,5 +2229,123 @@
     "foco": 0.3
    }
   ]
+ },
+ {
+  "fecha": "2026-11-15",
+  "tema": "bonos regalo de Navidad sin estar pendiente",
+  "frames": [
+   {
+    "img": "banco/08.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN NAVIDAD TE PIDEN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Hacéis bonos regalo?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "party-popper"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Me lo mandáis hoy?",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, con las manos ocupadas",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿hacéis bonos regalo? Es para mi madre"
+       ],
+       [
+        "out",
+        "¡Hola! Sí. ¿Para qué servicio lo quieres?"
+       ],
+       [
+        "in",
+        "El de siempre, gracias"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta al momento",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y apunta cada pedido",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "clipboard"
+     }
+    ]
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "VENDE AUNQUE NO MIRES EL MÓVIL",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "REGALO",
+      "y": 1250,
+      "antes": "¿Cuántos bonos se te\nescapan en diciembre?"
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   }
+  ]
  }
 ]
