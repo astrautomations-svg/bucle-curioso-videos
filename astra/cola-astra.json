@@ -104,10 +104,10 @@
     "fecha": "2026-11-10",
     "hora": "11:30",
     "estado": "aprobado",
-    "video": "astra/reel-whatsapp-cobra.mp4",
-    "portada": "astra/portada-whatsapp-cobra.jpg",
-    "caption": "Desde este mes, cada mensaje que tu negocio contesta por WhatsApp puede costarte dinero. Y casi nadie lo sabe 💸\n\nCon la app normal de WhatsApp Business sigue siendo gratis. Pero si tienes un bot o un sistema conectado a la API oficial, tienes 1.000 mensajes de servicio gratis al mes por número. A partir de ahí, se pagan. Y los recordatorios de cita se cobran desde el primero.\n\nSon céntimos, sí. Pero un bot que contesta en cinco mensajes lo que cabe en uno te cuesta cinco veces más.\n\nPor eso nuestros sistemas esperan a que el cliente termine de escribir y contestan una sola vez. Y bien.\n\n👉 Comenta MENSAJES y te digo cómo sería en tu negocio.\n\n#whatsappbusiness #whatsapp #automatizacion #pymes #inteligenciaartificial",
-    "musica": "Loading"
+    "video": "astra/reel-reclama-6-firmas.mp4",
+    "portada": "astra/portada-reclama-6-firmas.jpg",
+    "caption": "Seis clientes firmados en un fin de semana. Y nadie del despacho tuvo que tocar nada 🖊️\n\nEs un despacho de abogados. Los clientes les llegan por su propia web. Lo nuestro empieza cuando escriben:\n\n• Alex, su asistente de IA, les atiende y les pide la documentación.\n• La IA lee los documentos y deja el estudio preparado para el abogado.\n• La hoja de encargo sale sola a firmar y el cliente la firma desde el móvil.\n• El expediente completo le llega al abogado.\n\nEl sábado firmaron 4 (su objetivo eran 3). El domingo, 2 más. De media, firman 6 horas después de recibir la hoja. Y Alex ya atiende solo a 7 de cada 10 personas.\n\nArrancamos hace menos de dos semanas. Esto es solo el principio.\n\n👉 Comenta FIRMA y te cuento cómo funcionaría en tu despacho.\n\n#automatizacion #inteligenciaartificial #abogados #legaltech #despachodeabogados #pymes",
+    "musica": "Brilliant Mind II"
   },
   {
     "fecha": "2026-11-11",
@@ -122,10 +122,10 @@
     "fecha": "2026-11-12",
     "hora": "11:30",
     "estado": "aprobado",
-    "video": "astra/reel-bot-de-meta.mp4",
-    "portada": "astra/portada-bot-de-meta.jpg",
-    "caption": "WhatsApp ya tiene su propio bot de IA para negocios. Entonces… ¿para qué me necesitas a mí? 🤔\n\nBuena pregunta. Y si tu negocio es sencillo, a lo mejor no me necesitas.\n\nPero esa IA no ve tu agenda, no sabe qué huecos te quedan, no manda el pedido ni envía los recordatorios. Contesta, pero no trabaja.\n\nLo que montamos en Astra está conectado a tu agenda, tus pedidos y tus cobros. Y lo delicado te lo pasa a ti.\n\nUn bot responde preguntas. Un sistema te quita trabajo.\n\n👉 Comenta META y te digo cómo sería en tu negocio.\n\n#whatsappbusiness #meta #inteligenciaartificial #automatizacion #pymes",
-    "musica": "BAND4BAND"
+    "video": "astra/reel-whatsapp-cobra.mp4",
+    "portada": "astra/portada-whatsapp-cobra.jpg",
+    "caption": "Desde este mes, cada mensaje que tu negocio contesta por WhatsApp puede costarte dinero. Y casi nadie lo sabe 💸\n\nCon la app normal de WhatsApp Business sigue siendo gratis. Pero si tienes un bot o un sistema conectado a la API oficial, tienes 1.000 mensajes de servicio gratis al mes por número. A partir de ahí, se pagan. Y los recordatorios de cita se cobran desde el primero.\n\nSon céntimos, sí. Pero un bot que contesta en cinco mensajes lo que cabe en uno te cuesta cinco veces más.\n\nPor eso nuestros sistemas esperan a que el cliente termine de escribir y contestan una sola vez. Y bien.\n\n👉 Comenta MENSAJES y te digo cómo sería en tu negocio.\n\n#whatsappbusiness #whatsapp #automatizacion #pymes #inteligenciaartificial",
+    "musica": "Loading"
   },
   {
     "fecha": "2026-11-13",
@@ -149,31 +149,22 @@
     "fecha": "2026-11-16",
     "hora": "11:30",
     "estado": "aprobado",
+    "video": "astra/reel-bot-de-meta.mp4",
+    "portada": "astra/portada-bot-de-meta.jpg",
+    "caption": "WhatsApp ya tiene su propio bot de IA para negocios. Entonces… ¿para qué me necesitas a mí? 🤔\n\nBuena pregunta. Y si tu negocio es sencillo, a lo mejor no me necesitas.\n\nPero esa IA no ve tu agenda, no sabe qué huecos te quedan, no manda el pedido ni envía los recordatorios. Contesta, pero no trabaja.\n\nLo que montamos en Astra está conectado a tu agenda, tus pedidos y tus cobros. Y lo delicado te lo pasa a ti.\n\nUn bot responde preguntas. Un sistema te quita trabajo.\n\n👉 Comenta META y te digo cómo sería en tu negocio.\n\n#whatsappbusiness #meta #inteligenciaartificial #automatizacion #pymes",
+    "musica": "BAND4BAND"
+  },
+  {
+    "fecha": "2026-11-17",
+    "hora": "11:30",
+    "estado": "aprobado",
     "video": "astra/reel-check-gris.mp4",
     "portada": "astra/portada-check-gris.jpg",
     "caption": "Lo que más nervioso pone a un cliente no es esperar la respuesta. Es el check gris ✔️\n\nMandas un mensaje a un negocio y nada: ni leído, ni escribiendo. Silencio.\n\nPor eso, en los sistemas que montamos, lo primero no es contestar: es marcar el mensaje como leído y poner «escribiendo…», con la API oficial de WhatsApp y antes de que la IA lo lea.\n\nY si el cliente escribe en tres mensajes («hola», «quería», «una cita para el jueves»), el asistente espera a que termine y contesta una sola vez.\n\nLeído al momento. Y eso en WhatsApp lo es todo.\n\n👉 Comenta LEÍDO y te cuento cómo lo hacemos.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios",
     "musica": "BAND4BAND x Tell Em"
   },
   {
-    "fecha": "2026-11-17",
-    "hora": "11:30",
-    "estado": "aprobado",
-    "video": "astra/reel-obrador-diciembre.mp4",
-    "portada": "astra/portada-obrador-diciembre.jpg",
-    "caption": "Diciembre en un obrador: encargos a montones, una libreta y un WhatsApp que no para de sonar 🥐\n\nAntes: el cliente pide por WhatsApp, alguien lo apunta en una libreta (si se acuerda) y el 5 de enero, mañana perdida buscando quién pidió qué.\n\nDespués: el cliente pide por WhatsApp, la IA lo apunta con nombre, día y hora de recogida, la hoja de producción se rellena sola y el día antes le llega el recordatorio. Tú solo horneas.\n\nSi tienes un obrador, este año es el de dejar la libreta.\n\n👉 Comenta OBRADOR y te digo cómo sería en tu negocio.\n\n#obrador #panaderia #pasteleria #navidad #automatizacion",
-    "fija": "antes de diciembre"
-  },
-  {
     "fecha": "2026-11-18",
-    "hora": "11:30",
-    "estado": "aprobado",
-    "video": "astra/reel-el-enlace.mp4",
-    "portada": "astra/portada-el-enlace.jpg",
-    "caption": "Son las 16:58. Tu paciente tiene sesión online a las 17:00 y te escribe: «¿Dónde está el enlace?» 🔗\n\nEn muchas consultas la videollamada se crea a mano, se copia el enlace y se manda cita por cita.\n\nEn un centro de psicología lo montamos así: al reservar una cita online, la videollamada se crea sola y queda pegada a esa cita. El paciente recibe el recordatorio por WhatsApp con su enlace, y la psicóloga tiene el botón «Entrar a la sesión» en su agenda. Si el paciente la quiere pasar al viernes, la cambia por WhatsApp y el enlace se mueve con ella.\n\nParece poca cosa, hasta que cuentas tus sesiones.\n\n👉 Comenta ENLACE y te cuento cómo sería en tu consulta.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios",
-    "musica": "Jukiar"
-  },
-  {
-    "fecha": "2026-11-19",
     "hora": "11:30",
     "estado": "aprobado",
     "video": "astra/reel-la-camilla-vacia.mp4",
@@ -182,13 +173,22 @@
     "musica": "Doja"
   },
   {
-    "fecha": "2026-11-20",
+    "fecha": "2026-11-19",
     "hora": "11:30",
     "estado": "aprobado",
     "video": "astra/reel-ia-prohibida.mp4",
     "portada": "astra/portada-ia-prohibida.jpg",
     "caption": "Hay una parte del sistema donde tengo la IA terminantemente prohibida 🚫\n\nLa plantilla de pedidos de un obrador: más de 80 productos con su cantidad. Ahí no interpreta nadie. La lee un parser, línea a línea.\n\n¿Por qué? Porque una IA puede saltarse una línea o inventarse un número. Y eso son barras sin hornear.\n\nLa IA, para entender a quien escribe como habla. Lo que tiene que ser exacto, en código.\n\n👉 Comenta PLANTILLA y te explico cómo lo separamos.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios",
     "musica": "NEMZZZ x Airplane Mode"
+  },
+  {
+    "fecha": "2026-11-20",
+    "hora": "11:30",
+    "estado": "aprobado",
+    "video": "astra/reel-el-enlace.mp4",
+    "portada": "astra/portada-el-enlace.jpg",
+    "caption": "Son las 16:58. Tu paciente tiene sesión online a las 17:00 y te escribe: «¿Dónde está el enlace?» 🔗\n\nEn muchas consultas la videollamada se crea a mano, se copia el enlace y se manda cita por cita.\n\nEn un centro de psicología lo montamos así: al reservar una cita online, la videollamada se crea sola y queda pegada a esa cita. El paciente recibe el recordatorio por WhatsApp con su enlace, y la psicóloga tiene el botón «Entrar a la sesión» en su agenda. Si el paciente la quiere pasar al viernes, la cambia por WhatsApp y el enlace se mueve con ella.\n\nParece poca cosa, hasta que cuentas tus sesiones.\n\n👉 Comenta ENLACE y te cuento cómo sería en tu consulta.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios",
+    "musica": "Jukiar"
   },
   {
     "fecha": "2026-11-21",
@@ -221,19 +221,19 @@
     "fecha": "2026-11-25",
     "hora": "11:30",
     "estado": "aprobado",
-    "video": "astra/reel-foto-contrato.mp4",
-    "portada": "astra/portada-foto-contrato.jpg",
-    "caption": "Un cliente manda la foto de su contrato a las 23:00, con flash y arrugada 📸\n\nA las 9 el despacho ya lo tiene en su expediente: la IA ha leído qué documento es, la entidad, la TAE y los importes. Si la foto no se lee, pide otra. Si la manda dos veces, no se duplica.\n\nY si el caso no está claro, lo revisa un abogado antes de decirle nada al cliente. La IA prepara, la persona decide.\n\n👉 Si eres abogado, comenta CONTRATO.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios",
-    "musica": "Brilliant Mind II"
+    "video": "astra/reel-me-haces-descuento.mp4",
+    "portada": "astra/portada-me-haces-descuento.jpg",
+    "caption": "«¿Me haces un descuento?» A las 23:40. Mira lo que contesta la IA 🌙\n\nSe lo escribió una clienta a un negocio con el que trabajamos. Y la IA no regaló nada ni bajó el precio porque sí: le explicó qué incluye el tratamiento, le recordó el bono de 3 sesiones que ya tenía y le ofreció hueco para el jueves.\n\nSi insiste, se mueve dentro de los límites que tú le pones. Ni un euro más.\n\nA las 23:42, cita en la agenda. Y tú durmiendo.\n\nNo es un chatbot que contesta. Es alguien que vende como venderías tú.\n\n👉 Comenta PRECIO y te digo cómo sería en tu negocio.\n\n#inteligenciaartificial #whatsappbusiness #ventas #estetica #automatizacion",
+    "musica": "Not Like Us"
   },
   {
     "fecha": "2026-11-26",
     "hora": "11:30",
     "estado": "aprobado",
-    "video": "astra/reel-me-haces-descuento.mp4",
-    "portada": "astra/portada-me-haces-descuento.jpg",
-    "caption": "«¿Me haces un descuento?» A las 23:40. Mira lo que contesta la IA 🌙\n\nSe lo escribió una clienta a un negocio con el que trabajamos. Y la IA no regaló nada ni bajó el precio porque sí: le explicó qué incluye el tratamiento, le recordó el bono de 3 sesiones que ya tenía y le ofreció hueco para el jueves.\n\nSi insiste, se mueve dentro de los límites que tú le pones. Ni un euro más.\n\nA las 23:42, cita en la agenda. Y tú durmiendo.\n\nNo es un chatbot que contesta. Es alguien que vende como venderías tú.\n\n👉 Comenta PRECIO y te digo cómo sería en tu negocio.\n\n#inteligenciaartificial #whatsappbusiness #ventas #estetica #automatizacion",
-    "musica": "Not Like Us"
+    "video": "astra/reel-foto-contrato.mp4",
+    "portada": "astra/portada-foto-contrato.jpg",
+    "caption": "Un cliente manda la foto de su contrato a las 23:00, con flash y arrugada 📸\n\nA las 9 el despacho ya lo tiene en su expediente: la IA ha leído qué documento es, la entidad, la TAE y los importes. Si la foto no se lee, pide otra. Si la manda dos veces, no se duplica.\n\nY si el caso no está claro, lo revisa un abogado antes de decirle nada al cliente. La IA prepara, la persona decide.\n\n👉 Si eres abogado, comenta CONTRATO.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios",
+    "musica": "Brilliant Mind II"
   },
   {
     "fecha": "2026-11-27",
@@ -248,22 +248,49 @@
     "fecha": "2026-11-28",
     "hora": "11:30",
     "estado": "aprobado",
+    "video": "astra/reel-cena-empresa.mp4",
+    "portada": "astra/portada-cena-empresa.jpg",
+    "caption": "Una cena de empresa de 14. Cambia cinco veces antes del viernes 🍽️\n\n«Somos 14.» «Al final 16.» «¿Podemos a las diez?» «Dos son vegetarianos.» Cada mensaje, alguien tiene que leerlo y apuntarlo.\n\nCon el sistema, cada cambio actualiza la misma reserva: personas, hora y notas. Sin duplicados.\n\nSi la nueva hora no cabe, no dice que sí: ofrece las que hay libres. Y unos días antes, recordatorio con un botón para confirmar. Si no confirman, te avisa a ti.\n\nEn diciembre no se te escapan mesas por falta de sitio. Se te escapan por mensajes sin contestar.\n\n(Demo ilustrativa con datos de ejemplo.)\n\n👉 Comenta MESA y te digo cómo sería en tu restaurante.\n\n#restaurantes #hosteleria #reservas #navidad #whatsappbusiness #automatizacion",
+    "musica": "Sprinter"
+  },
+  {
+    "fecha": "2026-11-30",
+    "hora": "11:30",
+    "estado": "aprobado",
     "video": "astra/reel-haz-esta-prueba.mp4",
     "portada": "astra/portada-haz-esta-prueba.jpg",
     "caption": "Haz esta prueba ahora mismo: escribe a tu propio WhatsApp como si fueses un cliente. ¿Te enteras de que hablas con una máquina? 🤖\n\nDesde el 2 de agosto, la ley europea de IA obliga a algo muy simple: si un cliente habla con una inteligencia artificial, tiene que saberlo (salvo que sea evidente). Y no vale esconderlo en la letra pequeña de la web.\n\nLa solución no es quitar la IA. Es decirlo con naturalidad en el primer mensaje y dejar siempre la puerta abierta a una persona.\n\nUn bot que se hace pasar por una persona no es un bot listo. Es un problema para tu negocio.\n\n👉 Comenta AVISO y te digo cómo podemos ayudarte.\n\n#automatizacion #inteligenciaartificial #pymes #whatsappbusiness #negocios",
     "musica": "Fancy Spinnin"
   },
   {
-    "fecha": "2026-11-30",
+    "fecha": "2026-12-01",
     "hora": "11:30",
     "estado": "aprobado",
-    "video": "astra/reel-cuenta-los-pasos.mp4",
-    "portada": "astra/portada-cuenta-los-pasos.jpg",
-    "caption": "«¿Puedo cambiar mi cita del jueves?» Cuenta los pasos 📅\n\nA mano son 7: ver el mensaje, buscar quién es, abrir la agenda, mirar huecos, proponer, esperar la respuesta y mover la cita avisando al profesional.\n\nCon el asistente: mira los huecos reales, el paciente elige, la cita se mueve sola y el profesional recibe el aviso. Cero pasos para el equipo.\n\nY si el mensaje es delicado, la IA no contesta: lo ve una persona real.\n\n👉 Comenta CAMBIO y te enseño cómo sería en tu negocio.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios",
-    "musica": "Loading"
+    "video": "astra/reel-obrador-diciembre.mp4",
+    "portada": "astra/portada-obrador-diciembre.jpg",
+    "caption": "Diciembre en un obrador: encargos a montones, una libreta y un WhatsApp que no para de sonar 🥐\n\nAntes: el cliente pide por WhatsApp, alguien lo apunta en una libreta (si se acuerda) y el 5 de enero, mañana perdida buscando quién pidió qué.\n\nDespués: el cliente pide por WhatsApp, la IA lo apunta con nombre, día y hora de recogida, la hoja de producción se rellena sola y el día antes le llega el recordatorio. Tú solo horneas.\n\nSi tienes un obrador, este año es el de dejar la libreta.\n\n👉 Comenta OBRADOR y te digo cómo sería en tu negocio.\n\n#obrador #panaderia #pasteleria #navidad #automatizacion",
+    "fija": "antes de diciembre"
   },
   {
-    "fecha": "2026-12-01",
+    "fecha": "2026-12-02",
+    "hora": "11:30",
+    "estado": "aprobado",
+    "video": "astra/reel-encargos-navidad.mp4",
+    "portada": "astra/portada-encargos-navidad.jpg",
+    "caption": "¿Dónde apuntas tú los encargos de Navidad? Si la respuesta es «en una libreta», mira esto 🎄\n\nAntes: el cliente escribe «un roscón grande para el 24», alguien lo copia a mano… y reza para que no se pierda.\n\nAhora: el mensaje entra, el sistema entiende producto, cantidad y día, y lo apunta en la hoja de producción de ese día. Le contesta al cliente con el resumen para que lo confirme. Y si algo no está claro, pregunta: no se lo inventa.\n\nLa víspera, el obrador abre una hoja con todo lo del día, agrupado por producto. Sin pasar nada a limpio.\n\nEn diciembre no te falta trabajo. Te sobra libreta.\n\n👉 Comenta ENCARGO y te digo cómo sería en tu obrador.\n\n#panaderia #obrador #navidad #whatsappbusiness #automatizacion #pymes",
+    "musica": "Win Again"
+  },
+  {
+    "fecha": "2026-12-03",
+    "hora": "11:30",
+    "estado": "aprobado",
+    "video": "astra/reel-con-mi-voz.mp4",
+    "portada": "astra/portada-con-mi-voz.jpg",
+    "caption": "Si nos mandas un audio, a veces te contesto yo. Bueno… mi voz 🎙️\n\nCuando alguien nos escribe con un audio, el sistema lo pasa a texto y entiende lo que pide. Prepara la respuesta y la convierte en una nota de voz con mi voz clonada.\n\nY siempre deja claro que es un asistente: desde agosto, la ley europea obliga a avisar cuando hablas con una IA, y nosotros lo hacemos.\n\n¿Por qué audio? Porque cuando un cliente te manda un audio suele haber mucho que responder, y contestarle con un mensaje de diez líneas no tiene sentido.\n\n👉 Comenta VOZ si quieres algo así en tu negocio.\n\n#inteligenciaartificial #notasdevoz #whatsappbusiness #automatizacion #aiact #pymes",
+    "musica": "Locked In Freestyle"
+  },
+  {
+    "fecha": "2026-12-04",
     "hora": "11:30",
     "estado": "aprobado",
     "video": "astra/reel-yo-contesto-todos.mp4",
@@ -272,16 +299,16 @@
     "musica": "NEMZZZ x Airplane Mode"
   },
   {
-    "fecha": "2026-12-02",
+    "fecha": "2026-12-05",
     "hora": "11:30",
     "estado": "aprobado",
-    "video": "astra/reel-se-inventa.mp4",
-    "portada": "astra/portada-se-inventa.jpg",
-    "caption": "«José, la IA se inventa cosas.» Tienes razón. Por eso no la dejamos 🧠\n\nEn nuestros sistemas, la IA no se sabe de memoria ni tus precios ni tu agenda. Cada vez que va a contestar, le pasamos los datos reales: los huecos y el catálogo que existen de verdad.\n\nSi un producto no está en el catálogo, no lo vende: te llega un aviso para que respondas tú.\n\nY donde no puede haber ni un error, como reservar una cita, no decide la IA: decide la base de datos.\n\nUna IA suelta se inventa cosas. Una IA atada a tus datos no tiene de dónde sacarlas.\n\n👉 Comenta DATOS si quieres un sistema así para tu negocio.\n\n#automatizacion #inteligenciaartificial #pymes #whatsappbusiness #negocios",
-    "musica": "Feeling Blue"
+    "video": "astra/reel-cuenta-los-pasos.mp4",
+    "portada": "astra/portada-cuenta-los-pasos.jpg",
+    "caption": "«¿Puedo cambiar mi cita del jueves?» Cuenta los pasos 📅\n\nA mano son 7: ver el mensaje, buscar quién es, abrir la agenda, mirar huecos, proponer, esperar la respuesta y mover la cita avisando al profesional.\n\nCon el asistente: mira los huecos reales, el paciente elige, la cita se mueve sola y el profesional recibe el aviso. Cero pasos para el equipo.\n\nY si el mensaje es delicado, la IA no contesta: lo ve una persona real.\n\n👉 Comenta CAMBIO y te enseño cómo sería en tu negocio.\n\n#automatizacion #inteligenciaartificial #pymes #n8n #negocios",
+    "musica": "Loading"
   },
   {
-    "fecha": "2026-12-03",
+    "fecha": "2026-12-07",
     "hora": "11:30",
     "estado": "aprobado",
     "video": "astra/reel-ley-persona.mp4",
@@ -290,7 +317,52 @@
     "musica": "Time"
   },
   {
-    "fecha": "2026-12-04",
+    "fecha": "2026-12-08",
+    "hora": "11:30",
+    "estado": "aprobado",
+    "video": "astra/reel-se-inventa.mp4",
+    "portada": "astra/portada-se-inventa.jpg",
+    "caption": "«José, la IA se inventa cosas.» Tienes razón. Por eso no la dejamos 🧠\n\nEn nuestros sistemas, la IA no se sabe de memoria ni tus precios ni tu agenda. Cada vez que va a contestar, le pasamos los datos reales: los huecos y el catálogo que existen de verdad.\n\nSi un producto no está en el catálogo, no lo vende: te llega un aviso para que respondas tú.\n\nY donde no puede haber ni un error, como reservar una cita, no decide la IA: decide la base de datos.\n\nUna IA suelta se inventa cosas. Una IA atada a tus datos no tiene de dónde sacarlas.\n\n👉 Comenta DATOS si quieres un sistema así para tu negocio.\n\n#automatizacion #inteligenciaartificial #pymes #whatsappbusiness #negocios",
+    "musica": "Feeling Blue"
+  },
+  {
+    "fecha": "2026-12-09",
+    "hora": "11:30",
+    "estado": "aprobado",
+    "video": "astra/reel-enero-clinica.mp4",
+    "portada": "astra/portada-enero-clinica.jpg",
+    "caption": "La agenda de enero de tu clínica se llena… o se vacía, en diciembre 📆\n\nEn tu base de datos hay gente que vino hace seis meses y no ha vuelto. Nadie les ha escrito.\n\nEl sistema los encuentra solo: quién no ha vuelto, qué se hizo la última vez y cuándo le tocaría volver.\n\nY le escribe un mensaje suyo, con dos huecos libres de enero para elegir con un botón. Si pulsa, la cita queda reservada. Sin llamadas y sin ir y venir de mensajes.\n\nEl mejor cliente nuevo es el que ya tenías.\n\n(Datos de ejemplo.)\n\n👉 Comenta ENERO y te digo cómo sería en tu clínica.\n\n#clinicas #estetica #fisioterapia #agenda #whatsappbusiness #automatizacion",
+    "musica": "Fancy Spinnin"
+  },
+  {
+    "fecha": "2026-12-10",
+    "hora": "11:30",
+    "estado": "aprobado",
+    "video": "astra/reel-ia-tu-nombre.mp4",
+    "portada": "astra/portada-ia-tu-nombre.jpg",
+    "caption": "Antes de entrar en tu tienda, tu próximo cliente ya le ha preguntado a una IA a quién ir. ¿Le ha dicho tu nombre? 👀\n\nHaz la prueba ahora mismo: pregúntale dónde comprar lo que tú vendes en tu barrio.\n\nSi no sales, no es mala suerte ni que la IA te tenga manía. La IA premia a quien tiene sus horarios, su carta, sus precios, sus reseñas y toda la información completa. Y a quien responde antes.\n\nUna ficha de Google sin actualizar desde 2022 no ayuda. Ordenar esto es lo primero que hacemos antes de automatizar nada.\n\n👉 Comenta NOMBRE y te digo cómo sería en tu negocio.\n\n#inteligenciaartificial #chatgpt #negocioslocales #google #pymes #marketing",
+    "musica": "Brilliant Mind II"
+  },
+  {
+    "fecha": "2026-12-11",
+    "hora": "11:30",
+    "estado": "aprobado",
+    "video": "astra/reel-como-trabajamos.mp4",
+    "portada": "astra/portada-como-trabajamos.jpg",
+    "caption": "Doce días. Eso tardó un despacho de abogados en firmar su primer cliente en automático 📅\n\nDía 1: reunión. No hablamos de IA. Hablamos de qué pasa desde que un cliente escribe hasta que firma.\n\nLuego lo construimos todo: el asistente, el panel y los flujos. Con datos de prueba, nunca con clientes de verdad.\n\nPruebas: miles de escenarios inventados para ver dónde falla. Y se arregla antes de encenderlo.\n\nEncendido. Y el 7 de noviembre, la primera hoja de encargo firmada sin que nadie del despacho tocara nada.\n\nY no se acaba ahí: cada día miramos qué no ha sabido resolver y lo mejoramos.\n\n👉 Comenta PROYECTO y te cuento cómo sería el tuyo.\n\n#automatizacion #inteligenciaartificial #abogados #legaltech #pymes #n8n",
+    "musica": "Time"
+  },
+  {
+    "fecha": "2026-12-12",
+    "hora": "11:30",
+    "estado": "aprobado",
+    "video": "astra/reel-24-a-las-7.mp4",
+    "portada": "astra/portada-24-a-las-7.jpg",
+    "caption": "Mañana es el día más fuerte del año en un obrador. Y la hoja ya está hecha 🥐\n\nCada pedido que entró por WhatsApp, en audio o en texto, ya está en la hoja de producción de su día. Agrupado por producto: el obrador no lee cien mensajes, lee cuánto de cada cosa.\n\nEn octubre, en uno de nuestros obradores, eran unas 940 líneas de pedido al día. Ninguna escrita a mano.\n\nY si a las nueve alguien cambia su pedido, la hoja se actualiza sola.\n\nEl día más fuerte del año, sin papeles.\n\n👉 Comenta NAVIDAD y te digo cómo sería en tu obrador.\n\n#panaderia #obrador #navidad #roscondereyes #whatsappbusiness #automatizacion",
+    "musica": "9 to 5"
+  },
+  {
+    "fecha": "2026-12-14",
     "hora": "11:30",
     "estado": "aprobado",
     "video": "astra/reel-control.mp4",
@@ -299,12 +371,21 @@
     "musica": "Future Solo"
   },
   {
-    "fecha": "2026-12-05",
+    "fecha": "2026-12-15",
     "hora": "11:30",
     "estado": "aprobado",
-    "video": "astra/reel-ia-tu-nombre.mp4",
-    "portada": "astra/portada-ia-tu-nombre.jpg",
-    "caption": "Antes de entrar en tu tienda, tu próximo cliente ya le ha preguntado a una IA a quién ir. ¿Le ha dicho tu nombre? 👀\n\nHaz la prueba ahora mismo: pregúntale dónde comprar lo que tú vendes en tu barrio.\n\nSi no sales, no es mala suerte ni que la IA te tenga manía. La IA premia a quien tiene sus horarios, su carta, sus precios, sus reseñas y toda la información completa. Y a quien responde antes.\n\nUna ficha de Google sin actualizar desde 2022 no ayuda. Ordenar esto es lo primero que hacemos antes de automatizar nada.\n\n👉 Comenta NOMBRE y te digo cómo sería en tu negocio.\n\n#inteligenciaartificial #chatgpt #negocioslocales #google #pymes #marketing",
-    "musica": "Brilliant Mind II"
+    "video": "astra/reel-chatbot-o-agente.mp4",
+    "portada": "astra/portada-chatbot-o-agente.jpg",
+    "caption": "Todo el mundo dice «agente de IA». Casi nadie sabe qué lo diferencia de un chatbot 🤖\n\nUn chatbot contesta. Le preguntas el horario, te da el horario y ahí se acaba.\n\nUn agente hace cosas: mira la agenda, reserva el hueco, lo apunta en tu sistema y te avisa.\n\nPor dentro, la IA decide qué herramienta usar. Pero lo que hace cada herramienta lo programamos nosotros, con reglas fijas. Así no se inventa nada.\n\nLa diferencia no es lo bien que habla. Es el trabajo que deja hecho.\n\n👉 Comenta AGENTE y te digo qué haría uno en tu negocio.\n\n#inteligenciaartificial #agentesia #chatbot #automatizacion #n8n #pymes",
+    "musica": "Doja (beat)"
+  },
+  {
+    "fecha": "2026-12-16",
+    "hora": "11:30",
+    "estado": "aprobado",
+    "video": "astra/reel-bot-investiga.mp4",
+    "portada": "astra/portada-bot-investiga.jpg",
+    "caption": "Cuando un negocio nos escribe, nuestro bot lo investiga antes de contestar 🔎\n\n1. Junta los mensajes que llegan seguidos, para no contestar a medias.\n2. Busca en internet ese negocio: qué hace, dónde está, qué vende.\n3. Contesta con eso. No un «hola, ¿en qué puedo ayudarte?», sino algo que tiene que ver con su negocio.\n4. Todo queda apuntado en nuestro panel, con la conversación y el siguiente paso.\n\nLo primero que vende es que te entiendan.\n\n(Los datos del vídeo son de ejemplo.)\n\n👉 Comenta INVESTIGA y te cuento cómo funciona.\n\n#inteligenciaartificial #automatizacion #ventas #whatsappbusiness #pymes #n8n",
+    "musica": "Nip"
   }
 ]
