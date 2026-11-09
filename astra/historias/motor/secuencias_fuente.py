@@ -152,6 +152,14 @@ S = [
  f(25, T('LA SOLUCIÓN:', 260, rot=-1), CHAT([['in', 'Hola, ¿hacéis bonos regalo? Es para mi madre'], ['out', '¡Hola! Sí. ¿Para qué servicio lo quieres?'], ['in', 'El de siempre, gracias']], 430),
    L('Contesta al momento', 1150, 'azul', 'high-voltage', x='l', rot=-2), L('Y apunta cada pedido', 1300, 'verde', 'clipboard', x='r', lado='i', rot=2)),
  fc(18, T('VENDE AUNQUE NO MIRES EL MÓVIL', 300, rot=-2), CTA('REGALO', 1250, '¿Cuántos bonos se te\nescapan en diciembre?'), foco=0.45)]),
+('2026-11-16', 'lunes: los mensajes del fin de semana', [
+ f(28, T('EL FIN DE SEMANA:', 260, rot=-2), L('Tú, desconectando', 480, 'blanco', 'sun', x='l', rot=-2),
+   L('Tu WhatsApp, a tope', 630, 'amarillo', 'logo-whatsapp', x='r', lado='i', rot=2)),
+ f(3, T('Y LLEGA EL LUNES:', 260, rot=-1), L('Chats sin leer desde el sábado', 480, 'blanco', 'inbox-tray', x='l', rot=-2),
+   L('Ya reservaron en otro sitio', 1300, 'rojo', 'cross-mark', rot=1)),
+ f(41, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, ¿tenéis hueco el lunes?'], ['out', '¡Hola! Sí, el lunes a las 10:30. ¿Te lo reservo?'], ['in', 'Perfecto, gracias']], 430),
+   L('Contesta también el domingo', 1150, 'azul', 'high-voltage', x='l', rot=-2), L('Y deja la cita hecha', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
+ fc(17, T('EMPIEZA AL DÍA', 280, rot=-2), CTA('LUNES', 1150, '¿Cuántos mensajes te\nesperan cada lunes?'))]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)

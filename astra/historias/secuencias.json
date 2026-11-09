@@ -2347,5 +2347,141 @@
     "foco": 0.45
    }
   ]
+ },
+ {
+  "fecha": "2026-11-16",
+  "tema": "lunes: los mensajes del fin de semana",
+  "frames": [
+   {
+    "img": "banco/28.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL FIN DE SEMANA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tú, desconectando",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "sun"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tu WhatsApp, a tope",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-whatsapp"
+     }
+    ]
+   },
+   {
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "Y LLEGA EL LUNES:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Chats sin leer desde el sábado",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "inbox-tray"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Ya reservaron en otro sitio",
+      "y": 1300,
+      "color": "rojo",
+      "rot": 1,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/41.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿tenéis hueco el lunes?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, el lunes a las 10:30. ¿Te lo reservo?"
+       ],
+       [
+        "in",
+        "Perfecto, gracias"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta también el domingo",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y deja la cita hecha",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EMPIEZA AL DÍA",
+      "y": 280,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "LUNES",
+      "y": 1150,
+      "antes": "¿Cuántos mensajes te\nesperan cada lunes?"
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   }
+  ]
  }
 ]
