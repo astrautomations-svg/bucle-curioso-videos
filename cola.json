@@ -529,6 +529,14 @@
   },
   {
     "fecha": "2026-11-11",
+    "hora": "09:00",
+    "video": "videos/pedal-acelerador.mp4",
+    "historia": "historias/pedal-acelerador.mp4",
+    "caption": "Cuando pisas el acelerador, no estás acelerando: estás pidiendo permiso. El pedal de un acelerador electrónico no tiene cable: es un sensor doble que solo le dice a la centralita cuánto quieres acelerar.\nLa centralita decide cuánto se abre la mariposa (con un pequeño motor eléctrico) y cuánta gasolina entra, y puede no hacerte caso: si las ruedas patinan, el control de tracción la cierra aunque pises a fondo. Si ese motor falla, un muelle la deja un poco abierta para llegar al taller. ¿Quieres crear vídeos así con inteligencia artificial? Enlace en la bio. Fuentes: Wikipedia «Electronic throttle control» y «Engine control unit»; kfz-tech.de (E-Gas).\nModelo 3D: \"992\" de MattDoesBlender (Sketchfab), versión de vecarz, licencia CC BY-NC-SA 4.0.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-11",
     "video": "videos/ia-consciente.mp4",
     "caption": "Si un robot y una persona hacen exactamente lo mismo, ¿cuál te parece más consciente? Casi 1.100 personas respondieron.\n\nLa máquina que más reaccionaba salía menos consciente que la persona que menos. No juzgamos lo que hace, sino lo que creemos que es. ¿Y tú?",
     "hora": "19:00",
