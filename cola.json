@@ -521,19 +521,19 @@
   },
   {
     "fecha": "2026-11-10",
-    "video": "videos/fosil-brujula.mp4",
-    "caption": "¿Desde cuándo los animales llevan una brújula dentro? Por lo menos desde hace 97 millones de años: unos fósiles microscópicos que son imanes lo demuestran.\n\nPor dentro tienen un torbellino magnético capaz de notar la latitud y ayudar con la longitud. ¿Quién crees que los fabricó?",
     "hora": "19:00",
-    "historia": "historias/fosil-brujula.mp4",
-    "tipo": "reserva"
-  },
-  {
-    "fecha": "2026-11-11",
-    "hora": "09:00",
     "video": "videos/pedal-acelerador.mp4",
     "historia": "historias/pedal-acelerador.mp4",
     "caption": "Cuando pisas el acelerador de un 911 GT3 RS no abres una mariposa: abres seis a la vez. Un coche normal tiene una sola; este bóxer atmosférico de 4 litros lleva una para cada cilindro, y así responde más rápido al pedal.\nGira hasta 9.000 vueltas por minuto: 450 explosiones cada segundo (150 vueltas por segundo; cada cilindro explota una vez cada dos vueltas, por seis cilindros). Para aguantarlo, lleva bielas de titanio y pistones forjados. ¿Quieres crear vídeos así con inteligencia artificial? Enlace en la bio. Fuentes: Porsche Newsroom (ficha técnica del 911 GT3 RS y kit de prensa del 911 GT3, «Powertrain and performance»); Andreas Preuninger (Porsche) en Road & Track.\nModelo 3D: \"992\" de MattDoesBlender (Sketchfab), versión de vecarz, licencia CC BY-NC-SA 4.0.",
     "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-11",
+    "video": "videos/fosil-brujula.mp4",
+    "caption": "¿Desde cuándo los animales llevan una brújula dentro? Por lo menos desde hace 97 millones de años: unos fósiles microscópicos que son imanes lo demuestran.\n\nPor dentro tienen un torbellino magnético capaz de notar la latitud y ayudar con la longitud. ¿Quién crees que los fabricó?",
+    "hora": "09:00",
+    "historia": "historias/fosil-brujula.mp4",
+    "tipo": "reserva"
   },
   {
     "fecha": "2026-11-11",
