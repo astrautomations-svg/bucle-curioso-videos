@@ -505,6 +505,14 @@
   },
   {
     "fecha": "2026-11-10",
+    "hora": "09:00",
+    "video": "videos/semaforos.mp4",
+    "historia": "historias/semaforos.mp4",
+    "caption": "¿Por qué los semáforos se ponen en ámbar intermitente? Porque cada cruce tiene un vigilante: una pieza aparte del regulador que, si detecta dos verdes que se cruzan o un fallo grave, lo para todo y pasa a intermitente, su modo seguro. Con ámbar intermitente se pasa con precaución y cediendo el paso si toca.\nEl armario de la esquina sigue planes de tiempos según la hora y sabe quién espera por las espiras bajo el asfalto, cámaras y pulsadores; en Madrid, un centro de control vigila 2.934 cruces día y noche. Sin corriente se apagan, como en el apagón del 28 de abril de 2025, cuando los agentes regularon el tráfico. Y el primero, en Londres en 1868, era de gas y explotó en enero de 1869. Fuentes: Ayuntamiento de Madrid (Centro de Gestión de la Movilidad, 2024), DGT (29-04-2025), MARC «Traffic signal basics», FHWA, Motorpasión e Hipertextual (semáforo de 1868), Motor.es (ámbar intermitente).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-10",
     "hora": "14:00",
     "video": "videos/drivers-nvidia.mp4",
     "historia": "historias/drivers-nvidia.mp4",
