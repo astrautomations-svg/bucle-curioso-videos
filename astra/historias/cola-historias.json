@@ -249,5 +249,17 @@
       "astra/historias/2026-11-16/03.jpg",
       "astra/historias/2026-11-16/04.jpg"
     ]
+  },
+  {
+    "fecha": "2026-11-17",
+    "hora": "13",
+    "estado": "aprobado",
+    "tema": "Black Friday: los que preguntan y no reservan",
+    "frames": [
+      "astra/historias/2026-11-17/01.jpg",
+      "astra/historias/2026-11-17/02.jpg",
+      "astra/historias/2026-11-17/03.jpg",
+      "astra/historias/2026-11-17/04.jpg"
+    ]
   }
 ]

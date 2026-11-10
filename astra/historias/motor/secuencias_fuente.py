@@ -160,6 +160,14 @@ S = [
  f(41, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, ¿tenéis hueco el lunes?'], ['out', '¡Hola! Sí, el lunes a las 10:30. ¿Te lo reservo?'], ['in', 'Perfecto, gracias']], 430),
    L('Contesta también el domingo', 1150, 'azul', 'high-voltage', x='l', rot=-2), L('Y deja la cita hecha', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
  fc(17, T('EMPIEZA AL DÍA', 280, rot=-2), CTA('LUNES', 1150, '¿Cuántos mensajes te\nesperan cada lunes?'))]),
+('2026-11-17', 'Black Friday: los que preguntan y no reservan', [
+ f(15, T('TE PREGUNTAN:', 260, rot=-2), L('¿Cuánto es la oferta?', 480, 'blanco', 'speech-balloon', x='l', rot=-2),
+   L('¿Hasta cuándo dura?', 630, 'amarillo', 'shopping-cart', x='r', lado='i', rot=2), L('Les contestas… y nada', 1300, 'rojo', 'cross-mark', rot=-1)),
+ f(36, T('EL PROBLEMA:', 260, rot=-1), L('Nadie les vuelve a escribir', 480, 'naranja', 'hourglass-done', x='l', rot=-2),
+   L('Y la oferta se acaba sin ellos', 1300, 'blanco', 'grimacing-face', x='r', lado='i', rot=2)),
+ f(20, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola Nuria, la oferta acaba el domingo. ¿Te guardo hora antes?'], ['in', '¡Sí! El viernes por la tarde']], 430),
+   L('Les recuerda la oferta', 1150, 'verde', 'logo-whatsapp', x='l', rot=-2), L('Antes de que se acabe', 1300, 'azul', 'alarm-clock', x='r', lado='i', rot=2)),
+ fc(39, T('QUE NO SE QUEDEN A MEDIAS', 1000, rot=-2), CTA('OFERTA', 1170, '¿Cuántos te preguntaron\ny no volvieron?'), foco=0.3)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)

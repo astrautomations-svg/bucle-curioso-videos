@@ -2483,5 +2483,148 @@
     ]
    }
   ]
+ },
+ {
+  "fecha": "2026-11-17",
+  "tema": "Black Friday: los que preguntan y no reservan",
+  "frames": [
+   {
+    "img": "banco/15.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "TE PREGUNTAN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Cuánto es la oferta?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Hasta cuándo dura?",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "shopping-cart"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Les contestas… y nada",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/36.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Nadie les vuelve a escribir",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "hourglass-done"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y la oferta se acaba sin ellos",
+      "y": 1300,
+      "color": "blanco",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "grimacing-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Nuria, la oferta acaba el domingo. ¿Te guardo hora antes?"
+       ],
+       [
+        "in",
+        "¡Sí! El viernes por la tarde"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Les recuerda la oferta",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Antes de que se acabe",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "alarm-clock"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "QUE NO SE QUEDEN A MEDIAS",
+      "y": 1000,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "OFERTA",
+      "y": 1170,
+      "antes": "¿Cuántos te preguntaron\ny no volvieron?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
  }
 ]
