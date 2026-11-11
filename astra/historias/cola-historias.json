@@ -261,5 +261,18 @@
       "astra/historias/2026-11-17/03.jpg",
       "astra/historias/2026-11-17/04.jpg"
     ]
+  },
+  {
+    "fecha": "2026-11-18",
+    "hora": "13",
+    "estado": "aprobado",
+    "tema": "cenas de empresa: reservas de grupo por WhatsApp",
+    "frames": [
+      "astra/historias/2026-11-18/01.jpg",
+      "astra/historias/2026-11-18/02.jpg",
+      "astra/historias/2026-11-18/03.jpg",
+      "astra/historias/2026-11-18/04.jpg",
+      "astra/historias/2026-11-18/05.jpg"
+    ]
   }
 ]

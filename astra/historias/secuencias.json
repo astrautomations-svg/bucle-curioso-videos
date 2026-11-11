@@ -2626,5 +2626,184 @@
     "foco": 0.3
    }
   ]
+ },
+ {
+  "fecha": "2026-11-18",
+  "tema": "cenas de empresa: reservas de grupo por WhatsApp",
+  "frames": [
+   {
+    "img": "banco/31.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "CENAS DE EMPRESA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Tenéis menú para grupos?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Somos 14… o igual 16",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "busts-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Hay opción vegetariana?",
+      "y": 780,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "thinking-face"
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/33.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Cada grupo, un chat eterno",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "repeat-button"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, contestando de noche",
+      "y": 1300,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "crescent-moon"
+     }
+    ]
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿tenéis menú para una cena de empresa el 19?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, ahora te paso el menú. ¿Cuántos seréis?"
+       ],
+       [
+        "in",
+        "Unos 15, te confirmo el viernes"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Manda el menú al momento",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y apunta la reserva",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/42.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "Y ADEMÁS:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Pide cuántos serán al final",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "clipboard"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y recuerda la cena el día antes",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "bell"
+     }
+    ]
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "TÚ, A LLENAR EL LOCAL",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "GRUPOS",
+      "y": 1250,
+      "antes": "¿Cuántas reservas de grupo\nllevas a mano?"
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   }
+  ]
  }
 ]
