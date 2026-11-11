@@ -615,5 +615,13 @@
     "caption": "¿Qué pasa si doblas un folio 42 veces? Que llegarías a la Luna: cada doblez duplica el grosor, y una décima de milímetro multiplicada por dos 42 veces da unos 440.000 km, más que los 384.400 km que hay de media hasta la Luna.\nEn la práctica, a los siete u ocho dobleces el papel ya es demasiado grueso y corto; el récord son 12, de Britney Gallivan en 2002, con una tira de papel de 1.219 metros. Fuentes: Guinness World Records, Live Science, Wolfram MathWorld y la ficha lunar de la NASA.",
     "tipo": "viral",
     "nota": "duplicado del 20-10, no publicar"
+  },
+  {
+    "fecha": "2026-11-11",
+    "hora": "14:00",
+    "video": "videos/huelga-luz.mp4",
+    "historia": "historias/huelga-luz.mp4",
+    "caption": "¿Cómo se mide una huelga general con la luz? Esta mañana, a las nueve, Red Eléctrica esperaba unos 31.000 megavatios de consumo y llegaron unos 28.800.\n\nLa electricidad se gasta en el mismo instante en que se produce, así que cualquier parón se ve en la curva al momento. Pero la luz cuenta máquinas, no personas. ¿Lo sabías?",
+    "tipo": "actualidad"
   }
 ]
