@@ -636,7 +636,7 @@
     "hora": "14:00",
     "video": "videos/auriculares-bluetooth.mp4",
     "historia": "historias/auriculares-bluetooth.mp4",
-    "caption": "(pendiente)",
+    "caption": "¿Cómo llega la música de tu móvil a tus auriculares sin cables? Saltando de canal hasta 1.600 veces por segundo.\nLa canción se comprime con un códec (SBC, AAC o, en LE Audio, LC3) y viaja por radio a 2,4 GHz, la misma banda que el wifi y el microondas. El Bluetooth clásico usa 79 canales de 1 MHz y salta entre ellos esquivando los ocupados; el de bajo consumo, 40 de 2 MHz. Cada paquete lleva un número y una marca de tiempo; si uno no llega a tiempo, falta un trozo y el sonido se corta. Dentro del auricular, un imán y una bobina mueven la membrana. En muchos auriculares el móvil habla con uno y ese se lo pasa al otro; con LE Audio, el móvil manda a cada uno lo suyo. Todo el viaje puede tardar unas tres décimas de segundo (medido en móviles Android).\n¿Quieres aprender a crear vídeos como este con inteligencia artificial? Tienes el enlace en la bio.\nFuentes: Bluetooth SIG («Bluetooth Wireless Technology», tabla Classic/LE; «A Technical Overview of LC3»); MathWorks, comparación de las especificaciones BR/EDR y LE; especificación A2DP (SBC obligatorio, cabecera RTP con número de secuencia y marca de tiempo; IETF draft-ietf-payload-rtp-sbc); Apple, «Resolve Wi-Fi and Bluetooth issues caused by wireless interference»; IEEE Spectrum, «Bluetooth Low Energy Audio»; SoundGuys, pruebas de latencia Bluetooth en Android.",
     "tipo": "viral"
   },
   {
