@@ -2805,5 +2805,119 @@
     "foco": 0.45
    }
   ]
+ },
+ {
+  "fecha": "2026-11-19",
+  "tema": "temporada alta: reseñas que nadie pide",
+  "frames": [
+   {
+    "img": "banco/30.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN TEMPORADA ALTA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "El local, lleno",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "fire"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Clientes que salen contentos",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "star-struck"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y ni una reseña nueva",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Marta, gracias por venir hoy. ¿Nos dejas tu opinión en Google? Aquí tienes el enlace"
+       ],
+       [
+        "in",
+        "¡Claro! Ahora mismo te la dejo"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Pide la reseña al salir",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Sin que tengas que acordarte",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-google"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "QUE TE ELIJAN EN GOOGLE",
+      "y": 1000,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "RESEÑAS",
+      "y": 1170,
+      "antes": "¿Cuántos clientes contentos\nse van sin dejar reseña?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
  }
 ]

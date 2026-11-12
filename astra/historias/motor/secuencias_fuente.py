@@ -178,6 +178,13 @@ S = [
  f(42, T('Y ADEMÁS:', 260, rot=-2), L('Pide cuántos serán al final', 480, 'blanco', 'clipboard', x='l', rot=-2),
    L('Y recuerda la cena el día antes', 630, 'amarillo', 'bell', x='r', lado='i', rot=2)),
  fc(18, T('TÚ, A LLENAR EL LOCAL', 300, rot=-2), CTA('GRUPOS', 1250, '¿Cuántas reservas de grupo\nllevas a mano?'), foco=0.45)]),
+('2026-11-19', 'temporada alta: reseñas que nadie pide', [
+ f(30, T('EN TEMPORADA ALTA:', 260, rot=-2), L('El local, lleno', 480, 'blanco', 'fire', x='l', rot=-2),
+   L('Clientes que salen contentos', 630, 'amarillo', 'star-struck', x='r', lado='i', rot=2),
+   L('Y ni una reseña nueva', 1300, 'rojo', 'cross-mark', rot=-1), foco=0.45),
+ f(20, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola Marta, gracias por venir hoy. ¿Nos dejas tu opinión en Google? Aquí tienes el enlace'], ['in', '¡Claro! Ahora mismo te la dejo']], 430),
+   L('Pide la reseña al salir', 1150, 'verde', 'logo-whatsapp', x='l', rot=-2), L('Sin que tengas que acordarte', 1300, 'azul', 'logo-google', x='r', lado='i', rot=2)),
+ fc(39, T('QUE TE ELIJAN EN GOOGLE', 1000, rot=-2), CTA('RESEÑAS', 1170, '¿Cuántos clientes contentos\nse van sin dejar reseña?'), foco=0.3)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)
