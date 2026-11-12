@@ -577,11 +577,43 @@
   },
   {
     "fecha": "2026-11-13",
+    "hora": "09:00",
+    "video": "videos/tarjeta-sin-pila.mp4",
+    "historia": "historias/tarjeta-sin-pila.mp4",
+    "caption": "(pendiente)",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-13",
+    "hora": "14:00",
+    "video": "videos/cable-submarino.mp4",
+    "historia": "historias/cable-submarino.mp4",
+    "caption": "(pendiente)",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-13",
     "video": "videos/cuevas-luna.mp4",
     "caption": "La primera casa en la Luna podría estar dentro de una cueva, y la NASA va a mirar dentro de una.\n\nFuera se pasa de 127 °C a −173 °C; en la sombra de esos agujeros hace unos 17 °C, como en primavera. ¿Vivirías ahí?",
     "hora": "19:00",
     "historia": "historias/cuevas-luna.mp4",
     "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-14",
+    "hora": "09:00",
+    "video": "videos/coche-aparcado.mp4",
+    "historia": "historias/coche-aparcado.mp4",
+    "caption": "(pendiente)",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-14",
+    "hora": "14:00",
+    "video": "videos/oled-led.mp4",
+    "historia": "historias/oled-led.mp4",
+    "caption": "(pendiente)",
+    "tipo": "viral"
   },
   {
     "hora": "19:00",
