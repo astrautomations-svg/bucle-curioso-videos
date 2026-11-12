@@ -625,6 +625,22 @@
   },
   {
     "fecha": "2026-11-15",
+    "hora": "09:00",
+    "video": "videos/llave-dinamometrica.mp4",
+    "historia": "historias/llave-dinamometrica.mp4",
+    "caption": "(pendiente)",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-15",
+    "hora": "14:00",
+    "video": "videos/auriculares-bluetooth.mp4",
+    "historia": "historias/auriculares-bluetooth.mp4",
+    "caption": "(pendiente)",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-15",
     "video": "videos/planeta-bebe.mp4",
     "caption": "¿Cómo de joven puede ser un planeta? Elias 2-24 b tiene menos de un millón de años: si la Tierra tuviera un año, él habría nacido hace menos de dos horas.\n\nTan grande como Júpiter, y formado mucho antes de lo que se creía posible. ¿Qué te gustaría que descubrieran después?",
     "hora": "19:00",
