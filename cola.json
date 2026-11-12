@@ -580,7 +580,7 @@
     "hora": "09:00",
     "video": "videos/tarjeta-sin-pila.mp4",
     "historia": "historias/tarjeta-sin-pila.mp4",
-    "caption": "(pendiente)",
+    "caption": "¿Cómo paga tu tarjeta sin contacto si no lleva ni una pila? Le roba la energía al datáfono: su campo magnético de 13,56 MHz mueve corriente por una bobina de cobre que recorre todo el borde y enciende el chip.\n\nEl chip no emite nada: contesta dando tirones al campo, con un código que solo vale para ese pago. En España, hasta 50 € no te piden el PIN… pero si acumulas 150 € sin él, te lo piden.\n\n¿Quieres aprender a crear vídeos como este con IA? Tienes el enlace en la biografía.\n\nFuentes: ISO/IEC 14443; guía NFC ST25 de STMicroelectronics; nota EMV 3.0 de Analog Devices (MAX32560); Secure Technology Alliance (EMV FAQ y «Optimizing Transaction Speed»); Comunidad de Madrid, Consumo («¿Qué es la tecnología contactless?»); CaixaBank (PSD2 y PIN en compras contactless).",
     "tipo": "viral"
   },
   {
