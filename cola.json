@@ -623,5 +623,13 @@
     "historia": "historias/huelga-luz.mp4",
     "caption": "¿Cómo se mide una huelga general con la luz? Esta mañana, a las nueve, Red Eléctrica esperaba unos 31.000 megavatios de consumo y llegaron unos 28.800.\n\nLa electricidad se gasta en el mismo instante en que se produce, así que cualquier parón se ve en la curva al momento. Pero la luz cuenta máquinas, no personas. ¿Lo sabías?",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-12",
+    "hora": "09:00",
+    "video": "videos/barco-hundido.mp4",
+    "historia": "historias/barco-hundido.mp4",
+    "caption": "¿Cómo se hunde a propósito un barco más largo que el Titanic? El SS United States, de 302 metros, se fue ayer al fondo del golfo de México abriendo sus válvulas de agua de mar, sin explosivos.\n\nLe abrieron agujeros en las cubiertas para que escapara el aire y llenaron de agua sus 128 tanques para que bajara recto. Ahora reposa a 55 metros y será el mayor arrecife artificial del mundo. ¿Bucearías en él?",
+    "tipo": "actualidad"
   }
 ]
