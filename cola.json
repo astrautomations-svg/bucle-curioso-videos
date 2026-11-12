@@ -628,7 +628,7 @@
     "hora": "09:00",
     "video": "videos/llave-dinamometrica.mp4",
     "historia": "historias/llave-dinamometrica.mp4",
-    "caption": "(pendiente)",
+    "caption": "¿Cómo sabe una llave dinamométrica que ya has apretado lo justo, sin pilas ni chip? Dentro del tubo, un muelle empuja un bloque de acero contra la cabeza: cuando la fuerza lo vence, el bloque se vuelca, la cabeza salta y golpea el tubo. Ese golpe es el clic.\n\nLas tuercas de una rueda suelen ir a unos 120 N·m (el valor exacto lo da el fabricante), y la norma le permite un error del 4 %. Por eso se guarda al mínimo: un muelle apretado durante meses pierde fuerza. ¿Tú las aprietas a ojo?\n\nPor cierto, si quieres aprender a crear vídeos como este con inteligencia artificial, tienes el enlace en la biografía.\n\nFuentes: Stahlwille («Clicking systems for torque wrenches»: bloque basculante y leva; «Correct setting of the torque wrench»: las llaves de muelle se vuelven a cero al acabar la jornada para que el muelle no pierda fuerza); Norbar («Selection and use of torque wrenches»: ISO 6789 y ASME B107.14 exigen el clic dentro del 4 % en la mayoría de llaves; para guardarla mucho tiempo, al mínimo de la escala, nunca por debajo); Atlas Copco (parámetros de ensayo de la ISO 6789-2:2017, desviación máxima del 4 %); Motor1 («The Torque Wrench Is a Fascinating Piece of Engineering»); RACE («Par de apriete»: una rueda de coche suele ir a 120 N·m); Autofácil (entre unos 90 y 140 N·m según el coche); 12 kg × 9,81 m/s² × 1 m ≈ 118 N·m.",
     "tipo": "viral"
   },
   {
