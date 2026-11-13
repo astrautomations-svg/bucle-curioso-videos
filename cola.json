@@ -652,7 +652,7 @@
     "hora": "09:00",
     "video": "videos/face-id-oscuras.mp4",
     "historia": "historias/face-id-oscuras.mp4",
-    "caption": "(pendiente)",
+    "caption": "¿Cómo te reconoce el móvil la cara, incluso a oscuras? Disparándote más de 30.000 puntos de luz infrarroja que no puedes ver.\nEn el iPhone, un iluminador infrarrojo te baña la cara (la misma clase de luz que la del mando de la tele) y un proyector lanza más de 30.000 puntos (cifra de Apple). Al caer sobre la nariz y los pómulos se deforman, y una cámara infrarroja los lee para sacar un mapa de profundidad: no una foto. Por eso una foto impresa no lo engaña. En una prueba de Which? con 48 móviles nuevos, 19 se desbloquearon con una foto. El mapa se guarda cifrado en una zona aislada del chip (Secure Enclave) y no sale del móvil. Probabilidad de que un extraño lo abra: 1 entre 50.000 con la huella; menos de 1 entre 1.000.000 con la cara (más alta con gemelos o menores de 13 años).\n¿Quieres aprender a crear vídeos como este con inteligencia artificial? Tienes el enlace en la bio.\nFuentes: Apple Newsroom, «The future is here: iPhone X» (2017); Apple Soporte, «About Face ID advanced technology» y «About Touch ID advanced security technology»; Apple Platform Security, «Face ID and Touch ID security»; MacRumors, «How iPhone X Face ID works» (2017); Which?, «Smartphones have face recognition that can be easily spoofed with 2D photo» (19-05-2023).\n",
     "tipo": "encargo"
   },
   {
