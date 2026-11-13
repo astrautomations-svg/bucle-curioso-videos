@@ -660,7 +660,7 @@
     "hora": "14:00",
     "video": "videos/contrasena-12.mp4",
     "historia": "historias/contrasena-12.mp4",
-    "caption": "(pendiente)",
+    "caption": "¿Por qué una contraseña de 8 caracteres cae en minutos y una de 16 aguanta más que el universo? Con 95 símbolos por hueco, 8 caracteres son 6.600 billones de combinaciones: doce tarjetas gráficas RTX 5090 contra una huella antigua (MD5) las prueban todas en unos 43 minutos. Con 12 serían más de 6.000 años, y con 16, unas 39 veces la edad del universo.\n\nOjo: si la web guarda bien las contraseñas (bcrypt), la tabla de Hive Systems de 2026 da 132 años para 8 caracteres al azar, pero lo predecible cae en segundos porque se prueba primero. «P@ssw0rd!» aparece 119.522 veces en contraseñas filtradas. Lo que funciona: frase larga de palabras al azar, gestor de contraseñas y verificación en dos pasos. ¿La tuya cuántas ruedas tiene?\n\nPor cierto, si quieres aprender a crear vídeos como este con inteligencia artificial, tienes el enlace en la biografía.\n\nFuentes: hashcat.net (foro, «[Benchmark] GeForce RTX 5090», febrero de 2025: MD5 a 215,8 GH/s por tarjeta); Hive Systems (tabla de contraseñas 2026, nota del 14-07-2026, y tabla 2025 con 12 RTX 5090); Have I Been Pwned, Pwned Passwords (consulta del 13-11-2026: «P@ssw0rd!», 119.522 veces); NIST SP 800-63B-4 (mínimo 15 caracteres si es el único factor, sin reglas de composición, lista de contraseñas filtradas, gestores permitidos); EFF (frases con palabras al azar). Cálculo: 95^8 / (12 × 215,8·10^9 por segundo) ≈ 43 min; 95^12 ≈ 6.600 años; 95^16 ≈ 540.000 millones de años (13.800 millones = edad del universo).\n",
     "tipo": "encargo"
   },
   {
