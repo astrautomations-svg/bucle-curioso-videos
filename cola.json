@@ -697,6 +697,14 @@
   },
   {
     "fecha": "2026-11-18",
+    "hora": "09:00",
+    "video": "videos/claude-shannon.mp4",
+    "historia": "historias/claude-shannon.mp4",
+    "caption": "(pendiente)",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-18",
     "video": "videos/adn-ocho-letras.mp4",
     "caption": "Toda la vida que conocemos se escribe con cuatro letras: A, T, C y G. Pero ya existe un ADN con ocho.\n\nSe llama hachimoji, y ahora han visto que la máquina de una bacteria sabe leer las letras nuevas. ¿Lo sabías?",
     "hora": "19:00",
