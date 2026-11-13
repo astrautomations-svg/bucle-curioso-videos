@@ -649,6 +649,22 @@
   },
   {
     "fecha": "2026-11-16",
+    "hora": "09:00",
+    "video": "videos/face-id-oscuras.mp4",
+    "historia": "historias/face-id-oscuras.mp4",
+    "caption": "(pendiente)",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-16",
+    "hora": "14:00",
+    "video": "videos/contrasena-12.mp4",
+    "historia": "historias/contrasena-12.mp4",
+    "caption": "(pendiente)",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-16",
     "video": "videos/cerebro-anestesia.mp4",
     "caption": "¿Qué hace tu cerebro cuando estás anestesiado? Sigue escuchando: el hipocampo distinguía palabras, aprendía sonidos y hasta anticipaba la palabra siguiente.\n\nNo significa que los pacientes entendieran nada de forma consciente. ¿Te lo esperabas?",
     "hora": "19:00",
@@ -657,11 +673,35 @@
   },
   {
     "fecha": "2026-11-17",
+    "hora": "09:00",
+    "video": "videos/cueva-gigante.mp4",
+    "historia": "historias/cueva-gigante.mp4",
+    "caption": "(pendiente)",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-17",
+    "hora": "14:00",
+    "video": "videos/dormir-mas-cansado.mp4",
+    "historia": "historias/dormir-mas-cansado.mp4",
+    "caption": "(pendiente)",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-17",
     "video": "videos/ia-co2.mp4",
     "caption": "¿Cuántos caminos hay para convertir CO2 en combustible? Los químicos tenían un mapa de 152 reacciones; una IA lo ha ampliado a 9.389.\n\nCon el mapa completo, las predicciones encajan con los experimentos. No es una fábrica todavía, pero sí una guía para mejores catalizadores. ¿Qué problema le darías tú a una IA?",
     "hora": "19:00",
     "historia": "historias/ia-co2.mp4",
     "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-18",
+    "hora": "09:00",
+    "video": "videos/corazon-cocaina.mp4",
+    "historia": "historias/corazon-cocaina.mp4",
+    "caption": "(pendiente)",
+    "tipo": "encargo"
   },
   {
     "fecha": "2026-11-18",
