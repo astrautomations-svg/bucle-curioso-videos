@@ -1,13 +1,24 @@
 [
-  {
-    "fecha": "2026-11-12",
-    "hora": "18:00",
-    "video": "youtube/reloj-mecanico.mp4",
-    "miniatura": "youtube/reloj-mecanico.jpg",
-    "historia": "historias/yt-reloj-mecanico.mp4",
-    "titulo": "Por qué tu reloj mecánico lleva rubíes (y cómo funciona sin pilas)",
-    "descripcion": "",
-    "etiquetas": "",
-    "subido": "WhL-fVz6-do"
-  }
+ {
+  "fecha": "2026-11-12",
+  "hora": "18:00",
+  "video": "youtube/reloj-mecanico.mp4",
+  "miniatura": "youtube/reloj-mecanico.jpg",
+  "historia": "historias/yt-reloj-mecanico.mp4",
+  "titulo": "Por qué tu reloj mecánico lleva rubíes (y cómo funciona sin pilas)",
+  "descripcion": "",
+  "etiquetas": "",
+  "subido": "WhL-fVz6-do"
+ },
+ {
+  "fecha": "2026-11-14",
+  "hora": "18:00",
+  "video": "youtube/nevera.mp4",
+  "miniatura": "youtube/nevera.jpg",
+  "historia": "historias/yt-nevera.mp4",
+  "titulo": "Tu nevera no fabrica frío: así enfría de verdad, pieza a pieza",
+  "descripcion": "Tu nevera no fabrica ni una pizca de frío: lo que hace es sacar el calor de dentro y echarlo a tu cocina. Por eso la parte de atrás quema, y por eso, si dejas la puerta abierta, la cocina no se enfría: se calienta. La abrimos en canal en 3D y seguimos el viaje del refrigerante: el evaporador donde hierve a bajo cero, el compresor que lo aprieta, el condensador que suelta el calor y el capilar que lo deja otra vez helado. Y de paso: qué pasa con la comida caliente y cómo se conservaba el frío antes, desde los pozos de nieve de Madrid.\n\nCapítulos\n0:00 ¿Cómo enfría si no fabrica frío?\n0:16 El frío no existe\n0:32 El refrigerante: hierve a −12 °C\n0:59 El evaporador: dentro roba calor\n1:18 El compresor: aprieta el gas\n1:36 El condensador: por qué quema la parte de atrás\n2:01 El capilar: la válvula de expansión\n2:23 La vuelta completa y el termostato\n2:42 ¿Y si dejas la puerta abierta?\n3:00 ¿Se puede meter comida caliente?\n3:25 Historia: de la nieve de Guadarrama a la nevera eléctrica\n3:57 Resumen\n\n¿Quieres aprender a crear vídeos como este con inteligencia artificial? Aquí lo tienes: https://buclecurioso.gumroad.com/l/piloto-automatico\n\nMás curiosidades cada día en Instagram: @buclecurioso https://www.instagram.com/buclecurioso/\n\nFuentes\n- Cómo funciona una nevera (compresor, condensador detrás, capilar como dispositivo de expansión, evaporador dentro, termostato que enciende y apaga el compresor): https://www.danfoss.com/en-gb/about-danfoss/our-businesses/cooling/the-fridge-how-it-works\n- El isobutano (R-600a) hierve a −11,7 °C: https://refrigeranthq.com/r-600a-isobutane-refrigerant-fact-info-sheet/\n- El R-600a como principal refrigerante de las neveras domésticas (punto de ebullición, −12 °C): https://iifiir.org/en/encyclopedia-of-refrigeration/hydrocarbon-refrigerants\n- Presiones del R-600a (unos 72 kPa a −20 °C y unos 531 kPa a 40 °C: unas cinco veces la presión del aire): https://refrigeranthq.com/r-600a-isobutane-refrigerant-pt-chart/\n- La parte de atrás o los laterales calientan: unos 40 °C en marcha normal y 60-65 °C con más de 35 °C en la cocina; dejar más de 10 cm con la pared: https://www.haier.com/in/service-support/self-service/20160707_102142.shtml\n- Todo el calor que saca la nevera sale por la rejilla de detrás, y con la puerta abierta la cocina acaba más caliente: https://www.explainthatstuff.com/airconditioner.html\n- El calor que suelta el condensador incluye el que saca de dentro más el del compresor: https://physics.umd.edu/studinfo/courses/Phys104/einstein/Spr03/Bloomfield-pdf/6.3-air_conditioners.pdf\n- Nevera a 4 °C (40 °F) o menos y congelador a −18 °C (0 °F); regla de las 2 horas: https://www.fda.gov/food/buy-store-serve-safe-food/refrigerator-thermometers-cold-facts-about-food-safety\n- Comida caliente en la nevera (AESAN, FDA y USDA; repartir en recipientes pequeños; consumo): https://maldita.es/malditaciencia/20231021/meter-comida-caliente-en-la-nevera/\n- Pozos de nieve de Madrid (1607, nieve de Guadarrama apisonada en capas con paja, cierre en 1863): https://diario.madrid.es/cieacasadecampo/wp-content/uploads/sites/61/2020/07/Los-pozos-de-nieve.pdf\n- El comercio del hielo (Frederic Tudor, 1806, el hielo que se derritió en Martinica; neveras eléctricas habituales en EE. UU. en los años treinta): https://en.wikipedia.org/wiki/Ice_trade\n- Jacob Perkins y la máquina de compresión de vapor (patente de 1834): https://www.asme.org/about-asme/engineering-history/landmarks/274-perkins-vapor-compression-cycle-for-refrigeration\n\nTodo lo que ves está modelado y animado en 3D por Bucle Curioso; no se ha usado ningún modelo 3D externo ni ninguna marca real.\n\n#nevera #frigorifico #comofunciona #curiosidades #ciencia",
+  "etiquetas": "nevera, frigorífico, cómo funciona una nevera, cómo enfría una nevera, refrigerante, isobutano, compresor, condensador, evaporador, capilar, válvula de expansión, por qué quema la parte de atrás de la nevera, comida caliente en la nevera, puerta de la nevera abierta, pozos de nieve, historia de la nevera, curiosidades, ciencia, física, 3D, Bucle Curioso",
+  "subir_el": "2026-11-13"
+ }
 ]
