@@ -185,6 +185,14 @@ S = [
  f(20, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola Marta, gracias por venir hoy. ¿Nos dejas tu opinión en Google? Aquí tienes el enlace'], ['in', '¡Claro! Ahora mismo te la dejo']], 430),
    L('Pide la reseña al salir', 1150, 'verde', 'logo-whatsapp', x='l', rot=-2), L('Sin que tengas que acordarte', 1300, 'azul', 'logo-google', x='r', lado='i', rot=2)),
  fc(39, T('QUE TE ELIJAN EN GOOGLE', 1000, rot=-2), CTA('RESEÑAS', 1170, '¿Cuántos clientes contentos\nse van sin dejar reseña?'), foco=0.3)]),
+('2026-11-20', 'diciembre: llamadas en hora punta', [
+ f(6, T('EN DICIEMBRE, HORA PUNTA:', 260, rot=-2), L('El local, a tope', 480, 'blanco', 'fire', x='l', rot=-2),
+   L('Suena el teléfono', 630, 'amarillo', 'telephone-receiver', x='r', lado='i', rot=2), L('Y no llegas a cogerlo', 1300, 'rojo', 'cross-mark', rot=-1), foco=0.45),
+ f(12, T('LO QUE PASA:', 260, rot=-1), L('No deja mensaje', 480, 'blanco', 'speech-balloon', x='l', rot=-2),
+   L('Llama al siguiente de Google', 1300, 'naranja', 'logo-google', x='r', lado='i', rot=2), foco=0.6),
+ f(41, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola, hemos visto tu llamada. ¿En qué te podemos ayudar?'], ['in', '¿Tenéis hueco el sábado?'], ['out', 'Sí, a las 11:00. ¿Te lo reservo?']], 430),
+   L('Escribe al que te llamó', 1150, 'azul', 'logo-whatsapp', x='l', rot=-2), L('Y deja la cita hecha', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
+ fc(17, T('NI UNA PERDIDA', 280, rot=-2), CTA('LLAMADAS', 1150, '¿Cuántas llamadas se te\nescapan en diciembre?'))]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)

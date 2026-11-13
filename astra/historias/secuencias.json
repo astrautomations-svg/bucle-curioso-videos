@@ -2919,5 +2919,153 @@
     "foco": 0.3
    }
   ]
+ },
+ {
+  "fecha": "2026-11-20",
+  "tema": "diciembre: llamadas en hora punta",
+  "frames": [
+   {
+    "img": "banco/06.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN DICIEMBRE, HORA PUNTA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "El local, a tope",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "fire"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Suena el teléfono",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "telephone-receiver"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y no llegas a cogerlo",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/12.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LO QUE PASA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "No deja mensaje",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Llama al siguiente de Google",
+      "y": 1300,
+      "color": "naranja",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-google"
+     }
+    ],
+    "foco": 0.6
+   },
+   {
+    "img": "banco/41.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola, hemos visto tu llamada. ¿En qué te podemos ayudar?"
+       ],
+       [
+        "in",
+        "¿Tenéis hueco el sábado?"
+       ],
+       [
+        "out",
+        "Sí, a las 11:00. ¿Te lo reservo?"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Escribe al que te llamó",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y deja la cita hecha",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "NI UNA PERDIDA",
+      "y": 280,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "LLAMADAS",
+      "y": 1150,
+      "antes": "¿Cuántas llamadas se te\nescapan en diciembre?"
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   }
+  ]
  }
 ]
