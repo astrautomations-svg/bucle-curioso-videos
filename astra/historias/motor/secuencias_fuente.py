@@ -193,6 +193,16 @@ S = [
  f(41, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola, hemos visto tu llamada. ¿En qué te podemos ayudar?'], ['in', '¿Tenéis hueco el sábado?'], ['out', 'Sí, a las 11:00. ¿Te lo reservo?']], 430),
    L('Escribe al que te llamó', 1150, 'azul', 'logo-whatsapp', x='l', rot=-2), L('Y deja la cita hecha', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
  fc(17, T('NI UNA PERDIDA', 280, rot=-2), CTA('LLAMADAS', 1150, '¿Cuántas llamadas se te\nescapan en diciembre?'))]),
+('2026-11-21', 'clientes nuevos de Navidad: que vuelvan en enero', [
+ f(10, T('EN DICIEMBRE TE LLEGA:', 260, rot=-2), L('Gente que viene por primera vez', 480, 'blanco', 'bust-in-silhouette', x='l', rot=-2),
+   L('Por una cena o un regalo', 630, 'amarillo', 'party-popper', x='r', lado='i', rot=2), foco=0.4),
+ f(15, T('EL PROBLEMA:', 260, rot=-1), L('Llega enero', 480, 'blanco', 'spiral-calendar', x='l', rot=-2),
+   L('Y nadie les vuelve a escribir', 1300, 'rojo', 'cross-mark', x='r', lado='i', rot=2)),
+ f(3, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola Elena, gracias por venir en diciembre. ¿Te guardo hora para enero?'], ['in', '¡Sí! La segunda semana, por la tarde']], 430),
+   L('Apunta a cada cliente nuevo', 1150, 'azul', 'clipboard', x='l', rot=-2), L('Y le escribe en el momento justo', 1300, 'verde', 'logo-whatsapp', x='r', lado='i', rot=2)),
+ f(42, T('MIENTRAS TANTO:', 260, rot=-2), L('Tú, disfrutando las fiestas', 480, 'blanco', 'sun', x='l', rot=-2),
+   L('El sistema se acuerda por ti', 630, 'amarillo', 'bell', x='r', lado='i', rot=2)),
+ fc(27, CTA('ENERO', 320, '¿Cuántos clientes de diciembre\nvuelven en enero?'), foco=0.35)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)
