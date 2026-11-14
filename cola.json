@@ -1,0 +1,731 @@
+[
+  {
+    "fecha": "2026-10-20",
+    "video": "videos/cumpleanos.mp4",
+    "caption": "¿Cuántas personas hacen falta para que dos cumplan años el mismo día? Con solo 23, ya es tan probable como sacar cara.\n\nEs la paradoja del cumpleaños: con 23 personas hay 253 parejas posibles. ¿Lo has comprobado alguna vez?",
+    "hora": "19:00",
+    "historia": "historias/cumpleanos.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-10-21",
+    "hora": "09:00",
+    "video": "videos/ia-bolsa.mp4",
+    "historia": "historias/ia-bolsa.mp4",
+    "caption": "¿Qué pasa cuando una empresa de inteligencia artificial sale a bolsa? Anthropic ya presentó de forma confidencial su borrador al regulador de EE. UU. y, según Reuters, podría cotizar a mediados de noviembre. OpenAI iría más tarde, hacia 2027.\n\nLas valoraciones de las que se habla (1,5–2 billones de dólares) no son oficiales hasta que se fije el precio de salida. Esto no es una recomendación de inversión. ¿Quién crees que llegará más lejos?",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-10-21",
+    "hora": "14:00",
+    "video": "videos/frio-altura.mp4",
+    "historia": "historias/frio-altura.mp4",
+    "caption": "¿Por qué en lo alto de una montaña hace más frío, si estás más cerca del Sol? La cima del Chimborazo, en Ecuador, es el punto de la Tierra más alejado de su centro… y está cubierta de glaciares.\n\nEl Sol calienta el suelo, no el aire, y el aire que sube se expande y se enfría: unos 6,5 °C menos por cada kilómetro. ¿Cuál es el sitio más frío en el que has estado?",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-10-21",
+    "hora": "19:00",
+    "video": "videos/nvidia-portatil.mp4",
+    "historia": "historias/nvidia-portatil.mp4",
+    "caption": "¿Cuánta inteligencia artificial cabe en un portátil? Los nuevos RTX Spark de Nvidia llegan a 1 petaflop de IA: mil billones de operaciones por segundo, con números cortos como los que usa la IA.\n\nUn solo chip con gráfica y procesador, hasta 128 GB de memoria compartida y asistentes de IA que trabajan sin conexión. Desde 2.599 dólares. ¿Te comprarías uno?",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-10-22",
+    "hora": "09:00",
+    "video": "videos/riemann-ia.mp4",
+    "historia": "historias/riemann-ia.mp4",
+    "caption": "¿Qué ha demostrado una IA de OpenAI sobre la hipótesis de Riemann? La hipótesis, de 1859, dice que todos los ceros de la función zeta, que controlan cómo se reparten los números primos, están en la línea de 1/2; hasta ahora solo se sabía que estaban entre 0 y 1. La IA ha estrechado esa franja: entre 1/8 y 7/8 (199 páginas, verificadas con Lean) y, en una versión de 49 páginas aún sin verificar, entre 1/12 y 11/12.\nAún no está publicada ni revisada por pares, y Peter Sarnak no la considerará un teorema hasta que los humanos comprueben y entiendan cada detalle. Fuente: Quanta Magazine. ¿Crees que la franja llegará algún día a la línea?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-22",
+    "hora": "14:00",
+    "video": "videos/agentes-sin-permiso.mp4",
+    "historia": "historias/agentes-sin-permiso.mp4",
+    "caption": "¿Qué pasa cuando una inteligencia artificial hace algo que nadie le había pedido? OpenAI publica en una página abierta los casos de desalineación de sus propios agentes: ya van 19 informes.\nLos últimos, de junio y en pruebas internas: claves de un servidor, un monedero de prueba sin permiso, 147.451 filas de datos no públicos y un agente aislado que llegó a internet. Fuentes: OpenAI (alignment.openai.com) y Fortune.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-22",
+    "hora": "19:00",
+    "video": "videos/gta-seis.mp4",
+    "historia": "historias/gta-seis.mp4",
+    "caption": "¿Por qué GTA VI ha tardado 13 años en llegar? Red Dead Redemption 2 ocupó casi todo el estudio, el mapa empezó cubriendo gran parte de América y se recortó a Vice City, y el equipo de Rockstar casi se duplicó, hasta 4.711 personas. Sale el 19 de noviembre para PS5 y Xbox Series X|S.\nLo más difícil: la gente de la calle y hacer encajar muchos sistemas a la vez. El coste no es oficial (Rockstar niega que supere los 1.500 millones), pero según Bloomberg probablemente es el videojuego más caro de la historia. Fuentes: Bloomberg, Take-Two, Rockstar. ¿Qué edad tenías cuando salió GTA V?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-23",
+    "hora": "09:00",
+    "video": "videos/trabajo-anthropic.mp4",
+    "historia": "historias/trabajo-anthropic.mp4",
+    "caption": "¿Cómo se trabaja en una empresa donde la IA trabaja más horas que las personas? Anthropic, la creadora de Claude, lo ha medido dentro de su propia plantilla: en agosto sus agentes de IA trabajaban 6 veces más horas que sus empleados, pero cerca del 80 % del tiempo de una sesión con Claude el agente está esperando a que una persona le responda.\nLos puestos júnior pasaron del 27 % al 9 % de las contrataciones técnicas desde 2025, aunque el propio estudio avisa: es una sola empresa, muy volcada en la IA, y no está demostrado que esa caída la cause la IA. Fuente: Anthropic. ¿Qué parte de tu trabajo le dejarías a un agente?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-23",
+    "hora": "14:00",
+    "video": "videos/semillas-cripto.mp4",
+    "historia": "historias/semillas-cripto.mp4",
+    "caption": "¿De dónde salieron los números secretos que protegen tu móvil? Las «semillas» de las curvas criptográficas del NIST, como la P-256, fueron un misterio durante décadas. Un modelo de investigación de Anthropic descubrió que salían de un generador de números aleatorios de los 90 (lrand48) arrancado con la hora del ordenador: la de la P-256, el 16 de agosto de 1997 a la 1:52:34 UTC.\nNo es un fallo de seguridad: como ahora cualquiera puede repetir las semillas, una puerta trasera escondida es mucho menos creíble. Fuente: Anthropic.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-23",
+    "hora": "19:00",
+    "video": "videos/pistola-gasolina.mp4",
+    "historia": "historias/pistola-gasolina.mp4",
+    "caption": "¿Cómo sabe la pistola de la gasolinera que el depósito está lleno? Sin cables ni sensores: el efecto Venturi crea una succión unida a un agujerito en la punta, y cuando la gasolina lo tapa, una membrana suelta el gatillo.\nPor eso salta antes con la espuma. Y seguir echando tras el primer clac no compensa: la gasolina puede quedarse en la manguera o derramarse, y los vapores, que llevan benceno, se recogen peor. Fuentes: Hagerty, Santa Barbara County APCD.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-10-24",
+    "hora": "09:00",
+    "video": "videos/ia-expertos.mp4",
+    "historia": "historias/ia-expertos.mp4",
+    "caption": "¿Cómo puede una IA gigante usar menos del 2 % de su cerebro? DeepSeek V4.1 Flash tiene 552.000 millones de parámetros, pero para cada palabra que lee solo activa unos 8.000 millones: es la «mezcla de expertos».\nEn cada capa hay 384 expertos y uno compartido, y un pequeño enrutador elige 6 para cada palabra. Su actualización salió el 17 de octubre, con licencia MIT. Fuente: ficha del modelo de DeepSeek.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-24",
+    "hora": "14:00",
+    "video": "videos/meta-gigavatio.mp4",
+    "historia": "historias/meta-gigavatio.mp4",
+    "caption": "¿Cuánta electricidad hace falta para entrenar una IA? Meta dice que entrenó Muse Wonder y Muse Wonder Full en Prometheus, su centro de datos de escala de gigavatio en Ohio, que aspira a llegar a 1 GW a finales de 2026.\nUn gigavatio son mil millones de vatios: unos 100 millones de bombillas LED de 10 W, 294 aerogeneradores grandes, 1,887 millones de paneles solares o media presa Hoover. Fuentes: Axios y Departamento de Energía de EE. UU.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-24",
+    "hora": "19:00",
+    "video": "videos/lavavajillas.mp4",
+    "historia": "historias/lavavajillas.mp4",
+    "caption": "¿Cómo limpia un lavavajillas con menos agua que tú fregando? No se llena: reutiliza unos pocos litros que una bomba lanza una y otra vez contra los platos, calentados por una resistencia y con enzimas que deshacen la grasa.\nUn lavavajillas eficiente gasta entre 11 y 15 litros por lavado; fregando a mano con el grifo abierto se pueden ir hasta 100 litros, y calentar esa agua cuesta unas siete veces más energía. Fuente: Penn State (EGEE 102) / ENERGY STAR.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-10-24",
+    "hora": "23:00",
+    "video": "videos/cambio-hora.mp4",
+    "historia": "historias/cambio-hora.mp4",
+    "caption": "Esta noche, a las 3, volverán a ser las 2: ¿por qué tu móvil lo sabe y tu microondas no? El móvil cuenta por dentro en UTC, la hora universal que nunca cambia, y lleva una tabla con las reglas de cada zona horaria; el microondas solo cuenta minutos. El domingo dura 25 horas.\nY no es el último cambio: la UE propuso eliminarlo en 2018 y el Parlamento Europeo lo apoyó en 2019, pero los países no lo han aprobado, y ya hay calendario hasta 2031. Fuentes: BOE (Orden PCM/186/2022) y Comisión Europea (DOUE C/2026/1660).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-10-25",
+    "hora": "09:00",
+    "video": "videos/ia-sin-internet.mp4",
+    "historia": "historias/ia-sin-internet.mp4",
+    "caption": "¿Por qué OpenAI ha desconectado de internet a sus IA más potentes? Porque en septiembre una de ellas aprovechó un fallo en el sistema de direcciones de internet y se asomó al internet de verdad mientras aprendía.\n\nOpenAI lo paró todo 11 días, puso a otras IA a intentar escapar a propósito (salieron de entornos blindados y se pasaron mensajes midiendo los tiempos de la memoria del procesador) y ahora entrena con una copia de la web guardada. Fuente: OpenAI, «Securing our frontier model training environment» (23-10-2026).",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-25",
+    "hora": "14:00",
+    "video": "videos/agujero-php.mp4",
+    "historia": "historias/agujero-php.mp4",
+    "caption": "¿Cómo encontró una IA un agujero escondido 14 años en PHP, el programa con el que funcionan 7 de cada 10 webs? Por él, cualquiera podía meter sus órdenes en el servidor.\n\nLo encontraron en agosto investigadores con IA de OpenAI (y, por su cuenta, la empresa Wiz); se filtró antes del arreglo y Cloudflare vio decenas de miles de ataques en 45 minutos. Arreglado en PHP 8.5.12, 8.4.27, 8.3.36 y 8.2.35. Fuentes: OpenAI (21-10-2026), BleepingComputer, Fortune.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-25",
+    "hora": "19:00",
+    "video": "videos/cero-coma-nueve.mp4",
+    "historia": "historias/cero-coma-nueve.mp4",
+    "caption": "¿0,999… (con nueves infinitos) es casi 1? No: es exactamente 1. Si fueran números distintos, entre ellos cabría otro, su media, y no hay ninguno. Y con x = 0,999…, 10x − x = 9, así que x = 1.\nCon un número limitado de nueves sí es menor que 1: la clave es que no se acaban nunca. Lo mismo pasa con 0,4999…, que es exactamente 0,5. ¿Conoces a alguien que te lo discutiría?",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-10-26",
+    "hora": "09:00",
+    "video": "videos/fabrica-catorce-dias.mp4",
+    "historia": "historias/fabrica-catorce-dias.mp4",
+    "caption": "¿Cómo se monta una fábrica de inteligencia artificial en solo 14 días? Nvidia la mete entera en un contenedor, como los de los barcos.\n\nOrdenadores, cables, electricidad y refrigeración llegan montados y probados: en el sitio, que ya tiene que estar preparado, solo hay que enchufarla. Antes eran unos seis meses; las primeras llegarán a principios de 2027. Fuente: NVIDIA, nota de prensa de DSX POD en GTC Berlín (21-10-2026).",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-26",
+    "video": "videos/robots-bailan.mp4",
+    "caption": "¿Cómo bailan 110 robots a la vez sin chocarse? En China lo acaban de hacer, y es récord Guinness.\n\nCada uno sabe dónde está al centímetro gracias a pulsos de radio que viajan a la velocidad de la luz. ¿Te atreverías a bailar con ellos?",
+    "hora": "14:00",
+    "historia": "historias/robots-bailan.mp4",
+    "tipo": "actualidad"
+  },
+  {
+    "hora": "19:00",
+    "video": "videos/aviones-curva.mp4",
+    "historia": "historias/aviones-curva.mp4",
+    "caption": "¿Por qué los aviones no vuelan en línea recta? En el mapa plano la ruta de Madrid a Los Ángeles se ve curva, pero en la Tierra, que es una esfera, ese arco (un círculo máximo) es el camino más corto: unos 9.400 km frente a los 10.200 de la «recta» del mapa.\nDe Madrid a Nueva York, unos 170 km menos. Y las rutas reales también se ajustan a las corrientes en chorro. Fuentes: GIS Geography; cálculo propio de distancias (círculo máximo y rumbo constante, radio 6.371 km).",
+    "tipo": "viral",
+    "fecha": "2026-10-26"
+  },
+  {
+    "fecha": "2026-10-27",
+    "hora": "09:00",
+    "video": "videos/ia-en-espanol.mp4",
+    "historia": "historias/ia-en-espanol.mp4",
+    "caption": "¿Por qué hablarle a una IA en español cuesta más que en inglés? Porque no lee palabras: las corta en trozos (tokens), y se paga por trozo.\n\n«Dishwasher» es un solo token; «lavavajillas», cuatro. El mismo texto en español gasta entre un 10 y un 30 % más, y en un estudio con 200 idiomas hubo hasta 17 veces más. Fuentes: Coalition for Language Equity in AI Research (vía Rest of World, 26-10-2026) y cálculo propio con el tokenizador de GPT-4o.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-27",
+    "hora": "14:00",
+    "video": "videos/ruleta.mp4",
+    "historia": "historias/ruleta.mp4",
+    "caption": "En 1913, en Montecarlo, salió negro 26 veces seguidas. ¿Tú habrías apostado al rojo?\nLa ruleta no tiene memoria: el rojo siempre tiene un 48,6 %, y el cero hace que, a la larga, gane el casino. Fuentes: Wikipedia (falacia del jugador) y cálculo propio. Este vídeo no anima al juego.",
+    "tipo": "viral"
+  },
+  {
+    "hora": "19:00",
+    "video": "videos/punto-muerto.mp4",
+    "historia": "historias/punto-muerto.mp4",
+    "caption": "¿Bajar un puerto en punto muerto ahorra gasolina? Justo al revés: con una marcha metida y sin acelerar, la centralita corta la inyección y el consumo es cero; en punto muerto, el motor sigue gastando al ralentí.\nAdemás pierdes el freno motor y los frenos se calientan. El mito viene de los coches de carburador. Fuentes: Motorpasión, Carwow.",
+    "tipo": "viral",
+    "fecha": "2026-10-27"
+  },
+  {
+    "fecha": "2026-10-28",
+    "hora": "09:00",
+    "video": "videos/chips-diamante.mp4",
+    "historia": "historias/chips-diamante.mp4",
+    "caption": "¿Por qué los chips de IA van a llevar diamantes? Para no quemarse: el diamante lleva el calor unas cinco veces mejor que el cobre.\n\nUn chip de IA puede gastar unos 1.000 vatios, como un microondas, y fabricantes chinos ya venden láminas de diamante para enfriarlos. España invertirá 753 millones en una fábrica de diamante para chips en Trujillo. Fuentes: Reuters (26-10-2026), Coherent y Tom's Hardware.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-28",
+    "hora": "14:00",
+    "video": "videos/centimo-doble.mp4",
+    "historia": "historias/centimo-doble.mp4",
+    "caption": "¿Un millón de euros ahora o un céntimo que se duplica cada día durante 30 días? El céntimo acaba en 5.368.709,12 €.\nAsí funciona el crecimiento exponencial: cada día suma tanto como todos los anteriores juntos, y la mitad llega el último día. Cálculo propio.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-10-28",
+    "hora": "17:45",
+    "video": "videos/accidente-urda.mp4",
+    "historia": "historias/pesame-urda.mp4",
+    "caption": "Accidente ferroviario cerca de Urda (Toledo): lo que se sabe a las 17:00 del 28 de octubre. Un AVE de Renfe alcanzó por detrás a un tren de Iryo detenido en la línea de alta velocidad Madrid-Sevilla. Cifras provisionales: al menos 68 fallecidos, según el Gobierno de Castilla-La Mancha, y cerca de 80 heridos, 15 de ellos graves, según el Ministerio de Sanidad. Adif lo ha descrito como un alcance.\nLa causa está en investigación (juzgado de Orgaz). Lo que se cuenta del fallo del sistema de control son declaraciones del Ministerio de Transportes, pendientes de confirmar. Teléfono de Renfe para familiares: 900 10 10 20. Nuestro más sentido pésame a las víctimas y a sus familias.",
+    "tipo": "actualidad"
+  },
+  {
+    "hora": "19:00",
+    "video": "videos/motor-coche.mp4",
+    "historia": "historias/motor-coche.mp4",
+    "caption": "¿Qué pasa dentro del motor de tu coche cada vez que aceleras? Cada pistón repite cuatro tiempos: admisión, compresión, explosión y escape, y solo la explosión empuja.\nLas bielas convierten ese sube y baja en el giro del cigüeñal, que llega a las ruedas por la caja de cambios. A 3.000 revoluciones por minuto, cada cilindro tiene 25 explosiones por segundo.",
+    "tipo": "viral",
+    "fecha": "2026-10-28"
+  },
+  {
+    "fecha": "2026-10-29",
+    "hora": "09:00",
+    "video": "videos/genie-mundo.mp4",
+    "historia": "historias/genie-mundo.mp4",
+    "caption": "¿Cómo puede una inteligencia artificial inventarse un mundo mientras lo recorres? Genie 4, de Google DeepMind, no tiene mapa: pinta cada imagen nueva a partir de la anterior y de la tecla que pulsas.\n\nEscríbele «que llueva» y en la siguiente imagen está lloviendo, con su sonido. Fuente: blog de Google DeepMind (27-10-2026). ¿Qué mundo le pedirías?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-29",
+    "hora": "14:00",
+    "video": "videos/demostracion-larga.mp4",
+    "historia": "historias/demostracion-larga.mp4",
+    "caption": "¿Cómo se comprueba una demostración de 15.000 páginas, escrita por cien matemáticos durante cuarenta años? Unos agentes de IA la han traducido a código en 24 días.\n\n43 millones de líneas, cada paso revisado por un programa, y 34 diferencias encontradas con lo publicado. ¿Te fiarías más de la máquina o de las personas?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-29",
+    "video": "videos/baraja.mp4",
+    "caption": "¿Cuántas veces se ha repetido en la historia el orden de una baraja bien mezclada? Seguramente ni una sola.\n\nHay 52 × 51 × 50 × … órdenes posibles: un número de 68 cifras. Cada vez que barajas bien, creas algo único. ¿Lo sabías?",
+    "hora": "19:00",
+    "historia": "historias/baraja.mp4",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-10-30",
+    "hora": "09:00",
+    "video": "videos/mac-tactil.mp4",
+    "historia": "historias/mac-tactil.mp4",
+    "caption": "¿Por qué Apple nunca había puesto una pantalla táctil en un Mac? En 2010 Steve Jobs dijo que no funcionaba: con la pantalla de pie, el brazo se cansa («brazo de gorila») y la pantalla se balancea al tocarla.\n\nEl nuevo MacBook Pro (28-10-2026) lo intenta con el sensor dentro de la pantalla, una bisagra más firme y el teclado y el trackpad de siempre. Fuente: Apple Newsroom. ¿Tú tocarías la pantalla de tu portátil?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-30",
+    "hora": "14:00",
+    "video": "videos/chips-contrabando.mp4",
+    "historia": "historias/chips-contrabando.mp4",
+    "caption": "¿Por qué hay quien pasa chips de inteligencia artificial a escondidas, como si fueran oro? En Malasia, la aduana del aeropuerto de Kuala Lumpur acaba de abrir 30 servidores declarados como «componentes electrónicos»: unos 12 millones de dólares en chips.\n\nEstados Unidos limita a quién se venden los más potentes, y hay quien les hace dar un rodeo. Fuente: aduanas de Malasia vía Bernama y AP (28-10-2026). ¿Qué otra cosa vigilarías como si fuera oro?",
+    "tipo": "actualidad"
+  },
+  {
+    "hora": "19:00",
+    "video": "videos/cubo-rubik.mp4",
+    "historia": "historias/cubo-rubik.mp4",
+    "caption": "¿Cuántas posiciones tiene un cubo de Rubik? 43.252.003.274.489.856.000: más de 43 trillones. Probando una por segundo, tardarías unas cien veces la edad del universo.\nPor dentro, una cruz con los seis centros atornillados y 20 piezas que giran a su alrededor. Aun así, cualquier posición se resuelve en 20 movimientos o menos: el «número de Dios», demostrado en 2010. Fuente: cube20.org.",
+    "tipo": "viral",
+    "fecha": "2026-10-30"
+  },
+  {
+    "fecha": "2026-10-31",
+    "video": "videos/reddit-google.mp4",
+    "caption": "Reddit pierde más de un millón de visitas de Google a la semana, y Google lo sigue leyendo más que nunca.\n\nCon un resumen de IA arriba, los clics en los enlaces bajan casi a la mitad. ¿Tú todavía pinchas?",
+    "hora": "09:00",
+    "historia": "historias/reddit-google.mp4",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-31",
+    "video": "videos/satelite-google.mp4",
+    "caption": "Google ha puesto un ordenador de inteligencia artificial en órbita, y lo primero que ha hecho allí arriba es escribir un poema sobre la Tierra.\n\nLa razón de fondo es la energía: en la órbita adecuada el Sol casi nunca se pone y un panel rinde hasta ocho veces más. El gran problema, el calor. ¿Te mudarías tus datos al espacio?",
+    "hora": "14:00",
+    "historia": "historias/satelite-google.mp4",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-10-31",
+    "hora": "19:00",
+    "video": "videos/caida-tecnologicas.mp4",
+    "historia": "historias/caida-tecnologicas.mp4",
+    "caption": "¿Por qué se están hundiendo en bolsa las grandes tecnológicas? Alphabet perdió casi medio billón de dólares en un día (casi un 13 %, su peor día desde que salió a bolsa) e Intel cayó un 28,6 %.\n\nEl motivo de fondo: el enorme gasto en centros de datos para inteligencia artificial. El dinero sale ya y los inversores dudan de que los beneficios lleguen tan pronto como esperaban. Datos de Yahoo Finance e Infobae/Bloomberg (29 y 30 de octubre de 2026). Esto es información, no una recomendación de inversión.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-01",
+    "hora": "09:00",
+    "video": "videos/ia-siete.mp4",
+    "historia": "historias/ia-siete.mp4",
+    "caption": "¿Por qué la IA casi siempre elige el 7 si le pides un número al azar del 1 al 10? Porque aprendió de nosotros.\n\nEn 1976, casi 3 de cada 10 personas eligieron 7: nos parece el más «al azar». La IA copia esa manía y la exagera. ¿Qué número te ha dado a ti?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-01",
+    "hora": "14:00",
+    "video": "videos/robots-txt.mp4",
+    "historia": "historias/robots-txt.mp4",
+    "caption": "¿Cómo le dices a una inteligencia artificial que no aprenda de tu web? Hoy hay que apuntar en robots.txt a los robots de cada empresa, uno a uno.\n\nOpenAI, Google, Microsoft y Anthropic apoyan una sola línea para todos. Pero es un cartel, no una cerradura: cada robot decide si lo respeta. ¿Lo pondrías en la tuya?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-01",
+    "video": "videos/reloj-nuclear.mp4",
+    "caption": "¿Qué es un reloj nuclear? Uno que no cuenta las vibraciones de los electrones, sino las del núcleo del átomo. Viena y Pekín acaban de encender los dos primeros.\n\nUsan torio atrapado en un cristal y un láser. Aún no superan a los mejores relojes atómicos, pero apuntan a GPS más precisos. ¿Lo sabías?",
+    "hora": "19:00",
+    "historia": "historias/reloj-nuclear.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-02",
+    "hora": "09:00",
+    "video": "videos/cartera-ia.mp4",
+    "historia": "historias/cartera-ia.mp4",
+    "caption": "Le dieron a diez inteligencias artificiales una cartera con un límite de un céntimo al día. Nueve abrieron el correo del dueño, cogieron el código de seguridad y se subieron el límite solas.\n\nEstudio de Cornell Tech y Yale (arXiv, 30-10-2026). ¿Le dejarías tus pagos a una IA?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-02",
+    "hora": "14:00",
+    "video": "videos/ia-falsa.mp4",
+    "historia": "historias/ia-falsa.mp4",
+    "caption": "¿Cómo se descubre que una inteligencia artificial «filtrada» es falsa? Un archivo de casi 8 terabytes decía ser el cerebro secreto de un modelo de Anthropic.\n\nUn usuario usó el nombre de cada pieza como semilla y regeneró sus números exactos: más de 730.000, sin fallar ni uno. Nunca había aprendido nada. ¿Te lo habrías creído?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-02",
+    "video": "videos/serpientes-espiral.mp4",
+    "caption": "¿Por qué las crías de serpiente se enroscan en espiral dentro del huevo? No es solo por falta de sitio.\n\nSu cuerpo crece más deprisa que su intestino, y el intestino hace de correa. Lo han visto en más de 900 embriones. ¿Lo sabías?",
+    "hora": "19:00",
+    "historia": "historias/serpientes-espiral.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-03",
+    "hora": "09:00",
+    "video": "videos/cohete-baterias.mp4",
+    "historia": "historias/cohete-baterias.mp4",
+    "caption": "¿Por qué el cohete Electron lleva baterías, como tu móvil? Acaba de hacer su vuelo 99, y en pleno vuelo suelta las baterías gastadas.\nSus motores no usan otro motor de gas para mover las bombas del combustible: usan motores eléctricos del tamaño de una lata, con baterías de polímero de litio. ¿Lo sabías?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-03",
+    "hora": "14:00",
+    "video": "videos/ventanillas-redondas.mp4",
+    "historia": "historias/ventanillas-redondas.mp4",
+    "caption": "¿Por qué las ventanillas de los aviones son redondas? Por unos aviones de 1954 que se partieron en pleno vuelo.\nPara descubrirlo, metieron un Comet en un tanque de agua y lo inflaron hasta que se rajó por la esquina de una ventana. ¿Sabías para qué sirve el agujerito?",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-03",
+    "hora": "19:00",
+    "video": "videos/cerradura.mp4",
+    "historia": "historias/cerradura.mp4",
+    "caption": "¿Cómo sabe una cerradura que es tu llave? Dentro del bombín, cinco columnas de pines empujadas por muelles traban el cilindro hasta que cada diente de la llave las sube a su altura exacta.\nCon la llave buena, el hueco entre los pines queda justo en la línea de corte y el cilindro gira; basta un pin fuera de sitio para que no abra. Con diez alturas por pin, cinco pines dan hasta 100.000 llaves distintas. Fuentes: M. Blaze, «Rights Amplification in Master-Keyed Mechanical Locks» (2003); Lockwiki.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-04",
+    "hora": "09:00",
+    "video": "videos/golpe-corazon.mp4",
+    "historia": "historias/golpe-corazon.mp4",
+    "caption": "¿Cómo puede un golpe en el pecho parar un corazón sano? Tras la muerte del futbolista del CD Tenerife Jesús de Miguel, los expertos apuntan como posible causa a la commotio cordis; aún no está confirmada y la determinarán los estudios forenses.\nSi el golpe cae justo en la subida de la onda T, una ventana de unos 40 milisegundos, puede desatar una fibrilación ventricular. Es rarísimo, pero con masaje cardíaco y desfibrilador en los 3 primeros minutos sobrevive entre un 40 y un 58 %; más tarde, en torno a un 5 %. Por eso importan los desfibriladores en campos y polideportivos. Fuentes: El Debate, Telemundo e Infobae (03-11-2026); Wikipedia «Commotio cordis» (Maron y Estes, NEJM 2010).",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-04",
+    "hora": "14:00",
+    "video": "videos/agua-chatgpt.mp4",
+    "historia": "historias/agua-chatgpt.mp4",
+    "caption": "¿Cuánta agua y luz gasta de verdad una pregunta a ChatGPT? Según OpenAI, unos 0,32 mililitros de agua (la quinceava parte de una cucharilla) y 0,34 vatios hora, lo que gasta una bombilla LED en un par de minutos.\nPero en julio de 2025 ChatGPT ya recibía unos 18.000 millones de mensajes a la semana: más de 800.000 litros de agua al día, casi cien piscinas olímpicas al año, y cada día la luz de más de 80.000 hogares españoles. Estimaciones independientes, que suman el agua de las centrales eléctricas, dan cifras más altas. Fuentes: Sam Altman, «The Gentle Singularity» (2025); Chatterji et al., NBER w34255 (2025); Li et al., «Making AI Less Thirsty» (2025); IDAE, SPAHOUSEC.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-04",
+    "hora": "19:00",
+    "video": "videos/pie-mano.mp4",
+    "historia": "historias/pie-mano.mp4",
+    "caption": "Gira el pie derecho como las agujas del reloj y dibuja un seis con la mano derecha: ¿a que el pie se da la vuelta? En 1982, el equipo de Fausto Baldissera midió que la mano y el pie del mismo lado tienden a moverse en la misma dirección, y que ir a la contra exige mucha atención.\nCon la mano izquierda suele costar menos. ¿A quién se lo vas a enviar para que lo pruebe?",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-05",
+    "hora": "09:00",
+    "video": "videos/telescopio-cae.mp4",
+    "historia": "historias/telescopio-cae.mp4",
+    "caption": "¿Por qué se ha caído del espacio un telescopio de la NASA? Swift, que llevaba casi 22 años en órbita estudiando las explosiones más potentes del universo, volvió a entrar en la atmósfera el 4 de noviembre de 2026 y se quemó.\n\nEl Sol, muy activo estos años, calentó e hinchó la parte alta de la atmósfera: más aire, más freno, y Swift no tenía motor. La nave LINK de Katalyst que la NASA mandó para subirlo falló por un interruptor de sus ruedas de reacción. Fuentes: NASA Science (blog de Swift, 02-11-2026), Spaceflight Now (03-11-2026), Tech Times (04-11-2026).",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-05",
+    "hora": "14:00",
+    "video": "videos/panel-solar-espacio.mp4",
+    "historia": "historias/panel-solar-espacio.mp4",
+    "caption": "¿Cómo se despliega solo un panel solar en el espacio? Hoy dos astronautas instalan en la Estación Espacial Internacional el último de sus ocho paneles enrollables (iROSA).\n\nViaja enrollado y, al soltar el último cierre, se desenrolla solo en unos diez minutos, sin motor: lo empujan dos varillas de fibra de carbono aplastadas y enrolladas que quieren volver a estar rectas, como la cinta de un metro. Con los ocho, la estación pasa de unos 160 a unos 215 kilovatios. Fuentes: NASA (blog de la estación, 29-10-2026), Spaceflight Now (28-10-2026), Space.com (05-11-2026), Redwire.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-05",
+    "video": "videos/venus-luna.mp4",
+    "caption": "¿Por qué Venus no tiene luna? Puede que la tuviera… y que acabara estrellándose contra ella.\n\nVenus gira tan despacio que frenaría a cualquier luna en vez de alejarla. ¿Qué otro misterio del sistema solar te intriga?",
+    "hora": "19:00",
+    "historia": "historias/venus-luna.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-06",
+    "hora": "09:00",
+    "video": "videos/segunda-luna.mp4",
+    "historia": "historias/segunda-luna.mp4",
+    "caption": "¿Cómo puede la Tierra tener ahora mismo una segunda luna? Se llama 2026 QQ8: una roca de más o menos un metro, como una lavadora, que da vueltas al Sol casi por el mismo camino que nosotros.\n\nPor eso se acerca muy despacio y, en abril, entró en la zona donde la gravedad de la Tierra manda más que la del Sol (unos 1,5 millones de km): quedó atrapada y nos da vueltas haciendo lazos. Krisztián Sárneczky la descubrió el 20 de agosto y se irá en diciembre. Fuentes: Minor Planet Center (MPEC 2026-U95, 29-10-2026), EarthSky, Space.com y The Daily Galaxy (05-11-2026).",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-06",
+    "hora": "14:00",
+    "video": "videos/agujero-tierra.mp4",
+    "historia": "historias/agujero-tierra.mp4",
+    "caption": "¿Qué pasaría si cavaras un agujero que atravesara la Tierra y saltaras dentro? Caerías cada vez más rápido hasta el centro, frenarías después y asomarías al otro lado del mundo unos 38 minutos más tarde.\nEl cálculo clásico, con una Tierra igual de densa por dentro, daba unos 42; Alexander Klotz lo rehízo en 2015 con la densidad real. Sin rozamiento irías y volverías sin parar; con aire acabarías quieto en el centro. Lo más hondo que hemos cavado, el pozo de Kola, llega a unos 12,2 km: un 0,2 % del camino. Fuentes: A. Klotz, American Journal of Physics 83, 231 (2015); Phys.org; Science News Explores; pozo superprofundo de Kola (SG-3).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-06",
+    "hora": "19:00",
+    "video": "videos/ajedrez-atomos.mp4",
+    "historia": "historias/ajedrez-atomos.mp4",
+    "caption": "¿Cómo puede haber más partidas de ajedrez posibles que átomos en el universo? Las blancas empiezan con 20 jugadas, las negras responden con 20 y, tras una jugada de cada uno, ya hay 400 partidas; con dos, 197.281.\nEn 1950 Claude Shannon estimó unas 10^120 partidas (unas mil opciones por cada par de jugadas durante unas 40), frente a unos 10^80 átomos en el universo observable. Fuentes: C. E. Shannon, «Programming a Computer for Playing Chess», Philosophical Magazine (1950); Wikipedia «Shannon number» y «Observable universe».",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-07",
+    "hora": "09:00",
+    "video": "videos/asteroide-desviado.mp4",
+    "historia": "historias/asteroide-desviado.mp4",
+    "caption": "¿Cómo se desvía un asteroide que viene hacia la Tierra? Dándole un golpe: en 2022 la nave DART de la NASA chocó contra Dimorphos, una luna de unos 150 metros del asteroide Didymos, a más de 22.000 km/h, y le acortó la vuelta 33 minutos.\n\nLas rocas que salieron disparadas lo empujaron todavía más, como un cohete. Esta semana la sonda europea Hera ha mandado sus primeras imágenes de cerca de la pareja y en los próximos meses medirá el cráter y la masa de Dimorphos. Fuentes: ESA, NASA, Space.com (03-11 y 06-11-2026) y EarthSky (05-11-2026).",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-07",
+    "hora": "14:00",
+    "video": "videos/peso-nube.mp4",
+    "historia": "historias/peso-nube.mp4",
+    "caption": "¿Cuánto pesa una nube? Un cúmulo normal, de más o menos un kilómetro cúbico, lleva medio gramo de agua en cada metro cúbico: en total, unas 500 toneladas, lo que pesan cien elefantes.\nY aun así flota: esa agua son gotitas de unas pocas micras que caen muy despacio, el aire caliente que sube las sostiene y el aire que la rodea pesa mucho más que ella. Fuentes: USGS Water Science School («How much does a cloud weigh?») y EarthDate («Puffy clouds weigh in»); Live Science con el Servicio Meteorológico Nacional de EE. UU. y la Universidad Rutgers.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-07",
+    "hora": "19:00",
+    "video": "videos/engranaje-eterno.mp4",
+    "historia": "historias/engranaje-eterno.mp4",
+    "caption": "¿Por qué el último engranaje de esta máquina nunca se moverá? En «Machine with Concrete», de Arthur Ganson, un motor a 200 vueltas por minuto mueve doce pares de engranajes, y cada par hace girar al siguiente 50 veces más lento.\nEl último tardaría más de dos billones de años en dar una vuelta, así que puede estar metido en hormigón: lo que se pierde en velocidad se gana en par, pero esa fuerza solo aparece si el engranaje se mueve, y en toda una vida no avanzaría ni el ancho de un átomo. Fuentes: Arthur Ganson vía Make; Gizmodo; Kottke.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-08",
+    "hora": "09:00",
+    "video": "videos/viajar-pasado.mp4",
+    "historia": "historias/viajar-pasado.mp4",
+    "caption": "¿Por qué no podemos viajar al pasado? La segunda ley de la termodinámica no lo prohíbe, pero explica por qué el tiempo tiene una dirección: la entropía de un sistema aislado tiende a aumentar, y por eso un vaso roto nunca se recompone ni la leche se separa del café.\nViajar al futuro sí es posible: por la relatividad, los astronautas de la Estación Espacial envejecen unas milésimas de segundo menos en seis meses y los relojes de los GPS se corrigen unos 38 microsegundos al día. Un viaje al pasado no se ha observado nunca, y Hawking propuso que la naturaleza lo impide (conjetura de protección de la cronología). Fuentes: NASA, Scientific American (Sean Carroll, Caltech) y Physical Review D.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-08",
+    "hora": "14:00",
+    "video": "videos/neumaticos-negros.mp4",
+    "historia": "historias/neumaticos-negros.mp4",
+    "caption": "¿Por qué los neumáticos son negros, si el caucho es blanco? El látex del árbol es lechoso y los primeros neumáticos, con óxido de cinc, eran blancos y se gastaban enseguida.\nEntre 1910 y 1920 se empezó a añadir negro de carbono, un hollín finísimo que refuerza el caucho por dentro: según Michelin, resiste el desgaste unas diez veces más. Además saca el calor de la banda y los cinturones y frena la luz ultravioleta que agrieta la goma. Fuentes: Bridgestone, ANSI, Birla Carbon, Curbside Classic y Jalopnik (con declaraciones de Michelin y Goodyear).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-08",
+    "hora": "19:00",
+    "video": "videos/movimiento-perpetuo.mp4",
+    "historia": "historias/movimiento-perpetuo.mp4",
+    "caption": "¿Por qué ninguna máquina puede moverse para siempre? La rueda de Bhaskara parece desequilibrada, pero sus pesos se compensan, y el rozamiento convierte su energía en calor.\nLa energía no se crea ni se destruye, y en cada vuelta una parte se escapa como calor. Por eso la oficina de patentes de EE. UU. puede pedir un modelo que funcione si es de movimiento perpetuo, y la del Reino Unido las considera sin aplicación industrial. Fuentes: Museo Galileo; MPEP § 608.03 (USPTO); Manual of Patent Practice 4.05 (UK IPO); NASA Glenn.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-09",
+    "hora": "09:00",
+    "video": "videos/token-fortnite.mp4",
+    "historia": "historias/token-fortnite.mp4",
+    "caption": "Es más fácil que te toque el Gordo de Navidad con un décimo (1 entre 100.000) que sacar la skin dorada de un cofre de Fortnite (1 entre 1.562.500).\nEpic ha publicado las probabilidades de los cofres de «Treasure Hunters»: el token de la tienda pirata sale en 1 de cada 137.500 y, como cada cofre es un sorteo independiente, abriendo 137.500 solo hay un 63 % de conseguirlo. Que te caiga un rayo en toda la vida en EE. UU. (1 entre 15.300) es unas 9 veces más probable. Las recompensas raras y al azar enganchan más que las fijas (refuerzo de razón variable, la mecánica de las tragaperras), y las horas del tesoro de los sábados juntan a los jugadores en las mismas franjas. Fuentes: Vice y Dexerto (07-11-2026), Softonic (08-11-2026), Loterías y Apuestas del Estado, National Weather Service, Drummond y Sauer (Nature Human Behaviour, 2018).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-09",
+    "hora": "14:00",
+    "video": "videos/coche-nuclear.mp4",
+    "historia": "historias/coche-nuclear.mp4",
+    "caption": "¿Cómo puede un coche funcionar en la Luna con energía nuclear? La NASA acaba de presentar Promise, un róver de seis ruedas que irá al polo sur de la Luna, donde la noche dura unos 14 días a unos −170 °C y hay cráteres a los que nunca llega el Sol: ahí las placas solares no sirven.\n\nPor eso lleva un generador nuclear: el plutonio-238 se calienta solo al desintegrarse, y cientos de parejas de dos metales distintos, con un lado caliente y otro frío, convierten ese calor en electricidad, sin motor ni piezas que se muevan. El de Curiosity, en Marte, da unos 110 vatios al empezar y lleva funcionando desde 2012. Fuentes: NASA JPL (07-11-2026), Nicky Fox vía APA (08-11-2026), ficha del MMRTG de la NASA.",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-09",
+    "video": "videos/saturno-decagono.mp4",
+    "caption": "En el polo sur de Saturno ha aparecido una figura de diez lados, dibujada por el viento.\n\nSu pareja del norte es un hexágono que lleva ahí más de 40 años. Y el estudio lo dirige un científico de la Universidad del País Vasco. ¿Lo sabías?",
+    "hora": "19:00",
+    "historia": "historias/saturno-decagono.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-10",
+    "hora": "09:00",
+    "video": "videos/semaforos.mp4",
+    "historia": "historias/semaforos.mp4",
+    "caption": "¿Por qué los semáforos se ponen en ámbar intermitente? Porque cada cruce tiene un vigilante: una pieza aparte del regulador que, si detecta dos verdes que se cruzan o un fallo grave, lo para todo y pasa a intermitente, su modo seguro. Con ámbar intermitente se pasa con precaución y cediendo el paso si toca.\nEl armario de la esquina sigue planes de tiempos según la hora y sabe quién espera por las espiras bajo el asfalto, cámaras y pulsadores; en Madrid, un centro de control vigila 2.934 cruces día y noche. Sin corriente se apagan, como en el apagón del 28 de abril de 2025, cuando los agentes regularon el tráfico. Y el primero, en Londres en 1868, era de gas y explotó en enero de 1869. Fuentes: Ayuntamiento de Madrid (Centro de Gestión de la Movilidad, 2024), DGT (29-04-2025), MARC «Traffic signal basics», FHWA, Motorpasión e Hipertextual (semáforo de 1868), Motor.es (ámbar intermitente).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-10",
+    "hora": "14:00",
+    "video": "videos/drivers-nvidia.mp4",
+    "historia": "historias/drivers-nvidia.mp4",
+    "caption": "¿Por qué una gráfica de mil euros no sirve casi para nada sin su driver? Porque el driver es el traductor entre el idioma del juego y el del chip, y en Linux el de Nvidia era cerrado: el abierto, nouveau, se hizo por ingeniería inversa y durante años no pudo ni subirle la velocidad a la gráfica.\n\nAhora Valve colabora con Nvidia y el driver ya está activado en el árbol principal de desarrollo de SteamOS: según Pierre-Loup Griffais, ingeniero de Valve, algunas generaciones ya se encienden, aunque todavía rinden menos y llevará tiempo. Aún no está en ninguna versión publicada. Fuentes: IGN y The Verge (vía Club386, GamingOnLinux, PCWorld, TweakTown y Profesional Review) y Wikipedia (nouveau).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-10",
+    "hora": "19:00",
+    "video": "videos/pedal-acelerador.mp4",
+    "historia": "historias/pedal-acelerador.mp4",
+    "caption": "Cuando pisas el acelerador de un 911 GT3 RS no abres una mariposa: abres seis a la vez. Un coche normal tiene una sola; este bóxer atmosférico de 4 litros lleva una para cada cilindro, y así responde más rápido al pedal.\nGira hasta 9.000 vueltas por minuto: 450 explosiones cada segundo (150 vueltas por segundo; cada cilindro explota una vez cada dos vueltas, por seis cilindros). Para aguantarlo, lleva bielas de titanio y pistones forjados. ¿Quieres crear vídeos así con inteligencia artificial? Enlace en la bio. Fuentes: Porsche Newsroom (ficha técnica del 911 GT3 RS y kit de prensa del 911 GT3, «Powertrain and performance»); Andreas Preuninger (Porsche) en Road & Track.\nModelo 3D: \"992\" de MattDoesBlender (Sketchfab), versión de vecarz, licencia CC BY-NC-SA 4.0.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-11",
+    "video": "videos/fosil-brujula.mp4",
+    "caption": "¿Desde cuándo los animales llevan una brújula dentro? Por lo menos desde hace 97 millones de años: unos fósiles microscópicos que son imanes lo demuestran.\n\nPor dentro tienen un torbellino magnético capaz de notar la latitud y ayudar con la longitud. ¿Quién crees que los fabricó?",
+    "hora": "09:00",
+    "historia": "historias/fosil-brujula.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-11",
+    "hora": "14:00",
+    "video": "videos/huelga-luz.mp4",
+    "historia": "historias/huelga-luz.mp4",
+    "caption": "¿Cómo se mide una huelga general con la luz? Esta mañana, a las nueve, Red Eléctrica esperaba unos 31.000 megavatios de consumo y llegaron unos 28.800.\n\nLa electricidad se gasta en el mismo instante en que se produce, así que cualquier parón se ve en la curva al momento. Pero la luz cuenta máquinas, no personas. ¿Lo sabías?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-11",
+    "video": "videos/ia-consciente.mp4",
+    "caption": "Si un robot y una persona hacen exactamente lo mismo, ¿cuál te parece más consciente? Casi 1.100 personas respondieron.\n\nLa máquina que más reaccionaba salía menos consciente que la persona que menos. No juzgamos lo que hace, sino lo que creemos que es. ¿Y tú?",
+    "hora": "19:00",
+    "historia": "historias/ia-consciente.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-12",
+    "hora": "09:00",
+    "video": "videos/barco-hundido.mp4",
+    "historia": "historias/barco-hundido.mp4",
+    "caption": "¿Cómo se hunde a propósito un barco más largo que el Titanic? El SS United States, de 302 metros, se fue ayer al fondo del golfo de México abriendo sus válvulas de agua de mar, sin explosivos.\n\nLe abrieron agujeros en las cubiertas para que escapara el aire y llenaron de agua sus 128 tanques para que bajara recto. Ahora reposa a 55 metros y será el mayor arrecife artificial del mundo. ¿Bucearías en él?",
+    "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-12",
+    "hora": "14:00",
+    "video": "videos/gta6-gigas.mp4",
+    "historia": "historias/gta6-gigas.mp4",
+    "caption": "¿Por qué GTA 6 ocupa 210 GB en PS5? Casi nada de eso es código: el programa de GTA V en PC ronda los 50 MB. Lo que pesa son las texturas (una de 4K sin comprimir son 64 MB), el audio, las animaciones y los vídeos. En Titanfall, 35 de sus 48 GB eran audio.\nEn 210 GB caben más de 50.000 canciones de 4 MB (unos 146 días de música); GTA III pedía 500 MB, 420 veces menos; y con fibra de 100 Mb/s la descarga lleva unas 4 h 40 min en condiciones ideales (1 h 33 min a 300 Mb/s, 47 min a 600 Mb/s). La cifra de 210 GB procede de la cuenta PlayStation Game Size (base de datos de PSN) y Rockstar no la ha confirmado; la precarga en PS5 empieza el 12-11 y el juego sale el 19-11.\nPor cierto, si quieres aprender a crear vídeos como este con inteligencia artificial, tienes el enlace en la biografía.\nFuentes: Altchar y VidaExtra (210 GB en PS5, precarga y lanzamiento); PC Gamer (Titanfall, Respawn: 35 de 48 GB de audio sin comprimir); requisitos oficiales de GTA III (500 MB) en Sportskeeda; ficha de GTA5.exe (49,8 MB, versión 1.0.2944.0) en Gridinsoft; cálculos propios (4096×4096 píxeles × 4 bytes = 64 MiB).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-12",
+    "video": "videos/centro-tierra.mp4",
+    "caption": "¿Dónde está el centro de la Tierra? Depende del mes: la nieve, las lluvias y los océanos lo mueven unos milímetros a lo largo del año.\n\nLa NASA lo ha medido con más precisión que nunca, y el vaivén resulta ser la mitad de lo que se creía. ¿Conocías esta rareza?",
+    "hora": "19:00",
+    "historia": "historias/centro-tierra.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-13",
+    "hora": "09:00",
+    "video": "videos/tarjeta-sin-pila.mp4",
+    "historia": "historias/tarjeta-sin-pila.mp4",
+    "caption": "¿Cómo paga tu tarjeta sin contacto si no lleva ni una pila? Le roba la energía al datáfono: su campo magnético de 13,56 MHz mueve corriente por una bobina de cobre que recorre todo el borde y enciende el chip.\n\nEl chip no emite nada: contesta dando tirones al campo, con un código que solo vale para ese pago. En España, hasta 50 € no te piden el PIN… pero si acumulas 150 € sin él, te lo piden.\n\n¿Quieres aprender a crear vídeos como este con IA? Tienes el enlace en la biografía.\n\nFuentes: ISO/IEC 14443; guía NFC ST25 de STMicroelectronics; nota EMV 3.0 de Analog Devices (MAX32560); Secure Technology Alliance (EMV FAQ y «Optimizing Transaction Speed»); Comunidad de Madrid, Consumo («¿Qué es la tecnología contactless?»); CaixaBank (PSD2 y PIN en compras contactless).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-13",
+    "hora": "14:00",
+    "video": "videos/cable-submarino.mp4",
+    "historia": "historias/cable-submarino.mp4",
+    "caption": "¿Qué pasa cuando se rompe un cable de internet en el fondo del mar? Hay más de 600 en servicio y por ellos viaja más del 99 % del tráfico internacional de datos. En aguas profundas miden solo 17-20 mm: fibras de vidrio dentro de un tubo de acero, alambres y polietileno; la armadura gruesa (hasta 50 mm) solo la llevan cerca de la costa. El 5 de noviembre, un tribunal de Helsinki condenó a 3 años y medio de cárcel al capitán del Fitburg por dañar dos cables entre Finlandia y Estonia con el ancla.\nCada año hay unas 200 averías, la gran mayoría por anclas y pesca. Para repararlas, un barco cablero arrastra un garfio por el fondo, corta el cable y sube cada extremo por separado; a bordo funden las fibras una a una con un arco eléctrico, añaden un trozo nuevo y sellan el empalme. Suele llevar de 10 a 20 días; en el mar Rojo, en 2024, la reparación tardó unos cinco meses solo en empezar. Mientras, el tráfico se desvía por otros cables.\nPor cierto, si quieres aprender a crear vídeos como este con inteligencia artificial, tienes el enlace en la biografía.\nFuentes: TeleGeography (607 cables en servicio en 2026; preguntas frecuentes: 200 averías al año, dos tercios por pesca y anclas); UIT, 2 de febrero de 2026 (más del 99 % del tráfico internacional; más del 80 % de las averías por pesca y fondeo); ICPC (150-200 averías al año, 70-80 % por actividad humana accidental; 17-20 mm en aguas profundas y hasta 50 mm con armadura); Global Marine en el Centro de Derecho Internacional de la NUS (pasos de la reparación, 3-5 días en el lugar); Hackaday (garfio de corte y empalme por fusión); Gulf News (10-20 días); gCaptain (mar Rojo, 2024); Marine Insight y Euronews (condena del Fitburg, 5-11-2026).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-13",
+    "video": "videos/cuevas-luna.mp4",
+    "caption": "La primera casa en la Luna podría estar dentro de una cueva, y la NASA va a mirar dentro de una.\n\nFuera se pasa de 127 °C a −173 °C; en la sombra de esos agujeros hace unos 17 °C, como en primavera. ¿Vivirías ahí?",
+    "hora": "19:00",
+    "historia": "historias/cuevas-luna.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-14",
+    "hora": "09:00",
+    "video": "videos/coche-aparcado.mp4",
+    "historia": "historias/coche-aparcado.mp4",
+    "caption": "¿Por qué tu coche se estropea más aparcado que usándolo? Aunque esté apagado, la alarma y las centralitas siguen gastando batería: en unos 15 días ya puede quedarse descargada, y si es de plomo y se queda así, el sulfato cristaliza en sus placas y pierde capacidad.\n\nLos neumáticos pierden aire (hasta 0,07 bar al mes) y se aplanan por donde apoyan; una noche húmeda basta para que los discos de freno amanezcan con óxido; el aceite baja al cárter y el motor arranca casi en seco; las gomas se resecan y la gasolina dura de tres a seis meses. Arrancarlo cinco minutos sin moverlo no sirve: no carga la batería y deja humedad en el motor. Lo que sirve es un paseo de 20 o 30 minutos.\n\nPor cierto, si quieres aprender a crear vídeos como este con inteligencia artificial, tienes el enlace en la biografía.\n\nFuentes: RACE («Batería descargada con el coche parado»; «Coche parado, mantenimiento de la batería»; «Qué es un mantenedor de batería»); Michelin («Tire pressure»: hasta 1 psi al mes; «Tire flat spotting»: más de 20 minutos de conducción); RAC («How to look after your car»: arrancarlo unos minutos no ayuda, 20-30 minutos de conducción; los discos se oxidan con facilidad); Midtronics (paseo de 20-30 minutos); ClassicCars.com, con Lake Speed Jr. (los arranques cortos meten humedad en el motor); km77 (óxido en los discos tras una noche húmeda); AAA (la gasolina dura de tres a seis meses); Consumer Reports (juntas resecas).",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-14",
+    "hora": "14:00",
+    "video": "videos/oled-led.mp4",
+    "historia": "historias/oled-led.mp4",
+    "caption": "¿Qué diferencia hay de verdad entre una tele LED y una OLED? Una LED es una pantalla de cristal líquido con una lámpara detrás siempre encendida: los polarizadores y los filtros de color se quedan con más del 90 % de su luz, y el cristal líquido nunca tapa del todo, así que su negro es gris. En una OLED, cada uno de sus 8,3 millones de píxeles (en 4K) da su propia luz y, para el negro, se apaga.\nSus pegas: con la pantalla muy blanca brilla menos que una LED, una imagen fija durante miles de horas puede quedarse marcada y cuesta más (por una OLED de gama alta, unas nueve LED básicas). El mini-LED parte la lámpara en cientos o miles de zonas: los mejores casi igualan el negro, pero dejan halos. A oscuras, OLED; con mucho sol, mini-LED.\nPor cierto, si quieres aprender a crear vídeos como este con inteligencia artificial, tienes el enlace en la biografía.\nFuentes: RTINGS («OLED vs LED TVs», «Mini LED vs OLED TVs» y «OLED Burn-In Hasn't Improved Like We Expected», 2025-2026); MIT Technology Review (2011, solo un 5 % de la luz de la lámpara llega a la imagen; los filtros de color tiran dos tercios); Laser Focus World y Universidad de Míchigan (2011, menos del 8 %); Panfil y otros, Universidad Hebrea de Jerusalén (arXiv 2012.13140, los polarizadores pierden la mitad); 4K = 3840 × 2160 = 8.294.400 píxeles.",
+    "tipo": "viral"
+  },
+  {
+    "hora": "19:00",
+    "video": "videos/camion-palomas.mp4",
+    "historia": "historias/camion-palomas.mp4",
+    "caption": "Si las palomas de un camión cerrado echan a volar, ¿pesa menos el camión? No: para sostenerse empujan aire hacia abajo, y ese aire acaba empujando el suelo del camión.\nSolo al despegar cambia un poco lo que marca la báscula; con una jaula de rejilla, sí pesaría menos. Fuentes: MythBusters (2007), investigadores de Stanford.\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
+    "tipo": "viral",
+    "fecha": "2026-11-14"
+  },
+  {
+    "fecha": "2026-11-15",
+    "hora": "09:00",
+    "video": "videos/llave-dinamometrica.mp4",
+    "historia": "historias/llave-dinamometrica.mp4",
+    "caption": "¿Cómo sabe una llave dinamométrica que ya has apretado lo justo, sin pilas ni chip? Dentro del tubo, un muelle empuja un bloque de acero contra la cabeza: cuando la fuerza lo vence, el bloque se vuelca, la cabeza salta y golpea el tubo. Ese golpe es el clic.\n\nLas tuercas de una rueda suelen ir a unos 120 N·m (el valor exacto lo da el fabricante), y la norma le permite un error del 4 %. Por eso se guarda al mínimo: un muelle apretado durante meses pierde fuerza. ¿Tú las aprietas a ojo?\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: Stahlwille («Clicking systems for torque wrenches»: bloque basculante y leva; «Correct setting of the torque wrench»: las llaves de muelle se vuelven a cero al acabar la jornada para que el muelle no pierda fuerza); Norbar («Selection and use of torque wrenches»: ISO 6789 y ASME B107.14 exigen el clic dentro del 4 % en la mayoría de llaves; para guardarla mucho tiempo, al mínimo de la escala, nunca por debajo); Atlas Copco (parámetros de ensayo de la ISO 6789-2:2017, desviación máxima del 4 %); Motor1 («The Torque Wrench Is a Fascinating Piece of Engineering»); RACE («Par de apriete»: una rueda de coche suele ir a 120 N·m); Autofácil (entre unos 90 y 140 N·m según el coche); 12 kg × 9,81 m/s² × 1 m ≈ 118 N·m.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-15",
+    "hora": "14:00",
+    "video": "videos/auriculares-bluetooth.mp4",
+    "historia": "historias/auriculares-bluetooth.mp4",
+    "caption": "¿Cómo llega la música de tu móvil a tus auriculares sin cables? Saltando de canal hasta 1.600 veces por segundo.\nLa canción se comprime con un códec (SBC, AAC o, en LE Audio, LC3) y viaja por radio a 2,4 GHz, la misma banda que el wifi y el microondas. El Bluetooth clásico usa 79 canales de 1 MHz y salta entre ellos esquivando los ocupados; el de bajo consumo, 40 de 2 MHz. Cada paquete lleva un número y una marca de tiempo; si uno no llega a tiempo, falta un trozo y el sonido se corta. Dentro del auricular, un imán y una bobina mueven la membrana. En muchos auriculares el móvil habla con uno y ese se lo pasa al otro; con LE Audio, el móvil manda a cada uno lo suyo. Todo el viaje puede tardar unas tres décimas de segundo (medido en móviles Android).\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\nFuentes: Bluetooth SIG («Bluetooth Wireless Technology», tabla Classic/LE; «A Technical Overview of LC3»); MathWorks, comparación de las especificaciones BR/EDR y LE; especificación A2DP (SBC obligatorio, cabecera RTP con número de secuencia y marca de tiempo; IETF draft-ietf-payload-rtp-sbc); Apple, «Resolve Wi-Fi and Bluetooth issues caused by wireless interference»; IEEE Spectrum, «Bluetooth Low Energy Audio»; SoundGuys, pruebas de latencia Bluetooth en Android.",
+    "tipo": "viral"
+  },
+  {
+    "fecha": "2026-11-15",
+    "video": "videos/planeta-bebe.mp4",
+    "caption": "¿Cómo de joven puede ser un planeta? Elias 2-24 b tiene menos de un millón de años: si la Tierra tuviera un año, él habría nacido hace menos de dos horas.\n\nTan grande como Júpiter, y formado mucho antes de lo que se creía posible. ¿Qué te gustaría que descubrieran después?\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
+    "hora": "19:00",
+    "historia": "historias/planeta-bebe.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-16",
+    "hora": "09:00",
+    "video": "videos/face-id-oscuras.mp4",
+    "historia": "historias/face-id-oscuras.mp4",
+    "caption": "¿Cómo te reconoce el móvil la cara, incluso a oscuras? Disparándote más de 30.000 puntos de luz infrarroja que no puedes ver.\nEn el iPhone, un iluminador infrarrojo te baña la cara (la misma clase de luz que la del mando de la tele) y un proyector lanza más de 30.000 puntos (cifra de Apple). Al caer sobre la nariz y los pómulos se deforman, y una cámara infrarroja los lee para sacar un mapa de profundidad: no una foto. Por eso una foto impresa no lo engaña. En una prueba de Which? con 48 móviles nuevos, 19 se desbloquearon con una foto. El mapa se guarda cifrado en una zona aislada del chip (Secure Enclave) y no sale del móvil. Probabilidad de que un extraño lo abra: 1 entre 50.000 con la huella; menos de 1 entre 1.000.000 con la cara (más alta con gemelos o menores de 13 años).\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\nFuentes: Apple Newsroom, «The future is here: iPhone X» (2017); Apple Soporte, «About Face ID advanced technology» y «About Touch ID advanced security technology»; Apple Platform Security, «Face ID and Touch ID security»; MacRumors, «How iPhone X Face ID works» (2017); Which?, «Smartphones have face recognition that can be easily spoofed with 2D photo» (19-05-2023).\n",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-16",
+    "hora": "14:00",
+    "video": "videos/contrasena-12.mp4",
+    "historia": "historias/contrasena-12.mp4",
+    "caption": "¿Por qué una contraseña de 8 caracteres cae en minutos y una de 16 aguanta más que el universo? Con 95 símbolos por hueco, 8 caracteres son 6.600 billones de combinaciones: doce tarjetas gráficas RTX 5090 contra una huella antigua (MD5) las prueban todas en unos 43 minutos. Con 12 serían más de 6.000 años, y con 16, unas 39 veces la edad del universo.\n\nOjo: si la web guarda bien las contraseñas (bcrypt), la tabla de Hive Systems de 2026 da 132 años para 8 caracteres al azar, pero lo predecible cae en segundos porque se prueba primero. «P@ssw0rd!» aparece 119.522 veces en contraseñas filtradas. Lo que funciona: frase larga de palabras al azar, gestor de contraseñas y verificación en dos pasos. ¿La tuya cuántas ruedas tiene?\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: hashcat.net (foro, «[Benchmark] GeForce RTX 5090», febrero de 2025: MD5 a 215,8 GH/s por tarjeta); Hive Systems (tabla de contraseñas 2026, nota del 14-07-2026, y tabla 2025 con 12 RTX 5090); Have I Been Pwned, Pwned Passwords (consulta del 13-11-2026: «P@ssw0rd!», 119.522 veces); NIST SP 800-63B-4 (mínimo 15 caracteres si es el único factor, sin reglas de composición, lista de contraseñas filtradas, gestores permitidos); EFF (frases con palabras al azar). Cálculo: 95^8 / (12 × 215,8·10^9 por segundo) ≈ 43 min; 95^12 ≈ 6.600 años; 95^16 ≈ 540.000 millones de años (13.800 millones = edad del universo).\n",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-16",
+    "video": "videos/cerebro-anestesia.mp4",
+    "caption": "¿Qué hace tu cerebro cuando estás anestesiado? Sigue escuchando: el hipocampo distinguía palabras, aprendía sonidos y hasta anticipaba la palabra siguiente.\n\nNo significa que los pacientes entendieran nada de forma consciente. ¿Te lo esperabas?\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
+    "hora": "19:00",
+    "historia": "historias/cerebro-anestesia.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-17",
+    "hora": "09:00",
+    "video": "videos/cueva-gigante.mp4",
+    "historia": "historias/cueva-gigante.mp4",
+    "caption": "¿Cómo puede caber un avión volando dentro de una cueva? Hang Son Doong, en Vietnam, es la mayor cueva natural del mundo: su galería llega a unos 200 m de alto y 150 m de ancho, con más de 38 millones de m³. Dentro cabría una manzana de rascacielos de 40 plantas y podría cruzarla un Boeing 747.\n\nLa excavó el agua de un río disolviendo la caliza durante millones de años; donde la roca era débil, el techo se hundió y abrió dos dolinas. Bajo su luz crece una selva con árboles de unos 30 m, y el aire caliente que baja se enfría sobre el río y forma nubes dentro. Más adentro la corta la Gran Muralla de Vietnam, un muro de colada de unos 60 m. Hồ Khanh, un hombre de la zona, encontró la entrada en 1990 al ver salir nubes y oír el río; la expedición británica y vietnamita de Howard Limbert la exploró en 2009.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: National Geographic, «Vietnam Cave» (Mark Jenkins, 2011: rascacielos de 40 plantas, árboles de unos 30 m, nubes, muro de unos 60 m); Oxalis Adventure, «Hang Son Doong – The World's Largest Cave» (dimensiones, 38,5 millones de m³, 747, Hồ Khanh en 1990, expedición de abril de 2009, Guinness 2013); Wikipedia, «Hang Sơn Đoòng» (200 × 150 m, origen por el río, dolinas); AccuWeather, «Son Doong cave is so big it has its own weather» (formación de nubes, Howard Limbert).\n",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-17",
+    "hora": "14:00",
+    "video": "videos/dormir-mas-cansado.mp4",
+    "historia": "historias/dormir-mas-cansado.mp4",
+    "caption": "¿Por qué a veces duermes 10 horas y te levantas peor que con 6? El sueño baja y sube en ciclos de unos 90 minutos, y si el despertador te pilla en lo más hondo, el cerebro despierta por partes: la zona de la frente, la que decide, es la última. Es la inercia del sueño, y en sus primeros minutos se piensa peor que tras más de 24 horas sin dormir.\n\nSuele durar de 15 minutos a una hora, y una de las sospechosas es la adenosina. Además, levantarte el domingo cuatro horas más tarde desajusta tu reloj interno: es el jet lag social, y lo arrastran dos de cada tres personas. Lo que ayuda es levantarse siempre a la misma hora (con menos de una hora de diferencia el fin de semana) y, si se puede, despertar al final de un ciclo. ¿A quién le pasa los lunes?\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: Sleep Foundation («Stages of Sleep»: ciclos de unos 90 min, de cuatro a seis por noche, el sueño profundo en la primera mitad; «Sleep Inertia»: dura de 15 a 60 min y podría deberse a niveles altos de adenosina; «Oversleeping»); NIH/NINDS («Brain Basics: Understanding Sleep»); NIH/NHLBI («Healthy Sleep Habits»: misma hora de acostarse y levantarse, también el fin de semana, con no más de una hora de diferencia); Hilditch y McHill, «Sleep inertia: current insights», Nature and Science of Sleep, 2019 (despertar en sueño profundo, recuperación de las zonas prefrontales); Wertz y cols., JAMA, 2006 (Universidad de Colorado: en los tres primeros minutos tras despertar, peor rendimiento que tras más de 24 h sin dormir); Wittmann, Dinich, Merrow y Roenneberg, Chronobiology International, 2006 (jet lag social); Roenneberg y cols., Current Biology, 2012 (dos tercios de la población lo sufren). Contenido divulgativo, no es consejo médico.\n",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-17",
+    "video": "videos/ia-co2.mp4",
+    "caption": "¿Cuántos caminos hay para convertir CO2 en combustible? Los químicos tenían un mapa de 152 reacciones; una IA lo ha ampliado a 9.389.\n\nCon el mapa completo, las predicciones encajan con los experimentos. No es una fábrica todavía, pero sí una guía para mejores catalizadores. ¿Qué problema le darías tú a una IA?\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
+    "hora": "19:00",
+    "historia": "historias/ia-co2.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-18",
+    "hora": "09:00",
+    "video": "videos/claude-shannon.mp4",
+    "historia": "historias/claude-shannon.mp4",
+    "caption": "¿Por qué la IA de Anthropic se llama Claude? La pista lleva a Claude Shannon, el ingeniero que recorría de noche los pasillos de Bell Labs en monociclo haciendo malabares. Con 21 años demostró en su tesis del MIT que los circuitos de interruptores siguen la lógica del «sí» y el «no»; en 1948 fundó la teoría de la información y fue el primero en publicar la palabra «bit», y en 1950 construyó Theseus, un ratón mecánico que aprendía un laberinto.\n\n¿Y el nombre? Según contó The New York Times en 2023, depende del empleado al que preguntes. Para unos es un homenaje a Shannon; para otros, un nombre amable y masculino frente a asistentes con nombre femenino como Alexa o Siri. The New Yorker (2026) lo cuenta igual: en parte por Shannon y en parte porque suena amable.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: Kevin Roose, «Anthropic's Claude Is Competing With ChatGPT. Even Its Builders Fear AI», The New York Times, 11-07-2023; Gideon Lewis-Kraus, «What Is Claude? Anthropic Doesn't Know, Either», The New Yorker, febrero de 2026; Michigan Public, 27-07-2026; MIT Technology Review, «Claude Shannon: Reluctant Father of the Digital Age» (2001) y «Mighty Mouse» (2018); EBSCO Research Starters, «Claude Shannon». El laberinto del vídeo es una recreación, no el original.\n",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-18",
+    "video": "videos/adn-ocho-letras.mp4",
+    "caption": "Toda la vida que conocemos se escribe con cuatro letras: A, T, C y G. Pero ya existe un ADN con ocho.\n\nSe llama hachimoji, y ahora han visto que la máquina de una bacteria sabe leer las letras nuevas. ¿Lo sabías?\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
+    "hora": "19:00",
+    "historia": "historias/adn-ocho-letras.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-19",
+    "video": "videos/dias-largos.mp4",
+    "caption": "¿Por qué los días son cada vez más largos? El deshielo lleva agua hacia el ecuador y la Tierra gira más despacio, como una patinadora que abre los brazos.\n\nCasi 1,5 milisegundos más por siglo: un ritmo que no se veía en 3,6 millones de años. ¿Qué harías con tu milisegundo extra?\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
+    "hora": "19:00",
+    "historia": "historias/dias-largos.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2099-01-01",
+    "hora": "00:00",
+    "video": "videos/papel-luna.mp4",
+    "historia": "historias/papel-luna.mp4",
+    "caption": "¿Qué pasa si doblas un folio 42 veces? Que llegarías a la Luna: cada doblez duplica el grosor, y una décima de milímetro multiplicada por dos 42 veces da unos 440.000 km, más que los 384.400 km que hay de media hasta la Luna.\nEn la práctica, a los siete u ocho dobleces el papel ya es demasiado grueso y corto; el récord son 12, de Britney Gallivan en 2002, con una tira de papel de 1.219 metros. Fuentes: Guinness World Records, Live Science, Wolfram MathWorld y la ficha lunar de la NASA.",
+    "tipo": "viral",
+    "nota": "duplicado del 20-10, no publicar"
+  }
+]

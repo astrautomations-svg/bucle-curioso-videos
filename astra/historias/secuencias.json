@@ -1,0 +1,3071 @@
+[
+ {
+  "fecha": "2026-10-27",
+  "tema": "preguntas repetidas",
+  "frames": [
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Qué horario tenéis?",
+      "y": 470,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Cuánto cuesta?",
+      "y": 610,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "euro-banknote"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Me cambias la cita?",
+      "y": 750,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, contestando a mano",
+      "y": 1360,
+      "color": "rojo",
+      "rot": 1,
+      "icono": "cross-mark"
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL COSTE REAL:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "texto",
+      "texto": "Si se te va 1 hora al día\nen WhatsApp y llamadas…",
+      "y": 470
+     },
+     {
+      "tipo": "numero",
+      "texto": "22 HORAS",
+      "y": 700,
+      "sub": "al mes contestando lo mismo"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Casi 3 jornadas enteras",
+      "y": 1330,
+      "color": "naranja",
+      "rot": -2,
+      "icono": "hourglass-done"
+     }
+    ]
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿tenéis hueco el jueves?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, el jueves a las 17:00 está libre. ¿Te lo reservo?"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta al momento",
+      "y": 1000,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Agenda la cita",
+      "y": 1150,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Hace el seguimiento",
+      "y": 1300,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "logo-whatsapp"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "TODO ESTO 24/7",
+      "y": 1060,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "SISTEMA",
+      "y": 1220,
+      "antes": "¿Tu negocio pierde clientes\npor no contestar a tiempo?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
+ },
+ {
+  "fecha": "2026-10-28",
+  "tema": "clientes que no vuelven",
+  "frames": [
+   {
+    "img": "banco/30.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "¿CUÁNTOS NO HAN VUELTO?",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Vinieron una vez",
+      "y": 520,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "bust-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y nadie les volvió a escribir",
+      "y": 680,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Laura, ¡cuánto tiempo! ¿Te guardo hueco esta semana?"
+       ],
+       [
+        "in",
+        "¡Sí! El jueves por la tarde"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Detecta quién lleva tiempo sin venir",
+      "y": 1050,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "eyes"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y le escribe en el momento justo",
+      "y": 1200,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 1,
+      "icono": "logo-whatsapp"
+     }
+    ]
+   },
+   {
+    "img": "banco/38.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "SIN ACORDARTE DE NADIE",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "VOLVER",
+      "y": 1150,
+      "antes": "¿Quieres verlo en tu negocio?"
+     }
+    ],
+    "foco": 0.4
+   }
+  ]
+ },
+ {
+  "fecha": "2026-10-29",
+  "tema": "llamadas perdidas",
+  "frames": [
+   {
+    "img": "banco/27.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Estás atendiendo",
+      "y": 470,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "busts-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Suena el teléfono",
+      "y": 620,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "telephone-receiver"
+     },
+     {
+      "tipo": "linea",
+      "texto": "No puedes cogerlo",
+      "y": 1330,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ],
+    "cara": [
+     200,
+     850,
+     560,
+     1250
+    ],
+    "foco": 0.35
+   },
+   {
+    "img": "banco/13.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL COSTE REAL:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "texto",
+      "texto": "Ese cliente no deja mensaje.",
+      "y": 480
+     },
+     {
+      "tipo": "linea",
+      "texto": "Llama al siguiente de Google",
+      "y": 1300,
+      "color": "naranja",
+      "rot": 2,
+      "icono": "logo-google"
+     }
+    ],
+    "foco": 0.6
+   },
+   {
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Un agente de voz coge la llamada",
+      "y": 480,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "telephone-receiver"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Resuelve la duda",
+      "y": 640,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "check-mark-button"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y agenda la cita",
+      "y": 1300,
+      "color": "amarillo",
+      "x": "l",
+      "rot": -1,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/16.jpg",
+    "bloques": [
+     {
+      "tipo": "numero",
+      "texto": "24/7",
+      "y": 560,
+      "sub": "aunque tú no estés"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "LLAMADAS",
+      "y": 1150,
+      "antes": "¿Cuántas llamadas pierdes\na la semana?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
+ },
+ {
+  "fecha": "2026-10-30",
+  "tema": "detrás de cámaras",
+  "frames": [
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "DETRÁS DE CÁMARAS",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "texto",
+      "texto": "Así se ve una noche\nmontando un sistema",
+      "y": 480
+     },
+     {
+      "tipo": "iconos",
+      "iconos": [
+       "logo-whatsapp",
+       "logo-n8n",
+       "logo-googlecalendar"
+      ],
+      "y": 1300
+     }
+    ]
+   },
+   {
+    "img": "banco/07.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "1. Entiendo cómo trabaja el negocio",
+      "y": 420,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "magnifying-glass-tilted-left"
+     },
+     {
+      "tipo": "texto",
+      "texto": "Qué preguntan tus clientes.\nQué se repite.",
+      "y": 600,
+      "size": 42
+     }
+    ],
+    "foco": 0.55
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "2. Lo construyo para que funcione solo",
+      "y": 380,
+      "color": "azul",
+      "x": "l",
+      "rot": -1,
+      "icono": "gear"
+     },
+     {
+      "tipo": "linea",
+      "texto": "3. Lo pruebo hasta que no falla",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 1,
+      "icono": "check-mark-button"
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/04.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "¿UNO ASÍ PARA TI?",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "SISTEMA",
+      "y": 1150,
+      "antes": "Te digo por dónde empezaría"
+     }
+    ],
+    "foco": 0.4
+   }
+  ]
+ },
+ {
+  "fecha": "2026-10-31",
+  "tema": "automatizar no es perder el trato",
+  "frames": [
+   {
+    "img": "banco/08.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "MITO:",
+      "y": 280,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "«Si automatizo, pierdo el trato personal»",
+      "y": 480,
+      "color": "blanco",
+      "size": 58
+     }
+    ]
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "Al revés",
+      "y": 300,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "thinking-face"
+     },
+     {
+      "tipo": "linea",
+      "texto": "El trato se pierde cuando contestas tarde y con prisa",
+      "y": 1250,
+      "color": "rojo",
+      "rot": 1
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL REPARTO:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "El sistema: lo repetitivo",
+      "y": 480,
+      "color": "celeste",
+      "x": "l",
+      "rot": -2,
+      "icono": "robot"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tú: tus clientes",
+      "y": 640,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "handshake"
+     }
+    ]
+   },
+   {
+    "img": "banco/38.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "TRATO",
+      "y": 1050,
+      "antes": "¿Qué parte de tu negocio\nse puede automatizar?"
+     }
+    ],
+    "foco": 0.4
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-01",
+  "tema": "haz la cuenta",
+  "frames": [
+   {
+    "img": "banco/13.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "HAZ ESTA CUENTA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "1 hora al día en WhatsApp y llamadas",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -1,
+      "icono": "stopwatch"
+     },
+     {
+      "tipo": "linea",
+      "texto": "× 22 días laborables × 12 meses",
+      "y": 640,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "calendar"
+     }
+    ],
+    "foco": 0.6
+   },
+   {
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "numero",
+      "texto": "264 HORAS",
+      "y": 480,
+      "sub": "al año, contestando lo mismo"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Son 33 jornadas de 8 horas",
+      "y": 1300,
+      "color": "naranja",
+      "rot": -2,
+      "icono": "hourglass-done"
+     }
+    ]
+   },
+   {
+    "img": "banco/14.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "ESE TIEMPO SE RECUPERA",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "HORAS",
+      "y": 1100,
+      "antes": "¿Te ayudo a calcular el tuyo?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-02",
+  "tema": "citas que no se presentan",
+  "frames": [
+   {
+    "img": "banco/29.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "El cliente reserva",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y no aparece",
+      "y": 640,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/26.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "Ese hueco ya no lo llenas",
+      "y": 1350,
+      "color": "naranja",
+      "rot": -1,
+      "icono": "hourglass-done"
+     }
+    ]
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Marta, te recuerdo tu cita de mañana a las 10:00. ¿Te viene bien?"
+       ],
+       [
+        "in",
+        "Uf, mejor el viernes"
+       ],
+       [
+        "out",
+        "Hecho, te la cambio al viernes a las 10:00"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Recuerda y cambia citas solo",
+      "y": 1300,
+      "color": "verde",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     }
+    ]
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "MENOS HUECOS VACÍOS",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "CITAS",
+      "y": 1250
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-03",
+  "tema": "clientes que escriben de noche",
+  "frames": [
+   {
+    "img": "banco/33.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "23:47",
+      "y": 300,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "crescent-moon"
+     },
+     {
+      "tipo": "titulo",
+      "texto": "UN CLIENTE TE ESCRIBE",
+      "y": 1020,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tú estás durmiendo",
+      "y": 1280,
+      "color": "rojo",
+      "rot": 2,
+      "icono": "sleeping-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "Contestas por la mañana",
+      "y": 400,
+      "color": "amarillo",
+      "x": "l",
+      "rot": -2,
+      "icono": "sun"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Ya reservó en otro sitio",
+      "y": 1300,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "CON UN SISTEMA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿mañana tenéis algo libre?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, mañana a las 11:00. ¿Te lo reservo?"
+       ],
+       [
+        "in",
+        "Perfecto"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Cita hecha mientras duermes",
+      "y": 1300,
+      "color": "verde",
+      "rot": -1,
+      "icono": "check-mark-button"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "NOCHE",
+      "y": 1150,
+      "antes": "¿Lo montamos en tu negocio?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-04",
+  "tema": "lo que he aprendido",
+  "frames": [
+   {
+    "img": "banco/01.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LO QUE HE APRENDIDO:",
+      "y": 280,
+      "rot": -2
+     },
+     {
+      "tipo": "texto",
+      "texto": "Los negocios que crecen\nno hacen más horas.",
+      "y": 1250
+     }
+    ]
+   },
+   {
+    "img": "banco/19.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "Miden",
+      "y": 420,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "bar-chart"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y automatizan lo que se repite",
+      "y": 580,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "repeat-button"
+     }
+    ]
+   },
+   {
+    "img": "banco/09.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "Se rodean de gente que construye sistemas",
+      "y": 360,
+      "color": "blanco",
+      "x": "l",
+      "rot": -1,
+      "icono": "rocket"
+     },
+     {
+      "tipo": "linea",
+      "texto": "No de gente que apaga fuegos",
+      "y": 1300,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "fire"
+     }
+    ]
+   },
+   {
+    "img": "banco/04.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL TIEMPO ES PARA CRECER",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "SISTEMA",
+      "y": 1050,
+      "antes": "¿Te digo por dónde empezaría yo?"
+     }
+    ],
+    "foco": 0.4
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-05",
+  "tema": "reseñas",
+  "frames": [
+   {
+    "img": "banco/10.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "PREGUNTA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Cuántos clientes contentos nunca te dejan reseña?",
+      "y": 450,
+      "color": "blanco",
+      "rot": -1,
+      "icono": "glowing-star"
+     }
+    ],
+    "foco": 0.4
+   },
+   {
+    "img": "banco/31.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Les escribe después de la visita",
+      "y": 480,
+      "color": "amarillo",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y pide la reseña en el momento justo",
+      "y": 640,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "star-struck"
+     }
+    ]
+   },
+   {
+    "img": "banco/27.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "RESEÑAS",
+      "y": 320,
+      "antes": "¿Quieres más reseñas\nsin pedirlas tú?"
+     }
+    ],
+    "cara": [
+     200,
+     850,
+     560,
+     1250
+    ],
+    "foco": 0.35
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-06",
+  "tema": "el dueño es el cuello de botella",
+  "frames": [
+   {
+    "img": "banco/35.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "SÉ SINCERO:",
+      "y": 280,
+      "rot": -2
+     },
+     {
+      "tipo": "texto",
+      "texto": "Si te vas una semana…",
+      "y": 470
+     }
+    ]
+   },
+   {
+    "img": "banco/28.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "¿Tu negocio sigue funcionando?",
+      "y": 900,
+      "color": "blanco",
+      "rot": -1,
+      "icono": "thinking-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "linea",
+      "texto": "Si la respuesta es no",
+      "y": 300,
+      "color": "rojo",
+      "x": "l",
+      "rot": -2,
+      "icono": "warning"
+     },
+     {
+      "tipo": "titulo",
+      "texto": "EL CUELLO DE BOTELLA ERES TÚ",
+      "y": 1100,
+      "rot": -1
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LO QUE SE REPITE:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Mensajes",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Citas",
+      "y": 620,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Seguimientos",
+      "y": 760,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "repeat-button"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Avisos",
+      "y": 900,
+      "color": "celeste",
+      "x": "r",
+      "lado": "i",
+      "rot": 1,
+      "icono": "bell"
+     },
+     {
+      "tipo": "texto",
+      "texto": "se puede sistematizar",
+      "y": 1300
+     }
+    ]
+   },
+   {
+    "img": "banco/21.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "Y TÚ VUELVES A DIRIGIR",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "SISTEMA",
+      "y": 1200,
+      "antes": "¿Te digo qué sacaría\nde tus manos primero?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-07",
+  "tema": "prepárate para Black Friday y Navidad",
+  "frames": [
+   {
+    "img": "banco/15.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "SE ACERCA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Black Friday",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "shopping-cart"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Navidad",
+      "y": 630,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "glowing-star"
+     },
+     {
+      "tipo": "texto",
+      "texto": "¿Tu negocio está preparado?",
+      "y": 1250
+     }
+    ]
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LO QUE PASA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Seguís con la oferta?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Hay hueco el sábado?",
+      "y": 620,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Hacéis bonos regalo?",
+      "y": 760,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "party-popper"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, sin dar abasto",
+      "y": 1330,
+      "color": "rojo",
+      "rot": 1,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/13.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "CON UN SISTEMA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿seguís con la oferta de Black Friday?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, hasta el domingo. ¿Te reservo hora?"
+       ],
+       [
+        "in",
+        "Sí, el sábado por la mañana"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta al momento",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y reserva por ti",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ],
+    "foco": 0.6
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "MÓNTALO ANTES, NO EN DICIEMBRE",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "NAVIDAD",
+      "y": 1250,
+      "antes": "¿Lo dejamos listo\nantes del Black Friday?"
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-08",
+  "tema": "diciembre se llena: avisa primero a los tuyos",
+  "frames": [
+   {
+    "img": "banco/09.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "DICIEMBRE SE LLENA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Cenas de empresa",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "busts-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Regalos de última hora",
+      "y": 620,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "party-popper"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Citas antes de las fiestas",
+      "y": 760,
+      "color": "amarillo",
+      "x": "l",
+      "rot": -1,
+      "icono": "spiral-calendar"
+     }
+    ],
+    "foco": 0.4
+   },
+   {
+    "img": "banco/05.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL ERROR:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Esperar a que te escriban",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "hourglass-done"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tus clientes de siempre reservan en otro sitio",
+      "y": 1300,
+      "color": "rojo",
+      "rot": 1,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/12.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Lucía, diciembre se está llenando. ¿Te guardo hueco antes de Navidad?"
+       ],
+       [
+        "in",
+        "¡Sí! Mejor la semana del 15"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Avisa primero a los tuyos",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y les guarda el hueco",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ],
+    "foco": 0.5
+   },
+   {
+    "img": "banco/32.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "SIN ESCRIBIR UNO A UNO",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Cada mensaje con su nombre",
+      "y": 500,
+      "color": "blanco",
+      "x": "l",
+      "rot": -1,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, a lo tuyo",
+      "y": 1300,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "smiling-face-with-sunglasses"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "DICIEMBRE",
+      "y": 1150,
+      "antes": "¿Avisamos a tus clientes\nantes que la competencia?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-09",
+  "tema": "presupuestos que se quedan sin respuesta",
+  "frames": [
+   {
+    "img": "banco/07.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "TE PIDEN PRESUPUESTO:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Se lo mandas",
+      "y": 530,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "envelope"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y silencio",
+      "y": 680,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.55
+   },
+   {
+    "img": "banco/36.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL ERROR:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "No volver a escribir",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "hourglass-done"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Por no parecer pesado",
+      "y": 1300,
+      "color": "blanco",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "grimacing-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Javier, ¿pudiste ver el presupuesto? Si tienes alguna duda, te la resuelvo"
+       ],
+       [
+        "in",
+        "¡Sí! ¿Empezamos la semana que viene?"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Hace el seguimiento solo",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "En el momento justo",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "alarm-clock"
+     }
+    ]
+   },
+   {
+    "img": "banco/27.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "VENTAS",
+      "y": 320,
+      "antes": "¿Cuántos presupuestos tienes\nesperando respuesta?"
+     }
+    ],
+    "cara": [
+     200,
+     850,
+     560,
+     1250
+    ],
+    "foco": 0.35
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-10",
+  "tema": "gana el primero que contesta",
+  "frames": [
+   {
+    "img": "banco/11.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "PASA CADA DÍA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Un cliente pide precio",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "A varios negocios a la vez",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "busts-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Gana el primero que contesta",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "stopwatch"
+     }
+    ]
+   },
+   {
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "CON UN SISTEMA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿cuánto cuesta? ¿Tenéis hueco esta semana?"
+       ],
+       [
+        "out",
+        "¡Hola! Ahora te paso los precios. Hay hueco el martes a las 18:00, ¿te lo guardo?"
+       ],
+       [
+        "in",
+        "Perfecto, resérvalo"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta en segundos",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y cierra la cita",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LLEGA TÚ PRIMERO",
+      "y": 280,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "PRIMERO",
+      "y": 1150,
+      "antes": "¿Cuánto tardas tú\nen contestar?"
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-11",
+  "tema": "encargos de Navidad que se pierden",
+  "frames": [
+   {
+    "img": "banco/10.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN DICIEMBRE TE LLEGAN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Encargos por WhatsApp",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Por teléfono",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "telephone-receiver"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y en una nota de papel",
+      "y": 780,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "memo"
+     }
+    ],
+    "foco": 0.4
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Uno se queda sin apuntar",
+      "y": 480,
+      "color": "rojo",
+      "x": "l",
+      "rot": -2,
+      "icono": "cross-mark"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y te enteras el mismo día",
+      "y": 1300,
+      "color": "naranja",
+      "rot": 1,
+      "icono": "grimacing-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/41.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, quiero hacer un encargo para el 23"
+       ],
+       [
+        "out",
+        "¡Hola! Apuntado para el 23. ¿A qué hora pasas a recogerlo?"
+       ],
+       [
+        "in",
+        "Sobre las 12"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Apunta cada encargo",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "clipboard"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y avisa el día antes",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "bell"
+     }
+    ]
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "NI UN ENCARGO PERDIDO",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "ENCARGOS",
+      "y": 1250,
+      "antes": "¿Cómo apuntas tú\nlos encargos de Navidad?"
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-12",
+  "tema": "horario de Navidad: las mismas preguntas",
+  "frames": [
+   {
+    "img": "banco/33.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN NAVIDAD TE PREGUNTAN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Abrís el 24?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Y el 31 por la tarde?",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "alarm-clock"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Qué horario tenéis?",
+      "y": 780,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "speech-balloon"
+     }
+    ]
+   },
+   {
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Siempre la misma pregunta",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "repeat-button"
+     },
+     {
+      "tipo": "linea",
+      "texto": "En plena temporada alta",
+      "y": 1300,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "fire"
+     }
+    ]
+   },
+   {
+    "img": "banco/29.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿abrís el día 24?"
+       ],
+       [
+        "out",
+        "¡Hola! El 24 abrimos por la mañana. ¿Te reservo hora?"
+       ],
+       [
+        "in",
+        "Sí, a primera hora"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta con tu horario",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y reserva la cita",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/42.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "MEJOR AÚN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Avisa antes de que pregunten",
+      "y": 480,
+      "color": "amarillo",
+      "x": "l",
+      "rot": -2,
+      "icono": "megaphone"
+     },
+     {
+      "tipo": "linea",
+      "texto": "A cada cliente, con su nombre",
+      "y": 630,
+      "color": "blanco",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "busts-in-silhouette"
+     }
+    ]
+   },
+   {
+    "img": "banco/27.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "FIESTAS",
+      "y": 320,
+      "antes": "¿Tienes ya listo tu\nhorario de Navidad?"
+     }
+    ],
+    "cara": [
+     200,
+     850,
+     560,
+     1250
+    ],
+    "foco": 0.35
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-13",
+  "tema": "cancelaciones de última hora: lista de espera",
+  "frames": [
+   {
+    "img": "banco/26.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN TEMPORADA ALTA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Te cancelan a última hora",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y el hueco se queda vacío",
+      "y": 630,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/15.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LO PEOR:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tenías clientes pidiendo hora",
+      "y": 480,
+      "color": "amarillo",
+      "x": "l",
+      "rot": -2,
+      "icono": "busts-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y no te acuerdas de avisarlos",
+      "y": 1300,
+      "color": "naranja",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "grimacing-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Sara, se ha liberado un hueco mañana a las 12:00. ¿Lo quieres?"
+       ],
+       [
+        "in",
+        "¡Sí, me lo quedo!"
+       ],
+       [
+        "out",
+        "Hecho, te lo reservo"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Avisa a tu lista de espera",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y llena el hueco solo",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "NI UN HUECO VACÍO",
+      "y": 1000,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "HUECOS",
+      "y": 1170,
+      "antes": "¿Cuántas cancelaciones\nte quedan sin llenar?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-15",
+  "tema": "bonos regalo de Navidad sin estar pendiente",
+  "frames": [
+   {
+    "img": "banco/08.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN NAVIDAD TE PIDEN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Hacéis bonos regalo?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "party-popper"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Me lo mandáis hoy?",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, con las manos ocupadas",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿hacéis bonos regalo? Es para mi madre"
+       ],
+       [
+        "out",
+        "¡Hola! Sí. ¿Para qué servicio lo quieres?"
+       ],
+       [
+        "in",
+        "El de siempre, gracias"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta al momento",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y apunta cada pedido",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "clipboard"
+     }
+    ]
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "VENDE AUNQUE NO MIRES EL MÓVIL",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "REGALO",
+      "y": 1250,
+      "antes": "¿Cuántos bonos se te\nescapan en diciembre?"
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-16",
+  "tema": "lunes: los mensajes del fin de semana",
+  "frames": [
+   {
+    "img": "banco/28.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL FIN DE SEMANA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tú, desconectando",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "sun"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Tu WhatsApp, a tope",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-whatsapp"
+     }
+    ]
+   },
+   {
+    "img": "banco/03.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "Y LLEGA EL LUNES:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Chats sin leer desde el sábado",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "inbox-tray"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Ya reservaron en otro sitio",
+      "y": 1300,
+      "color": "rojo",
+      "rot": 1,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/41.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿tenéis hueco el lunes?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, el lunes a las 10:30. ¿Te lo reservo?"
+       ],
+       [
+        "in",
+        "Perfecto, gracias"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta también el domingo",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y deja la cita hecha",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EMPIEZA AL DÍA",
+      "y": 280,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "LUNES",
+      "y": 1150,
+      "antes": "¿Cuántos mensajes te\nesperan cada lunes?"
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-17",
+  "tema": "Black Friday: los que preguntan y no reservan",
+  "frames": [
+   {
+    "img": "banco/15.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "TE PREGUNTAN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Cuánto es la oferta?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Hasta cuándo dura?",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "shopping-cart"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Les contestas… y nada",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/36.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Nadie les vuelve a escribir",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "hourglass-done"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y la oferta se acaba sin ellos",
+      "y": 1300,
+      "color": "blanco",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "grimacing-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Nuria, la oferta acaba el domingo. ¿Te guardo hora antes?"
+       ],
+       [
+        "in",
+        "¡Sí! El viernes por la tarde"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Les recuerda la oferta",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Antes de que se acabe",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "alarm-clock"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "QUE NO SE QUEDEN A MEDIAS",
+      "y": 1000,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "OFERTA",
+      "y": 1170,
+      "antes": "¿Cuántos te preguntaron\ny no volvieron?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-18",
+  "tema": "cenas de empresa: reservas de grupo por WhatsApp",
+  "frames": [
+   {
+    "img": "banco/31.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "CENAS DE EMPRESA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Tenéis menú para grupos?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Somos 14… o igual 16",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "busts-in-silhouette"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Hay opción vegetariana?",
+      "y": 780,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "thinking-face"
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/33.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Cada grupo, un chat eterno",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "repeat-button"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, contestando de noche",
+      "y": 1300,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "crescent-moon"
+     }
+    ]
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿tenéis menú para una cena de empresa el 19?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, ahora te paso el menú. ¿Cuántos seréis?"
+       ],
+       [
+        "in",
+        "Unos 15, te confirmo el viernes"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Manda el menú al momento",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y apunta la reserva",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/42.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "Y ADEMÁS:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Pide cuántos serán al final",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "clipboard"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y recuerda la cena el día antes",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "bell"
+     }
+    ]
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "TÚ, A LLENAR EL LOCAL",
+      "y": 300,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "GRUPOS",
+      "y": 1250,
+      "antes": "¿Cuántas reservas de grupo\nllevas a mano?"
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ],
+    "foco": 0.45
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-19",
+  "tema": "temporada alta: reseñas que nadie pide",
+  "frames": [
+   {
+    "img": "banco/30.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN TEMPORADA ALTA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "El local, lleno",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "fire"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Clientes que salen contentos",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "star-struck"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y ni una reseña nueva",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Marta, gracias por venir hoy. ¿Nos dejas tu opinión en Google? Aquí tienes el enlace"
+       ],
+       [
+        "in",
+        "¡Claro! Ahora mismo te la dejo"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Pide la reseña al salir",
+      "y": 1150,
+      "color": "verde",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Sin que tengas que acordarte",
+      "y": 1300,
+      "color": "azul",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-google"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "QUE TE ELIJAN EN GOOGLE",
+      "y": 1000,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "RESEÑAS",
+      "y": 1170,
+      "antes": "¿Cuántos clientes contentos\nse van sin dejar reseña?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
+ },
+ {
+  "fecha": "2026-11-20",
+  "tema": "diciembre: llamadas en hora punta",
+  "frames": [
+   {
+    "img": "banco/06.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN DICIEMBRE, HORA PUNTA:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "El local, a tope",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "fire"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Suena el teléfono",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "telephone-receiver"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y no llegas a cogerlo",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/12.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LO QUE PASA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "No deja mensaje",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Llama al siguiente de Google",
+      "y": 1300,
+      "color": "naranja",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-google"
+     }
+    ],
+    "foco": 0.6
+   },
+   {
+    "img": "banco/41.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola, hemos visto tu llamada. ¿En qué te podemos ayudar?"
+       ],
+       [
+        "in",
+        "¿Tenéis hueco el sábado?"
+       ],
+       [
+        "out",
+        "Sí, a las 11:00. ¿Te lo reservo?"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Escribe al que te llamó",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y deja la cita hecha",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "NI UNA PERDIDA",
+      "y": 280,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "LLAMADAS",
+      "y": 1150,
+      "antes": "¿Cuántas llamadas se te\nescapan en diciembre?"
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   }
+  ]
+ }
+]
