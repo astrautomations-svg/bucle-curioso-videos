@@ -648,6 +648,14 @@
     "tipo": "actualidad"
   },
   {
+    "fecha": "2026-11-15",
+    "hora": "21:00",
+    "video": "videos/caida-microsoft.mp4",
+    "historia": "historias/caida-microsoft.mp4",
+    "caption": "¿Cómo puede caerse a la vez el correo de medio mundo? El jueves 12 de noviembre por la tarde (hora de España), Outlook, Teams, Copilot y otros servicios de Microsoft 365 empezaron a fallar; Downdetector llegó a recibir avisos de al menos 74 países y la incidencia duró casi un día. Microsoft asegura que no fue un ciberataque: «un problema técnico, no relacionado con ciberataques ni con inteligencia artificial».\n\nLo que ha explicado hasta ahora: unos servidores empezaron a fallar las comprobaciones automáticas de salud y salieron de servicio, y su carga pasó a los que quedaban. El cuello de botella estaba en el proceso que abre las conexiones seguras, que se saturó. Lo atribuye a un fallo escondido de una ampliación de capacidad de red que salió a la luz tras un cambio reciente en la red; revirtió ese cambio, reinició servidores, devolvió el tráfico poco a poco y alargó a 48 horas la espera de los correos atrasados para no perderlos. El informe completo aún no se ha publicado.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: Al Jazeera (13-11-2026: inicio hacia las 16:00 GMT, 74 países en Downdetector, Microsoft descarta ciberataque, «no hay indicios de actividad maliciosa»); TechRadar, directo del 12-13-11-2026 (comprobaciones de salud, proceso saturado, cambio de red, ampliación de capacidad, 48 horas, disculpa de Microsoft); avisos de estado de Microsoft 365 EX1550543 y MO1550821 recogidos por azureblog.co.uk y FourWeekMBA (conexiones seguras, «fallo latente», reversión del cambio de configuración de red, de 16:17 UTC del 12-11 a 16:10 UTC del 13-11).",
+    "tipo": "actualidad"
+  },
+  {
     "fecha": "2026-11-16",
     "hora": "09:00",
     "video": "videos/face-id-oscuras.mp4",
