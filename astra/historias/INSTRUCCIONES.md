@@ -19,7 +19,7 @@ n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada
 - Nunca texto sobre la cara. Nada por encima de y=230 ni por debajo de y=1640 (salvo el CTA).
 - La foto acompaña lo que dice esa historia.
 - No juntes fotos parecidas en la misma secuencia. Grupos de parecidas en `banco/`:
-  - escritorio de noche: 03, 20, 25
+  - escritorio de noche: 03, 20, 25, 46 (46: habitación a oscuras con la pantalla encendida y la ventana; buena para «trabajando a las tantas», «mientras tú descansas»)
   - él con el portátil: 02, 18, 27, 38, 39 (la 02 NO sirve en vertical: él sale en el borde y el recorte deja solo la mochila)
   - terraza: 04, 05, 07, 29
   - cenas y restaurante: 06, 08, 09, 10, 26, 30, 31
@@ -30,5 +30,7 @@ n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada
   - escenario y charla: 01, 19
   - sueltas: 17 (conduciendo), 28 (paseo con perros), 32 (gimnasio)
   - oficina y reunión: 41 (sala de reuniones, manos en el portátil; buena para «reunión con cliente», «implantación», «equipo»)
+  - web de AstraTerapia: 43 (la web en el monitor de noche; buena para «así se ve el producto», «pruébalo». Sale pequeño el testimonio con el nombre de la clienta: no hacer zoom ni ponerlo en primer plano)
+  - laboratorio de la universidad: 44, 45 (osciloscopio y protoboard; buenas para «quién está detrás», «ingeniería», «cómo lo construimos»)
   - pausa y café: 42 (chocolate con churros; buena para «mientras tanto el sistema trabaja», «tu tiempo libre»)
 - No repitas la misma foto dos días seguidos ni el mismo tema en la misma semana. Rota palabras del CTA (SISTEMA, VOLVER, LLAMADAS, CITAS, HORAS, NOCHE, RESEÑAS, TRATO…).
