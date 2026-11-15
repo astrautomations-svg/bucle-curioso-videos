@@ -31,6 +31,7 @@ n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada
   - sueltas: 17 (conduciendo), 28 (paseo con perros), 32 (gimnasio)
   - oficina y reunión: 41 (sala de reuniones, manos en el portátil; buena para «reunión con cliente», «implantación», «equipo»)
   - web de AstraTerapia: 43 (la web en el monitor de noche; buena para «así se ve el producto», «pruébalo». Sale pequeño el testimonio con el nombre de la clienta: no hacer zoom ni ponerlo en primer plano)
+  - panel interno Astra HQ: 47 (el panel de operaciones de Astra en el monitor, de noche; bueno para «así llevamos nuestro propio negocio», «medimos todo». Salen cifras de nuestra captación con respuestas bajas: no hacer zoom ni citarlas)
   - laboratorio de la universidad: 44, 45 (osciloscopio y protoboard; buenas para «quién está detrás», «ingeniería», «cómo lo construimos»)
   - pausa y café: 42 (chocolate con churros; buena para «mientras tanto el sistema trabaja», «tu tiempo libre»)
 - No repitas la misma foto dos días seguidos ni el mismo tema en la misma semana. Rota palabras del CTA (SISTEMA, VOLVER, LLAMADAS, CITAS, HORAS, NOCHE, RESEÑAS, TRATO…).
