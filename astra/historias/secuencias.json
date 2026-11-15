@@ -3227,5 +3227,154 @@
     "foco": 0.35
    }
   ]
+ },
+ {
+  "fecha": "2026-11-22",
+  "tema": "mensajes de Instagram que se enfrían",
+  "frames": [
+   {
+    "img": "banco/07.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "TE ESCRIBEN POR INSTAGRAM:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Precio?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-instagram"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Tenéis hueco el sábado?",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Dónde estáis?",
+      "y": 780,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "pushpin"
+     }
+    ],
+    "foco": 0.55
+   },
+   {
+    "img": "banco/46.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Lo ves a las tantas",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "crescent-moon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y ya compró en otro sitio",
+      "y": 1300,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/41.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿tenéis hueco el sábado?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, el sábado a las 12:00. ¿Te lo reservo?"
+       ],
+       [
+        "in",
+        "Sí, porfa"
+       ]
+      ],
+      "y": 430,
+      "titulo": "Instagram"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta cada mensaje",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-instagram"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y deja la cita hecha",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "QUE NO SE ENFRÍE NINGUNO",
+      "y": 1000,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "MENSAJES",
+      "y": 1170,
+      "antes": "¿Cuántos mensajes de Instagram\nte quedan sin contestar?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
  }
 ]

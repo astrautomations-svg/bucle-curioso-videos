@@ -203,6 +203,14 @@ S = [
  f(42, T('MIENTRAS TANTO:', 260, rot=-2), L('Tú, disfrutando las fiestas', 480, 'blanco', 'sun', x='l', rot=-2),
    L('El sistema se acuerda por ti', 630, 'amarillo', 'bell', x='r', lado='i', rot=2)),
  fc(27, CTA('ENERO', 320, '¿Cuántos clientes de diciembre\nvuelven en enero?'), foco=0.35)]),
+('2026-11-22', 'mensajes de Instagram que se enfrían', [
+ f(7, T('TE ESCRIBEN POR INSTAGRAM:', 260, rot=-2), L('¿Precio?', 480, 'blanco', 'logo-instagram', x='l', rot=-2),
+   L('¿Tenéis hueco el sábado?', 630, 'amarillo', 'spiral-calendar', x='r', lado='i', rot=2), L('¿Dónde estáis?', 780, 'verde', 'pushpin', x='l', rot=-1), foco=0.55),
+ f(46, T('EL PROBLEMA:', 260, rot=-1), L('Lo ves a las tantas', 480, 'naranja', 'crescent-moon', x='l', rot=-2),
+   L('Y ya compró en otro sitio', 1300, 'rojo', 'cross-mark', x='r', lado='i', rot=2)),
+ f(41, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, ¿tenéis hueco el sábado?'], ['out', '¡Hola! Sí, el sábado a las 12:00. ¿Te lo reservo?'], ['in', 'Sí, porfa']], 430, titulo='Instagram'),
+   L('Contesta cada mensaje', 1150, 'azul', 'logo-instagram', x='l', rot=-2), L('Y deja la cita hecha', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
+ fc(39, T('QUE NO SE ENFRÍE NINGUNO', 1000, rot=-2), CTA('MENSAJES', 1170, '¿Cuántos mensajes de Instagram\nte quedan sin contestar?'), foco=0.3)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)

@@ -310,7 +310,7 @@ def chat_card(msgs, titulo=None):
     im = Image.new('RGBA', (Wc, Hc), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
     d.rounded_rectangle((0, 0, Wc - 1, Hc - 1), 36, fill=(11, 20, 26, 245))
     if titulo:
-        im.alpha_composite(icono('logo-whatsapp', 40), (28, 16)); d.text((80, 18), titulo, font=MF(700, 30), fill=(230, 235, 240))
+        im.alpha_composite(icono('logo-instagram' if 'instagram' in titulo.lower() else 'logo-whatsapp', 40), (28, 16)); d.text((80, 18), titulo, font=MF(700, 30), fill=(230, 235, 240))
         d.line((24, 64, Wc - 24, 64), fill=(255, 255, 255, 40), width=2)
     y = top
     for who, ls, w, h in rows:

@@ -310,5 +310,17 @@
       "astra/historias/2026-11-21/04.jpg",
       "astra/historias/2026-11-21/05.jpg"
     ]
+  },
+  {
+    "fecha": "2026-11-22",
+    "hora": "13",
+    "estado": "aprobado",
+    "tema": "mensajes de Instagram que se enfrían",
+    "frames": [
+      "astra/historias/2026-11-22/01.jpg",
+      "astra/historias/2026-11-22/02.jpg",
+      "astra/historias/2026-11-22/03.jpg",
+      "astra/historias/2026-11-22/04.jpg"
+    ]
   }
 ]
