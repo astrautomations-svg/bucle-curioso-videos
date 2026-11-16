@@ -673,11 +673,11 @@
   },
   {
     "fecha": "2026-11-16",
-    "video": "videos/cerebro-anestesia.mp4",
-    "caption": "¿Qué hace tu cerebro cuando estás anestesiado? Sigue escuchando: el hipocampo distinguía palabras, aprendía sonidos y hasta anticipaba la palabra siguiente.\n\nNo significa que los pacientes entendieran nada de forma consciente. ¿Te lo esperabas?\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
     "hora": "19:00",
-    "historia": "historias/cerebro-anestesia.mp4",
-    "tipo": "reserva"
+    "video": "videos/spacex-atrapa-nave.mp4",
+    "historia": "historias/spacex-atrapa-nave.mp4",
+    "caption": "¿Cómo se atrapa al vuelo una nave que vuelve del espacio? En el vuelo de prueba 15 de Starship (despegó el viernes 13 de noviembre desde Starbase, en Texas), la nave, la etapa de arriba, dio 14 vueltas a la Tierra, soltó 26 satélites Starlink y unas 22 horas y media después, el sábado 14, volvió a la base y la torre la atrapó con sus dos brazos. Es la primera vez que se atrapa así una nave que vuelve de la órbita.\n\nCómo lo consigue: entra en el aire a unos 27.000 km/h con la panza de losetas negras por delante (SpaceX calculaba unos 1.400 °C en ese escudo), cae de panza como un paracaidista guiándose con cuatro alerones, y casi al final gira hasta ponerse de pie, enciende tres motores para frenar y queda colgada de los brazos por dos pequeños salientes. No lleva patas: se ahorra su peso y la torre la puede dejar lista para volver a volar. El propulsor lo tiene más fácil porque no llega a dar la vuelta a la Tierra y vuelve mucho más lento; aun así, en este vuelo no volvió a la torre: canceló la maniobra tras una alarma de combustible bajo y acabó en el golfo de México.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: Space.com (14-11-2026: captura a las 16:20 EST, unas 22,5 h tras el despegue, Ship 42, el propulsor fue al golfo de México tras una alarma de combustible bajo; y su crónica del 14-11 sobre el aborto del propulsor); Interesting Engineering (unos 17.000 mph en la reentrada, tres motores reencendidos, 14 órbitas); NewSpace Economy (14-11-2026); Teslarati («belly flop» y giro final antes de entrar en la torre). Temperatura del escudo: estimación de SpaceX de 2019 (unos 1.650 K). La nave y la torre del vídeo son una recreación, no las reales.",
+    "tipo": "actualidad"
   },
   {
     "fecha": "2026-11-17",
@@ -725,6 +725,14 @@
     "caption": "Toda la vida que conocemos se escribe con cuatro letras: A, T, C y G. Pero ya existe un ADN con ocho.\n\nSe llama hachimoji, y ahora han visto que la máquina de una bacteria sabe leer las letras nuevas. ¿Lo sabías?\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
     "hora": "19:00",
     "historia": "historias/adn-ocho-letras.mp4",
+    "tipo": "reserva"
+  },
+  {
+    "fecha": "2026-11-19",
+    "video": "videos/cerebro-anestesia.mp4",
+    "caption": "¿Qué hace tu cerebro cuando estás anestesiado? Sigue escuchando: el hipocampo distinguía palabras, aprendía sonidos y hasta anticipaba la palabra siguiente.\n\nNo significa que los pacientes entendieran nada de forma consciente. ¿Te lo esperabas?\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
+    "hora": "09:00",
+    "historia": "historias/cerebro-anestesia.mp4",
     "tipo": "reserva"
   },
   {
