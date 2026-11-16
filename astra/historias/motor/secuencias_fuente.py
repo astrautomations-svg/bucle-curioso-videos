@@ -211,6 +211,16 @@ S = [
  f(41, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, ¿tenéis hueco el sábado?'], ['out', '¡Hola! Sí, el sábado a las 12:00. ¿Te lo reservo?'], ['in', 'Sí, porfa']], 430, titulo='Instagram'),
    L('Contesta cada mensaje', 1150, 'azul', 'logo-instagram', x='l', rot=-2), L('Y deja la cita hecha', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
  fc(39, T('QUE NO SE ENFRÍE NINGUNO', 1000, rot=-2), CTA('MENSAJES', 1170, '¿Cuántos mensajes de Instagram\nte quedan sin contestar?'), foco=0.3)]),
+('2026-11-23', 'diciembre: reservas que no aparecen', [
+ f(9, T('EN DICIEMBRE:', 260, rot=-2), L('Te reservan para el sábado', 480, 'blanco', 'spiral-calendar', x='l', rot=-2),
+   L('Les guardas el hueco', 630, 'amarillo', 'clipboard', x='r', lado='i', rot=2), L('Y no aparecen', 1300, 'rojo', 'cross-mark', rot=-1), foco=0.4),
+ f(14, T('EL COSTE REAL:', 260, rot=-1), L('Un hueco vacío en hora punta', 480, 'naranja', 'hourglass-done', x='l', rot=-2),
+   L('Que otro cliente sí quería', 1300, 'blanco', 'busts-in-silhouette', x='r', lado='i', rot=2), foco=0.6),
+ f(25, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['out', 'Hola Pablo, te recordamos tu reserva mañana a las 21:00. ¿Nos confirmas?'], ['in', 'Confirmado, ahí estaremos']], 430),
+   L('Le recuerda la reserva', 1150, 'azul', 'bell', x='l', rot=-2), L('Y pide que confirme', 1300, 'verde', 'logo-whatsapp', x='r', lado='i', rot=2)),
+ f(5, T('SI NO PUEDE VENIR:', 260, rot=-2), L('Te avisa con tiempo', 480, 'blanco', 'speech-balloon', x='l', rot=-2),
+   L('Y el hueco vuelve a estar libre', 1300, 'amarillo', 'logo-googlecalendar', x='r', lado='i', rot=2)),
+ fc(27, CTA('RESERVAS', 320, '¿Cuántas reservas de diciembre\nse te quedan vacías?'), foco=0.35)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)

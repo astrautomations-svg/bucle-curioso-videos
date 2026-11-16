@@ -3376,5 +3376,174 @@
     "foco": 0.3
    }
   ]
+ },
+ {
+  "fecha": "2026-11-23",
+  "tema": "diciembre: reservas que no aparecen",
+  "frames": [
+   {
+    "img": "banco/09.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EN DICIEMBRE:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Te reservan para el sábado",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Les guardas el hueco",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "clipboard"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y no aparecen",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ],
+    "foco": 0.4
+   },
+   {
+    "img": "banco/14.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL COSTE REAL:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Un hueco vacío en hora punta",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "hourglass-done"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Que otro cliente sí quería",
+      "y": 1300,
+      "color": "blanco",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "busts-in-silhouette"
+     }
+    ],
+    "foco": 0.6
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "out",
+        "Hola Pablo, te recordamos tu reserva mañana a las 21:00. ¿Nos confirmas?"
+       ],
+       [
+        "in",
+        "Confirmado, ahí estaremos"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Le recuerda la reserva",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "bell"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y pide que confirme",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-whatsapp"
+     }
+    ]
+   },
+   {
+    "img": "banco/05.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "SI NO PUEDE VENIR:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Te avisa con tiempo",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y el hueco vuelve a estar libre",
+      "y": 1300,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/27.jpg",
+    "bloques": [
+     {
+      "tipo": "cta",
+      "texto": "RESERVAS",
+      "y": 320,
+      "antes": "¿Cuántas reservas de diciembre\nse te quedan vacías?"
+     }
+    ],
+    "cara": [
+     200,
+     850,
+     560,
+     1250
+    ],
+    "foco": 0.35
+   }
+  ]
  }
 ]
