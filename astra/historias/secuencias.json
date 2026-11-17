@@ -3545,5 +3545,153 @@
     "foco": 0.35
    }
   ]
+ },
+ {
+  "fecha": "2026-11-24",
+  "tema": "horario de fiestas: las mismas preguntas cada día",
+  "frames": [
+   {
+    "img": "banco/33.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LLEGAN LAS FIESTAS:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Abrís el 24?",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "speech-balloon"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Y el 31 por la tarde?",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "spiral-calendar"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Horario de Navidad?",
+      "y": 780,
+      "color": "verde",
+      "x": "l",
+      "rot": -1,
+      "icono": "thinking-face"
+     }
+    ]
+   },
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "EL PROBLEMA:",
+      "y": 260,
+      "rot": -1
+     },
+     {
+      "tipo": "linea",
+      "texto": "Repites lo mismo cada día",
+      "y": 480,
+      "color": "naranja",
+      "x": "l",
+      "rot": -2,
+      "icono": "repeat-button"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Mientras atiendes en el local",
+      "y": 1300,
+      "color": "rojo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/38.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿abrís el 24 por la tarde?"
+       ],
+       [
+        "out",
+        "¡Hola! El 24 abrimos solo por la mañana. ¿Te reservo hora?"
+       ],
+       [
+        "in",
+        "Sí, a primera hora"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Da tu horario al momento",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y deja la cita hecha",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ],
+    "foco": 0.4
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "TÚ, A LO TUYO",
+      "y": 280,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "FIESTAS",
+      "y": 1150,
+      "antes": "¿Cuántas veces te preguntan\nel horario de Navidad?"
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   }
+  ]
  }
 ]

@@ -221,6 +221,14 @@ S = [
  f(5, T('SI NO PUEDE VENIR:', 260, rot=-2), L('Te avisa con tiempo', 480, 'blanco', 'speech-balloon', x='l', rot=-2),
    L('Y el hueco vuelve a estar libre', 1300, 'amarillo', 'logo-googlecalendar', x='r', lado='i', rot=2)),
  fc(27, CTA('RESERVAS', 320, '¿Cuántas reservas de diciembre\nse te quedan vacías?'), foco=0.35)]),
+('2026-11-24', 'horario de fiestas: las mismas preguntas cada día', [
+ f(33, T('LLEGAN LAS FIESTAS:', 260, rot=-2), L('¿Abrís el 24?', 480, 'blanco', 'speech-balloon', x='l', rot=-2),
+   L('¿Y el 31 por la tarde?', 630, 'amarillo', 'spiral-calendar', x='r', lado='i', rot=2), L('¿Horario de Navidad?', 780, 'verde', 'thinking-face', x='l', rot=-1)),
+ f(20, T('EL PROBLEMA:', 260, rot=-1), L('Repites lo mismo cada día', 480, 'naranja', 'repeat-button', x='l', rot=-2),
+   L('Mientras atiendes en el local', 1300, 'rojo', 'cross-mark', x='r', lado='i', rot=2)),
+ f(38, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, ¿abrís el 24 por la tarde?'], ['out', '¡Hola! El 24 abrimos solo por la mañana. ¿Te reservo hora?'], ['in', 'Sí, a primera hora']], 430),
+   L('Da tu horario al momento', 1150, 'azul', 'logo-whatsapp', x='l', rot=-2), L('Y deja la cita hecha', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2), foco=0.4),
+ fc(17, T('TÚ, A LO TUYO', 280, rot=-2), CTA('FIESTAS', 1150, '¿Cuántas veces te preguntan\nel horario de Navidad?'))]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)
