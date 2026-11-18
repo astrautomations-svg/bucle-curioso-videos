@@ -752,6 +752,30 @@
     "tipo": "reserva"
   },
   {
+    "fecha": "2026-11-20",
+    "hora": "09:00",
+    "video": "videos/velcro.mp4",
+    "historia": "historias/velcro.mp4",
+    "caption": "¿Por qué el velcro se pega solo con apretarlo? Por culpa de una planta: la bardana, cuyas bolitas se te enganchan en la ropa.\n\nEn 1941, el ingeniero suizo George de Mestral volvió de cazar en los Alpes con su perro y la ropa llenos de bolitas de bardana. Al mirarlas al microscopio vio que estaban cubiertas de ganchos diminutos que se agarraban a cualquier bucle: el pelo del perro, la lana del pantalón. Copió la idea con dos cintas, una con ganchos rígidos y otra con bucles blandos. Cada gancho sujeta poco, pero al apretar se enganchan miles a la vez; al tirar, se sueltan uno detrás de otro. Tardó casi diez años: el algodón se gastaba enseguida y el invento solo funcionó con nailon. Patentó la idea en Suiza en 1951, y el nombre sale del francés: velours (terciopelo) y crochet (gancho).\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: VELCRO® Brand, «Our story» (velcro.com); History.com, «Velcro: The Accidental Invention».",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-20",
+    "hora": "14:00",
+    "video": "videos/hielo-flota.mp4",
+    "historia": "historias/hielo-flota.mp4",
+    "caption": "¿Por qué el hielo flota, si es agua sólida? Y gracias a eso hay peces vivos bajo un lago helado.\n\nAl congelarse, el agua se ordena en una red de hexágonos: cada molécula se agarra a cuatro vecinas con enlaces de hidrógeno y deja huecos en medio. Por eso el hielo pesa lo mismo pero ocupa más: es alrededor de un 9 % menos denso que el agua líquida, y flota con aproximadamente una décima parte fuera. Al derretirse, parte de esos enlaces se rompen y las moléculas se cuelan en los huecos. Además, el agua alcanza su máxima densidad a unos 4 °C: en invierno, esa agua baja al fondo de los lagos, la más fría se queda arriba y se congela, y el hielo hace de tapa aislante. Si el hielo se hundiera, los lagos podrían congelarse desde el fondo.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: USGS Water Science School, «Water Density»; LibreTexts Chemistry (ChemPRIME), «Ice and Water».",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-20",
+    "hora": "19:00",
+    "video": "videos/wifi-paredes.mp4",
+    "historia": "historias/wifi-paredes.mp4",
+    "caption": "¿Por qué el wifi atraviesa paredes, pero el móvil se queda sin señal en el ascensor? Si la pared es mucho más gruesa.\n\nEl wifi y el móvil son ondas de radio: la misma familia que la luz, pero invisibles y mucho más largas. Las del wifi de 2,4 GHz miden 12,5 cm; las del móvil, según la red, de unos 10 cm a más de 30. El ladrillo, el yeso o la madera no conducen la electricidad: la onda los atraviesa, aunque pierde fuerza por el camino. El metal sí conduce: sus electrones se mueven con la onda y la devuelven. Una cabina de ascensor es una caja de metal, una jaula de Faraday, como el cubo forrado de papel metálico con el que Michael Faraday comprobó en 1836 que, al electrificarlo por fuera, dentro no llegaba nada. Solo se cuela algo por las rendijas, y una rendija mucho más estrecha que la onda no la deja pasar.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: Live Science, «What is a Faraday cage?»; «Mobile Phone Faraday Cage» (arXiv:1112.5495); DrayTek, «2.4GHz vs 5GHz Wi-Fi»; NIST IR 6055, «Electromagnetic Signal Attenuation in Construction Materials».",
+    "tipo": "encargo"
+  },
+  {
     "fecha": "2099-01-01",
     "hora": "00:00",
     "video": "videos/papel-luna.mp4",
