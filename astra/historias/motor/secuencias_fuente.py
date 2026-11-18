@@ -229,6 +229,18 @@ S = [
  f(38, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, ¿abrís el 24 por la tarde?'], ['out', '¡Hola! El 24 abrimos solo por la mañana. ¿Te reservo hora?'], ['in', 'Sí, a primera hora']], 430),
    L('Da tu horario al momento', 1150, 'azul', 'logo-whatsapp', x='l', rot=-2), L('Y deja la cita hecha', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2), foco=0.4),
  fc(17, T('TÚ, A LO TUYO', 280, rot=-2), CTA('FIESTAS', 1150, '¿Cuántas veces te preguntan\nel horario de Navidad?'))]),
+('2026-11-25', 'encargos de Navidad por WhatsApp', [
+ f(8, T('EN NAVIDAD TE ENCARGAN:', 260, rot=-2), L('¿Me guardas uno para el 24?', 480, 'blanco', 'speech-balloon', x='l', rot=-2),
+   L('Y otro para el 31', 630, 'amarillo', 'spiral-calendar', x='r', lado='i', rot=2), L('Lo recojo por la mañana', 780, 'verde', 'shopping-cart', x='l', rot=-1), foco=0.4),
+ f(46, T('EL PROBLEMA:', 260, rot=-1), L('Encargos en veinte chats', 480, 'naranja', 'logo-whatsapp', x='l', rot=-2),
+   L('Apuntados en un papel', 1300, 'blanco', 'memo', x='r', lado='i', rot=2)),
+ f(13, T('LO QUE PASA:', 260, rot=-2), L('Viene a recogerlo', 480, 'blanco', 'bust-in-silhouette', x='l', rot=-2),
+   L('Y no está preparado', 1300, 'rojo', 'cross-mark', x='r', lado='i', rot=2), foco=0.6),
+ f(41, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, ¿me guardáis uno para el 24?'], ['out', '¡Hola! Apuntado. ¿A qué hora lo recoges?'], ['in', 'A las 11, gracias']], 430),
+   L('Apunta cada encargo', 1150, 'azul', 'clipboard', x='l', rot=-2), L('Con día y hora', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
+ f(29, T('Y EL DÍA ANTES:', 260, rot=-2), L('Recuerda la recogida', 480, 'amarillo', 'bell', x='l', rot=-2),
+   L('Tú, sin repasar chats', 630, 'blanco', 'check-mark-button', x='r', lado='i', rot=2)),
+ fc(18, T('NI UN ENCARGO PERDIDO', 300, rot=-2), CTA('ENCARGOS', 1250, '¿Cuántos encargos de Navidad\nllevas apuntados a mano?'), foco=0.45)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)
