@@ -728,6 +728,14 @@
     "tipo": "reserva"
   },
   {
+    "fecha": "2026-11-18",
+    "hora": "21:00",
+    "video": "videos/voyager-dia-luz.mp4",
+    "historia": "historias/voyager-dia-luz.mp4",
+    "caption": "¿Cuánto es, en realidad, un día luz? Hoy, 18 de noviembre de 2026, la sonda Voyager 1 (lanzada el 5 de septiembre de 1977) ha llegado a un día luz de la Tierra: 25.902 millones de kilómetros, la distancia que recorre la luz en 24 horas. Es el primer objeto humano que llega tan lejos.\n\nPara hacerse una idea (cálculos propios con la distancia de la NASA): en coche a 120 km/h se tardarían unos 24.600 años; en avión a 900 km/h, unos 3.300; la Voyager, a unos 61.000 km/h, ha tardado 49 años y dos meses. La luz del Sol tarda 8 minutos y 20 segundos en llegarnos, y esto está unas 173 veces más lejos. Un mensaje a la sonda tarda un día en llegar, y su respuesta, otro día en volver.\n\nY la relatividad (cálculo aproximado propio, no de la NASA): por su velocidad, el reloj de la Voyager se ha atrasado unos 2,5 segundos en 49 años; pero nuestros relojes, cerca del Sol y de la Tierra y girando con ella alrededor del Sol, van todavía más lentos. En total, la Voyager ha vivido unos 20 segundos más que nosotros.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: NASA Science, «Voyager 1: What is a light-day?» (cruce el 18-11-2026 a las 10:16:07 UTC, 25.902.068.356 km, unos 61.000 km/h, lanzamiento 5-9-1977, Sol a 8 min 20 s); EarthSky y Sky at Night (18-11-2026). La sonda del vídeo es una recreación, no la real.",
+    "tipo": "actualidad"
+  },
+  {
     "fecha": "2026-11-19",
     "video": "videos/cerebro-anestesia.mp4",
     "caption": "¿Qué hace tu cerebro cuando estás anestesiado? Sigue escuchando: el hipocampo distinguía palabras, aprendía sonidos y hasta anticipaba la palabra siguiente.\n\nNo significa que los pacientes entendieran nada de forma consciente. ¿Te lo esperabas?\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
