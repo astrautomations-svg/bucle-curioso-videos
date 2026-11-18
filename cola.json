@@ -737,6 +737,14 @@
   },
   {
     "fecha": "2026-11-19",
+    "hora": "14:00",
+    "video": "videos/codigo-barras.mp4",
+    "historia": "historias/codigo-barras.mp4",
+    "caption": "¿Cómo lee la caja del súper un código de barras en una fracción de segundo? Un láser rojo, un espejo que gira y un sensor que solo distingue luz y sombra.\n\nEl papel blanco devuelve la luz del láser y la tinta negra se la traga: el sensor convierte ese parpadeo en una señal. En un EAN-13, cada número ocupa siete franjas (dos barras y dos huecos de distinto grosor), y el último es un dígito de control: se calcula con los otros doce (uno sí y otro no multiplicado por tres) y, si no cuadra, el lector no da la lectura por buena. El 84 del principio solo indica que el código se pidió a la filial española de GS1, no que el producto se haya fabricado en España. ¿Y el rojo? Como el lector ve con luz roja, unas barras rojas le devuelven tanta luz como el fondo blanco y se vuelven invisibles.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: GS1 UK, «What colour should a barcode be?» y «How to calculate your check digit»; OCU, «Bulo: el código 84 no indica el origen del producto», y AECOC (GS1 España); GS1 General Specifications (EAN-13: 95 módulos, 7 por número). El código del vídeo (84 12345 67890 5) es un ejemplo con su dígito de control bien calculado, no un producto real.",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-19",
     "video": "videos/dias-largos.mp4",
     "caption": "¿Por qué los días son cada vez más largos? El deshielo lleva agua hacia el ecuador y la Tierra gira más despacio, como una patinadora que abre los brazos.\n\nCasi 1,5 milisegundos más por siglo: un ritmo que no se veía en 3,6 millones de años. ¿Qué harías con tu milisegundo extra?\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).",
     "hora": "19:00",
