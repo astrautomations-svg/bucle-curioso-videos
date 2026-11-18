@@ -776,6 +776,54 @@
     "tipo": "encargo"
   },
   {
+    "fecha": "2026-11-21",
+    "hora": "09:00",
+    "video": "videos/tostadora.mp4",
+    "historia": "historias/tostadora.mp4",
+    "caption": "¿Cómo sabe la tostadora cuándo tiene que saltar? No lo sabe: nunca mira tu pan, solo cuenta el tiempo.\n\nAl bajar la palanca, un electroimán (un solenoide) sujeta la bandeja abajo mientras los hilos de las paredes se ponen al rojo. En las tostadoras antiguas, la cuenta la lleva una tira bimetálica: dos metales soldados que se dilatan distinto y se curvan con el calor hasta soltar el pestillo. En las modernas, un condensador se va cargando, y la ruedecita decide lo rápido que se llena: al llegar a cierto voltaje, el circuito corta la corriente, el imán suelta la bandeja y un muelle la dispara hacia arriba. Por eso los números no son minutos: en una prueba en Nueva Zelanda, el 1 tardó un minuto y medio y el 7, tres minutos y 55 segundos.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: Explain that Stuff, «Electric toasters» (tira bimetálica, solenoide, muelle); IFLScience, «What do the numbers on your toaster really mean?» (condensador; prueba 1 = 1 min 30 s, 7 = 3 min 55 s); HowStuffWorks, «How Toasters Work». El interior del vídeo es una recreación simplificada.",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-21",
+    "hora": "14:00",
+    "video": "videos/termo.mp4",
+    "historia": "historias/termo.mp4",
+    "caption": "¿Cómo puede un termo mantener el café caliente durante horas? Porque entre sus dos paredes no hay nada: ni siquiera aire.\n\nEl calor se escapa de tres maneras: por contacto (de un átomo al siguiente, como en una cuchara metida en el café), por el aire que se calienta y sube, y como luz infrarroja. El vacío entre las dos paredes corta las dos primeras, y las caras plateadas o pulidas reflejan la tercera de vuelta al café. Lo inventó el escocés James Dewar en 1892, durante sus investigaciones con gases licuados a temperaturas bajísimas; en 1904 dos sopladores de vidrio alemanes lo convirtieron en el termo de casa. Su punto débil es el cuello y el tapón: ahí no hay vacío, y por ahí se pierde la mayor parte del calor.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: Wikipedia, «Vacuum flask» (Dewar 1892; Burger y Aschenbrenner, Thermos, 1904; el vacío frena conducción y convección, la plata reduce la radiación; la mayor parte del calor se pierde por el cuello y la boca); HowStuffWorks, «How Thermoses (Vacuum Flasks) Work». El interior del vídeo es una recreación.",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-21",
+    "hora": "19:00",
+    "video": "videos/pantalla-tactil.mp4",
+    "historia": "historias/pantalla-tactil.mp4",
+    "caption": "¿Cómo sabe la pantalla del móvil dónde la estás tocando? Porque tu dedo le roba un poco de electricidad.\n\nLas pantallas táctiles capacitivas llevan bajo el cristal una rejilla de hilos conductores transparentes (de materiales como el óxido de indio y estaño), cada uno más fino que un pelo, en filas y columnas. Tu piel conduce, así que al acercar el dedo se lleva parte de la carga de los cruces que tiene debajo; un chip repasa la rejilla una y otra vez y localiza dónde ha bajado. La tela de un guante normal no conduce, por eso no funciona; los guantes táctiles llevan hilo conductor en las yemas. En el invierno de 2010, en Corea del Sur, hubo quien usaba salchichas como lápiz para el móvil.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: Scienceline (NYU), «Okay, but how do touch screens actually work?» (rejilla de hilos más finos que un pelo, óxido de indio y estaño, filas y columnas con un chip, la tela no conduce salvo con hilo conductor); The Register y Engadget, 12-02-2010 (salchichas como lápiz en Corea del Sur). La rejilla del vídeo está simplificada: la de verdad tiene muchos más hilos.",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-22",
+    "hora": "09:00",
+    "video": "videos/iman-nevera.mp4",
+    "historia": "historias/iman-nevera.mp4",
+    "caption": "¿Por qué un imán de nevera solo se pega por una cara? Dale la vuelta y se cae, y no es por el dibujo.\n\nUn imán corriente tiene un polo norte y un polo sur y atrae igual por los dos lados. El de la nevera no: está imantado a rayas, con la polaridad alternando a lo largo de la lámina, y ese reparto (una matriz de Halbach) hace que los campos se sumen por una cara y se anulen por la otra. Por la cara que pega el campo es aproximadamente el doble, y por la otra casi no hay. La idea la describió John Mallinson en 1973 y la desarrolló Klaus Halbach en los años 80 para enfocar haces de partículas en aceleradores. Prueba a frotar dos imanes de nevera por la cara que pega: notarás saltitos al pasar de una raya a otra.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: CERN Educational Resources, «Fridge magnets and the LHC?! – Solvay DIY video» (rayas de polaridad alterna, matriz de Halbach, campo por una sola cara, casi el doble); K&J Magnetics, «Remagnetizing flexible fridge magnets» (imantación en patrones alternos); Wikipedia, «Halbach array» (Mallinson 1973, Halbach y los aceleradores). El corte del vídeo está simplificado; las líneas de campo están calculadas con un modelo sencillo.",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-22",
+    "hora": "14:00",
+    "video": "videos/bombilla-led.mp4",
+    "historia": "historias/bombilla-led.mp4",
+    "caption": "¿Por qué una bombilla LED gasta tanto menos que una de las de antes? Porque la de antes era casi una estufa que, de paso, daba luz.\n\nLa bombilla incandescente da luz calentando un hilo de metal finísimo hasta que brilla, y según ENERGY STAR suelta en forma de calor el 90 % de la energía que consume. Un LED no necesita calentarse: es un chip semiconductor en el que los electrones, al cruzarlo, bajan de nivel de energía y sueltan la diferencia como luz. Esa luz es azul y una capa de fósforo amarillento la convierte en blanca. Según el Departamento de Energía de EE. UU., las LED de casa gastan al menos un 75 % menos y duran hasta 25 veces más que las incandescentes.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: ENERGY STAR, «Learn about LED bulbs» (90 % en calor; fósforo amarillento para la luz blanca); U.S. Department of Energy, Energy Saver, «LED Lighting» (al menos un 75 % menos de energía y hasta 25 veces más de vida). El interior del vídeo es una recreación simplificada.",
+    "tipo": "encargo"
+  },
+  {
+    "fecha": "2026-11-22",
+    "hora": "19:00",
+    "video": "videos/codigo-qr.mp4",
+    "historia": "historias/codigo-qr.mp4",
+    "caption": "¿Cómo puede leerse un código QR aunque esté roto? Porque es capaz de reconstruir hasta un 30 % de lo que le falta.\n\nEl móvil busca primero los tres cuadros de las esquinas (los patrones de posición): le dicen dónde está el código, su tamaño y cómo está girado, así que se puede leer desde cualquier dirección. Después lee los módulos como unos y ceros. Pero no todos son tu mensaje: una parte son datos de corrección calculados con el código Reed-Solomon, que permiten recuperar lo que falta o está dañado. Hay cuatro niveles: L (7 %), M (15 %), Q (25 %) y H (30 %); cuanta más corrección, más módulos necesita el código. Por eso un QR con un dibujo en el centro se sigue leyendo. Lo desarrolló la empresa japonesa DENSO WAVE en 1994.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: KEYENCE, «What is a QR code?» (DENSO WAVE, 1994; patrones de posición en tres esquinas y lectura desde cualquier dirección; niveles L 7 %, M 15 %, Q 25 %, H 30 %; Reed-Solomon para recuperar partes dañadas). El QR del vídeo es una recreación y no lleva ningún mensaje real.",
+    "tipo": "encargo"
+  },
+  {
     "fecha": "2099-01-01",
     "hora": "00:00",
     "video": "videos/papel-luna.mp4",
