@@ -3903,5 +3903,122 @@
     "foco": 0.45
    }
   ]
+ },
+ {
+  "fecha": "2026-11-26",
+  "tema": "Black Friday: todos escriben a la vez",
+  "frames": [
+   {
+    "img": "banco/15.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "MAÑANA ES BLACK FRIDAY:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "linea",
+      "texto": "Te escriben todos a la vez",
+      "y": 480,
+      "color": "blanco",
+      "x": "l",
+      "rot": -2,
+      "icono": "logo-whatsapp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "¿Sigue la oferta?",
+      "y": 630,
+      "color": "amarillo",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "shopping-cart"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y tú, con el local lleno",
+      "y": 1300,
+      "color": "rojo",
+      "rot": -1,
+      "icono": "cross-mark"
+     }
+    ]
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "LA SOLUCIÓN:",
+      "y": 260,
+      "rot": -2
+     },
+     {
+      "tipo": "chat",
+      "mensajes": [
+       [
+        "in",
+        "Hola, ¿la oferta vale también el sábado?"
+       ],
+       [
+        "out",
+        "¡Hola! Sí, hasta el domingo. ¿Te guardo hora?"
+       ],
+       [
+        "in",
+        "Sí, el sábado por la mañana"
+       ]
+      ],
+      "y": 430,
+      "titulo": "WhatsApp"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Contesta a todos al momento",
+      "y": 1150,
+      "color": "azul",
+      "x": "l",
+      "rot": -2,
+      "icono": "high-voltage"
+     },
+     {
+      "tipo": "linea",
+      "texto": "Y deja la cita hecha",
+      "y": 1300,
+      "color": "verde",
+      "x": "r",
+      "lado": "i",
+      "rot": 2,
+      "icono": "logo-googlecalendar"
+     }
+    ]
+   },
+   {
+    "img": "banco/39.jpg",
+    "bloques": [
+     {
+      "tipo": "titulo",
+      "texto": "QUE NO SE ESCAPE NINGUNO",
+      "y": 1000,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "SISTEMA",
+      "y": 1170,
+      "antes": "¿Cuántos mensajes te llegan\nen Black Friday?"
+     }
+    ],
+    "cara": [
+     220,
+     650,
+     460,
+     950
+    ],
+    "foco": 0.3
+   }
+  ]
  }
 ]

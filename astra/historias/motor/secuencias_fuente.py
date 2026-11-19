@@ -241,6 +241,12 @@ S = [
  f(29, T('Y EL DÍA ANTES:', 260, rot=-2), L('Recuerda la recogida', 480, 'amarillo', 'bell', x='l', rot=-2),
    L('Tú, sin repasar chats', 630, 'blanco', 'check-mark-button', x='r', lado='i', rot=2)),
  fc(18, T('NI UN ENCARGO PERDIDO', 300, rot=-2), CTA('ENCARGOS', 1250, '¿Cuántos encargos de Navidad\nllevas apuntados a mano?'), foco=0.45)]),
+('2026-11-26', 'Black Friday: todos escriben a la vez', [
+ f(15, T('MAÑANA ES BLACK FRIDAY:', 260, rot=-2), L('Te escriben todos a la vez', 480, 'blanco', 'logo-whatsapp', x='l', rot=-2),
+   L('¿Sigue la oferta?', 630, 'amarillo', 'shopping-cart', x='r', lado='i', rot=2), L('Y tú, con el local lleno', 1300, 'rojo', 'cross-mark', rot=-1)),
+ f(25, T('LA SOLUCIÓN:', 260, rot=-2), CHAT([['in', 'Hola, ¿la oferta vale también el sábado?'], ['out', '¡Hola! Sí, hasta el domingo. ¿Te guardo hora?'], ['in', 'Sí, el sábado por la mañana']], 430),
+   L('Contesta a todos al momento', 1150, 'azul', 'high-voltage', x='l', rot=-2), L('Y deja la cita hecha', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
+ fc(39, T('QUE NO SE ESCAPE NINGUNO', 1000, rot=-2), CTA('SISTEMA', 1170, '¿Cuántos mensajes te llegan\nen Black Friday?'), foco=0.3)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)
