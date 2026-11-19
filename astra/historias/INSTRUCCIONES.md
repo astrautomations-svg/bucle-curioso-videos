@@ -9,7 +9,7 @@ n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada
 4. Revisa las imágenes a ojo, haz commit y push a `main`.
 
 ## Reglas (de Astra)
-- Solo para dueños de negocio, con intención de venta. Nada de enseñar herramientas de IA. Llamativo, sin ser cringe. Nunca inventar datos ni cifras.
+- Solo para dueños de negocio, con intención de venta: cada historia tiene que acercar a una venta, no lucirse ni «larpear» (nada de «mirad dónde estoy»). Las fotos de lugares o del día a día solo acompañan un mensaje de venta. Nada de enseñar herramientas de IA. Llamativo, sin ser cringe. Nunca inventar datos ni cifras.
 - De 3 a 6 historias por día. No siempre el mismo número.
 - La última siempre lleva el CTA (bloque `cta`).
 - Estilo de las historias de Astra (v4): título condensado en caja azul arriba («EL PROBLEMA:», «EL COSTE REAL:», «LA SOLUCIÓN:»…), frases en pastillas de colores repartidas y algo torcidas, cada una con un icono o logo de app al lado, a veces una tarjeta de WhatsApp de ejemplo o un número grande con brillo. SIN hilos/líneas azules de neón (Astra no los quiere; no pongas "garabato"). Las flechas ➜➜ también las pone solo. Cierre: pregunta en naranja + «RESPONDE: "PALABRA"».
@@ -32,7 +32,7 @@ n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada
   - oficina y reunión: 41 (sala de reuniones, manos en el portátil; buena para «reunión con cliente», «implantación», «equipo»)
   - web de AstraTerapia: 43 (la web en el monitor de noche; buena para «así se ve el producto», «pruébalo». Sale pequeño el testimonio con el nombre de la clienta: no hacer zoom ni ponerlo en primer plano)
   - panel interno Astra HQ: 47, 48, 49 (47 en modo claro y 48 en modo oscuro: la captación; 49: la sección de anuncios con los reels. Nunca dos de ellas el mismo día. el panel de operaciones de Astra en el monitor, de noche; bueno para «así llevamos nuestro propio negocio», «medimos todo». Salen cifras de nuestra captación y del gasto en anuncios: no hacer zoom ni citarlas)
-  - visita a la tele: 50, 51 (el mismo día, en las oficinas de una televisión: 50 José esperando en la recepción, 51 detrás de las cámaras en un plató. Buenas para «hoy tocaba tele», «entre bastidores», «un día distinto». No presentarlas como visita a un cliente ni nombrar la cadena ni el programa. En la 51 se lee al fondo un rótulo con el nombre de un famoso: difuminar o tapar esa zona. Se pueden usar las dos juntas en la misma historia)
+  - visita a la tele: 50, 51 (el mismo día, en las oficinas de una televisión: 50 José esperando en la recepción, 51 detrás de las cámaras. Usarlas poco y nunca para presumir: solo como fondo de un mensaje de venta, p. ej. «Hoy no he cogido el móvil en toda la mañana. Mi WhatsApp ha seguido contestando y dando citas». No nombrar la cadena ni el programa ni presentarlo como visita a un cliente. En la 51 se lee al fondo el nombre de un famoso: difuminar o tapar esa zona)
   - laboratorio de la universidad: 44, 45 (osciloscopio y protoboard; buenas para «quién está detrás», «ingeniería», «cómo lo construimos»)
   - pausa y café: 42 (chocolate con churros; buena para «mientras tanto el sistema trabaja», «tu tiempo libre»)
 - No repitas la misma foto dos días seguidos ni el mismo tema en la misma semana. Rota palabras del CTA (SISTEMA, VOLVER, LLAMADAS, CITAS, HORAS, NOCHE, RESEÑAS, TRATO…).
