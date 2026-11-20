@@ -372,5 +372,17 @@
       "astra/historias/2026-11-26/02.jpg",
       "astra/historias/2026-11-26/03.jpg"
     ]
+  },
+  {
+    "fecha": "2026-11-27",
+    "hora": "13",
+    "estado": "aprobado",
+    "tema": "diciembre: los cambios de cita por WhatsApp",
+    "frames": [
+      "astra/historias/2026-11-27/01.jpg",
+      "astra/historias/2026-11-27/02.jpg",
+      "astra/historias/2026-11-27/03.jpg",
+      "astra/historias/2026-11-27/04.jpg"
+    ]
   }
 ]

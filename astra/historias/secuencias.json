@@ -4020,5 +4020,160 @@
     "foco": 0.3
    }
   ]
+ },
+ {
+  "fecha": "2026-11-27",
+  "tema": "diciembre: los cambios de cita por WhatsApp",
+  "estilo": "cristal",
+  "frames": [
+   {
+    "img": "banco/20.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "EL PROBLEMA",
+      "y": 283,
+      "x": 96,
+      "rot": -2.5
+     },
+     {
+      "tipo": "titular",
+      "texto": "Diciembre: todos cambian de planes.",
+      "y": 530,
+      "sub": "Y cada cambio te llega por WhatsApp.",
+      "rot": 1.8
+     },
+     {
+      "tipo": "wa",
+      "nombre": "Sara",
+      "texto": "¿Me puedes pasar la cita del jueves al sábado?",
+      "y": 850,
+      "hora": "22:14",
+      "rot": -3
+     },
+     {
+      "tipo": "fila",
+      "icono": "tiempo/luna",
+      "texto": "Tú, contestando a las tantas",
+      "y": 1075,
+      "cx": 520,
+      "w": 760,
+      "rot": 2.2
+     }
+    ],
+    "osc": 1.0
+   },
+   {
+    "img": "banco/13.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "LO QUE PASA",
+      "y": 283,
+      "x": 96,
+      "rot": 2
+     },
+     {
+      "tipo": "fila",
+      "icono": "tiempo/calendario",
+      "texto": "Buscas hueco a mano",
+      "y": 480,
+      "cx": 480,
+      "w": 700,
+      "rot": -2
+     },
+     {
+      "tipo": "fila",
+      "icono": "tiempo/reloj-de-arena",
+      "texto": "Tardas en contestar",
+      "y": 650,
+      "cx": 590,
+      "w": 720,
+      "rot": 2.4
+     },
+     {
+      "tipo": "fila",
+      "icono": "estados/x-roja",
+      "texto": "Y el hueco del jueves se queda vacío",
+      "y": 820,
+      "cx": 520,
+      "w": 820,
+      "rot": -1.4
+     }
+    ],
+    "foco": 0.6
+   },
+   {
+    "img": "banco/41.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "LA SOLUCIÓN",
+      "y": 283,
+      "x": 110,
+      "rot": 2.2
+     },
+     {
+      "tipo": "titular",
+      "texto": "Un asistente que mueve la cita por ti.",
+      "y": 515,
+      "sub": "Con tu agenda real, al momento.",
+      "rot": -1.8
+     },
+     {
+      "tipo": "wa",
+      "nombre": "Tu negocio",
+      "texto": "Hola Sara, el sábado a las 11:00 está libre. ¿Te la cambio?",
+      "y": 805,
+      "hora": "22:14",
+      "w": 760,
+      "rot": 2.4
+     },
+     {
+      "tipo": "fila",
+      "icono": "tiempo/calendario-con-check",
+      "texto": "Cambia la cita y la confirma",
+      "y": 1025,
+      "cx": 500,
+      "w": 760,
+      "rot": -2.2
+     },
+     {
+      "tipo": "fila",
+      "icono": "sistema/campana",
+      "texto": "Y el jueves vuelve a quedar libre",
+      "y": 1190,
+      "cx": 580,
+      "w": 800,
+      "rot": 1.6
+     }
+    ]
+   },
+   {
+    "img": "banco/18.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "SIN TOCAR EL MÓVIL",
+      "y": 283,
+      "x": 96,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "AGENDA",
+      "y": 1400,
+      "antes": "¿Cuántos cambios de cita\nte llegan en diciembre?",
+      "rot": -1.2
+     }
+    ],
+    "cara": [
+     330,
+     860,
+     580,
+     1140
+    ]
+   }
+  ]
  }
 ]

@@ -248,5 +248,33 @@ S = [
    L('Contesta a todos al momento', 1150, 'azul', 'high-voltage', x='l', rot=-2), L('Y deja la cita hecha', 1300, 'verde', 'logo-googlecalendar', x='r', lado='i', rot=2)),
  fc(39, T('QUE NO SE ESCAPE NINGUNO', 1000, rot=-2), CTA('SISTEMA', 1170, '¿Cuántos mensajes te llegan\nen Black Friday?'), foco=0.3)]),
 ]
+# ---------- Estilo «cristal» (desde el 27-11; se renderiza con motor/cristal.py, y = centro del contenedor) ----------
+def ET(t, y=283, x=96, rot=-2): return dict(tipo='etiqueta', texto=t, y=y, x=x, rot=rot)
+def TIT(t, y, sub=None, **k): return dict(tipo='titular', texto=t, y=y, **({'sub': sub} if sub else {}), **k)
+def WA(nombre, texto, y, hora=None, **k): return dict(tipo='wa', nombre=nombre, texto=texto, y=y, **({'hora': hora} if hora else {}), **k)
+def FI(icono, t, y, **k): return dict(tipo='fila', icono=icono, texto=t, y=y, **k)
+def CTAC(t, y, antes=None, **k): return dict(tipo='cta', texto=t, y=y, **({'antes': antes} if antes else {}), **k)
+def g(img, *b, **k): return dict(img='banco/%02d.jpg' % img, bloques=list(b), **k)
+def gc(img, *b, **k): return g(img, *b, cara=CARA[img], **k)
+
+SC = [
+('2026-11-27', 'diciembre: los cambios de cita por WhatsApp', [
+ g(20, ET('EL PROBLEMA', rot=-2.5),
+   TIT('Diciembre: todos cambian de planes.', 530, 'Y cada cambio te llega por WhatsApp.', rot=1.8),
+   WA('Sara', '¿Me puedes pasar la cita del jueves al sábado?', 850, '22:14', rot=-3),
+   FI('tiempo/luna', 'Tú, contestando a las tantas', 1075, cx=520, w=760, rot=2.2), osc=1.0),
+ g(13, ET('LO QUE PASA', rot=2),
+   FI('tiempo/calendario', 'Buscas hueco a mano', 480, cx=480, w=700, rot=-2),
+   FI('tiempo/reloj-de-arena', 'Tardas en contestar', 650, cx=590, w=720, rot=2.4),
+   FI('estados/x-roja', 'Y el hueco del jueves se queda vacío', 820, cx=520, w=820, rot=-1.4), foco=0.6),
+ g(41, ET('LA SOLUCIÓN', x=110, rot=2.2),
+   TIT('Un asistente que mueve la cita por ti.', 515, 'Con tu agenda real, al momento.', rot=-1.8),
+   WA('Tu negocio', 'Hola Sara, el sábado a las 11:00 está libre. ¿Te la cambio?', 805, '22:14', w=760, rot=2.4),
+   FI('tiempo/calendario-con-check', 'Cambia la cita y la confirma', 1025, cx=500, w=760, rot=-2.2),
+   FI('sistema/campana', 'Y el jueves vuelve a quedar libre', 1190, cx=580, w=800, rot=1.6)),
+ gc(18, ET('SIN TOCAR EL MÓVIL', rot=-2),
+   CTAC('AGENDA', 1400, '¿Cuántos cambios de cita\nte llegan en diciembre?', rot=-1.2))]),
+]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
-json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S], open('secuencias.json', 'w'), ensure_ascii=False, indent=1)
+json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S] + [dict(fecha=a, tema=b, estilo='cristal', frames=c) for a, b, c in SC],
+          open('secuencias.json', 'w'), ensure_ascii=False, indent=1)
