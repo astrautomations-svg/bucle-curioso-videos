@@ -22,7 +22,7 @@ n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada
   - escritorio de noche: 03, 20, 25, 46 (46: habitación a oscuras con la pantalla encendida y la ventana; buena para «trabajando a las tantas», «mientras tú descansas»)
   - él con el portátil: 02, 18, 27, 38, 39 (la 02 NO sirve en vertical: él sale en el borde y el recorte deja solo la mochila)
   - terraza: 04, 05, 07, 29
-  - cenas y restaurante: 06, 08, 09, 10, 26, 30, 31
+  - cenas y restaurante: 06, 08, 09, 10, 26, 30, 31, 52 (52: sala de restaurante casi vacía, mesas montadas y barra; buena para historias de reservas y hostelería: «mesas vacías que podían estar reservadas»)
   - coches: 11, 21, 22, 23, 24
   - costa: 16, 34, 35, 36, 37
   - paisajes y carretera: 12, 13, 14, 40
@@ -30,7 +30,7 @@ n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada
   - escenario y charla: 01, 19
   - sueltas: 17 (conduciendo), 28 (paseo con perros), 32 (gimnasio)
   - oficina y reunión: 41 (sala de reuniones, manos en el portátil; buena para «reunión con cliente», «implantación», «equipo»)
-  - web de AstraTerapia: 43 (la web en el monitor de noche; buena para «así se ve el producto», «pruébalo». Sale pequeño el testimonio con el nombre de la clienta: no hacer zoom ni ponerlo en primer plano)
+  - web de AstraTerapia: 43, 53 (53: el portátil con la web de AstraTerapia en una sala luminosa, de día; la web en el monitor de noche; buena para «así se ve el producto», «pruébalo». Sale pequeño el testimonio con el nombre de la clienta: no hacer zoom ni ponerlo en primer plano)
   - panel interno Astra HQ: 47, 48, 49 (47 en modo claro y 48 en modo oscuro: la captación; 49: la sección de anuncios con los reels. Nunca dos de ellas el mismo día. el panel de operaciones de Astra en el monitor, de noche; bueno para «así llevamos nuestro propio negocio», «medimos todo». Salen cifras de nuestra captación y del gasto en anuncios: no hacer zoom ni citarlas)
   - visita a la tele: 50, 51 (el mismo día, en las oficinas de una televisión: 50 José en la recepción con el logo de la cadena en la pared, 51 detrás de las cámaras en un plató. No tapar ni difuminar nada: que se vea el logo y el plató, eso da caché solo. Pero no decirlo en el texto ni presumir de ello: el texto va de vender, p. ej. «Hoy no he cogido el móvil en toda la mañana. Mi WhatsApp ha seguido contestando y dando citas». Usarlas poco)
   - laboratorio de la universidad: 44, 45 (osciloscopio y protoboard; buenas para «quién está detrás», «ingeniería», «cómo lo construimos»)
