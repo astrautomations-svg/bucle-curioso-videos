@@ -8,6 +8,9 @@ n8n («Instagram Astra · historias diarias», id IcjSqALD0WCckLJq) reparte cada
 3. Añade a `cola-historias.json`: `{"fecha", "hora": "09:30", "estado": "aprobado", "tema", "frames": ["astra/historias/AAAA-MM-DD/01.jpg", ...]}`.
 4. Revisa las imágenes a ojo, haz commit y push a `main`.
 
+## Estilo nuevo (aprobado el 20-11-2026): «cristal»
+A partir de las historias posteriores al 21-11 se usa el estilo cristal de `estilo_cristal/maqueta.py`: contenedores translúcidos que desenfocan la foto de detrás (borde blanco fino, brillo arriba, sombra), desordenados y girados entre 1 y 3 grados, etiqueta de sección arriba («EL PROBLEMA», «LA SOLUCIÓN»…) y CTA con pastilla naranja «RESPONDE: «PALABRA»». Nada de emojis: los símbolos son los iconos 3D de `motor/res/iconos_glass/` (33, por carpetas). Fotos siempre desde el original a resolución completa, poco oscurecidas. Lo de las pastillas de colores y la caja azul de abajo era el estilo anterior.
+
 ## Reglas (de Astra)
 - Solo para dueños de negocio, con intención de venta: cada historia tiene que acercar a una venta, no lucirse ni «larpear» (nada de «mirad dónde estoy»). Las fotos de lugares o del día a día solo acompañan un mensaje de venta. Nada de enseñar herramientas de IA. Llamativo, sin ser cringe. Nunca inventar datos ni cifras.
 - De 3 a 6 historias por día. No siempre el mismo número.
