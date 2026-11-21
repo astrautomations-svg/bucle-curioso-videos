@@ -1,0 +1,178 @@
+{
+ "root": "/home/claude/bucle-curioso-videos/astra/historias",
+ "seed": "2026-11-23",
+ "frames": [
+  {
+   "img": "banco/09.jpg",
+   "foco": 0.4,
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "EN DICIEMBRE",
+     "y": 295,
+     "x": 120,
+     "rot": -1.3
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/calendario",
+     "texto": "Te reservan para el sábado",
+     "y": 470,
+     "cx": 540,
+     "w": 820,
+     "rot": -2.6
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/documento-con-check",
+     "texto": "Les guardas el hueco",
+     "y": 660,
+     "cx": 470,
+     "w": 700,
+     "rot": -2.5
+    },
+    {
+     "tipo": "fila",
+     "icono": "estados/x-roja",
+     "texto": "Y no aparecen",
+     "y": 1340,
+     "cx": 520,
+     "w": 560,
+     "rot": -1.7
+    }
+   ]
+  },
+  {
+   "img": "banco/14.jpg",
+   "foco": 0.6,
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "EL COSTE REAL",
+     "y": 295,
+     "x": 96,
+     "rot": -2.3
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/reloj-de-arena",
+     "texto": "Un hueco vacío en hora punta",
+     "y": 470,
+     "cx": 540,
+     "w": 860,
+     "rot": -2.2
+    },
+    {
+     "tipo": "fila",
+     "icono": "personas/equipo",
+     "texto": "Que otro cliente sí quería",
+     "y": 1340,
+     "cx": 540,
+     "w": 820,
+     "rot": -2.5
+    }
+   ]
+  },
+  {
+   "img": "banco/25.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LA SOLUCIÓN",
+     "y": 295,
+     "x": 120,
+     "rot": 2.0
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Tu negocio",
+     "texto": "Hola Pablo, te recordamos tu reserva mañana a las 21:00. ¿Nos confirmas?",
+     "y": 540,
+     "w": 800,
+     "cx": 520,
+     "hora": "22:06",
+     "rot": 2.2,
+     "icono": "canales/whatsapp"
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Cliente",
+     "texto": "Confirmado, ahí estaremos",
+     "y": 795,
+     "w": 800,
+     "cx": 560,
+     "hora": "22:50",
+     "rot": -2.5,
+     "icono": "canales/whatsapp"
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/campana",
+     "texto": "Le recuerda la reserva",
+     "y": 1120,
+     "cx": 580,
+     "w": 740,
+     "rot": 2.5
+    },
+    {
+     "tipo": "fila",
+     "icono": "canales/whatsapp",
+     "texto": "Y pide que confirme",
+     "y": 1340,
+     "cx": 580,
+     "w": 680,
+     "rot": 2.5
+    }
+   ]
+  },
+  {
+   "img": "banco/05.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "SI NO PUEDE VENIR",
+     "y": 295,
+     "x": 110,
+     "rot": 2.6
+    },
+    {
+     "tipo": "fila",
+     "icono": "canales/mensaje-entrante",
+     "texto": "Te avisa con tiempo",
+     "y": 470,
+     "cx": 470,
+     "w": 680,
+     "rot": -1.5
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/calendario-con-check",
+     "texto": "Y el hueco vuelve a estar libre",
+     "y": 1340,
+     "cx": 540,
+     "w": 860,
+     "rot": 1.7
+    }
+   ]
+  },
+  {
+   "img": "banco/27.jpg",
+   "cara": [
+    200,
+    850,
+    560,
+    1250
+   ],
+   "foco": 0.35,
+   "bloques": [
+    {
+     "tipo": "cta",
+     "texto": "RESERVAS",
+     "antes": "¿Cuántas reservas de diciembre\nse te quedan vacías?",
+     "y": 1458,
+     "rot": 1.9
+    }
+   ]
+  }
+ ]
+}

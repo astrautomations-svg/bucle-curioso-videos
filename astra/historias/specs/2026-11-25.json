@@ -1,0 +1,215 @@
+{
+ "root": "/home/claude/bucle-curioso-videos/astra/historias",
+ "seed": "2026-11-25",
+ "frames": [
+  {
+   "img": "banco/08.jpg",
+   "foco": 0.4,
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "EN NAVIDAD TE ENCARGAN",
+     "y": 295,
+     "x": 96,
+     "rot": -2.4
+    },
+    {
+     "tipo": "fila",
+     "icono": "canales/mensaje-entrante",
+     "texto": "¿Me guardas uno para el 24?",
+     "y": 470,
+     "cx": 540,
+     "w": 840,
+     "rot": -1.3
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/calendario",
+     "texto": "Y otro para el 31",
+     "y": 660,
+     "cx": 580,
+     "w": 640,
+     "rot": -1.6
+    },
+    {
+     "tipo": "fila",
+     "icono": "negocio/tienda",
+     "texto": "Lo recojo por la mañana",
+     "y": 850,
+     "cx": 580,
+     "w": 760,
+     "rot": -1.4
+    }
+   ]
+  },
+  {
+   "img": "banco/46.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "EL PROBLEMA",
+     "y": 295,
+     "x": 110,
+     "rot": 2.4
+    },
+    {
+     "tipo": "fila",
+     "icono": "canales/whatsapp",
+     "texto": "Encargos en veinte chats",
+     "y": 470,
+     "cx": 470,
+     "w": 780,
+     "rot": -2.3
+    },
+    {
+     "tipo": "fila",
+     "icono": "negocio/ticket-factura",
+     "texto": "Apuntados en un papel",
+     "y": 1340,
+     "cx": 470,
+     "w": 720,
+     "rot": -1.2
+    }
+   ]
+  },
+  {
+   "img": "banco/13.jpg",
+   "foco": 0.6,
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LO QUE PASA",
+     "y": 295,
+     "x": 110,
+     "rot": 2.4
+    },
+    {
+     "tipo": "fila",
+     "icono": "personas/cliente",
+     "texto": "Viene a recogerlo",
+     "y": 470,
+     "cx": 580,
+     "w": 640,
+     "rot": -2.4
+    },
+    {
+     "tipo": "fila",
+     "icono": "estados/x-roja",
+     "texto": "Y no está preparado",
+     "y": 1340,
+     "cx": 580,
+     "w": 680,
+     "rot": 1.5
+    }
+   ]
+  },
+  {
+   "img": "banco/41.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LA SOLUCIÓN",
+     "y": 295,
+     "x": 110,
+     "rot": -1.3
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Cliente",
+     "texto": "Hola, ¿me guardáis uno para el 24?",
+     "y": 540,
+     "w": 800,
+     "cx": 560,
+     "hora": "22:16",
+     "rot": 1.5,
+     "icono": "canales/whatsapp"
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Tu negocio",
+     "texto": "¡Hola! Apuntado. ¿A qué hora lo recoges?",
+     "y": 795,
+     "w": 800,
+     "cx": 520,
+     "hora": "22:49",
+     "rot": -1.6,
+     "icono": "canales/whatsapp"
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/documento-con-check",
+     "texto": "Apunta cada encargo",
+     "y": 1120,
+     "cx": 580,
+     "w": 680,
+     "rot": -2.2
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/calendario-con-check",
+     "texto": "Con día y hora",
+     "y": 1340,
+     "cx": 520,
+     "w": 580,
+     "rot": -2.7
+    }
+   ]
+  },
+  {
+   "img": "banco/29.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "Y EL DÍA ANTES",
+     "y": 295,
+     "x": 120,
+     "rot": -1.9
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/campana",
+     "texto": "Recuerda la recogida",
+     "y": 470,
+     "cx": 580,
+     "w": 700,
+     "rot": -2.5
+    },
+    {
+     "tipo": "fila",
+     "icono": "estados/check-verde",
+     "texto": "Tú, sin repasar chats",
+     "y": 660,
+     "cx": 470,
+     "w": 720,
+     "rot": -2.0
+    }
+   ]
+  },
+  {
+   "img": "banco/18.jpg",
+   "cara": [
+    330,
+    860,
+    580,
+    1140
+   ],
+   "foco": 0.45,
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "NI UN ENCARGO PERDIDO",
+     "y": 295,
+     "x": 120,
+     "rot": -2.6
+    },
+    {
+     "tipo": "cta",
+     "texto": "ENCARGOS",
+     "antes": "¿Cuántos encargos de Navidad\nllevas apuntados a mano?",
+     "y": 1440,
+     "rot": -2.3
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "root": "/home/claude/bucle-curioso-videos/astra/historias",
+ "seed": "2026-11-24",
+ "frames": [
+  {
+   "img": "banco/33.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LLEGAN LAS FIESTAS",
+     "y": 295,
+     "x": 110,
+     "rot": -3.0
+    },
+    {
+     "tipo": "fila",
+     "icono": "canales/mensaje-entrante",
+     "texto": "¿Abrís el 24?",
+     "y": 470,
+     "cx": 580,
+     "w": 560,
+     "rot": 1.4
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/calendario",
+     "texto": "¿Y el 31 por la tarde?",
+     "y": 660,
+     "cx": 580,
+     "w": 740,
+     "rot": 2.1
+    },
+    {
+     "tipo": "fila",
+     "icono": "estados/alerta",
+     "texto": "¿Horario de Navidad?",
+     "y": 850,
+     "cx": 580,
+     "w": 700,
+     "rot": 2.9
+    }
+   ]
+  },
+  {
+   "img": "banco/20.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "EL PROBLEMA",
+     "y": 295,
+     "x": 120,
+     "rot": 2.5
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/engranaje",
+     "texto": "Repites lo mismo cada día",
+     "y": 470,
+     "cx": 540,
+     "w": 800,
+     "rot": -1.7
+    },
+    {
+     "tipo": "fila",
+     "icono": "estados/x-roja",
+     "texto": "Mientras atiendes en el local",
+     "y": 1340,
+     "cx": 540,
+     "w": 860,
+     "rot": 1.6
+    }
+   ]
+  },
+  {
+   "img": "banco/38.jpg",
+   "foco": 0.4,
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LA SOLUCIÓN",
+     "y": 295,
+     "x": 96,
+     "rot": 1.6
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Cliente",
+     "texto": "Hola, ¿abrís el 24 por la tarde?",
+     "y": 540,
+     "w": 800,
+     "cx": 560,
+     "hora": "22:08",
+     "rot": -1.7,
+     "icono": "canales/whatsapp"
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Tu negocio",
+     "texto": "¡Hola! El 24 abrimos solo por la mañana. ¿Te reservo hora?",
+     "y": 795,
+     "w": 800,
+     "cx": 520,
+     "hora": "22:09",
+     "rot": 1.7,
+     "icono": "canales/whatsapp"
+    },
+    {
+     "tipo": "fila",
+     "icono": "canales/whatsapp",
+     "texto": "Da tu horario al momento",
+     "y": 1120,
+     "cx": 580,
+     "w": 780,
+     "rot": 2.2
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/calendario-con-check",
+     "texto": "Y deja la cita hecha",
+     "y": 1340,
+     "cx": 520,
+     "w": 700,
+     "rot": 2.1
+    }
+   ]
+  },
+  {
+   "img": "banco/17.jpg",
+   "cara": [
+    520,
+    500,
+    880,
+    950
+   ],
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "TÚ, A LO TUYO",
+     "y": 295,
+     "x": 120,
+     "rot": 1.3
+    },
+    {
+     "tipo": "cta",
+     "texto": "FIESTAS",
+     "antes": "¿Cuántas veces te preguntan\nel horario de Navidad?",
+     "y": 1440,
+     "rot": 2.4
+    }
+   ]
+  }
+ ]
+}
