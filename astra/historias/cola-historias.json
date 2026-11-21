@@ -384,5 +384,18 @@
       "astra/historias/2026-11-27/03.jpg",
       "astra/historias/2026-11-27/04.jpg"
     ]
+  },
+  {
+    "fecha": "2026-11-28",
+    "hora": "13",
+    "estado": "aprobado",
+    "tema": "Navidad: los que preguntan por un bono regalo",
+    "frames": [
+      "astra/historias/2026-11-28/01.jpg",
+      "astra/historias/2026-11-28/02.jpg",
+      "astra/historias/2026-11-28/03.jpg",
+      "astra/historias/2026-11-28/04.jpg",
+      "astra/historias/2026-11-28/05.jpg"
+    ]
   }
 ]

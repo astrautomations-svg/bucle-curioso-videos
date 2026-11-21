@@ -1,0 +1,177 @@
+{
+ "root": "/home/claude/bucle-curioso-videos/astra/historias",
+ "seed": "2026-11-28",
+ "frames": [
+  {
+   "img": "banco/15.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "EL PROBLEMA",
+     "y": 283,
+     "x": 96,
+     "rot": -2.2
+    },
+    {
+     "tipo": "titular",
+     "texto": "Diciembre: te piden bonos regalo.",
+     "y": 545,
+     "sub": "Y casi siempre, con el local cerrado.",
+     "rot": 1.6
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Marta",
+     "texto": "Hola, ¿hacéis tarjetas regalo?\nEs para mi madre",
+     "y": 875,
+     "hora": "22:47",
+     "w": 760,
+     "rot": -2.6
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/luna",
+     "texto": "Y tú lo ves a la mañana siguiente",
+     "y": 1100,
+     "cx": 530,
+     "w": 800,
+     "rot": 2.1
+    }
+   ]
+  },
+  {
+   "img": "banco/46.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LO QUE PASA",
+     "y": 283,
+     "x": 110,
+     "rot": 2.3
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/reloj",
+     "texto": "Contestas cuando puedes",
+     "y": 480,
+     "cx": 490,
+     "w": 700,
+     "rot": -2
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/reloj-de-arena",
+     "texto": "Ella no espera",
+     "y": 675,
+     "cx": 560,
+     "w": 600,
+     "rot": 2.5
+    },
+    {
+     "tipo": "fila",
+     "icono": "personas/cliente-perdido",
+     "texto": "Y el regalo lo compra en otro sitio",
+     "y": 870,
+     "cx": 520,
+     "w": 820,
+     "rot": -1.5
+    }
+   ],
+   "osc": 1.0
+  },
+  {
+   "img": "banco/42.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LA SOLUCIÓN",
+     "y": 283,
+     "x": 96,
+     "rot": -2.4
+    },
+    {
+     "tipo": "titular",
+     "texto": "Un asistente que contesta al momento.",
+     "y": 515,
+     "sub": "También a las once de la noche.",
+     "rot": 1.9
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Tu negocio",
+     "texto": "¡Hola Marta! Sí, tenemos. ¿De qué importe lo quieres y para qué día?",
+     "y": 850,
+     "hora": "22:47",
+     "w": 780,
+     "rot": -2.2
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/documento-con-check",
+     "texto": "Deja el pedido apuntado",
+     "y": 1080,
+     "cx": 500,
+     "w": 720,
+     "rot": 2.2
+    }
+   ]
+  },
+  {
+   "img": "banco/28.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "MIENTRAS TANTO",
+     "y": 283,
+     "x": 120,
+     "rot": 1.8
+    },
+    {
+     "tipo": "fila",
+     "icono": "canales/whatsapp",
+     "texto": "Tu WhatsApp sigue vendiendo",
+     "y": 480,
+     "cx": 520,
+     "w": 780,
+     "rot": -2.1
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/campana",
+     "texto": "Y te avisa de cada pedido",
+     "y": 675,
+     "cx": 570,
+     "w": 720,
+     "rot": 2.4
+    }
+   ],
+   "foco": 0.5
+  },
+  {
+   "img": "banco/39.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "ANTES DEL 24",
+     "y": 283,
+     "x": 96,
+     "rot": -2
+    },
+    {
+     "tipo": "cta",
+     "texto": "REGALO",
+     "y": 1400,
+     "antes": "¿Cuántos te preguntan por un regalo\ny no vuelven a escribir?",
+     "rot": 1.3
+    }
+   ],
+   "cara": [
+    220,
+    650,
+    460,
+    950
+   ],
+   "foco": 0.3
+  }
+ ]
+}
