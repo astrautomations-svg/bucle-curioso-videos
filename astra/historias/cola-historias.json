@@ -397,5 +397,17 @@
       "astra/historias/2026-11-28/04.jpg",
       "astra/historias/2026-11-28/05.jpg"
     ]
-  }
+  },
+{
+ "fecha": "2026-11-29",
+ "hora": "13",
+ "estado": "aprobado",
+ "tema": "comidas de empresa: grupos que preguntan por WhatsApp",
+ "frames": [
+  "astra/historias/2026-11-29/01.jpg",
+  "astra/historias/2026-11-29/02.jpg",
+  "astra/historias/2026-11-29/03.jpg",
+  "astra/historias/2026-11-29/04.jpg"
+ ]
+}
 ]

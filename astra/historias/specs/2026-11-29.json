@@ -1,0 +1,155 @@
+{
+ "root": "/home/claude/bucle-curioso-videos/astra/historias",
+ "seed": "2026-11-29",
+ "frames": [
+  {
+   "img": "banco/52.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "EL PROBLEMA",
+     "y": 283,
+     "x": 96,
+     "rot": -2.3
+    },
+    {
+     "tipo": "titular",
+     "texto": "Empiezan las comidas\nde empresa.",
+     "y": 540,
+     "sub": "Y cada grupo pregunta por WhatsApp.",
+     "rot": 1.7
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Javier",
+     "texto": "Hola, somos 14. ¿Tenéis menú\nde grupo para el día 12?",
+     "y": 865,
+     "hora": "23:05",
+     "w": 760,
+     "rot": -2.5
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/luna",
+     "texto": "Y tú lo ves al día siguiente",
+     "y": 1090,
+     "cx": 520,
+     "w": 760,
+     "rot": 2.1
+    }
+   ]
+  },
+  {
+   "img": "banco/03.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LO QUE PASA",
+     "y": 283,
+     "x": 110,
+     "rot": 2.2
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/reloj",
+     "texto": "Mandas el menú a mano",
+     "y": 480,
+     "cx": 490,
+     "w": 700,
+     "rot": -2.1
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/reloj-de-arena",
+     "texto": "Esperas a que confirmen",
+     "y": 675,
+     "cx": 570,
+     "w": 720,
+     "rot": 2.4
+    },
+    {
+     "tipo": "fila",
+     "icono": "personas/cliente-perdido",
+     "texto": "Y reservan donde contestaron antes",
+     "y": 870,
+     "cx": 520,
+     "w": 840,
+     "rot": -1.5
+    }
+   ],
+   "osc": 1.0
+  },
+  {
+   "img": "banco/41.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LA SOLUCIÓN",
+     "y": 283,
+     "x": 96,
+     "rot": -2.4
+    },
+    {
+     "tipo": "titular",
+     "texto": "Un asistente que atiende a cada grupo.",
+     "y": 515,
+     "sub": "Con tu menú y tu agenda real.",
+     "rot": 1.8
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Tu negocio",
+     "texto": "¡Hola Javier! El 12 hay sitio para 14.\nTe paso el menú. ¿Os lo reservo?",
+     "y": 830,
+     "hora": "23:05",
+     "w": 780,
+     "rot": 2.3
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/calendario-con-check",
+     "texto": "Deja la reserva apuntada",
+     "y": 1095,
+     "cx": 500,
+     "w": 740,
+     "rot": -2.2
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/campana",
+     "texto": "Y te avisa de cada grupo",
+     "y": 1290,
+     "cx": 570,
+     "w": 720,
+     "rot": 1.6
+    }
+   ]
+  },
+  {
+   "img": "banco/27.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "ANTES DE QUE SE LLENE DICIEMBRE",
+     "y": 300,
+     "x": 96,
+     "rot": -2
+    },
+    {
+     "tipo": "cta",
+     "texto": "GRUPOS",
+     "y": 1460,
+     "antes": "¿Cuántos grupos te escriben\ny no llegan a reservar?",
+     "rot": 1.2
+    }
+   ],
+   "cara": [
+    200,
+    850,
+    560,
+    1250
+   ],
+   "foco": 0.35
+  }
+ ]
+}

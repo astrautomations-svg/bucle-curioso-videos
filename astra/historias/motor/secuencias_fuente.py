@@ -292,6 +292,22 @@ SC = [
    FI('sistema/campana', 'Y te avisa de cada pedido', 675, cx=570, w=720, rot=2.4), foco=0.5),
  gc(39, ET('ANTES DEL 24', rot=-2),
    CTAC('REGALO', 1400, '¿Cuántos te preguntan por un regalo\ny no vuelven a escribir?', rot=1.3), foco=0.3)]),
+('2026-11-29', 'comidas de empresa: grupos que preguntan por WhatsApp', [
+ g(52, ET('EL PROBLEMA', rot=-2.3),
+   TIT('Empiezan las comidas\nde empresa.', 540, 'Y cada grupo pregunta por WhatsApp.', rot=1.7),
+   WA('Javier', 'Hola, somos 14. ¿Tenéis menú\nde grupo para el día 12?', 865, '23:05', w=760, rot=-2.5),
+   FI('tiempo/luna', 'Y tú lo ves al día siguiente', 1090, cx=520, w=760, rot=2.1)),
+ g(3, ET('LO QUE PASA', x=110, rot=2.2),
+   FI('tiempo/reloj', 'Mandas el menú a mano', 480, cx=490, w=700, rot=-2.1),
+   FI('tiempo/reloj-de-arena', 'Esperas a que confirmen', 675, cx=570, w=720, rot=2.4),
+   FI('personas/cliente-perdido', 'Y reservan donde contestaron antes', 870, cx=520, w=840, rot=-1.5), osc=1.0),
+ g(41, ET('LA SOLUCIÓN', rot=-2.4),
+   TIT('Un asistente que atiende a cada grupo.', 515, 'Con tu menú y tu agenda real.', rot=1.8),
+   WA('Tu negocio', '¡Hola Javier! El 12 hay sitio para 14.\nTe paso el menú. ¿Os lo reservo?', 830, '23:05', w=780, rot=2.3),
+   FI('tiempo/calendario-con-check', 'Deja la reserva apuntada', 1095, cx=500, w=740, rot=-2.2),
+   FI('sistema/campana', 'Y te avisa de cada grupo', 1290, cx=570, w=720, rot=1.6)),
+ gc(27, ET('ANTES DE QUE SE LLENE DICIEMBRE', y=300, rot=-2),
+   CTAC('GRUPOS', 1460, '¿Cuántos grupos te escriben\ny no llegan a reservar?', rot=1.2), foco=0.35)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S] + [dict(fecha=a, tema=b, estilo='cristal', frames=c) for a, b, c in SC],
