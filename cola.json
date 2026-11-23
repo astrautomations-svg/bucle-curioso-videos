@@ -855,5 +855,13 @@
     "historia": "historias/tamagotchi-hambre.mp4",
     "caption": "¿Cómo sabe un Tamagotchi cuándo tiene hambre? No lo sabe: tiene un reloj y un número que baja.\n\nEl Tamagotchi cumple hoy 30 años: salió a la venta en Japón el 23 de noviembre de 1996. Por dentro, el primero llevaba un chip de 4 bits con un reloj de 32.768 latidos por segundo, la misma cifra que un reloj de pulsera. Partiéndolos por la mitad quince veces sale justo un segundo, y con esos segundos bajan los contadores de hambre y felicidad que guarda en su memoria. Cuando el del hambre llega a cero, enciende el aviso y pita; al darle de comer, el número vuelve a subir. Toda su vida cabía en menos de medio kilobyte.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: EFE (23-11-2026, 30 años del primer Tamagotchi); Wikipedia, «Tamagotchi» (lanzamiento el 23-11-1996, medidores de hambre y felicidad); TamaLIB, emulador del Tamagotchi de primera generación (chip Epson E0C6S46, reloj de 32.768 Hz, 320 bytes de memoria, pantalla de 32 × 16 puntos). El Tamagotchi del vídeo es una recreación.",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-23",
+    "hora": "19:00",
+    "video": "videos/fosil-hueso-piedra.mp4",
+    "historia": "historias/fosil-hueso-piedra.mp4",
+    "caption": "¿Cómo se convierte un hueso de dinosaurio en piedra? En Lleida acaban de sacar el cuello de un titanosaurio de hace 70 millones de años, dentro de un bloque de roca de 18 toneladas.\n\nCasi nada llega a fósil: el barro tiene que tapar el hueso muy deprisa. Luego, durante millones de años, el agua se cuela por sus agujeritos y deja minerales, cristal a cristal, hasta que es piedra con la forma exacta del hueso, por dentro y por fuera.",
+    "tipo": "actualidad"
   }
 ]
