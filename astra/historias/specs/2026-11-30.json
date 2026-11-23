@@ -1,0 +1,168 @@
+{
+ "root": "/home/claude/bucle-curioso-videos/astra/historias",
+ "seed": "2026-11-30",
+ "frames": [
+  {
+   "img": "banco/31.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "EL PROBLEMA",
+     "y": 283,
+     "x": 96,
+     "rot": -2.2
+    },
+    {
+     "tipo": "titular",
+     "texto": "Diciembre: pasan más\nclientes que nunca.",
+     "y": 540,
+     "sub": "Salen contentos… y no dejan reseña.",
+     "rot": 1.7
+    },
+    {
+     "tipo": "fila",
+     "icono": "estados/x-roja",
+     "texto": "Y en Google nadie se entera",
+     "y": 830,
+     "cx": 520,
+     "w": 760,
+     "rot": -2.2
+    }
+   ],
+   "foco": 0.4
+  },
+  {
+   "img": "banco/33.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LO QUE PASA",
+     "y": 283,
+     "x": 110,
+     "rot": 2.2
+    },
+    {
+     "tipo": "fila",
+     "icono": "personas/cliente",
+     "texto": "Te da apuro pedirla",
+     "y": 480,
+     "cx": 490,
+     "w": 680,
+     "rot": -2.1
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/reloj-de-arena",
+     "texto": "Cuando te acuerdas, ya se fue",
+     "y": 675,
+     "cx": 560,
+     "w": 800,
+     "rot": 2.4
+    },
+    {
+     "tipo": "fila",
+     "icono": "negocio/tienda",
+     "texto": "Y tu ficha se queda igual",
+     "y": 870,
+     "cx": 510,
+     "w": 740,
+     "rot": -1.5
+    }
+   ],
+   "osc": 0.95
+  },
+  {
+   "img": "banco/38.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LA SOLUCIÓN",
+     "y": 283,
+     "x": 96,
+     "rot": -2.4
+    },
+    {
+     "tipo": "titular",
+     "texto": "Un asistente que\nla pide por ti.",
+     "y": 515,
+     "sub": "Por WhatsApp, después de cada visita.",
+     "rot": 1.8
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Tu negocio",
+     "texto": "¡Hola Lucía! Gracias por venir hoy.\nSi te gustó, ¿nos dejas una reseña?\nAquí tienes el enlace.",
+     "y": 845,
+     "hora": "19:30",
+     "w": 800,
+     "rot": -2.3
+    },
+    {
+     "tipo": "fila",
+     "icono": "estados/check-verde",
+     "texto": "En el momento justo",
+     "y": 1100,
+     "cx": 520,
+     "w": 680,
+     "rot": 2.1
+    }
+   ]
+  },
+  {
+   "img": "banco/12.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "MIENTRAS TANTO",
+     "y": 283,
+     "x": 120,
+     "rot": 1.8
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/asistente-robot",
+     "texto": "Lo pide siempre, a todos",
+     "y": 480,
+     "cx": 510,
+     "w": 740,
+     "rot": -2.1
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/campana",
+     "texto": "Y tú solo lees lo que te dejan",
+     "y": 675,
+     "cx": 560,
+     "w": 800,
+     "rot": 2.3
+    }
+   ],
+   "foco": 0.4
+  },
+  {
+   "img": "banco/18.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "ANTES DE QUE ACABE EL AÑO",
+     "y": 300,
+     "x": 96,
+     "rot": -2
+    },
+    {
+     "tipo": "cta",
+     "texto": "RESEÑAS",
+     "y": 1400,
+     "antes": "¿Cuántos clientes contentos\nse van sin dejar reseña?",
+     "rot": 1.2
+    }
+   ],
+   "cara": [
+    330,
+    860,
+    580,
+    1140
+   ]
+  }
+ ]
+}

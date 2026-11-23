@@ -308,6 +308,23 @@ SC = [
    FI('sistema/campana', 'Y te avisa de cada grupo', 1290, cx=570, w=720, rot=1.6)),
  gc(27, ET('ANTES DE QUE SE LLENE DICIEMBRE', y=300, rot=-2),
    CTAC('GRUPOS', 1460, '¿Cuántos grupos te escriben\ny no llegan a reservar?', rot=1.2), foco=0.35)]),
+('2026-11-30', 'diciembre: clientes contentos que no dejan reseña', [
+ g(31, ET('EL PROBLEMA', rot=-2.2),
+   TIT('Diciembre: pasan más\nclientes que nunca.', 540, 'Salen contentos… y no dejan reseña.', rot=1.7),
+   FI('estados/x-roja', 'Y en Google nadie se entera', 830, cx=520, w=760, rot=-2.2), foco=0.4),
+ g(33, ET('LO QUE PASA', x=110, rot=2.2),
+   FI('personas/cliente', 'Te da apuro pedirla', 480, cx=490, w=680, rot=-2.1),
+   FI('tiempo/reloj-de-arena', 'Cuando te acuerdas, ya se fue', 675, cx=560, w=800, rot=2.4),
+   FI('negocio/tienda', 'Y tu ficha se queda igual', 870, cx=510, w=740, rot=-1.5), osc=0.95),
+ g(38, ET('LA SOLUCIÓN', rot=-2.4),
+   TIT('Un asistente que\nla pide por ti.', 515, 'Por WhatsApp, después de cada visita.', rot=1.8),
+   WA('Tu negocio', '¡Hola Lucía! Gracias por venir hoy.\nSi te gustó, ¿nos dejas una reseña?\nAquí tienes el enlace.', 845, '19:30', w=800, rot=-2.3),
+   FI('estados/check-verde', 'En el momento justo', 1100, cx=520, w=680, rot=2.1)),
+ g(12, ET('MIENTRAS TANTO', x=120, rot=1.8),
+   FI('sistema/asistente-robot', 'Lo pide siempre, a todos', 480, cx=510, w=740, rot=-2.1),
+   FI('sistema/campana', 'Y tú solo lees lo que te dejan', 675, cx=560, w=800, rot=2.3), foco=0.4),
+ gc(18, ET('ANTES DE QUE ACABE EL AÑO', y=300, rot=-2),
+   CTAC('RESEÑAS', 1400, '¿Cuántos clientes contentos\nse van sin dejar reseña?', rot=1.2))]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S] + [dict(fecha=a, tema=b, estilo='cristal', frames=c) for a, b, c in SC],
