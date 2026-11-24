@@ -863,5 +863,13 @@
     "historia": "historias/fosil-hueso-piedra.mp4",
     "caption": "¿Cómo se convierte un hueso de dinosaurio en piedra? En Lleida acaban de sacar el cuello de un titanosaurio de hace 70 millones de años, dentro de un bloque de roca de 18 toneladas.\n\nCasi nada llega a fósil: el barro tiene que tapar el hueso muy deprisa. Luego, durante millones de años, el agua se cuela por sus agujeritos y deja minerales, cristal a cristal, hasta que es piedra con la forma exacta del hueso, por dentro y por fuera.",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-24",
+    "hora": "09:00",
+    "video": "videos/mercurio-ocho-anos.mp4",
+    "historia": "historias/mercurio-ocho-anos.mp4",
+    "caption": "¿Por qué se tarda ocho años en llegar a Mercurio, si de media está más cerca de nosotros que Marte? Porque lo difícil no es llegar: es frenar.\n\nLa nave europea y japonesa BepiColombo entró en órbita de Mercurio el 21 de noviembre, tras ocho años de viaje. Ir hacia Mercurio es caer hacia el Sol: cuanto más te acercas, más tira de ti y más deprisa vas, así que llegarías tan rápido que pasarías de largo. En el espacio no hay aire que frene, y hacerlo solo con el motor gastaría muchísimo combustible. Por eso BepiColombo se fue frenando con nueve pasadas junto a planetas (una por la Tierra, dos por Venus y seis por Mercurio), cuya gravedad le iba quitando velocidad, y con sus motores de iones, que empujan con una fuerza parecida a lo que pesan cuatro monedas de un euro. Llegó tan despacio que Mercurio pudo atraparla, y encendió sus motores para quedarse. En diciembre se separarán sus dos sondas.\n\n🖤 BLACK FRIDAY ANTICIPADO: el pack para crear vídeos como este con inteligencia artificial baja de 29 € a 19 € solo hasta el 27 de noviembre. Usa el código BLACKFRIDAY (enlace en la bio).\n\nFuentes: ESA, «BepiColombo safely in Mercury orbit despite unexpected challenge» (noviembre de 2026: captura el 21-11, viaje de ocho años «pensado tanto para frenar como para llegar», encendido a 635 km de la superficie); ESA, «Latest updates: BepiColombo's arrival at Mercury»; Wikipedia, «BepiColombo» (lanzamiento el 20-10-2018, nueve asistencias gravitatorias, cuatro motores de iones T6 de hasta 290 mN en total); Stockman, Monroe y Cordner, Physics Today (2019), Mercurio es de media el planeta más cercano a la Tierra. La nave y las órbitas del vídeo son una recreación simplificada.",
+    "tipo": "actualidad"
   }
 ]
