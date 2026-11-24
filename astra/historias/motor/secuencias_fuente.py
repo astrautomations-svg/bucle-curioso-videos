@@ -325,6 +325,21 @@ SC = [
    FI('sistema/campana', 'Y tú solo lees lo que te dejan', 675, cx=560, w=800, rot=2.3), foco=0.4),
  gc(18, ET('ANTES DE QUE ACABE EL AÑO', y=300, rot=-2),
    CTAC('RESEÑAS', 1400, '¿Cuántos clientes contentos\nse van sin dejar reseña?', rot=1.2))]),
+('2026-12-01', 'diciembre: llamadas que no coges con el local lleno', [
+ g(26, ET('EL PROBLEMA', rot=-2.3),
+   TIT('Diciembre: el local lleno.', 530, 'Y el teléfono sonando sin parar.', rot=1.7),
+   FI('canales/llamada-perdida', 'Llamada perdida. Y otra más.', 800, cx=520, w=780, rot=-2.2), foco=0.45),
+ g(40, ET('LO QUE PASA', x=110, rot=2.2),
+   FI('personas/cliente', 'Ese cliente no deja mensaje', 480, cx=510, w=780, rot=-2.1),
+   FI('tiempo/reloj-de-arena', 'No espera a que le llames', 675, cx=560, w=760, rot=2.4),
+   FI('personas/cliente-perdido', 'Llama al siguiente de Google', 870, cx=520, w=800, rot=-1.5), foco=0.5),
+ g(25, ET('LA SOLUCIÓN', rot=-2.4),
+   TIT('Un agente de voz que\ncoge la llamada.', 530, 'Aunque tú estés atendiendo.', rot=1.8),
+   FI('personas/atencion-con-auriculares', 'Resuelve la duda', 820, cx=490, w=640, rot=-2.2),
+   FI('tiempo/calendario-con-check', 'Y deja la cita en tu agenda', 1010, cx=560, w=780, rot=2.1),
+   FI('sistema/campana', 'Tú, sin soltar lo que haces', 1200, cx=510, w=760, rot=-1.6)),
+ gc(17, ET('NINGUNA LLAMADA SIN COGER', y=300, rot=-2),
+   CTAC('LLAMADAS', 1400, '¿Cuántas llamadas se te escapan\nen un día de diciembre?', rot=1.2))]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S] + [dict(fecha=a, tema=b, estilo='cristal', frames=c) for a, b, c in SC],

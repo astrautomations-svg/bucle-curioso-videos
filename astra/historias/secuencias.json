@@ -4678,5 +4678,152 @@
     ]
    }
   ]
+ },
+ {
+  "fecha": "2026-12-01",
+  "tema": "diciembre: llamadas que no coges con el local lleno",
+  "estilo": "cristal",
+  "frames": [
+   {
+    "img": "banco/26.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "EL PROBLEMA",
+      "y": 283,
+      "x": 96,
+      "rot": -2.3
+     },
+     {
+      "tipo": "titular",
+      "texto": "Diciembre: el local lleno.",
+      "y": 530,
+      "sub": "Y el teléfono sonando sin parar.",
+      "rot": 1.7
+     },
+     {
+      "tipo": "fila",
+      "icono": "canales/llamada-perdida",
+      "texto": "Llamada perdida. Y otra más.",
+      "y": 800,
+      "cx": 520,
+      "w": 780,
+      "rot": -2.2
+     }
+    ],
+    "foco": 0.45
+   },
+   {
+    "img": "banco/40.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "LO QUE PASA",
+      "y": 283,
+      "x": 110,
+      "rot": 2.2
+     },
+     {
+      "tipo": "fila",
+      "icono": "personas/cliente",
+      "texto": "Ese cliente no deja mensaje",
+      "y": 480,
+      "cx": 510,
+      "w": 780,
+      "rot": -2.1
+     },
+     {
+      "tipo": "fila",
+      "icono": "tiempo/reloj-de-arena",
+      "texto": "No espera a que le llames",
+      "y": 675,
+      "cx": 560,
+      "w": 760,
+      "rot": 2.4
+     },
+     {
+      "tipo": "fila",
+      "icono": "personas/cliente-perdido",
+      "texto": "Llama al siguiente de Google",
+      "y": 870,
+      "cx": 520,
+      "w": 800,
+      "rot": -1.5
+     }
+    ],
+    "foco": 0.5
+   },
+   {
+    "img": "banco/25.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "LA SOLUCIÓN",
+      "y": 283,
+      "x": 96,
+      "rot": -2.4
+     },
+     {
+      "tipo": "titular",
+      "texto": "Un agente de voz que\ncoge la llamada.",
+      "y": 530,
+      "sub": "Aunque tú estés atendiendo.",
+      "rot": 1.8
+     },
+     {
+      "tipo": "fila",
+      "icono": "personas/atencion-con-auriculares",
+      "texto": "Resuelve la duda",
+      "y": 820,
+      "cx": 490,
+      "w": 640,
+      "rot": -2.2
+     },
+     {
+      "tipo": "fila",
+      "icono": "tiempo/calendario-con-check",
+      "texto": "Y deja la cita en tu agenda",
+      "y": 1010,
+      "cx": 560,
+      "w": 780,
+      "rot": 2.1
+     },
+     {
+      "tipo": "fila",
+      "icono": "sistema/campana",
+      "texto": "Tú, sin soltar lo que haces",
+      "y": 1200,
+      "cx": 510,
+      "w": 760,
+      "rot": -1.6
+     }
+    ]
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "NINGUNA LLAMADA SIN COGER",
+      "y": 300,
+      "x": 96,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "LLAMADAS",
+      "y": 1400,
+      "antes": "¿Cuántas llamadas se te escapan\nen un día de diciembre?",
+      "rot": 1.2
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   }
+  ]
  }
 ]
