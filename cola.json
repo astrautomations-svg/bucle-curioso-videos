@@ -895,5 +895,13 @@
     "historia": "historias/ciudad-consola.mp4",
     "caption": "¿Cómo cabe una ciudad entera como la de GTA 6 en una consola? El truco es que nunca está entera.\n\nGTA 6 salió el 19 de noviembre y los analistas calculan que ya ha vendido decenas de millones de copias. Para mover su ciudad, la consola solo dibuja lo que tienes delante, simplifica lo lejano (de lejos, un edificio es casi una caja) y va cargando el mapa por trozos mientras conduces y soltando los que dejas atrás. Con el disco rápido de la PlayStation 5 ya no hace falta guardar los próximos treinta segundos de juego en la memoria, como en la PS4: basta con el siguiente segundo.\n\nFuentes: Mark Cerny, «The Road to PS5» (Sony, 18-03-2020: disco de 5,5 GB/s; la PS4 necesitaba unos 30 s de juego cargados, la PS5 alrededor de 1 s); estimaciones de ventas de analistas recogidas por Vandal y Gamecored (noviembre de 2026); técnicas de «level of detail», recorte de lo que no se ve y carga por trozos («streaming»), habituales en los mundos abiertos. La ciudad y el coche del vídeo son una recreación, no imágenes del juego.",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-25",
+    "hora": "14:00",
+    "video": "videos/copo-seis-puntas.mp4",
+    "historia": "historias/copo-seis-puntas.mp4",
+    "caption": "¿Por qué todos los copos de nieve tienen seis puntas? La culpa la tiene la molécula de agua.\n\nEsta semana la nieve vuelve a las montañas de España. Cada copo empieza como un hexágono de hielo diminuto alrededor de una mota de polvo, porque al congelarse las moléculas de agua (con forma de uve) se ordenan en anillos de seis, como un panal. Mientras cae por la nube, sus seis esquinas asoman más al aire húmedo, atrapan más vapor y crecen más deprisa: así salen los brazos. Los seis brazos salen iguales porque pasan a la vez por el mismo frío y la misma humedad, y como cada copo hace su propio camino, no hay dos iguales.\n\nFuentes: Kenneth Libbrecht (Caltech), snowcrystals.com y «Snowflake Science»; aviso por nieve de la AEMET del 25-11-2026 (Infobae, El Diario de Madrid).",
+    "tipo": "actualidad"
   }
 ]
