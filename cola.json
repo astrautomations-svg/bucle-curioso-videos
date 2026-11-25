@@ -903,5 +903,13 @@
     "historia": "historias/copo-seis-puntas.mp4",
     "caption": "¿Por qué todos los copos de nieve tienen seis puntas? La culpa la tiene la molécula de agua.\n\nEsta semana la nieve vuelve a las montañas de España. Cada copo empieza como un hexágono de hielo diminuto alrededor de una mota de polvo, porque al congelarse las moléculas de agua (con forma de uve) se ordenan en anillos de seis, como un panal. Mientras cae por la nube, sus seis esquinas asoman más al aire húmedo, atrapan más vapor y crecen más deprisa: así salen los brazos. Los seis brazos salen iguales porque pasan a la vez por el mismo frío y la misma humedad, y como cada copo hace su propio camino, no hay dos iguales.\n\nFuentes: Kenneth Libbrecht (Caltech), snowcrystals.com y «Snowflake Science»; aviso por nieve de la AEMET del 25-11-2026 (Infobae, El Diario de Madrid).",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-25",
+    "hora": "19:00",
+    "video": "videos/soldadura-tren.mp4",
+    "historia": "historias/soldadura-tren.mp4",
+    "caption": "¿Cómo puede una soldadura rota hacer descarrilar un tren? No hace falta una gran rotura: basta un escalón de pocos milímetros.\n\nLos peritos judiciales del accidente de Adamuz ven la rotura de una soldadura del carril como la causa más probable (la investigación sigue abierta). En la alta velocidad los carriles se sueldan unos con otros y forman una barra continua de kilómetros. Muchas uniones se hacen en la propia vía con una mezcla de aluminio y óxido de hierro que arde a unos 2.500 °C: el acero fundido rellena el hueco entre los dos extremos. Si al enfriarse queda dentro un poro o una impureza, esa unión tiene un punto débil. Cada rueda que pasa dobla un poco el carril y una grieta puede ir creciendo con cada tren; con el frío, además, el acero quiere encogerse, pero como está sujeto tira de la unión por los dos lados. Si se parte, queda un hueco o un escalón, y la rueda solo se sujeta a la vía con un reborde (la pestaña) de unos 3 cm: si choca contra ese escalón, puede subirse por encima del carril. Por eso las vías se revisan con ultrasonidos, como una ecografía del acero.\n\nFuentes: EFE (25-11-2026), «Los peritos judiciales apuntan a la rotura de la soldadura de carril como causa más probable» (Infobae, Noticias de Navarra); Cordópolis (25-11-2026), las dos hipótesis de los peritos: una mala soldadura o un bache de 6,4 milímetros. La explicación técnica es general (soldadura aluminotérmica de carriles); la animación es una recreación simplificada y exagerada, no el accidente.",
+    "tipo": "actualidad"
   }
 ]
