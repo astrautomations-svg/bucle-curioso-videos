@@ -340,6 +340,21 @@ SC = [
    FI('sistema/campana', 'Tú, sin soltar lo que haces', 1200, cx=510, w=760, rot=-1.6)),
  gc(17, ET('NINGUNA LLAMADA SIN COGER', y=300, rot=-2),
    CTAC('LLAMADAS', 1400, '¿Cuántas llamadas se te escapan\nen un día de diciembre?', rot=1.2))]),
+('2026-12-02', 'diciembre: citas que se olvidan con tanto lío', [
+ g(9, ET('EL PROBLEMA', rot=-2.2),
+   TIT('Diciembre: cenas y\ncomidas de empresa.', 545, 'Y entre tanto lío, tu cita se olvida.', rot=1.7),
+   FI('tiempo/calendario', 'Reservó hace dos semanas', 840, cx=520, w=780, rot=-2.2), foco=0.45),
+ g(46, ET('LO QUE PASA', x=110, rot=2.2),
+   FI('tiempo/reloj', 'Llega la hora y no aparece', 480, cx=510, w=780, rot=-2.1),
+   FI('canales/llamada-perdida', 'Le llamas y no lo coge', 675, cx=560, w=720, rot=2.4),
+   FI('estados/x-roja', 'Y ese hueco ya no lo llenas', 870, cx=520, w=780, rot=-1.5), osc=1.0),
+ g(41, ET('LA SOLUCIÓN', rot=-2.4),
+   TIT('Un asistente que\nrecuerda cada cita.', 530, 'Por WhatsApp, el día antes.', rot=1.8),
+   WA('Tu negocio', '¡Hola Ana! Te recuerdo tu cita\nmañana a las 10:00. ¿Me confirmas?', 830, '18:00', w=780, rot=-2.3),
+   FI('tiempo/calendario-con-check', 'Si no puede, la cambia al momento', 1080, cx=520, w=820, rot=2.1),
+   FI('sistema/campana', 'Y el hueco vuelve a quedar libre', 1270, cx=540, w=800, rot=-1.6)),
+ gc(39, ET('QUE NO SE TE OLVIDE NINGUNA', y=300, rot=-2),
+   CTAC('CITAS', 1400, '¿Cuántas citas se te quedan\nvacías en diciembre?', rot=1.2), foco=0.3)]),
 ]
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 json.dump([dict(fecha=a, tema=b, frames=c) for a, b, c in S] + [dict(fecha=a, tema=b, estilo='cristal', frames=c) for a, b, c in SC],

@@ -1,0 +1,147 @@
+{
+ "root": "/home/claude/bucle-curioso-videos/astra/historias",
+ "seed": "2026-12-02",
+ "frames": [
+  {
+   "img": "banco/09.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "EL PROBLEMA",
+     "y": 283,
+     "x": 96,
+     "rot": -2.2
+    },
+    {
+     "tipo": "titular",
+     "texto": "Diciembre: cenas y\ncomidas de empresa.",
+     "y": 545,
+     "sub": "Y entre tanto lío, tu cita se olvida.",
+     "rot": 1.7
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/calendario",
+     "texto": "Reservó hace dos semanas",
+     "y": 840,
+     "cx": 520,
+     "w": 780,
+     "rot": -2.2
+    }
+   ],
+   "foco": 0.45
+  },
+  {
+   "img": "banco/46.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LO QUE PASA",
+     "y": 283,
+     "x": 110,
+     "rot": 2.2
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/reloj",
+     "texto": "Llega la hora y no aparece",
+     "y": 480,
+     "cx": 510,
+     "w": 780,
+     "rot": -2.1
+    },
+    {
+     "tipo": "fila",
+     "icono": "canales/llamada-perdida",
+     "texto": "Le llamas y no lo coge",
+     "y": 675,
+     "cx": 560,
+     "w": 720,
+     "rot": 2.4
+    },
+    {
+     "tipo": "fila",
+     "icono": "estados/x-roja",
+     "texto": "Y ese hueco ya no lo llenas",
+     "y": 870,
+     "cx": 520,
+     "w": 780,
+     "rot": -1.5
+    }
+   ],
+   "osc": 1.0
+  },
+  {
+   "img": "banco/41.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LA SOLUCIÓN",
+     "y": 283,
+     "x": 96,
+     "rot": -2.4
+    },
+    {
+     "tipo": "titular",
+     "texto": "Un asistente que\nrecuerda cada cita.",
+     "y": 530,
+     "sub": "Por WhatsApp, el día antes.",
+     "rot": 1.8
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Tu negocio",
+     "texto": "¡Hola Ana! Te recuerdo tu cita\nmañana a las 10:00. ¿Me confirmas?",
+     "y": 830,
+     "hora": "18:00",
+     "w": 780,
+     "rot": -2.3
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/calendario-con-check",
+     "texto": "Si no puede, la cambia al momento",
+     "y": 1080,
+     "cx": 520,
+     "w": 820,
+     "rot": 2.1
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/campana",
+     "texto": "Y el hueco vuelve a quedar libre",
+     "y": 1270,
+     "cx": 540,
+     "w": 800,
+     "rot": -1.6
+    }
+   ]
+  },
+  {
+   "img": "banco/39.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "QUE NO SE TE OLVIDE NINGUNA",
+     "y": 300,
+     "x": 96,
+     "rot": -2
+    },
+    {
+     "tipo": "cta",
+     "texto": "CITAS",
+     "y": 1400,
+     "antes": "¿Cuántas citas se te quedan\nvacías en diciembre?",
+     "rot": 1.2
+    }
+   ],
+   "cara": [
+    220,
+    650,
+    460,
+    950
+   ],
+   "foco": 0.3
+  }
+ ]
+}

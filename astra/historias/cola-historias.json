@@ -434,5 +434,17 @@
       "astra/historias/2026-12-01/03.jpg",
       "astra/historias/2026-12-01/04.jpg"
     ]
+  },
+  {
+    "fecha": "2026-12-02",
+    "hora": "13",
+    "estado": "aprobado",
+    "tema": "diciembre: citas que se olvidan con tanto lío",
+    "frames": [
+      "astra/historias/2026-12-02/01.jpg",
+      "astra/historias/2026-12-02/02.jpg",
+      "astra/historias/2026-12-02/03.jpg",
+      "astra/historias/2026-12-02/04.jpg"
+    ]
   }
 ]
