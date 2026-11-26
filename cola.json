@@ -911,5 +911,13 @@
     "historia": "historias/soldadura-tren.mp4",
     "caption": "¿Cómo puede una soldadura rota hacer descarrilar un tren? No hace falta una gran rotura: basta un escalón de pocos milímetros.\n\nLos peritos judiciales del accidente de Adamuz ven la rotura de una soldadura del carril como la causa más probable (la investigación sigue abierta). En la alta velocidad los carriles se sueldan unos con otros y forman una barra continua de kilómetros. Muchas uniones se hacen en la propia vía con una mezcla de aluminio y óxido de hierro que arde a unos 2.500 °C: el acero fundido rellena el hueco entre los dos extremos. Si al enfriarse queda dentro un poro o una impureza, esa unión tiene un punto débil. Cada rueda que pasa dobla un poco el carril y una grieta puede ir creciendo con cada tren; con el frío, además, el acero quiere encogerse, pero como está sujeto tira de la unión por los dos lados. Si se parte, queda un hueco o un escalón, y la rueda solo se sujeta a la vía con un reborde (la pestaña) de unos 3 cm: si choca contra ese escalón, puede subirse por encima del carril. Por eso las vías se revisan con ultrasonidos, como una ecografía del acero.\n\nFuentes: EFE (25-11-2026), «Los peritos judiciales apuntan a la rotura de la soldadura de carril como causa más probable» (Infobae, Noticias de Navarra); Cordópolis (25-11-2026), las dos hipótesis de los peritos: una mala soldadura o un bache de 6,4 milímetros. La explicación técnica es general (soldadura aluminotérmica de carriles); la animación es una recreación simplificada y exagerada, no el accidente.",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-26",
+    "hora": "09:00",
+    "video": "videos/globos-viento.mp4",
+    "historia": "historias/globos-viento.mp4",
+    "caption": "¿Por qué un poco de viento deja en tierra a los globos gigantes del desfile de Acción de Gracias? Porque casi no pesan nada.\n\nEl desfile número cien de Nueva York se ha aplazado al sábado por la tormenta. Un globo lleno de helio flota como un corcho en el agua, pero con su tamaño es una vela gigante: si el viento sopla el doble, empuja cuatro veces más, y decenas de porteadores no pueden con una racha. Desde que en 1997 un globo tiró una farola, con rachas de más de 55 km/h no salen.\n\nFuentes: PBS NewsHour/AP, The Washington Post y NBC News (25-11-2026: el desfile, aplazado al sábado por la tormenta); Macy's Inc. (el desfile número 100); norma de la ciudad de Nueva York desde 1998 (sin globos con viento sostenido de más de 37 km/h o rachas de más de 55 km/h). El globo del vídeo es una recreación inventada, no uno del desfile.",
+    "tipo": "actualidad"
   }
 ]
