@@ -919,5 +919,13 @@
     "historia": "historias/globos-viento.mp4",
     "caption": "¿Por qué un poco de viento deja en tierra a los globos gigantes del desfile de Acción de Gracias? Porque casi no pesan nada.\n\nEl desfile número cien de Nueva York se ha aplazado al sábado por la tormenta. Un globo lleno de helio flota como un corcho en el agua, pero con su tamaño es una vela gigante: si el viento sopla el doble, empuja cuatro veces más, y decenas de porteadores no pueden con una racha. Desde que en 1997 un globo tiró una farola, con rachas de más de 55 km/h no salen.\n\nFuentes: PBS NewsHour/AP, The Washington Post y NBC News (25-11-2026: el desfile, aplazado al sábado por la tormenta); Macy's Inc. (el desfile número 100); norma de la ciudad de Nueva York desde 1998 (sin globos con viento sostenido de más de 37 km/h o rachas de más de 55 km/h). El globo del vídeo es una recreación inventada, no uno del desfile.",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-26",
+    "hora": "14:00",
+    "video": "videos/ordenador-espacio.mp4",
+    "historia": "historias/ordenador-espacio.mp4",
+    "caption": "¿Cómo se enfría un ordenador en el espacio, si allí no hay aire? En el espacio hace frío, pero un ordenador se cuece: no hay nada que se lleve el calor.\n\nSpaceX acaba de recibir permiso para lanzar hasta un millón de satélites con chips de inteligencia artificial, y cada chip calienta como un microondas. En la Tierra un ventilador lo resuelve; en el vacío, como entre las paredes de un termo, el calor no tiene por dónde salir. La única salida es brillar: soltarlo como luz infrarroja con radiadores enormes, como los paneles blancos de la Estación Espacial que no son solares.\n\nFuentes: TechCrunch, CNBC y NBC News (25-11-2026: la FCC aprueba la red de satélites de cálculo de SpaceX); NASA (sistema de control térmico de la Estación Espacial). «Unos cientos de vatios por metro cuadrado» es un cálculo propio para un radiador a temperatura ambiente; el satélite del vídeo es una recreación inventada, no el diseño real.",
+    "tipo": "actualidad"
   }
 ]
