@@ -4973,5 +4973,193 @@
     "foco": 0.3
    }
   ]
+ },
+ {
+  "fecha": "2026-12-03",
+  "tema": "puente de diciembre: mensajes con el negocio cerrado",
+  "estilo": "cristal",
+  "frames": [
+   {
+    "img": "banco/35.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "EL PROBLEMA",
+      "y": 283,
+      "x": 96,
+      "rot": -2.2
+     },
+     {
+      "tipo": "titular",
+      "texto": "Llega el puente\nde diciembre.",
+      "y": 540,
+      "sub": "Tú cierras unos días. Tu WhatsApp, no.",
+      "rot": 1.7
+     },
+     {
+      "tipo": "wa",
+      "nombre": "Elena",
+      "texto": "Hola, ¿abrís después del puente?\nQuería pedir cita",
+      "y": 870,
+      "hora": "21:40",
+      "w": 760,
+      "rot": -2.5
+     },
+     {
+      "tipo": "fila",
+      "icono": "tiempo/luna",
+      "texto": "Y nadie le contesta",
+      "y": 1095,
+      "cx": 520,
+      "w": 680,
+      "rot": 2.1
+     }
+    ],
+    "foco": 0.5
+   },
+   {
+    "img": "banco/13.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "LO QUE PASA",
+      "y": 283,
+      "x": 110,
+      "rot": 2.2
+     },
+     {
+      "tipo": "fila",
+      "icono": "tiempo/reloj-de-arena",
+      "texto": "Lo ves a la vuelta",
+      "y": 480,
+      "cx": 490,
+      "w": 680,
+      "rot": -2.1
+     },
+     {
+      "tipo": "fila",
+      "icono": "personas/cliente-perdido",
+      "texto": "Ya ha reservado en otro sitio",
+      "y": 675,
+      "cx": 560,
+      "w": 800,
+      "rot": 2.4
+     },
+     {
+      "tipo": "fila",
+      "icono": "canales/whatsapp",
+      "texto": "O contestas en pleno puente",
+      "y": 870,
+      "cx": 520,
+      "w": 780,
+      "rot": -1.5
+     }
+    ],
+    "foco": 0.6
+   },
+   {
+    "img": "banco/38.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "LA SOLUCIÓN",
+      "y": 283,
+      "x": 96,
+      "rot": -2.4
+     },
+     {
+      "tipo": "titular",
+      "texto": "Un asistente que atiende\nmientras estás fuera.",
+      "y": 530,
+      "sub": "Con tu agenda real, también en festivo.",
+      "rot": 1.8
+     },
+     {
+      "tipo": "wa",
+      "nombre": "Tu negocio",
+      "texto": "¡Hola Elena! Sí, abrimos el lunes.\nTengo hueco a las 10:00. ¿Te lo reservo?",
+      "y": 850,
+      "hora": "21:40",
+      "w": 780,
+      "rot": -2.3
+     },
+     {
+      "tipo": "fila",
+      "icono": "tiempo/calendario-con-check",
+      "texto": "Deja la cita hecha",
+      "y": 1095,
+      "cx": 500,
+      "w": 680,
+      "rot": 2.1
+     },
+     {
+      "tipo": "fila",
+      "icono": "sistema/campana",
+      "texto": "Y tú te enteras a la vuelta",
+      "y": 1285,
+      "cx": 560,
+      "w": 760,
+      "rot": -1.6
+     }
+    ],
+    "foco": 0.4
+   },
+   {
+    "img": "banco/42.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "MIENTRAS TANTO",
+      "y": 283,
+      "x": 120,
+      "rot": 1.8
+     },
+     {
+      "tipo": "fila",
+      "icono": "estados/check-verde",
+      "texto": "Tú, desconectado de verdad",
+      "y": 480,
+      "cx": 510,
+      "w": 760,
+      "rot": -2.1
+     },
+     {
+      "tipo": "fila",
+      "icono": "tiempo/calendario",
+      "texto": "Tu agenda, llenándose sola",
+      "y": 675,
+      "cx": 560,
+      "w": 760,
+      "rot": 2.3
+     }
+    ],
+    "foco": 0.5
+   },
+   {
+    "img": "banco/17.jpg",
+    "bloques": [
+     {
+      "tipo": "etiqueta",
+      "texto": "ANTES DEL PUENTE",
+      "y": 300,
+      "x": 96,
+      "rot": -2
+     },
+     {
+      "tipo": "cta",
+      "texto": "PUENTE",
+      "y": 1400,
+      "antes": "¿Cuántos mensajes te llegan\ncon el negocio cerrado?",
+      "rot": 1.2
+     }
+    ],
+    "cara": [
+     520,
+     500,
+     880,
+     950
+    ]
+   }
+  ]
  }
 ]
