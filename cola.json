@@ -927,5 +927,13 @@
     "historia": "historias/ordenador-espacio.mp4",
     "caption": "¿Cómo se enfría un ordenador en el espacio, si allí no hay aire? En el espacio hace frío, pero un ordenador se cuece: no hay nada que se lleve el calor.\n\nSpaceX acaba de recibir permiso para lanzar hasta un millón de satélites con chips de inteligencia artificial, y cada chip calienta como un microondas. En la Tierra un ventilador lo resuelve; en el vacío, como entre las paredes de un termo, el calor no tiene por dónde salir. La única salida es brillar: soltarlo como luz infrarroja con radiadores enormes, como los paneles blancos de la Estación Espacial que no son solares.\n\nFuentes: TechCrunch, CNBC y NBC News (25-11-2026: la FCC aprueba la red de satélites de cálculo de SpaceX); NASA (sistema de control térmico de la Estación Espacial). «Unos cientos de vatios por metro cuadrado» es un cálculo propio para un radiador a temperatura ambiente; el satélite del vídeo es una recreación inventada, no el diseño real.",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-26",
+    "hora": "19:00",
+    "video": "videos/crater-estadio.mp4",
+    "historia": "historias/crater-estadio.mp4",
+    "caption": "¿Cómo puede una nave del tamaño de un coche abrir un agujero del tamaño de un estadio en un asteroide? Por la velocidad y porque el asteroide es grava suelta.\n\nLa sonda Hera de la ESA acaba de enviar las primeras imágenes de cerca de Dimorphos, el asteroide contra el que chocó la nave DART de la NASA en 2022: un cráter del tamaño de un estadio y un asteroide que cambió de forma. A 22.000 km/h, media tonelada golpea como dos toneladas y media de explosivo, y en un montón de piedras sueltas casi sin gravedad lo que sale volando ya no vuelve.\n\nGuárdalo para la próxima vez que alguien diga que un asteroide es una roca maciza.\n\nFuentes: ESA (25-11-2026, primeras imágenes de Hera de Dimorphos), Euronews y Astronomy Now (25-11-2026: cráter del tamaño de un estadio); NASA (DART: unos 580 kg, 6,1 km/s, 26-09-2022). «Dos toneladas y media de explosivo» es un cálculo propio de su energía de movimiento (unos 11.000 millones de julios, equivalente en TNT). La nave y el asteroide del vídeo son recreaciones.",
+    "tipo": "actualidad"
   }
 ]
