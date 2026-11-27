@@ -1,0 +1,217 @@
+{
+ "root": "/home/claude/bucle-curioso-videos/astra/historias",
+ "seed": "2026-12-04",
+ "frames": [
+  {
+   "img": "banco/15.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "EL PROBLEMA",
+     "y": 283,
+     "x": 96,
+     "rot": -2.2
+    },
+    {
+     "tipo": "titular",
+     "texto": "Diciembre: te piden\nprecio por WhatsApp.",
+     "y": 540,
+     "sub": "Contestas… y no vuelven a escribir.",
+     "rot": 1.7
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Raúl",
+     "texto": "Hola, ¿cuánto costaría\npara el día 20?",
+     "y": 870,
+     "hora": "21:52",
+     "w": 740,
+     "rot": -2.5
+    },
+    {
+     "tipo": "fila",
+     "icono": "estados/x-roja",
+     "texto": "Y ahí se queda la conversación",
+     "y": 1095,
+     "cx": 520,
+     "w": 800,
+     "rot": 2.1
+    }
+   ]
+  },
+  {
+   "img": "banco/46.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LO QUE PASA",
+     "y": 283,
+     "x": 110,
+     "rot": 2.2
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/reloj",
+     "texto": "Contestas entre cliente y cliente",
+     "y": 480,
+     "cx": 520,
+     "w": 820,
+     "rot": -2.1
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/reloj-de-arena",
+     "texto": "Él sigue preguntando en otros sitios",
+     "y": 675,
+     "cx": 550,
+     "w": 860,
+     "rot": 2.4
+    },
+    {
+     "tipo": "fila",
+     "icono": "personas/cliente-perdido",
+     "texto": "Y se queda con el que insistió",
+     "y": 870,
+     "cx": 520,
+     "w": 800,
+     "rot": -1.5
+    }
+   ],
+   "osc": 1.0
+  },
+  {
+   "img": "banco/05.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LO QUE NADIE HACE",
+     "y": 283,
+     "x": 96,
+     "rot": -2.3
+    },
+    {
+     "tipo": "fila",
+     "icono": "canales/mensaje-entrante",
+     "texto": "Volver a escribirle",
+     "y": 480,
+     "cx": 490,
+     "w": 680,
+     "rot": 2.1
+    },
+    {
+     "tipo": "fila",
+     "icono": "personas/cliente",
+     "texto": "No era un no, era un «ya te digo»",
+     "y": 675,
+     "cx": 550,
+     "w": 860,
+     "rot": -2.2
+    },
+    {
+     "tipo": "fila",
+     "icono": "negocio/grafica-bajando",
+     "texto": "Y esa venta se enfría",
+     "y": 870,
+     "cx": 510,
+     "w": 720,
+     "rot": 1.6
+    }
+   ],
+   "foco": 0.5
+  },
+  {
+   "img": "banco/41.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "LA SOLUCIÓN",
+     "y": 283,
+     "x": 110,
+     "rot": 2.3
+    },
+    {
+     "tipo": "titular",
+     "texto": "Un asistente que hace\nel seguimiento.",
+     "y": 530,
+     "sub": "Por WhatsApp, sin que te acuerdes tú.",
+     "rot": -1.8
+    },
+    {
+     "tipo": "wa",
+     "nombre": "Tu negocio",
+     "texto": "¡Hola Raúl! ¿Pudiste mirar el precio\nque te pasamos? El 20 sigue libre.",
+     "y": 850,
+     "hora": "11:00",
+     "w": 780,
+     "rot": 2.3
+    },
+    {
+     "tipo": "fila",
+     "icono": "tiempo/calendario-con-check",
+     "texto": "Si dice que sí, lo deja reservado",
+     "y": 1090,
+     "cx": 520,
+     "w": 800,
+     "rot": -2.1
+    }
+   ]
+  },
+  {
+   "img": "banco/28.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "MIENTRAS TANTO",
+     "y": 283,
+     "x": 120,
+     "rot": 1.8
+    },
+    {
+     "tipo": "fila",
+     "icono": "estados/check-verde",
+     "texto": "Tú, a lo tuyo",
+     "y": 480,
+     "cx": 500,
+     "w": 600,
+     "rot": -2.1
+    },
+    {
+     "tipo": "fila",
+     "icono": "sistema/campana",
+     "texto": "Y te avisa cuando alguien dice que sí",
+     "y": 675,
+     "cx": 550,
+     "w": 860,
+     "rot": 2.3
+    }
+   ],
+   "foco": 0.5
+  },
+  {
+   "img": "banco/27.jpg",
+   "bloques": [
+    {
+     "tipo": "etiqueta",
+     "texto": "ANTES DE QUE SE ENFRÍEN",
+     "y": 300,
+     "x": 96,
+     "rot": -2
+    },
+    {
+     "tipo": "cta",
+     "texto": "PRECIO",
+     "y": 1460,
+     "antes": "¿Cuántos te piden precio\ny no vuelven a escribir?",
+     "rot": 1.2
+    }
+   ],
+   "cara": [
+    200,
+    850,
+    560,
+    1250
+   ],
+   "foco": 0.35
+  }
+ ]
+}

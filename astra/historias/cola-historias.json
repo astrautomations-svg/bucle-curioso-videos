@@ -459,5 +459,19 @@
       "astra/historias/2026-12-03/04.jpg",
       "astra/historias/2026-12-03/05.jpg"
     ]
+  },
+  {
+    "fecha": "2026-12-04",
+    "hora": "13",
+    "estado": "aprobado",
+    "tema": "diciembre: los que piden precio y no vuelven a escribir",
+    "frames": [
+      "astra/historias/2026-12-04/01.jpg",
+      "astra/historias/2026-12-04/02.jpg",
+      "astra/historias/2026-12-04/03.jpg",
+      "astra/historias/2026-12-04/04.jpg",
+      "astra/historias/2026-12-04/05.jpg",
+      "astra/historias/2026-12-04/06.jpg"
+    ]
   }
 ]
