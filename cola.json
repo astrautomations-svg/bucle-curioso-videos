@@ -935,5 +935,13 @@
     "historia": "historias/crater-estadio.mp4",
     "caption": "¿Cómo puede una nave del tamaño de un coche abrir un agujero del tamaño de un estadio en un asteroide? Por la velocidad y porque el asteroide es grava suelta.\n\nLa sonda Hera de la ESA acaba de enviar las primeras imágenes de cerca de Dimorphos, el asteroide contra el que chocó la nave DART de la NASA en 2022: un cráter del tamaño de un estadio y un asteroide que cambió de forma. A 22.000 km/h, media tonelada golpea como dos toneladas y media de explosivo, y en un montón de piedras sueltas casi sin gravedad lo que sale volando ya no vuelve.\n\nGuárdalo para la próxima vez que alguien diga que un asteroide es una roca maciza.\n\nFuentes: ESA (25-11-2026, primeras imágenes de Hera de Dimorphos), Euronews y Astronomy Now (25-11-2026: cráter del tamaño de un estadio); NASA (DART: unos 580 kg, 6,1 km/s, 26-09-2022). «Dos toneladas y media de explosivo» es un cálculo propio de su energía de movimiento (unos 11.000 millones de julios, equivalente en TNT). La nave y el asteroide del vídeo son recreaciones.",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-27",
+    "hora": "09:00",
+    "video": "videos/barco-volcado.mp4",
+    "historia": "historias/barco-volcado.mp4",
+    "caption": "¿Cómo puede seguir flotando un barco volcado, boca abajo? Porque su casco sigue siendo una caja cerrada.\n\nEl petrolero Med Emre, con unas 7.000 toneladas de gasóleo, se dio la vuelta la noche del miércoles frente a Ibiza (murió uno de sus 17 tripulantes) y sigue a flote con la quilla al aire. Un barco flota porque aparta tanta agua como pesa, y eso no cambia boca abajo: dentro queda aire atrapado, como en un vaso hundido al revés, y su carga ayuda, porque un litro de gasóleo pesa unos 840 gramos y uno de agua de mar, más de un kilo. Si pierde ese aire, se hunde, y allí el fondo pasa de los mil metros.\n\nEnvíaselo a quien siempre pregunta cómo flota algo tan pesado.\n\nFuentes: Capitanía Marítima de Valencia vía elperiodic.com, La Voz de Ibiza, ElNacional.cat, tiempo.com y Europa Press/Yahoo Noticias (25 y 26-11-2026: vuelco, buque a flote invertido y amarrado al Clara Campoamor, fondo de más de 1.000 m); densidad del gasóleo 820-845 kg/m³ (norma EN 590); agua de mar unos 1.025 kg/m³ (principio de Arquímedes). El barco del vídeo es una recreación, no el Med Emre real.",
+    "tipo": "actualidad"
   }
 ]
