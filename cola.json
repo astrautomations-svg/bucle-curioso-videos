@@ -951,5 +951,13 @@
     "historia": "historias/precios-99.mp4",
     "caption": "¿Por qué casi todos los precios del Black Friday acaban en 99? Porque el cerebro se queda con la primera cifra.\n\nLeemos de izquierda a derecha y juzgamos el precio por su primera cifra antes de terminar: 19,99 € va al cajón de los diez, aunque solo le falte un céntimo para los veinte (el «efecto de la cifra de la izquierda», Thomas y Morwitz, Journal of Consumer Research, 2005). En un experimento con el catálogo de una tienda de ropa, el mismo vestido se vendió más a 39 dólares que a 34 (Anderson y Simester, Quantitative Marketing and Economics, 2003). Y el 9 ya funciona como señal de oferta.\n\nEnvíaselo a quien vaya a llenar hoy el carrito.\n\nFuentes: Thomas, M. y Morwitz, V. (2005), «Penny Wise and Pound Foolish: The Left-Digit Effect in Price Cognition», Journal of Consumer Research 32(1); Anderson, E. y Simester, D. (2003), «Effects of $9 Price Endings on Retail Sales: Evidence from Field Experiments», Quantitative Marketing and Economics 1. El Black Friday es hoy, 27 de noviembre de 2026.",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-27",
+    "hora": "19:00",
+    "video": "videos/votos-escanos.mp4",
+    "historia": "historias/votos-escanos.mp4",
+    "caption": "¿Cómo se convierten los votos del domingo en escaños? Con una división muy sencilla, provincia a provincia.\n\nEl domingo 29 de noviembre hay elecciones generales y no se vota una sola vez: hay 52 votaciones, una por provincia (más Ceuta y Melilla). En cada una, los votos de cada partido se dividen entre 1, 2, 3… hasta el número de escaños, y los cocientes más grandes se llevan los escaños (la regla de D'Hondt, artículo 163 de la Ley Orgánica del Régimen Electoral General). Por eso, donde se reparten pocos escaños hace falta un trozo mucho mayor de los votos para entrar, y el último escaño se puede decidir por muy pocas papeletas.\n\nGuárdalo para el domingo por la noche, cuando empiecen a salir los resultados.\n\nFuentes: Ley Orgánica 5/1985 del Régimen Electoral General (BOE), artículos 161-163 (350 diputados, 52 circunscripciones, 2 escaños mínimos por provincia, barrera del 3 % y fórmula D'Hondt); Ministerio del Interior (elecciones generales del 29 de noviembre de 2026); EFE (27-11-2026, «Escaños en el aire, la verdadera batalla del 29N»). El ejemplo de la provincia de cinco escaños y los partidos A, B, C y D son inventados; «un tercio» es lo que asegura un escaño donde se reparten dos.",
+    "tipo": "actualidad"
   }
 ]
