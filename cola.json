@@ -943,5 +943,13 @@
     "historia": "historias/barco-volcado.mp4",
     "caption": "¿Cómo puede seguir flotando un barco volcado, boca abajo? Porque su casco sigue siendo una caja cerrada.\n\nEl petrolero Med Emre, con unas 7.000 toneladas de gasóleo, se dio la vuelta la noche del miércoles frente a Ibiza (murió uno de sus 17 tripulantes) y sigue a flote con la quilla al aire. Un barco flota porque aparta tanta agua como pesa, y eso no cambia boca abajo: dentro queda aire atrapado, como en un vaso hundido al revés, y su carga ayuda, porque un litro de gasóleo pesa unos 840 gramos y uno de agua de mar, más de un kilo. Si pierde ese aire, se hunde, y allí el fondo pasa de los mil metros.\n\nEnvíaselo a quien siempre pregunta cómo flota algo tan pesado.\n\nFuentes: Capitanía Marítima de Valencia vía elperiodic.com, La Voz de Ibiza, ElNacional.cat, tiempo.com y Europa Press/Yahoo Noticias (25 y 26-11-2026: vuelco, buque a flote invertido y amarrado al Clara Campoamor, fondo de más de 1.000 m); densidad del gasóleo 820-845 kg/m³ (norma EN 590); agua de mar unos 1.025 kg/m³ (principio de Arquímedes). El barco del vídeo es una recreación, no el Med Emre real.",
     "tipo": "actualidad"
+  },
+  {
+    "fecha": "2026-11-27",
+    "hora": "14:00",
+    "video": "videos/precios-99.mp4",
+    "historia": "historias/precios-99.mp4",
+    "caption": "¿Por qué casi todos los precios del Black Friday acaban en 99? Porque el cerebro se queda con la primera cifra.\n\nLeemos de izquierda a derecha y juzgamos el precio por su primera cifra antes de terminar: 19,99 € va al cajón de los diez, aunque solo le falte un céntimo para los veinte (el «efecto de la cifra de la izquierda», Thomas y Morwitz, Journal of Consumer Research, 2005). En un experimento con el catálogo de una tienda de ropa, el mismo vestido se vendió más a 39 dólares que a 34 (Anderson y Simester, Quantitative Marketing and Economics, 2003). Y el 9 ya funciona como señal de oferta.\n\nEnvíaselo a quien vaya a llenar hoy el carrito.\n\nFuentes: Thomas, M. y Morwitz, V. (2005), «Penny Wise and Pound Foolish: The Left-Digit Effect in Price Cognition», Journal of Consumer Research 32(1); Anderson, E. y Simester, D. (2003), «Effects of $9 Price Endings on Retail Sales: Evidence from Field Experiments», Quantitative Marketing and Economics 1. El Black Friday es hoy, 27 de noviembre de 2026.",
+    "tipo": "actualidad"
   }
 ]
